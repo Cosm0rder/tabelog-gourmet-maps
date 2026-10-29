@@ -1,0 +1,105 @@
+# 追加先リスト：食べログ｜スイーツ・カフェ・パン
+# チャンク 2/5（50件）｜カテゴリ全238件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- 銀座のジンジャー 銀座本店（最寄り駅：銀座一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7%E3%81%AE%E3%82%B8%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%20%E9%8A%80%E5%BA%A7%E6%9C%AC%E5%BA%97%20%E9%8A%80%E5%BA%A7%E4%B8%80%E4%B8%81%E7%9B%AE
+- マーサーブランチ ギンザテラス（最寄り駅：銀座一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%9E%E3%83%BC%E3%82%B5%E3%83%BC%E3%83%96%E3%83%A9%E3%83%B3%E3%83%81%20%E3%82%AE%E3%83%B3%E3%82%B6%E3%83%86%E3%83%A9%E3%82%B9%20%E9%8A%80%E5%BA%A7%E4%B8%80%E4%B8%81%E7%9B%AE
+- Cafe 1894（最寄り駅：二重橋前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Cafe%201894%20%E4%BA%8C%E9%87%8D%E6%A9%8B%E5%89%8D
+- カカオサンパカ 丸の内本店（最寄り駅：二重橋前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%82%AB%E3%82%AA%E3%82%B5%E3%83%B3%E3%83%91%E3%82%AB%20%E4%B8%B8%E3%81%AE%E5%86%85%E6%9C%AC%E5%BA%97%20%E4%BA%8C%E9%87%8D%E6%A9%8B%E5%89%8D
+- エシレ・メゾン デュ ブール（最寄り駅：二重橋前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A8%E3%82%B7%E3%83%AC%E3%83%BB%E3%83%A1%E3%82%BE%E3%83%B3%20%E3%83%87%E3%83%A5%20%E3%83%96%E3%83%BC%E3%83%AB%20%E4%BA%8C%E9%87%8D%E6%A9%8B%E5%89%8D
+- ラ ブティック ドゥ ジョエル・ロブション 丸の内ブリックスクエア店（最寄り駅：二重橋前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A9%20%E3%83%96%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%20%E3%83%89%E3%82%A5%20%E3%82%B8%E3%83%A7%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%AD%E3%83%96%E3%82%B7%E3%83%A7%E3%83%B3%20%E4%B8%B8%E3%81%AE%E5%86%85%E3%83%96%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E5%BA%97%20%E4%BA%8C%E9%87%8D%E6%A9%8B%E5%89%8D
+- ローズベーカリー 丸の内（最寄り駅：二重橋前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AD%E3%83%BC%E3%82%BA%E3%83%99%E3%83%BC%E3%82%AB%E3%83%AA%E3%83%BC%20%E4%B8%B8%E3%81%AE%E5%86%85%20%E4%BA%8C%E9%87%8D%E6%A9%8B%E5%89%8D
+- クニャーネの店 有楽町店（最寄り駅：有楽町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%8B%E3%83%A3%E3%83%BC%E3%83%8D%E3%81%AE%E5%BA%97%20%E6%9C%89%E6%A5%BD%E7%94%BA%E5%BA%97%20%E6%9C%89%E6%A5%BD%E7%94%BA
+- フレデリック カッセル 銀座三越店（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%AC%E3%83%87%E3%83%AA%E3%83%83%E3%82%AF%20%E3%82%AB%E3%83%83%E3%82%BB%E3%83%AB%20%E9%8A%80%E5%BA%A7%E4%B8%89%E8%B6%8A%E5%BA%97%20%E9%8A%80%E5%BA%A7
+- ボン ボヌール（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%9C%E3%83%B3%20%E3%83%9C%E3%83%8C%E3%83%BC%E3%83%AB%20%E9%8A%80%E5%BA%A7
+- リビスコ 銀座店（最寄り駅：東銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%93%E3%82%B9%E3%82%B3%20%E9%8A%80%E5%BA%A7%E5%BA%97%20%E6%9D%B1%E9%8A%80%E5%BA%A7
+- Comme'N TOKYO 麻布台ヒルズ店（最寄り駅：神谷町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Comme%27N%20TOKYO%20%E9%BA%BB%E5%B8%83%E5%8F%B0%E3%83%92%E3%83%AB%E3%82%BA%E5%BA%97%20%E7%A5%9E%E8%B0%B7%E7%94%BA
+- 巴裡 小川軒 新橋店（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%B7%B4%E8%A3%A1%20%E5%B0%8F%E5%B7%9D%E8%BB%92%20%E6%96%B0%E6%A9%8B%E5%BA%97%20%E6%96%B0%E6%A9%8B
+- パティスリーSATSUKI（最寄り駅：海浜幕張）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%86%E3%82%A3%E3%82%B9%E3%83%AA%E3%83%BCSATSUKI%20%E6%B5%B7%E6%B5%9C%E5%B9%95%E5%BC%B5
+- 菓匠 白妙 習志野台本店（最寄り駅：北習志野）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%8F%93%E5%8C%A0%20%E7%99%BD%E5%A6%99%20%E7%BF%92%E5%BF%97%E9%87%8E%E5%8F%B0%E6%9C%AC%E5%BA%97%20%E5%8C%97%E7%BF%92%E5%BF%97%E9%87%8E
+- ル・パティシエ ヨコヤマ 京成大久保店（最寄り駅：京成大久保）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AB%E3%83%BB%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%20%E3%83%A8%E3%82%B3%E3%83%A4%E3%83%9E%20%E4%BA%AC%E6%88%90%E5%A4%A7%E4%B9%85%E4%BF%9D%E5%BA%97%20%E4%BA%AC%E6%88%90%E5%A4%A7%E4%B9%85%E4%BF%9D
+- ル・パティシエ ヨコヤマ 谷津店（最寄り駅：谷津）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AB%E3%83%BB%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%20%E3%83%A8%E3%82%B3%E3%83%A4%E3%83%9E%20%E8%B0%B7%E6%B4%A5%E5%BA%97%20%E8%B0%B7%E6%B4%A5
+- クーネルベーカリー（最寄り駅：浦和）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%BC%E3%83%8D%E3%83%AB%E3%83%99%E3%83%BC%E3%82%AB%E3%83%AA%E3%83%BC%20%E6%B5%A6%E5%92%8C
+- アカシエ 浦和店（最寄り駅：浦和）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%AB%E3%82%B7%E3%82%A8%20%E6%B5%A6%E5%92%8C%E5%BA%97%20%E6%B5%A6%E5%92%8C
+- アカシエ 北浦和本店（最寄り駅：北浦和）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%AB%E3%82%B7%E3%82%A8%20%E5%8C%97%E6%B5%A6%E5%92%8C%E6%9C%AC%E5%BA%97%20%E5%8C%97%E6%B5%A6%E5%92%8C
+- みやざわ（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%BF%E3%82%84%E3%81%96%E3%82%8F%20%E6%96%B0%E6%A9%8B
+- カフェーパウリスタ（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BC%E3%83%91%E3%82%A6%E3%83%AA%E3%82%B9%E3%82%BF%20%E6%96%B0%E6%A9%8B
+- パン・デ・フィロゾフ（最寄り駅：神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%B3%E3%83%BB%E3%83%87%E3%83%BB%E3%83%95%E3%82%A3%E3%83%AD%E3%82%BE%E3%83%95%20%E7%A5%9E%E6%A5%BD%E5%9D%82
+- AKHA AMA COFFEE KAGURAZAKA（最寄り駅：神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=AKHA%20AMA%20COFFEE%20KAGURAZAKA%20%E7%A5%9E%E6%A5%BD%E5%9D%82
+- ジェラテリア テオブロマ（最寄り駅：神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%86%E3%83%AA%E3%82%A2%20%E3%83%86%E3%82%AA%E3%83%96%E3%83%AD%E3%83%9E%20%E7%A5%9E%E6%A5%BD%E5%9D%82
+- パティスリー カーヴァンソン（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%86%E3%82%A3%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%82%AB%E3%83%BC%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%BD%E3%83%B3%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- ル・コワンヴェール パトリック・ルメル（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AB%E3%83%BB%E3%82%B3%E3%83%AF%E3%83%B3%E3%83%B4%E3%82%A7%E3%83%BC%E3%83%AB%20%E3%83%91%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AB%E3%83%A1%E3%83%AB%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- しかたらむかな（最寄り駅：牛込神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%97%E3%81%8B%E3%81%9F%E3%82%89%E3%82%80%E3%81%8B%E3%81%AA%20%E7%89%9B%E8%BE%BC%E7%A5%9E%E6%A5%BD%E5%9D%82
+- コヒア アラビカ（最寄り駅：赤坂見附）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%92%E3%82%A2%20%E3%82%A2%E3%83%A9%E3%83%93%E3%82%AB%20%E8%B5%A4%E5%9D%82%E8%A6%8B%E9%99%84
+- リベルターブル 赤坂店（最寄り駅：赤坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%99%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%96%E3%83%AB%20%E8%B5%A4%E5%9D%82%E5%BA%97%20%E8%B5%A4%E5%9D%82
+- ツッカベッカライ カヤヌマ（最寄り駅：溜池山王）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%84%E3%83%83%E3%82%AB%E3%83%99%E3%83%83%E3%82%AB%E3%83%A9%E3%82%A4%20%E3%82%AB%E3%83%A4%E3%83%8C%E3%83%9E%20%E6%BA%9C%E6%B1%A0%E5%B1%B1%E7%8E%8B
+- ホットケーキパーラー フルフル 赤坂店（最寄り駅：赤坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%83%E3%83%88%E3%82%B1%E3%83%BC%E3%82%AD%E3%83%91%E3%83%BC%E3%83%A9%E3%83%BC%20%E3%83%95%E3%83%AB%E3%83%95%E3%83%AB%20%E8%B5%A4%E5%9D%82%E5%BA%97%20%E8%B5%A4%E5%9D%82
+- インペリアルラウンジ アクア（最寄り駅：日比谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%AA%E3%82%A2%E3%83%AB%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%20%E3%82%A2%E3%82%AF%E3%82%A2%20%E6%97%A5%E6%AF%94%E8%B0%B7
+- 草枕（最寄り駅：内幸町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%8D%89%E6%9E%95%20%E5%86%85%E5%B9%B8%E7%94%BA
+- 古瀬戸珈琲店（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%8F%A4%E7%80%AC%E6%88%B8%E7%8F%88%E7%90%B2%E5%BA%97%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- サカノウエカフェ（最寄り駅：湯島）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%82%AB%E3%83%8E%E3%82%A6%E3%82%A8%E3%82%AB%E3%83%95%E3%82%A7%20%E6%B9%AF%E5%B3%B6
+- フルーフ・デゥ・セゾン（最寄り駅：末広町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%AB%E3%83%BC%E3%83%95%E3%83%BB%E3%83%87%E3%82%A5%E3%83%BB%E3%82%BB%E3%82%BE%E3%83%B3%20%E6%9C%AB%E5%BA%83%E7%94%BA
+- カフェ・ラパン（最寄り駅：上野広小路）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%83%A9%E3%83%91%E3%83%B3%20%E4%B8%8A%E9%87%8E%E5%BA%83%E5%B0%8F%E8%B7%AF
+- 自家焙煎珈琲みじんこ（最寄り駅：湯島）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E%E7%8F%88%E7%90%B2%E3%81%BF%E3%81%98%E3%82%93%E3%81%93%20%E6%B9%AF%E5%B3%B6
+- 御茶ノ水 小川軒（最寄り駅：御茶ノ水）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%BE%A1%E8%8C%B6%E3%83%8E%E6%B0%B4%20%E5%B0%8F%E5%B7%9D%E8%BB%92%20%E5%BE%A1%E8%8C%B6%E3%83%8E%E6%B0%B4
+- オリエンタルラウンジ（最寄り駅：三越前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%20%E4%B8%89%E8%B6%8A%E5%89%8D
+- ザ マンダリン オリエンタル グルメショップ（最寄り駅：三越前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B6%20%E3%83%9E%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%20%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%AB%20%E3%82%B0%E3%83%AB%E3%83%A1%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%20%E4%B8%89%E8%B6%8A%E5%89%8D
+- さぼうる（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%BC%E3%81%86%E3%82%8B%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- 石釜 ベイクブレッド 茶房 タムタム（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E9%87%9C%20%E3%83%99%E3%82%A4%E3%82%AF%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%20%E8%8C%B6%E6%88%BF%20%E3%82%BF%E3%83%A0%E3%82%BF%E3%83%A0%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- ラドリオ（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%83%89%E3%83%AA%E3%82%AA%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- ミロンガ ヌオーバ（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%9F%E3%83%AD%E3%83%B3%E3%82%AC%20%E3%83%8C%E3%82%AA%E3%83%BC%E3%83%90%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- ティーハウスタカノ（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%86%E3%82%A3%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%BF%E3%82%AB%E3%83%8E%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- グリッチコーヒー&ロースターズ（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%AA%E3%83%83%E3%83%81%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%26%E3%83%AD%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- 神田伯剌西爾（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E7%94%B0%E4%BC%AF%E5%89%8C%E8%A5%BF%E7%88%BE%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- 珈琲舎 蔵（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%8F%88%E7%90%B2%E8%88%8E%20%E8%94%B5%20%E7%A5%9E%E4%BF%9D%E7%94%BA

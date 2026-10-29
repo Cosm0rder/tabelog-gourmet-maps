@@ -1,0 +1,1513 @@
+# The Tabelog Award 2026 受賞店一覧と保存リスト突合
+
+作成：2026-10-28
+出典：食べログアワード公式 受賞店検索 https://award.tabelog.com/restaurants/ （全8ページ・733店を全件取得）
+突合先：saved-list.md（保存リスト1,429件＋コレクション3件＋行ったお店1件＝全1,433件。うち評点欄が「評価なし」の1件（DINING THEATER NINJA 幻術桟敷）を除く1,432件を店名解析。同店はアワード受賞店ではないため結果に影響なし）
+
+## サマリー
+
+- 受賞店総数：733店（GOLD 36 / SILVER 160 / BRONZE 537）※公式発表値と一致
+- 既存（保存リストと店名が完全一致）：222店
+- 要確認（表記ゆれ・支店名の有無などで曖昧）：7店
+- 新規（保存リストに無い）：504店
+
+突合方法：店名を正規化（NFKC・スペース/中黒除去・異体字統一）し、同名の重複件数も考慮して完全一致を「既存」とした。支店サフィックス（本店・離れ等）除去、前方一致、編集距離1〜2で近接するものは自動判定せず「要確認」に分離し、残りを「新規」とした。
+注意：同名異店（例：すし匠 秋田／東京）は店名だけでは区別できないため、保存側の件数を超える分は要確認側に回している。
+
+## 全受賞店（733店・公式掲載順）
+
+### GOLD（36店）
+
+- 蒼｜イノベーティブ｜東京｜GOLD
+- アカ｜スペイン料理｜東京｜GOLD
+- 赤坂 らいもん｜焼肉・肉料理｜東京｜GOLD
+- 飯田｜日本料理｜京都｜GOLD
+- 緒方｜日本料理｜京都｜GOLD
+- 温石｜日本料理｜静岡｜GOLD
+- かさ原｜焼き鳥・鳥料理｜東京｜GOLD
+- 片折｜日本料理｜石川｜GOLD
+- 北野坂 木下｜イタリアン｜兵庫｜GOLD
+- 銀座 しのはら｜日本料理｜東京｜GOLD
+- こま田｜寿司｜三重｜GOLD
+- 茶禅華｜中華料理｜東京｜GOLD
+- さわ田｜寿司｜東京｜GOLD
+- 島津｜寿司｜東京｜GOLD
+- 橦木町 しみず｜日本料理｜愛知｜GOLD
+- 新ばし 星野｜日本料理｜東京｜GOLD
+- 鮨 あらい｜寿司｜東京｜GOLD
+- 鮨 一幸｜寿司｜東京｜GOLD
+- 鮨 さいとう｜寿司｜東京｜GOLD
+- 鮨 三心｜寿司｜大阪｜GOLD
+- 瞬｜うなぎ｜静岡｜GOLD
+- 啐啄 つか本｜日本料理｜京都｜GOLD
+- たきや｜天ぷら｜東京｜GOLD
+- 近松｜寿司｜福岡｜GOLD
+- 馳走西健一｜フレンチ｜静岡｜GOLD
+- 道人｜日本料理｜京都｜GOLD
+- 徳ㇵ本也｜日本料理｜京都｜GOLD
+- 成生｜天ぷら｜静岡｜GOLD
+- 日本橋蛎殻町 すぎた｜寿司｜東京｜GOLD
+- 仁修樓｜中華料理｜京都｜GOLD
+- 東麻布 天本｜寿司｜東京｜GOLD
+- 本湖月｜日本料理｜大阪｜GOLD
+- 松川｜日本料理｜東京｜GOLD
+- 三谷｜寿司｜東京｜GOLD
+- 柚木元｜日本料理｜長野｜GOLD
+- レストラン ナズ｜イノベーティブ｜長野｜GOLD
+
+### SILVER（160店）
+
+- AKAI｜イノベーティブ｜広島｜SILVER
+- 赤坂おぎ乃｜日本料理｜東京｜SILVER
+- AKI NAGAO｜フレンチ｜北海道｜SILVER
+- 味道広路｜日本料理｜北海道｜SILVER
+- 味満ん｜魚介料理・海鮮料理｜東京｜SILVER
+- 飯田商店｜ラーメン｜神奈川｜SILVER
+- 礒田｜日本料理｜東京｜SILVER
+- イチリン ハナレ｜中華料理｜神奈川｜SILVER
+- 井雪｜日本料理｜東京｜SILVER
+- イル アオヤマ｜イタリアン｜愛知｜SILVER
+- ウシマル｜イタリアン｜千葉｜SILVER
+- うなぎ 魚政｜うなぎ｜東京｜SILVER
+- うなぎ亭 友栄｜うなぎ｜神奈川｜SILVER
+- う嵐｜うなぎ｜滋賀｜SILVER
+- ete｜イノベーティブ｜東京｜SILVER
+- NK｜日本料理｜東京｜SILVER
+- 蕃 YORONIKU｜焼肉・肉料理｜東京｜SILVER
+- オオクサ｜焼き鳥・鳥料理｜東京｜SILVER
+- オトワ レストラン｜フレンチ｜栃木｜SILVER
+- 御料理ふじ居｜日本料理｜富山｜SILVER
+- 御料理 まつ山｜日本料理｜福岡｜SILVER
+- 神楽坂 石かわ｜日本料理｜東京｜SILVER
+- ガストロノミー ジョエル・ロブション｜フレンチ｜東京｜SILVER
+- 割烹 新多久｜日本料理｜新潟｜SILVER
+- katecuore｜イタリアン｜佐賀｜SILVER
+- かぶと｜うなぎ｜東京｜SILVER
+- 鎌倉 北じま｜日本料理｜神奈川｜SILVER
+- かわむら｜焼肉・肉料理｜東京｜SILVER
+- カンテサンス｜フレンチ｜東京｜SILVER
+- きう｜寿司｜京都｜SILVER
+- 菊鮨｜寿司｜福岡｜SILVER
+- 木佐貫｜日本料理｜石川｜SILVER
+- 貴山｜日本料理｜東京｜SILVER
+- 紀茂登｜日本料理｜東京｜SILVER
+- 木山｜日本料理｜京都｜SILVER
+- 兄弟寿し｜寿司｜新潟｜SILVER
+- 京天神 野口｜日本料理｜京都｜SILVER
+- 銀座 大石｜フレンチ｜東京｜SILVER
+- 串かつ あーぼん｜とんかつ・揚げ物｜兵庫｜SILVER
+- グシテ｜イタリアン｜大阪｜SILVER
+- くすのき 本店｜天ぷら｜東京｜SILVER
+- くるますし｜寿司｜愛媛｜SILVER
+- グルマンディーズ｜フレンチ｜東京｜SILVER
+- 月泉｜中華料理｜大阪｜SILVER
+- 齋華｜中華料理｜京都｜SILVER
+- 澤田｜日本料理｜大阪｜SILVER
+- 参宮橋 あさや｜うなぎ｜東京｜SILVER
+- 三和｜イタリアン｜東京｜SILVER
+- Ji-Cube｜中華料理｜東京｜SILVER
+- シェ・イノ｜フレンチ｜東京｜SILVER
+- 私房菜 きた川｜中華料理｜三重｜SILVER
+- 食堂 おがわ｜日本料理｜京都｜SILVER
+- 眞善美｜中華料理｜愛知｜SILVER
+- 末冨｜日本料理｜東京｜SILVER
+- SUGALABO｜イノベーティブ｜東京｜SILVER
+- すし 良月｜寿司｜東京｜SILVER
+- 鮨 猪股｜寿司｜埼玉｜SILVER
+- 寿司栄｜寿司｜千葉｜SILVER
+- 鮨おばな｜寿司｜群馬｜SILVER
+- すし 喜邑｜寿司｜東京｜SILVER
+- 鮨駒｜寿司｜秋田｜SILVER
+- 鮨 さかい｜寿司｜福岡｜SILVER
+- 鮨 十兵衛｜寿司｜福井｜SILVER
+- 鮨しゅんじ｜寿司｜東京｜SILVER
+- 鮨 しゅん輔 阿佐ヶ谷｜寿司｜東京｜SILVER
+- すし匠｜寿司｜東京｜SILVER
+- 鮨匠 のむら｜寿司｜鹿児島｜SILVER
+- 鮨 尚充｜寿司｜東京｜SILVER
+- すし処 ひさ田｜寿司｜岡山｜SILVER
+- すし処 めくみ｜寿司｜石川｜SILVER
+- 鮨 なんば 日比谷｜寿司｜東京｜SILVER
+- 鮨 西崎｜寿司｜東京｜SILVER
+- 鮨 はしもと｜寿司｜東京｜SILVER
+- すし宮川｜寿司｜北海道｜SILVER
+- 鮨 めい乃｜寿司｜東京｜SILVER
+- 鮨 龍次郎｜寿司｜東京｜SILVER
+- スタミナ苑｜焼肉・肉料理｜東京｜SILVER
+- 炭火焼肉ホルモンさわいし｜焼肉・肉料理｜神奈川｜SILVER
+- 勢麟｜日本料理｜静岡｜SILVER
+- SEZANNE｜フレンチ｜東京｜SILVER
+- 鷹匠壽｜焼き鳥・鳥料理｜東京｜SILVER
+- TACUBO｜イタリアン｜東京｜SILVER
+- 竹屋町 三多｜日本料理｜京都｜SILVER
+- 田中圭英｜中華料理｜大阪｜SILVER
+- CHIUnE｜イノベーティブ｜東京｜SILVER
+- チェルカ トローヴァ｜イタリアン｜宮崎｜SILVER
+- 馳走 啐啄一十｜日本料理｜広島｜SILVER
+- 中華 大しげ｜中華料理｜佐賀｜SILVER
+- 中国菜 Guu｜中華料理｜京都｜SILVER
+- 中国飯店 富麗華｜中華料理｜東京｜SILVER
+- TSUSHIMI｜フレンチ｜山梨｜SILVER
+- 出羽屋｜日本料理｜山形｜SILVER
+- 傳｜創作料理｜東京｜SILVER
+- 天寿し 京町店｜寿司｜福岡｜SILVER
+- 天白｜天ぷら｜千葉｜SILVER
+- 天ぷら浅沼｜天ぷら｜東京｜SILVER
+- 天ぷら たけうち｜天ぷら｜福岡｜SILVER
+- 天ぷら もっこす｜天ぷら｜群馬｜SILVER
+- 登喜和鮨 新発田本店｜寿司｜新潟｜SILVER
+- 隼｜中華料理｜東京｜SILVER
+- 富小路 やま岸｜日本料理｜京都｜SILVER
+- トムクリオーザ｜イタリアン｜大阪｜SILVER
+- 鳥しき｜焼き鳥・鳥料理｜東京｜SILVER
+- 鳥匠 いし井｜焼き鳥・鳥料理｜大阪｜SILVER
+- とり茶太郎｜焼き鳥・鳥料理｜東京｜SILVER
+- トレイス｜イノベーティブ｜東京｜SILVER
+- なかむら｜天ぷら｜静岡｜SILVER
+- 奈良屋町 青｜イノベーティブ｜福岡｜SILVER
+- NARISAWA｜イノベーティブ｜東京｜SILVER
+- にくの匠 三芳｜焼肉・肉料理｜京都｜SILVER
+- 肉屋 田中｜焼肉・肉料理｜東京｜SILVER
+- 虹吉｜魚介料理・海鮮料理｜愛媛｜SILVER
+- にしぶち飯店｜中華料理｜京都｜SILVER
+- 日本橋 蕎ノ字｜天ぷら｜東京｜SILVER
+- 日本料理 晴山｜日本料理｜東京｜SILVER
+- 日本料理 たかむら｜日本料理｜秋田｜SILVER
+- 日本料理 TOBIUME｜日本料理｜福岡｜SILVER
+- 日本料理FUJI｜日本料理｜静岡｜SILVER
+- 日本料理 別府 廣門｜日本料理｜大分｜SILVER
+- ぬま田｜天ぷら｜大阪｜SILVER
+- NOMI RESTAURANT｜日本料理｜京都｜SILVER
+- HAGI｜フレンチ｜福島｜SILVER
+- 長谷川 稔｜イノベーティブ｜東京｜SILVER
+- 波濤｜寿司｜東京｜SILVER
+- パルコ フィエラ｜イタリアン｜北海道｜SILVER
+- 青空｜寿司｜東京｜SILVER
+- 美会｜イノベーティブ｜東京｜SILVER
+- 樋山｜日本料理｜埼玉｜SILVER
+- 比良山荘｜日本料理｜滋賀｜SILVER
+- 廣澤｜中華料理｜京都｜SILVER
+- フォリオリーナ・デッラ・ポルタ・フォルトゥーナ｜イタリアン｜長野｜SILVER
+- プリズマ｜イタリアン｜東京｜SILVER
+- フルタ｜中華料理｜東京｜SILVER
+- プレゼンテ スギ｜イタリアン｜千葉｜SILVER
+- pesceco｜イノベーティブ｜長崎｜SILVER
+- ペレグリーノ｜イタリアン｜東京｜SILVER
+- ボニュ｜フレンチ｜東京｜SILVER
+- 薪鳥新神戸｜焼き鳥・鳥料理｜東京｜SILVER
+- まき村｜日本料理｜東京｜SILVER
+- 味享｜日本料理｜東京｜SILVER
+- 宮坂｜日本料理｜東京｜SILVER
+- 明寂｜日本料理｜東京｜SILVER
+- メグリヴァ｜イタリアン｜東京｜SILVER
+- 焼肉幸泉｜焼肉・肉料理｜東京｜SILVER
+- 柳家｜日本料理｜岐阜｜SILVER
+- やまぐち｜イタリアン｜京都｜SILVER
+- 山﨑｜日本料理｜東京｜SILVER
+- 余市SAGRA｜イタリアン｜北海道｜SILVER
+- 揚雫｜とんかつ・揚げ物｜神奈川｜SILVER
+- YORONIKU TOKYO AZABUDAIHILLS｜焼肉・肉料理｜東京｜SILVER
+- 料理 川口｜日本料理｜京都｜SILVER
+- レヴォ｜イノベーティブ｜富山｜SILVER
+- レストラン ウオゼン｜フレンチ｜新潟｜SILVER
+- レスピラシオン｜スペイン料理｜石川｜SILVER
+- レ セゾン｜フレンチ｜東京｜SILVER
+- レフェルヴェソンス｜フレンチ｜東京｜SILVER
+- レミニセンス｜フレンチ｜愛知｜SILVER
+- ロオジエ｜フレンチ｜東京｜SILVER
+- ろばたやき山ろく｜焼き鳥・鳥料理｜熊本｜SILVER
+- わさ｜中華料理｜東京｜SILVER
+
+### BRONZE（537店）
+
+- 赤吉｜寿司｜愛媛｜BRONZE
+- 赤坂 詠月｜日本料理｜東京｜BRONZE
+- 赤坂 菊乃井｜日本料理｜東京｜BRONZE
+- 赤坂 きた福｜魚介料理・海鮮料理｜東京｜BRONZE
+- 茜坂大沼｜日本料理｜東京｜BRONZE
+- 赤間茶屋 あ三五｜そば｜福岡｜BRONZE
+- アコルドゥ｜イノベーティブ｜奈良｜BRONZE
+- ASAHINA Gastronome｜フレンチ｜東京｜BRONZE
+- 麻布十番 秦野よしき｜寿司｜東京｜BRONZE
+- 麻布室井｜日本料理｜東京｜BRONZE
+- 麻布 幸村｜日本料理｜東京｜BRONZE
+- 味あら井｜日本料理｜大分｜BRONZE
+- 味ひろ｜日本料理｜東京｜BRONZE
+- 味幸｜日本料理｜東京｜BRONZE
+- AZUR et MASA UEKI｜フレンチ｜東京｜BRONZE
+- Aspirant｜フレンチ｜兵庫｜BRONZE
+- ad hoc｜フレンチ｜大阪｜BRONZE
+- アニエルドール｜フレンチ｜大阪｜BRONZE
+- アピシウス｜フレンチ｜東京｜BRONZE
+- affetto akita｜イタリアン｜秋田｜BRONZE
+- あま木｜寿司｜愛知｜BRONZE
+- 飴源｜日本料理｜佐賀｜BRONZE
+- 綾小路 唐津｜日本料理｜京都｜BRONZE
+- 麤皮｜焼肉・肉料理｜兵庫｜BRONZE
+- あら輝｜寿司｜東京｜BRONZE
+- アラルデ｜スペイン料理｜大阪｜BRONZE
+- aru｜フレンチ｜愛知｜BRONZE
+- アルゴリズム｜フレンチ｜東京｜BRONZE
+- あるところ｜日本料理｜佐賀｜BRONZE
+- 淡路島 亙｜寿司｜兵庫｜BRONZE
+- anchoa｜スペイン料理｜神奈川｜BRONZE
+- entre nous｜フレンチ｜兵庫｜BRONZE
+- 活鰻の店 つぐみ庵｜うなぎ｜東京｜BRONZE
+- 石臼挽き蕎麦香房 山の実｜そば｜長野｜BRONZE
+- いしまる｜寿司｜埼玉｜BRONZE
+- 出雲｜日本料理｜愛知｜BRONZE
+- イタリア料理 今井｜イタリアン｜兵庫｜BRONZE
+- 一鰻｜うなぎ｜静岡｜BRONZE
+- いちかわ｜寿司｜東京｜BRONZE
+- 一心鮨 光洋｜寿司｜宮崎｜BRONZE
+- 一本木石橋｜日本料理｜福岡｜BRONZE
+- 今石飯店 涼華｜中華料理｜福岡｜BRONZE
+- 井本｜日本料理｜福岡｜BRONZE
+- IL GARAGE｜イタリアン｜京都｜BRONZE
+- イル・ピッツァイオーロ｜イタリアン｜宮城｜BRONZE
+- Installation Table ENSO L'asymetrie du calme｜フレンチ｜石川｜BRONZE
+- villa del nido｜イタリアン｜長崎｜BRONZE
+- ヴィラ・アイーダ｜イタリアン｜和歌山｜BRONZE
+- ヴィラ・デラ・パーチェ｜イタリアン｜石川｜BRONZE
+- 右江田｜寿司｜愛知｜BRONZE
+- ヴェンティノーヴェ｜イタリアン｜群馬｜BRONZE
+- 魚津屋｜日本料理｜京都｜BRONZE
+- 魚虎｜居酒屋｜福岡｜BRONZE
+- USHIGORO S. GINZA｜焼肉・肉料理｜東京｜BRONZE
+- うなぎのまつ嘉｜うなぎ｜長野｜BRONZE
+- 鰻 むさし乃｜うなぎ｜埼玉｜BRONZE
+- うら松｜焼肉・肉料理｜東京｜BRONZE
+- 鍈輝｜焼き鳥・鳥料理｜東京｜BRONZE
+- 永山｜日本料理｜広島｜BRONZE
+- エクアトゥール｜イノベーティブ｜東京｜BRONZE
+- エスキス｜フレンチ｜東京｜BRONZE
+- f｜イタリアン｜秋田｜BRONZE
+- エディション・コウジ シモムラ｜フレンチ｜東京｜BRONZE
+- 江戸前晋作｜天ぷら｜東京｜BRONZE
+- 江戸町 すぎもと｜寿司｜三重｜BRONZE
+- NH｜フレンチ｜大阪｜BRONZE
+- エノテカ・ラ・リコルマ｜イタリアン｜北海道｜BRONZE
+- 永来権｜焼き鳥・鳥料理｜兵庫｜BRONZE
+- 炎水｜日本料理｜東京｜BRONZE
+- AUBE｜中華料理｜大阪｜BRONZE
+- Auberge eaufeu｜イノベーティブ｜石川｜BRONZE
+- 大阪天満宮 鮨とよなが｜寿司｜大阪｜BRONZE
+- おおたに｜日本料理｜愛知｜BRONZE
+- おぎたに｜日本料理｜兵庫｜BRONZE
+- オステリア・エノテカ・ダ・サスィーノ｜イタリアン｜青森｜BRONZE
+- おたぎ｜日本料理｜京都｜BRONZE
+- オテル・ド・ヨシノ｜フレンチ｜和歌山｜BRONZE
+- 乙女寿司｜寿司｜石川｜BRONZE
+- 御成門はる｜日本料理｜東京｜BRONZE
+- おにく 花柳｜焼肉・肉料理｜東京｜BRONZE
+- 緒乃｜日本料理｜大阪｜BRONZE
+- オマージュ｜フレンチ｜東京｜BRONZE
+- 御料理 一燈｜日本料理｜福井｜BRONZE
+- お料理 佐藤｜日本料理｜福岡｜BRONZE
+- 御料理 寺沢｜日本料理｜岩手｜BRONZE
+- 御料理 はやし｜日本料理｜京都｜BRONZE
+- 御料理 ひさまつ｜日本料理｜愛知｜BRONZE
+- 御料理 光安｜日本料理｜京都｜BRONZE
+- お料理 宮本｜日本料理｜大阪｜BRONZE
+- オルト｜イノベーティブ｜京都｜BRONZE
+- カーサ・デル・チーボ｜イタリアン｜青森｜BRONZE
+- KAI｜イタリアン｜鹿児島｜BRONZE
+- 開化亭｜中華料理｜岐阜｜BRONZE
+- 懐石 八泉｜日本料理｜愛知｜BRONZE
+- caillou｜フレンチ｜東京｜BRONZE
+- カエンネ｜イタリアン｜長野｜BRONZE
+- 薫 HIROO｜イノベーティブ｜東京｜BRONZE
+- Kashu｜フレンチ｜青森｜BRONZE
+- 膳司 水光庵｜日本料理｜東京｜BRONZE
+- 柏屋 大阪千里山｜日本料理｜大阪｜BRONZE
+- カセント｜イノベーティブ｜兵庫｜BRONZE
+- 潟潟ヤ｜創作料理｜神奈川｜BRONZE
+- かたつむり｜日本料理｜岐阜｜BRONZE
+- 割烹 室井｜日本料理｜東京｜BRONZE
+- かに吉｜魚介料理・海鮮料理｜鳥取｜BRONZE
+- カハラ｜創作料理｜大阪｜BRONZE
+- GapricE｜イタリアン｜愛知｜BRONZE
+- 我逢人｜寿司｜福岡｜BRONZE
+- カモシヤ クスモト｜創作料理｜大阪｜BRONZE
+- Kalpasi｜アジア・エスニック・カレー｜東京｜BRONZE
+- 川喜｜魚介料理・海鮮料理｜福井｜BRONZE
+- 川田｜日本料理｜東京｜BRONZE
+- 感情｜日本料理｜東京｜BRONZE
+- かんだ｜日本料理｜東京｜BRONZE
+- 広東料理 センス｜中華料理｜東京｜BRONZE
+- 紀尾井町 三谷｜寿司｜東京｜BRONZE
+- 祇園 大渡｜日本料理｜京都｜BRONZE
+- ぎおん 阪川｜日本料理｜京都｜BRONZE
+- 祇園 さゝ木｜日本料理｜京都｜BRONZE
+- 祇園 にし｜日本料理｜京都｜BRONZE
+- 祇園 にしかわ｜日本料理｜京都｜BRONZE
+- 祇園 又吉｜日本料理｜京都｜BRONZE
+- 菊乃井 本店｜日本料理｜京都｜BRONZE
+- きざ㐂｜寿司｜東京｜BRONZE
+- 季節料理 なかしま｜日本料理｜広島｜BRONZE
+- きたうら善漁。｜日本料理｜宮崎｜BRONZE
+- 北島亭｜フレンチ｜東京｜BRONZE
+- kitchen俊貴｜その他｜愛知｜BRONZE
+- キャラバン｜焼肉・肉料理｜佐賀｜BRONZE
+- 京味 もと井｜日本料理｜愛知｜BRONZE
+- 京懐石 吉泉｜日本料理｜京都｜BRONZE
+- 京極寿司｜寿司｜滋賀｜BRONZE
+- 京 静華｜中華料理｜京都｜BRONZE
+- 京都 吉兆 嵐山本店｜日本料理｜京都｜BRONZE
+- 郷土料理 嗣味｜日本料理｜福岡｜BRONZE
+- きよ田｜寿司｜東京｜BRONZE
+- きよ田 離れ｜寿司｜東京｜BRONZE
+- ぎをん 遠藤｜日本料理｜京都｜BRONZE
+- 銀座かに松｜魚介料理・海鮮料理｜東京｜BRONZE
+- 銀座 きた川｜日本料理｜東京｜BRONZE
+- 銀座 きた福｜魚介料理・海鮮料理｜東京｜BRONZE
+- 銀座 上瀧｜中華料理｜東京｜BRONZE
+- 銀座 鮨 かねさか 本店｜寿司｜東京｜BRONZE
+- 銀座ふじやま｜日本料理｜東京｜BRONZE
+- 銀座 レカン｜フレンチ｜東京｜BRONZE
+- くいしんぼー山中｜焼肉・肉料理｜京都｜BRONZE
+- 串かつ だいぼん｜とんかつ・揚げ物｜大阪｜BRONZE
+- 愚直に｜日本料理｜東京｜BRONZE
+- クッカーニャ｜イタリアン｜福岡｜BRONZE
+- クッチーナ イタリアーナ ガッルーラ｜イタリアン｜愛知｜BRONZE
+- くろぎ｜日本料理｜東京｜BRONZE
+- くろ﨑｜寿司｜東京｜BRONZE
+- クロモリ｜中華料理｜宮城｜BRONZE
+- 京洛焼肉 ぽめ｜焼肉・肉料理｜大阪｜BRONZE
+- コート ドール｜フレンチ｜東京｜BRONZE
+- 吾一｜焼き鳥・鳥料理｜大阪｜BRONZE
+- Goh｜イノベーティブ｜福岡｜BRONZE
+- 港式料理 鴻禧｜中華料理｜東京｜BRONZE
+- 好日｜日本料理｜愛知｜BRONZE
+- 高台寺 和久傳｜日本料理｜京都｜BRONZE
+- 行楽庵｜日本料理｜滋賀｜BRONZE
+- 御幸町 田がわ｜日本料理｜京都｜BRONZE
+- 小魚料理 とみ助｜日本料理｜広島｜BRONZE
+- 枯淡｜寿司｜福岡｜BRONZE
+- ことわりをはかるみせ ばんどう｜日本料理｜愛知｜BRONZE
+- こにし家｜日本料理｜兵庫｜BRONZE
+- 虎白｜日本料理｜東京｜BRONZE
+- 小判寿司 棚倉｜寿司｜福島｜BRONZE
+- 虎峰｜中華料理｜東京｜BRONZE
+- 小松 弥助｜寿司｜石川｜BRONZE
+- 湖里庵｜日本料理｜滋賀｜BRONZE
+- commedia｜イタリアン｜東京｜BRONZE
+- 在掌｜寿司｜福岡｜BRONZE
+- サエキ飯店｜中華料理｜東京｜BRONZE
+- 魚菜料理 縄屋｜日本料理｜京都｜BRONZE
+- 櫻木｜日本料理｜東京｜BRONZE
+- SATOブリアン 本店｜焼肉・肉料理｜東京｜BRONZE
+- SATOブリアン にごう｜焼肉・肉料理｜東京｜BRONZE
+- 山玄茶｜日本料理｜京都｜BRONZE
+- 三田牛竈炭火焼 ウェスタ｜焼肉・肉料理｜東京｜BRONZE
+- 時限堂｜日本料理｜東京｜BRONZE
+- 6｜イノベーティブ｜沖縄｜BRONZE
+- 召膳 無苦庵｜日本料理｜和歌山｜BRONZE
+- じどりや 穏座｜焼き鳥・鳥料理｜滋賀｜BRONZE
+- jinen.｜フレンチ｜東京｜BRONZE
+- しの田｜日本料理｜愛媛｜BRONZE
+- ShinoiS｜中華料理｜東京｜BRONZE
+- しまなみふれんち Murakami｜フレンチ｜大阪｜BRONZE
+- 霜止出苗｜イノベーティブ｜北海道｜BRONZE
+- 車力門 おの澤｜日本料理｜東京｜BRONZE
+- ジュエーメ｜イタリアン｜秋田｜BRONZE
+- 酒亭 田中｜焼き鳥・鳥料理｜東京｜BRONZE
+- 酒盃｜居酒屋｜秋田｜BRONZE
+- 旬彩天 つちや｜天ぷら｜大阪｜BRONZE
+- 旬席 鈴江｜日本料理｜京都｜BRONZE
+- 小菜中華 hiro｜中華料理｜岐阜｜BRONZE
+- 青蓮院門跡前 月おか｜日本料理｜京都｜BRONZE
+- 食堂 aca｜スペイン料理｜東京｜BRONZE
+- SHOKUDO YArn｜イノベーティブ｜石川｜BRONZE
+- しろ｜イタリアン｜京都｜BRONZE
+- Syn｜フレンチ｜福岡｜BRONZE
+- JIMGU｜イノベーティブ｜大分｜BRONZE
+- sincere｜フレンチ｜東京｜BRONZE
+- 尽誠｜寿司｜大阪｜BRONZE
+- 新ばし しみづ｜寿司｜東京｜BRONZE
+- Simples｜イノベーティブ｜静岡｜BRONZE
+- 新門前 米村｜イノベーティブ｜京都｜BRONZE
+- 深夜焼肉 だいちゃん｜焼肉・肉料理｜京都｜BRONZE
+- すが弥｜寿司｜東京｜BRONZE
+- スガラボヴィー｜フレンチ｜大阪｜BRONZE
+- 須崎食料品店｜うどん｜香川｜BRONZE
+- 鮨 あお｜寿司｜東京｜BRONZE
+- 鮨 いとう｜寿司｜福島｜BRONZE
+- 鮨 いの｜寿司｜愛媛｜BRONZE
+- すし うえだ｜寿司｜兵庫｜BRONZE
+- 鮨 縁｜寿司｜岡山｜BRONZE
+- 鮨 おおが｜寿司｜大阪｜BRONZE
+- 寿し おおはた｜寿司｜大阪｜BRONZE
+- 鮨 おさむ｜寿司｜福岡｜BRONZE
+- 鮨 唐島｜寿司｜福岡｜BRONZE
+- 鮓 きずな｜寿司｜大阪｜BRONZE
+- 鮨 木場谷｜寿司｜石川｜BRONZE
+- 鮨 行天｜寿司｜福岡｜BRONZE
+- 鮨菜 和喜智｜寿司｜北海道｜BRONZE
+- 鮨 さえ喜｜寿司｜東京｜BRONZE
+- 鮨 Shizuku｜寿司｜大阪｜BRONZE
+- 鮨旬美西川｜寿司｜愛知｜BRONZE
+- すし匠｜寿司｜秋田｜BRONZE
+- すし匠 齋藤｜寿司｜東京｜BRONZE
+- 寿志 城助｜寿司｜兵庫｜BRONZE
+- 鮨 しょう太｜寿司｜北海道｜BRONZE
+- 鮨 鈴木｜寿司｜東京｜BRONZE
+- 鮨 草平｜寿司｜北海道｜BRONZE
+- 鮓 たいと｜寿司｜熊本｜BRONZE
+- 鮨 大門｜寿司｜富山｜BRONZE
+- 寿司つばさ｜寿司｜福岡｜BRONZE
+- 鮨処 有馬｜寿司｜北海道｜BRONZE
+- 鮨処 多田｜寿司｜大阪｜BRONZE
+- すし処 睦月｜寿司｜愛知｜BRONZE
+- 鮨処 やまと｜寿司｜東京｜BRONZE
+- 鮨中村｜寿司｜熊本｜BRONZE
+- 鮨ノ蔵｜寿司｜北海道｜BRONZE
+- 鮨 はしぐち｜寿司｜東京｜BRONZE
+- 鮨 土方｜寿司｜愛知｜BRONZE
+- 寿し ひでたか｜寿司｜北海道｜BRONZE
+- 鮓 ふじなが｜寿司｜東京｜BRONZE
+- 鮨 ます田｜寿司｜東京｜BRONZE
+- 鮨 まつうら｜寿司｜東京｜BRONZE
+- 鮨 まつ本｜寿司｜兵庫｜BRONZE
+- 鮨 みずかみ｜寿司｜東京｜BRONZE
+- 鮨みなと｜寿司｜北海道｜BRONZE
+- すし みむろ｜寿司｜熊本｜BRONZE
+- 鮨 やすみつ｜寿司｜東京｜BRONZE
+- スシュ｜フレンチ｜秋田｜BRONZE
+- 鮨 ゆうき｜寿司｜東京｜BRONZE
+- 鮨 よし田｜寿司｜福岡｜BRONZE
+- 鮨 よしたけ｜寿司｜東京｜BRONZE
+- 鮨 陸｜寿司｜東京｜BRONZE
+- すゝき野 鮨金｜寿司｜北海道｜BRONZE
+- 鈴田式｜日本料理｜東京｜BRONZE
+- Stanza della SINCERITA｜イタリアン｜山形｜BRONZE
+- ステーキハウス キッチンリボン｜焼肉・肉料理｜愛知｜BRONZE
+- ステーキハウス バロン｜焼肉・肉料理｜熊本｜BRONZE
+- SPICY CURRY 魯珈｜アジア・エスニック・カレー｜東京｜BRONZE
+- 炭火割烹 いふき｜日本料理｜京都｜BRONZE
+- 炭火焼肉 久｜焼肉・肉料理｜秋田｜BRONZE
+- 炭火焼肉 なかはら｜焼肉・肉料理｜東京｜BRONZE
+- 炭火焼 ゆうじ｜焼肉・肉料理｜東京｜BRONZE
+- 炭焼 おかげさん｜焼き鳥・鳥料理｜宮城｜BRONZE
+- 炭焼 金竜山｜焼肉・肉料理｜東京｜BRONZE
+- 炭焼ハンバーグ 牛船｜焼肉・肉料理｜佐賀｜BRONZE
+- 壽山｜日本料理｜北海道｜BRONZE
+- スリオラ｜スペイン料理｜東京｜BRONZE
+- SECRETO｜イノベーティブ｜東京｜BRONZE
+- 是しん｜日本料理｜大阪｜BRONZE
+- 雪月花 たなかさとる｜焼肉・肉料理｜愛知｜BRONZE
+- cepages｜フレンチ｜群馬｜BRONZE
+- 1000｜焼き鳥・鳥料理｜神奈川｜BRONZE
+- SÉN｜イノベーティブ｜奈良｜BRONZE
+- 杦｜日本料理｜京都｜BRONZE
+- センティウ｜イタリアン｜鹿児島｜BRONZE
+- 草庵 鍋島｜日本料理｜佐賀｜BRONZE
+- 壮士｜寿司｜広島｜BRONZE
+- 草喰 なかひがし｜日本料理｜京都｜BRONZE
+- 大市｜魚介料理・海鮮料理｜京都｜BRONZE
+- たかおか｜寿司｜千葉｜BRONZE
+- 鷹ノ橋 清耽｜創作料理｜広島｜BRONZE
+- 髙橋 謙太郎｜寿司｜大阪｜BRONZE
+- タカヤマ｜イノベーティブ｜京都｜BRONZE
+- 宝寿司分店｜寿司｜秋田｜BRONZE
+- Takumi｜フレンチ｜東京｜BRONZE
+- 匠 進吾｜寿司｜東京｜BRONZE
+- 田代｜うなぎ｜愛知｜BRONZE
+- 玉笑｜そば｜東京｜BRONZE
+- 淡流｜日本料理｜兵庫｜BRONZE
+- cenci｜イタリアン｜京都｜BRONZE
+- 千葉たかおか｜寿司｜東京｜BRONZE
+- 中國菜 奈良町 枸杞｜中華料理｜奈良｜BRONZE
+- 中国菜 火ノ鳥｜中華料理｜大阪｜BRONZE
+- 中国菜 木燕｜中華料理｜長野｜BRONZE
+- 中国四川酒家 蔓山｜中華料理｜千葉｜BRONZE
+- 中国料理 川｜中華料理｜宮崎｜BRONZE
+- 中国料理マスキ｜中華料理｜広島｜BRONZE
+- 白｜日本料理｜奈良｜BRONZE
+- 對馬｜中華料理｜東京｜BRONZE
+- つねちゃん｜焼肉・肉料理｜大阪｜BRONZE
+- 津の守坂 小柴｜日本料理｜東京｜BRONZE
+- 鶴八｜天ぷら｜熊本｜BRONZE
+- つる由｜日本料理｜奈良｜BRONZE
+- 手打蕎麦 じゆうさん｜そば｜東京｜BRONZE
+- 照寿司｜寿司｜福岡｜BRONZE
+- Terroir愛と胃袋｜イノベーティブ｜山梨｜BRONZE
+- 天神橋 青木｜日本料理｜大阪｜BRONZE
+- tens.｜イタリアン｜東京｜BRONZE
+- 天ぷらあら木｜天ぷら｜北海道｜BRONZE
+- 天ぷら 京星｜天ぷら｜京都｜BRONZE
+- 天ぷら 車｜天ぷら｜群馬｜BRONZE
+- 天ぷら 小泉｜天ぷら｜石川｜BRONZE
+- てんぷら 近藤｜天ぷら｜東京｜BRONZE
+- 天ぷら 桜人｜天ぷら｜兵庫｜BRONZE
+- 佐藤養助 正心庵｜天ぷら｜秋田｜BRONZE
+- てんぷら 深町｜天ぷら｜東京｜BRONZE
+- 秋田 てんぷら みかわ｜天ぷら｜秋田｜BRONZE
+- TTOAHISU｜イノベーティブ｜福岡｜BRONZE
+- トゥールダルジャン 東京｜フレンチ｜東京｜BRONZE
+- 東京園｜焼肉・肉料理｜東京｜BRONZE
+- 東京肉しゃぶ家｜焼肉・肉料理｜東京｜BRONZE
+- 東京肉しゃぶ家 秀彬｜焼肉・肉料理｜東京｜BRONZE
+- 道後 海舟｜日本料理｜愛媛｜BRONZE
+- トゥ・ラ・ジョア イズム｜イノベーティブ｜愛知｜BRONZE
+- 登喜和鮨 新潟店｜寿司｜新潟｜BRONZE
+- 徳山鮓｜日本料理｜滋賀｜BRONZE
+- トマト｜アジア・エスニック・カレー｜東京｜BRONZE
+- 冨所｜寿司｜東京｜BRONZE
+- と村｜日本料理｜東京｜BRONZE
+- TOMONO｜中華料理｜大阪｜BRONZE
+- 虎屋 壺中庵｜日本料理｜徳島｜BRONZE
+- 鳥さき｜焼き鳥・鳥料理｜京都｜BRONZE
+- 鳥茂｜居酒屋｜東京｜BRONZE
+- 鳥匠いし井ひな｜焼き鳥・鳥料理｜東京｜BRONZE
+- とり やまもと｜焼き鳥・鳥料理｜広島｜BRONZE
+- 鳥料理 鳥勝｜焼き鳥・鳥料理｜東京｜BRONZE
+- とんかつ成蔵｜とんかつ・揚げ物｜東京｜BRONZE
+- とんかつ 乃ぐち｜とんかつ・揚げ物｜大阪｜BRONZE
+- とんかつ ふじ井｜とんかつ・揚げ物｜大阪｜BRONZE
+- とんかつ マンジェ｜とんかつ・揚げ物｜大阪｜BRONZE
+- ドンブラボー｜イタリアン｜東京｜BRONZE
+- なか條｜寿司｜神奈川｜BRONZE
+- 中津をにく｜焼肉・肉料理｜大阪｜BRONZE
+- 中土｜フレンチ｜広島｜BRONZE
+- リストランテ ナカモト｜イタリアン｜京都｜BRONZE
+- ナベノ-イズム｜フレンチ｜東京｜BRONZE
+- 名前のないイタリア料理店｜イタリアン｜愛媛｜BRONZE
+- 生ホルモン処 おさむちゃん。｜焼肉・肉料理｜大阪｜BRONZE
+- 奈良 而今｜日本料理｜奈良｜BRONZE
+- にかわ｜焼き鳥・鳥料理｜三重｜BRONZE
+- 肉割烹 上｜焼肉・肉料理｜東京｜BRONZE
+- 肉割烹 山口｜日本料理｜大阪｜BRONZE
+- #肉といえば松田 奈良本店｜焼肉・肉料理｜奈良｜BRONZE
+- 肉屋 雪月花 NAGOYA｜焼肉・肉料理｜愛知｜BRONZE
+- 肉料理ふくなが｜焼肉・肉料理｜滋賀｜BRONZE
+- NICON｜イタリアン｜広島｜BRONZE
+- 壱｜日本料理｜兵庫｜BRONZE
+- 日本のイタリア料理店 sai｜イタリアン｜愛知｜BRONZE
+- 日本料理 久丹｜日本料理｜東京｜BRONZE
+- 日本料理 研野｜日本料理｜京都｜BRONZE
+- こまつ｜日本料理｜北海道｜BRONZE
+- 日本料理 新茶家｜日本料理｜岩手｜BRONZE
+- 日本料理 鷹光｜日本料理｜愛知｜BRONZE
+- 日本料理 太月｜日本料理｜東京｜BRONZE
+- 温味｜日本料理｜北海道｜BRONZE
+- nôtori｜イノベーティブ｜山梨｜BRONZE
+- 野口 グラングリーン大阪｜日本料理｜大阪｜BRONZE
+- 野口太郎｜日本料理｜大阪｜BRONZE
+- 野嵯和｜日本料理｜愛知｜BRONZE
+- ノノカ レストラン｜イノベーティブ｜福岡｜BRONZE
+- Nonna Nietta｜イタリアン｜茨城｜BRONZE
+- 伯雲｜日本料理｜東京｜BRONZE
+- ハジメ｜イノベーティブ｜大阪｜BRONZE
+- 橋本屋｜アジア・エスニック・カレー｜大阪｜BRONZE
+- はすのみ｜中華料理｜岡山｜BRONZE
+- 八寸｜日本料理｜京都｜BRONZE
+- 初音鮨｜寿司｜東京｜BRONZE
+- 花いち｜日本料理｜愛知｜BRONZE
+- 蛤坂 まえかわ｜焼き鳥・鳥料理｜石川｜BRONZE
+- 浜源｜寿司｜愛知｜BRONZE
+- はらまさ｜日本料理｜東京｜BRONZE
+- 東茶屋 なかむら｜日本料理｜大阪｜BRONZE
+- 東山 緒方｜日本料理｜京都｜BRONZE
+- ひがしやま 司｜日本料理｜京都｜BRONZE
+- 東山 吉寿｜日本料理｜京都｜BRONZE
+- ヒカリヤ ニシ｜フレンチ｜長野｜BRONZE
+- 樋口｜日本料理｜東京｜BRONZE
+- 土方｜日本料理｜愛知｜BRONZE
+- 飛騨季節料理 肴｜日本料理｜岐阜｜BRONZE
+- ひつじや｜焼肉・肉料理｜山形｜BRONZE
+- ひとつ｜寿司｜宮崎｜BRONZE
+- 日の出｜日本料理｜三重｜BRONZE
+- ひまわり食堂2｜イタリアン｜富山｜BRONZE
+- Hirovanna｜イタリアン｜愛知｜BRONZE
+- ひろ作｜日本料理｜東京｜BRONZE
+- ヒロ ナゴヤ｜焼肉・肉料理｜愛知｜BRONZE
+- 備長炭焼鳥 鳥しげ｜焼き鳥・鳥料理｜静岡｜BRONZE
+- フィオッキ｜イタリアン｜東京｜BRONZE
+- フェネトレ｜フレンチ｜北海道｜BRONZE
+- ふじさわ｜寿司｜愛知｜BRONZE
+- 伏見町 栫山｜日本料理｜大阪｜BRONZE
+- Fujiya 1935｜イノベーティブ｜大阪｜BRONZE
+- プチレストラン ブーケ・ド・フランス｜フレンチ｜青森｜BRONZE
+- フナシェフ｜フレンチ｜大阪｜BRONZE
+- フランス料理 壺中天｜フレンチ｜愛知｜BRONZE
+- PRIMO PASSO｜イタリアン｜東京｜BRONZE
+- ブレストンコート ユカワタン｜フレンチ｜長野｜BRONZE
+- Florilege｜フレンチ｜東京｜BRONZE
+- Bekk｜イタリアン｜福岡｜BRONZE
+- bb9｜スペイン料理｜兵庫｜BRONZE
+- ベルエキップ｜フレンチ｜岐阜｜BRONZE
+- Point｜フレンチ｜大阪｜BRONZE
+- 前田｜日本料理｜京都｜BRONZE
+- マキノンチ｜フレンチ｜石川｜BRONZE
+- 真白｜イノベーティブ｜京都｜BRONZE
+- MAZ｜イノベーティブ｜東京｜BRONZE
+- マスドラヴァンド｜フレンチ｜愛知｜BRONZE
+- 松石｜中華料理｜宮城｜BRONZE
+- malca｜イタリアン｜東京｜BRONZE
+- 丸新｜日本料理｜福島｜BRONZE
+- 丸安｜魚介料理・海鮮料理｜兵庫｜BRONZE
+- みえ田｜日本料理｜北海道｜BRONZE
+- 美かさ｜天ぷら｜神奈川｜BRONZE
+- 美加登家｜日本料理｜島根｜BRONZE
+- mikami limited50｜寿司｜大阪｜BRONZE
+- みかわ 是山居｜天ぷら｜東京｜BRONZE
+- 未在｜日本料理｜京都｜BRONZE
+- みつき｜日本料理｜鳥取｜BRONZE
+- middle｜フレンチ｜京都｜BRONZE
+- 南青山 七鳥目｜焼き鳥・鳥料理｜東京｜BRONZE
+- 美山荘｜日本料理｜京都｜BRONZE
+- 妙見石原荘 食菜石蔵｜日本料理｜鹿児島｜BRONZE
+- 無名｜日本料理｜長野｜BRONZE
+- むら上｜寿司｜熊本｜BRONZE
+- 室町 和久傳｜日本料理｜京都｜BRONZE
+- 名山 きみや｜寿司｜鹿児島｜BRONZE
+- メゾン ケイ｜フレンチ｜静岡｜BRONZE
+- Maison DIA Mizuguchi｜フレンチ｜愛知｜BRONZE
+- メゾン フジヤ ハコダテ｜フレンチ｜北海道｜BRONZE
+- MAISON LAFITE｜フレンチ｜福岡｜BRONZE
+- もちづき｜日本料理｜愛知｜BRONZE
+- モトイ｜フレンチ｜京都｜BRONZE
+- もめん｜日本料理｜大阪｜BRONZE
+- 森ふじ｜日本料理｜東京｜BRONZE
+- 焼鳥 市松｜焼き鳥・鳥料理｜大阪｜BRONZE
+- 焼鳥 おみ乃｜焼き鳥・鳥料理｜東京｜BRONZE
+- 焼き鳥 こと｜焼き鳥・鳥料理｜福岡｜BRONZE
+- 焼き鳥 幸羽｜焼き鳥・鳥料理｜静岡｜BRONZE
+- 焼鳥 谷口｜焼き鳥・鳥料理｜兵庫｜BRONZE
+- 焼き鳥 とりら｜焼き鳥・鳥料理｜福岡｜BRONZE
+- 焼鳥 ひげぼうず｜焼き鳥・鳥料理｜北海道｜BRONZE
+- 焼鳥 みずき｜焼き鳥・鳥料理｜岐阜｜BRONZE
+- YAKITORI 燃 es｜焼き鳥・鳥料理｜東京｜BRONZE
+- 焼肉井とう｜焼肉・肉料理｜大分｜BRONZE
+- 焼肉 ジャンボ はなれ｜焼肉・肉料理｜東京｜BRONZE
+- 焼肉すどう 春吉｜焼肉・肉料理｜福岡｜BRONZE
+- 焼肉 静龍苑｜焼肉・肉料理｜東京｜BRONZE
+- 焼肉政ちゃん｜焼肉・肉料理｜大阪｜BRONZE
+- 八ヶ岳 えさき｜日本料理｜山梨｜BRONZE
+- 安参｜焼肉・肉料理｜京都｜BRONZE
+- 柳家錦｜日本料理｜愛知｜BRONZE
+- 薮蕎麦 宮本｜そば｜静岡｜BRONZE
+- 山勢｜うなぎ｜長野｜BRONZE
+- 山田屋｜魚介料理・海鮮料理｜大分｜BRONZE
+- U.KAI｜イノベーティブ｜大阪｜BRONZE
+- unis｜フレンチ｜東京｜BRONZE
+- Une Fleur｜フレンチ｜岐阜｜BRONZE
+- 陽｜日本料理｜青森｜BRONZE
+- 洋食 つばき｜その他｜岐阜｜BRONZE
+- 吉い｜日本料理｜愛知｜BRONZE
+- YOSHIKI FUJI｜フレンチ｜茨城｜BRONZE
+- よし町｜日本料理｜茨城｜BRONZE
+- 米増｜日本料理｜大阪｜BRONZE
+- よろにく｜焼肉・肉料理｜東京｜BRONZE
+- 4000 Chinese Restaurant｜中華料理｜東京｜BRONZE
+- 400℃ PIZZA｜イタリアン｜岡山｜BRONZE
+- Ramen FeeL｜ラーメン｜東京｜BRONZE
+- らぁ麺や 嶋｜ラーメン｜東京｜BRONZE
+- ラ・ヴァガボンド｜フレンチ｜愛知｜BRONZE
+- ラ・カーサ・ディ・テツオ オオタ｜イノベーティブ｜長野｜BRONZE
+- ラ カンロ｜イノベーティブ｜大阪｜BRONZE
+- La Cime｜フレンチ｜大阪｜BRONZE
+- La Stalla｜イタリアン｜茨城｜BRONZE
+- ラチュレ｜フレンチ｜東京｜BRONZE
+- LAT.34°N by 蒼｜フレンチ｜静岡｜BRONZE
+- RADICE｜イタリアン｜京都｜BRONZE
+- ラ・ブランシュ｜フレンチ｜東京｜BRONZE
+- ラ・ベ｜フレンチ｜大阪｜BRONZE
+- ラ・メール｜フレンチ｜三重｜BRONZE
+- ラ・メール ザ クラシック｜フレンチ｜三重｜BRONZE
+- らん亭～ 美日庵｜日本料理｜福島｜BRONZE
+- らんぷ亭｜その他｜宮崎｜BRONZE
+- らんまる｜寿司｜東京｜BRONZE
+- Ristorante SHIKAZAWA｜イタリアン｜岩手｜BRONZE
+- Lito｜イタリアン｜愛知｜BRONZE
+- 里葉亭｜焼き鳥・鳥料理｜神奈川｜BRONZE
+- 龍吟｜日本料理｜東京｜BRONZE
+- 料亭 やまさ旅館｜魚介料理・海鮮料理｜大分｜BRONZE
+- 両忘｜イタリアン｜香川｜BRONZE
+- 料理 小松｜日本料理｜石川｜BRONZE
+- 料理屋 稲家｜日本料理｜大阪｜BRONZE
+- 料理屋 植むら｜日本料理｜兵庫｜BRONZE
+- リョウリヤ ステファン パンテル｜フレンチ｜京都｜BRONZE
+- 料理屋そうびき｜日本料理｜広島｜BRONZE
+- 料理屋 みや﨑｜日本料理｜福井｜BRONZE
+- 麟｜うなぎ｜静岡｜BRONZE
+- ル ソルシエ｜フレンチ｜山口｜BRONZE
+- ル・マンジュ・トゥー｜フレンチ｜東京｜BRONZE
+- ル・ミュゼ・イデア｜フレンチ｜北海道｜BRONZE
+- recte｜フレンチ｜東京｜BRONZE
+- レストラン アレナ｜フレンチ｜福岡｜BRONZE
+- レストラン オオツ｜フレンチ｜茨城｜BRONZE
+- レストラン スノゥ｜イノベーティブ｜福岡｜BRONZE
+- Restaurant Sola｜フレンチ｜福岡｜BRONZE
+- レストラン 高津｜フレンチ｜山口｜BRONZE
+- レストランぶどうの森 レ・トネル｜フレンチ｜石川｜BRONZE
+- Restaurant Honjin｜フレンチ｜愛知｜BRONZE
+- レストラン・モリエール｜フレンチ｜北海道｜BRONZE
+- レストラン ラフィナージュ｜フレンチ｜東京｜BRONZE
+- レストラン ラ フィネス｜フレンチ｜東京｜BRONZE
+- レストラン リューズ｜フレンチ｜東京｜BRONZE
+- レストランRyu｜フレンチ｜三重｜BRONZE
+- L'ETERRE｜フレンチ｜東京｜BRONZE
+- Remede nikaho｜フレンチ｜秋田｜BRONZE
+- L'Ermita｜スペイン料理｜福岡｜BRONZE
+- 蓮 三四七｜日本料理｜東京｜BRONZE
+- ろあん松田 篠山店｜そば｜兵庫｜BRONZE
+- 和牛lab K｜焼肉・肉料理｜広島｜BRONZE
+- 和田金｜焼肉・肉料理｜三重｜BRONZE
+- 和風もつ料理 あらた｜焼肉・肉料理｜大阪｜BRONZE
+- 和洋酒菜 ひで｜居酒屋｜大阪｜BRONZE
+
+## 既存（保存リストと一致・222店）
+
+- 蒼｜イノベーティブ｜東京｜GOLD
+- アカ｜スペイン料理｜東京｜GOLD
+- 赤坂 詠月｜日本料理｜東京｜BRONZE
+- 赤坂おぎ乃｜日本料理｜東京｜SILVER
+- 赤坂 菊乃井｜日本料理｜東京｜BRONZE
+- 赤坂 らいもん｜焼肉・肉料理｜東京｜GOLD
+- 茜坂大沼｜日本料理｜東京｜BRONZE
+- ASAHINA Gastronome｜フレンチ｜東京｜BRONZE
+- 麻布十番 秦野よしき｜寿司｜東京｜BRONZE
+- 麻布 幸村｜日本料理｜東京｜BRONZE
+- AZUR et MASA UEKI｜フレンチ｜東京｜BRONZE
+- アニエルドール｜フレンチ｜大阪｜BRONZE
+- アピシウス｜フレンチ｜東京｜BRONZE
+- 綾小路 唐津｜日本料理｜京都｜BRONZE
+- 麤皮｜焼肉・肉料理｜兵庫｜BRONZE
+- あら輝｜寿司｜東京｜BRONZE
+- アラルデ｜スペイン料理｜大阪｜BRONZE
+- アルゴリズム｜フレンチ｜東京｜BRONZE
+- 飯田｜日本料理｜京都｜GOLD
+- いしまる｜寿司｜埼玉｜BRONZE
+- いちかわ｜寿司｜東京｜BRONZE
+- USHIGORO S. GINZA｜焼肉・肉料理｜東京｜BRONZE
+- 鰻 むさし乃｜うなぎ｜埼玉｜BRONZE
+- うら松｜焼肉・肉料理｜東京｜BRONZE
+- 鍈輝｜焼き鳥・鳥料理｜東京｜BRONZE
+- エスキス｜フレンチ｜東京｜BRONZE
+- エディション・コウジ シモムラ｜フレンチ｜東京｜BRONZE
+- 蕃 YORONIKU｜焼肉・肉料理｜東京｜SILVER
+- 大阪天満宮 鮨とよなが｜寿司｜大阪｜BRONZE
+- 緒方｜日本料理｜京都｜GOLD
+- おたぎ｜日本料理｜京都｜BRONZE
+- 御成門はる｜日本料理｜東京｜BRONZE
+- 緒乃｜日本料理｜大阪｜BRONZE
+- 御料理 はやし｜日本料理｜京都｜BRONZE
+- 御料理 光安｜日本料理｜京都｜BRONZE
+- お料理 宮本｜日本料理｜大阪｜BRONZE
+- オルト｜イノベーティブ｜京都｜BRONZE
+- caillou｜フレンチ｜東京｜BRONZE
+- 神楽坂 石かわ｜日本料理｜東京｜SILVER
+- 膳司 水光庵｜日本料理｜東京｜BRONZE
+- 柏屋 大阪千里山｜日本料理｜大阪｜BRONZE
+- カセント｜イノベーティブ｜兵庫｜BRONZE
+- 片折｜日本料理｜石川｜GOLD
+- 割烹 室井｜日本料理｜東京｜BRONZE
+- カハラ｜創作料理｜大阪｜BRONZE
+- カモシヤ クスモト｜創作料理｜大阪｜BRONZE
+- かわむら｜焼肉・肉料理｜東京｜SILVER
+- 感情｜日本料理｜東京｜BRONZE
+- かんだ｜日本料理｜東京｜BRONZE
+- 広東料理 センス｜中華料理｜東京｜BRONZE
+- きう｜寿司｜京都｜SILVER
+- 紀尾井町 三谷｜寿司｜東京｜BRONZE
+- 祇園 にし｜日本料理｜京都｜BRONZE
+- 菊乃井 本店｜日本料理｜京都｜BRONZE
+- きざ㐂｜寿司｜東京｜BRONZE
+- 北野坂 木下｜イタリアン｜兵庫｜GOLD
+- 紀茂登｜日本料理｜東京｜SILVER
+- 京懐石 吉泉｜日本料理｜京都｜BRONZE
+- きよ田｜寿司｜東京｜BRONZE
+- きよ田 離れ｜寿司｜東京｜BRONZE
+- 銀座 大石｜フレンチ｜東京｜SILVER
+- 銀座 きた川｜日本料理｜東京｜BRONZE
+- 銀座 しのはら｜日本料理｜東京｜GOLD
+- 銀座 上瀧｜中華料理｜東京｜BRONZE
+- 銀座 鮨 かねさか 本店｜寿司｜東京｜BRONZE
+- 銀座ふじやま｜日本料理｜東京｜BRONZE
+- 銀座 レカン｜フレンチ｜東京｜BRONZE
+- くいしんぼー山中｜焼肉・肉料理｜京都｜BRONZE
+- 串かつ あーぼん｜とんかつ・揚げ物｜兵庫｜SILVER
+- グシテ｜イタリアン｜大阪｜SILVER
+- 愚直に｜日本料理｜東京｜BRONZE
+- グルマンディーズ｜フレンチ｜東京｜SILVER
+- くろぎ｜日本料理｜東京｜BRONZE
+- くろ﨑｜寿司｜東京｜BRONZE
+- 月泉｜中華料理｜大阪｜SILVER
+- 港式料理 鴻禧｜中華料理｜東京｜BRONZE
+- こにし家｜日本料理｜兵庫｜BRONZE
+- 虎白｜日本料理｜東京｜BRONZE
+- 虎峰｜中華料理｜東京｜BRONZE
+- 櫻木｜日本料理｜東京｜BRONZE
+- 茶禅華｜中華料理｜東京｜GOLD
+- さわ田｜寿司｜東京｜GOLD
+- 三和｜イタリアン｜東京｜SILVER
+- Ji-Cube｜中華料理｜東京｜SILVER
+- シェ・イノ｜フレンチ｜東京｜SILVER
+- 島津｜寿司｜東京｜GOLD
+- 酒亭 田中｜焼き鳥・鳥料理｜東京｜BRONZE
+- 旬席 鈴江｜日本料理｜京都｜BRONZE
+- 食堂 aca｜スペイン料理｜東京｜BRONZE
+- 尽誠｜寿司｜大阪｜BRONZE
+- 新ばし しみづ｜寿司｜東京｜BRONZE
+- 新ばし 星野｜日本料理｜東京｜GOLD
+- SUGALABO｜イノベーティブ｜東京｜SILVER
+- スガラボヴィー｜フレンチ｜大阪｜BRONZE
+- すし 良月｜寿司｜東京｜SILVER
+- 鮨 あらい｜寿司｜東京｜GOLD
+- 鮨 一幸｜寿司｜東京｜GOLD
+- すし うえだ｜寿司｜兵庫｜BRONZE
+- 鮨 おおが｜寿司｜大阪｜BRONZE
+- 寿し おおはた｜寿司｜大阪｜BRONZE
+- 鮓 きずな｜寿司｜大阪｜BRONZE
+- 鮨 さいとう｜寿司｜東京｜GOLD
+- 鮨 さえ喜｜寿司｜東京｜BRONZE
+- 鮨 三心｜寿司｜大阪｜GOLD
+- 鮨しゅんじ｜寿司｜東京｜SILVER
+- すし匠 齋藤｜寿司｜東京｜BRONZE
+- 寿志 城助｜寿司｜兵庫｜BRONZE
+- 鮨 鈴木｜寿司｜東京｜BRONZE
+- 鮨処 多田｜寿司｜大阪｜BRONZE
+- 鮨 なんば 日比谷｜寿司｜東京｜SILVER
+- 鮨 はしぐち｜寿司｜東京｜BRONZE
+- 鮨 はしもと｜寿司｜東京｜SILVER
+- 鮓 ふじなが｜寿司｜東京｜BRONZE
+- 鮨 まつうら｜寿司｜東京｜BRONZE
+- 鮨 まつ本｜寿司｜兵庫｜BRONZE
+- 鮨 みずかみ｜寿司｜東京｜BRONZE
+- 鮨 めい乃｜寿司｜東京｜SILVER
+- 鮨 やすみつ｜寿司｜東京｜BRONZE
+- 鮨 ゆうき｜寿司｜東京｜BRONZE
+- 鮨 よしたけ｜寿司｜東京｜BRONZE
+- 鮨 陸｜寿司｜東京｜BRONZE
+- 鮨 龍次郎｜寿司｜東京｜SILVER
+- 鈴田式｜日本料理｜東京｜BRONZE
+- ステーキハウス キッチンリボン｜焼肉・肉料理｜愛知｜BRONZE
+- 炭焼 金竜山｜焼肉・肉料理｜東京｜BRONZE
+- スリオラ｜スペイン料理｜東京｜BRONZE
+- SEZANNE｜フレンチ｜東京｜SILVER
+- 是しん｜日本料理｜大阪｜BRONZE
+- 啐啄 つか本｜日本料理｜京都｜GOLD
+- Takumi｜フレンチ｜東京｜BRONZE
+- 匠 進吾｜寿司｜東京｜BRONZE
+- CHIUnE｜イノベーティブ｜東京｜SILVER
+- 中国菜 火ノ鳥｜中華料理｜大阪｜BRONZE
+- 中国四川酒家 蔓山｜中華料理｜千葉｜BRONZE
+- 中国飯店 富麗華｜中華料理｜東京｜SILVER
+- 對馬｜中華料理｜東京｜BRONZE
+- 天神橋 青木｜日本料理｜大阪｜BRONZE
+- tens.｜イタリアン｜東京｜BRONZE
+- 天ぷら浅沼｜天ぷら｜東京｜SILVER
+- てんぷら 近藤｜天ぷら｜東京｜BRONZE
+- てんぷら 深町｜天ぷら｜東京｜BRONZE
+- 東京園｜焼肉・肉料理｜東京｜BRONZE
+- 東京肉しゃぶ家｜焼肉・肉料理｜東京｜BRONZE
+- 東京肉しゃぶ家 秀彬｜焼肉・肉料理｜東京｜BRONZE
+- 道人｜日本料理｜京都｜GOLD
+- 隼｜中華料理｜東京｜SILVER
+- 冨所｜寿司｜東京｜BRONZE
+- 富小路 やま岸｜日本料理｜京都｜SILVER
+- トムクリオーザ｜イタリアン｜大阪｜SILVER
+- と村｜日本料理｜東京｜BRONZE
+- 鳥匠 いし井｜焼き鳥・鳥料理｜大阪｜SILVER
+- 鳥匠いし井ひな｜焼き鳥・鳥料理｜東京｜BRONZE
+- とんかつ 乃ぐち｜とんかつ・揚げ物｜大阪｜BRONZE
+- とんかつ マンジェ｜とんかつ・揚げ物｜大阪｜BRONZE
+- 生ホルモン処 おさむちゃん。｜焼肉・肉料理｜大阪｜BRONZE
+- NARISAWA｜イノベーティブ｜東京｜SILVER
+- 肉料理ふくなが｜焼肉・肉料理｜滋賀｜BRONZE
+- 日本料理 久丹｜日本料理｜東京｜BRONZE
+- 日本料理 晴山｜日本料理｜東京｜SILVER
+- 日本料理 太月｜日本料理｜東京｜BRONZE
+- 伯雲｜日本料理｜東京｜BRONZE
+- ハジメ｜イノベーティブ｜大阪｜BRONZE
+- 長谷川 稔｜イノベーティブ｜東京｜SILVER
+- 波濤｜寿司｜東京｜SILVER
+- はらまさ｜日本料理｜東京｜BRONZE
+- 青空｜寿司｜東京｜SILVER
+- 美会｜イノベーティブ｜東京｜SILVER
+- 東麻布 天本｜寿司｜東京｜GOLD
+- 飛騨季節料理 肴｜日本料理｜岐阜｜BRONZE
+- 比良山荘｜日本料理｜滋賀｜SILVER
+- ひろ作｜日本料理｜東京｜BRONZE
+- フィオッキ｜イタリアン｜東京｜BRONZE
+- Fujiya 1935｜イノベーティブ｜大阪｜BRONZE
+- フナシェフ｜フレンチ｜大阪｜BRONZE
+- プリズマ｜イタリアン｜東京｜SILVER
+- PRIMO PASSO｜イタリアン｜東京｜BRONZE
+- フルタ｜中華料理｜東京｜SILVER
+- Florilege｜フレンチ｜東京｜BRONZE
+- bb9｜スペイン料理｜兵庫｜BRONZE
+- ペレグリーノ｜イタリアン｜東京｜SILVER
+- Point｜フレンチ｜大阪｜BRONZE
+- 本湖月｜日本料理｜大阪｜GOLD
+- 前田｜日本料理｜京都｜BRONZE
+- 薪鳥新神戸｜焼き鳥・鳥料理｜東京｜SILVER
+- 松川｜日本料理｜東京｜GOLD
+- malca｜イタリアン｜東京｜BRONZE
+- 丸安｜魚介料理・海鮮料理｜兵庫｜BRONZE
+- みかわ 是山居｜天ぷら｜東京｜BRONZE
+- 味享｜日本料理｜東京｜SILVER
+- 明寂｜日本料理｜東京｜SILVER
+- 室町 和久傳｜日本料理｜京都｜BRONZE
+- もめん｜日本料理｜大阪｜BRONZE
+- 焼鳥 市松｜焼き鳥・鳥料理｜大阪｜BRONZE
+- 焼鳥 谷口｜焼き鳥・鳥料理｜兵庫｜BRONZE
+- YAKITORI 燃 es｜焼き鳥・鳥料理｜東京｜BRONZE
+- 焼肉幸泉｜焼肉・肉料理｜東京｜SILVER
+- 焼肉 ジャンボ はなれ｜焼肉・肉料理｜東京｜BRONZE
+- 焼肉 静龍苑｜焼肉・肉料理｜東京｜BRONZE
+- 焼肉政ちゃん｜焼肉・肉料理｜大阪｜BRONZE
+- 山﨑｜日本料理｜東京｜SILVER
+- unis｜フレンチ｜東京｜BRONZE
+- 洋食 つばき｜その他｜岐阜｜BRONZE
+- 米増｜日本料理｜大阪｜BRONZE
+- よろにく｜焼肉・肉料理｜東京｜BRONZE
+- YORONIKU TOKYO AZABUDAIHILLS｜焼肉・肉料理｜東京｜SILVER
+- 4000 Chinese Restaurant｜中華料理｜東京｜BRONZE
+- ラ カンロ｜イノベーティブ｜大阪｜BRONZE
+- La Cime｜フレンチ｜大阪｜BRONZE
+- ラチュレ｜フレンチ｜東京｜BRONZE
+- ラ・ベ｜フレンチ｜大阪｜BRONZE
+- 龍吟｜日本料理｜東京｜BRONZE
+- 料理屋 植むら｜日本料理｜兵庫｜BRONZE
+- recte｜フレンチ｜東京｜BRONZE
+- レストラン ラフィナージュ｜フレンチ｜東京｜BRONZE
+- レストラン ラ フィネス｜フレンチ｜東京｜BRONZE
+- レストラン リューズ｜フレンチ｜東京｜BRONZE
+- レ セゾン｜フレンチ｜東京｜SILVER
+- L'ETERRE｜フレンチ｜東京｜BRONZE
+- レフェルヴェソンス｜フレンチ｜東京｜SILVER
+- 蓮 三四七｜日本料理｜東京｜BRONZE
+- ロオジエ｜フレンチ｜東京｜SILVER
+- 和洋酒菜 ひで｜居酒屋｜大阪｜BRONZE
+
+## 要確認（7店）
+
+アワード側店名 ― 保存リスト側の候補（理由）。同一店かどうか未確定。
+
+- 祇園 にしかわ｜日本料理｜京都｜BRONZE ― 候補：「祇園 にし」（前方一致（地名・支店名の有無など））
+- 銀座 きた福｜魚介料理・海鮮料理｜東京｜BRONZE ― 候補：「銀座 きた川」（表記ゆれ（編集距離1））
+- すし匠｜寿司｜秋田｜BRONZE ― 候補：「すし匠 齋藤」（前方一致（地名・支店名の有無など））
+- すし匠｜寿司｜東京｜SILVER ― 候補：「すし匠 齋藤」（前方一致（地名・支店名の有無など））
+- ステーキハウス バロン｜焼肉・肉料理｜熊本｜BRONZE ― 候補：「ステーキハウス ロイン」（表記ゆれ（編集距離2））
+- Restaurant Sola｜フレンチ｜福岡｜BRONZE ― 候補：「RESTAURANT SALT」（表記ゆれ（編集距離2））
+- レストラン・モリエール｜フレンチ｜北海道｜BRONZE ― 候補：「レストランエール」（表記ゆれ（編集距離2））
+
+## 新規（保存リストに無い・504店）
+
+- AKAI｜イノベーティブ｜広島｜SILVER
+- 赤吉｜寿司｜愛媛｜BRONZE
+- 赤坂 きた福｜魚介料理・海鮮料理｜東京｜BRONZE
+- 赤間茶屋 あ三五｜そば｜福岡｜BRONZE
+- AKI NAGAO｜フレンチ｜北海道｜SILVER
+- アコルドゥ｜イノベーティブ｜奈良｜BRONZE
+- 麻布室井｜日本料理｜東京｜BRONZE
+- 味あら井｜日本料理｜大分｜BRONZE
+- 味道広路｜日本料理｜北海道｜SILVER
+- 味ひろ｜日本料理｜東京｜BRONZE
+- 味満ん｜魚介料理・海鮮料理｜東京｜SILVER
+- 味幸｜日本料理｜東京｜BRONZE
+- Aspirant｜フレンチ｜兵庫｜BRONZE
+- ad hoc｜フレンチ｜大阪｜BRONZE
+- affetto akita｜イタリアン｜秋田｜BRONZE
+- あま木｜寿司｜愛知｜BRONZE
+- 飴源｜日本料理｜佐賀｜BRONZE
+- aru｜フレンチ｜愛知｜BRONZE
+- あるところ｜日本料理｜佐賀｜BRONZE
+- 淡路島 亙｜寿司｜兵庫｜BRONZE
+- anchoa｜スペイン料理｜神奈川｜BRONZE
+- entre nous｜フレンチ｜兵庫｜BRONZE
+- 飯田商店｜ラーメン｜神奈川｜SILVER
+- 活鰻の店 つぐみ庵｜うなぎ｜東京｜BRONZE
+- 石臼挽き蕎麦香房 山の実｜そば｜長野｜BRONZE
+- 出雲｜日本料理｜愛知｜BRONZE
+- 礒田｜日本料理｜東京｜SILVER
+- イタリア料理 今井｜イタリアン｜兵庫｜BRONZE
+- 一鰻｜うなぎ｜静岡｜BRONZE
+- イチリン ハナレ｜中華料理｜神奈川｜SILVER
+- 一心鮨 光洋｜寿司｜宮崎｜BRONZE
+- 一本木石橋｜日本料理｜福岡｜BRONZE
+- 今石飯店 涼華｜中華料理｜福岡｜BRONZE
+- 井本｜日本料理｜福岡｜BRONZE
+- 井雪｜日本料理｜東京｜SILVER
+- イル アオヤマ｜イタリアン｜愛知｜SILVER
+- IL GARAGE｜イタリアン｜京都｜BRONZE
+- イル・ピッツァイオーロ｜イタリアン｜宮城｜BRONZE
+- Installation Table ENSO L'asymetrie du calme｜フレンチ｜石川｜BRONZE
+- villa del nido｜イタリアン｜長崎｜BRONZE
+- ヴィラ・アイーダ｜イタリアン｜和歌山｜BRONZE
+- ヴィラ・デラ・パーチェ｜イタリアン｜石川｜BRONZE
+- 右江田｜寿司｜愛知｜BRONZE
+- ヴェンティノーヴェ｜イタリアン｜群馬｜BRONZE
+- 魚津屋｜日本料理｜京都｜BRONZE
+- 魚虎｜居酒屋｜福岡｜BRONZE
+- ウシマル｜イタリアン｜千葉｜SILVER
+- うなぎ 魚政｜うなぎ｜東京｜SILVER
+- うなぎ亭 友栄｜うなぎ｜神奈川｜SILVER
+- うなぎのまつ嘉｜うなぎ｜長野｜BRONZE
+- う嵐｜うなぎ｜滋賀｜SILVER
+- 永山｜日本料理｜広島｜BRONZE
+- エクアトゥール｜イノベーティブ｜東京｜BRONZE
+- f｜イタリアン｜秋田｜BRONZE
+- ete｜イノベーティブ｜東京｜SILVER
+- 江戸前晋作｜天ぷら｜東京｜BRONZE
+- 江戸町 すぎもと｜寿司｜三重｜BRONZE
+- NH｜フレンチ｜大阪｜BRONZE
+- NK｜日本料理｜東京｜SILVER
+- エノテカ・ラ・リコルマ｜イタリアン｜北海道｜BRONZE
+- 永来権｜焼き鳥・鳥料理｜兵庫｜BRONZE
+- 炎水｜日本料理｜東京｜BRONZE
+- AUBE｜中華料理｜大阪｜BRONZE
+- Auberge eaufeu｜イノベーティブ｜石川｜BRONZE
+- オオクサ｜焼き鳥・鳥料理｜東京｜SILVER
+- おおたに｜日本料理｜愛知｜BRONZE
+- おぎたに｜日本料理｜兵庫｜BRONZE
+- オステリア・エノテカ・ダ・サスィーノ｜イタリアン｜青森｜BRONZE
+- オテル・ド・ヨシノ｜フレンチ｜和歌山｜BRONZE
+- 乙女寿司｜寿司｜石川｜BRONZE
+- オトワ レストラン｜フレンチ｜栃木｜SILVER
+- おにく 花柳｜焼肉・肉料理｜東京｜BRONZE
+- オマージュ｜フレンチ｜東京｜BRONZE
+- 御料理 一燈｜日本料理｜福井｜BRONZE
+- お料理 佐藤｜日本料理｜福岡｜BRONZE
+- 御料理 寺沢｜日本料理｜岩手｜BRONZE
+- 御料理 ひさまつ｜日本料理｜愛知｜BRONZE
+- 御料理ふじ居｜日本料理｜富山｜SILVER
+- 御料理 まつ山｜日本料理｜福岡｜SILVER
+- 温石｜日本料理｜静岡｜GOLD
+- カーサ・デル・チーボ｜イタリアン｜青森｜BRONZE
+- KAI｜イタリアン｜鹿児島｜BRONZE
+- 開化亭｜中華料理｜岐阜｜BRONZE
+- 懐石 八泉｜日本料理｜愛知｜BRONZE
+- カエンネ｜イタリアン｜長野｜BRONZE
+- 薫 HIROO｜イノベーティブ｜東京｜BRONZE
+- かさ原｜焼き鳥・鳥料理｜東京｜GOLD
+- Kashu｜フレンチ｜青森｜BRONZE
+- ガストロノミー ジョエル・ロブション｜フレンチ｜東京｜SILVER
+- 潟潟ヤ｜創作料理｜神奈川｜BRONZE
+- かたつむり｜日本料理｜岐阜｜BRONZE
+- 割烹 新多久｜日本料理｜新潟｜SILVER
+- katecuore｜イタリアン｜佐賀｜SILVER
+- かに吉｜魚介料理・海鮮料理｜鳥取｜BRONZE
+- かぶと｜うなぎ｜東京｜SILVER
+- GapricE｜イタリアン｜愛知｜BRONZE
+- 我逢人｜寿司｜福岡｜BRONZE
+- 鎌倉 北じま｜日本料理｜神奈川｜SILVER
+- Kalpasi｜アジア・エスニック・カレー｜東京｜BRONZE
+- 川喜｜魚介料理・海鮮料理｜福井｜BRONZE
+- 川田｜日本料理｜東京｜BRONZE
+- カンテサンス｜フレンチ｜東京｜SILVER
+- 祇園 大渡｜日本料理｜京都｜BRONZE
+- ぎおん 阪川｜日本料理｜京都｜BRONZE
+- 祇園 さゝ木｜日本料理｜京都｜BRONZE
+- 祇園 又吉｜日本料理｜京都｜BRONZE
+- 菊鮨｜寿司｜福岡｜SILVER
+- 木佐貫｜日本料理｜石川｜SILVER
+- 貴山｜日本料理｜東京｜SILVER
+- 季節料理 なかしま｜日本料理｜広島｜BRONZE
+- きたうら善漁。｜日本料理｜宮崎｜BRONZE
+- 北島亭｜フレンチ｜東京｜BRONZE
+- kitchen俊貴｜その他｜愛知｜BRONZE
+- 木山｜日本料理｜京都｜SILVER
+- キャラバン｜焼肉・肉料理｜佐賀｜BRONZE
+- 京味 もと井｜日本料理｜愛知｜BRONZE
+- 京極寿司｜寿司｜滋賀｜BRONZE
+- 京 静華｜中華料理｜京都｜BRONZE
+- 兄弟寿し｜寿司｜新潟｜SILVER
+- 京天神 野口｜日本料理｜京都｜SILVER
+- 京都 吉兆 嵐山本店｜日本料理｜京都｜BRONZE
+- 郷土料理 嗣味｜日本料理｜福岡｜BRONZE
+- ぎをん 遠藤｜日本料理｜京都｜BRONZE
+- 銀座かに松｜魚介料理・海鮮料理｜東京｜BRONZE
+- 串かつ だいぼん｜とんかつ・揚げ物｜大阪｜BRONZE
+- くすのき 本店｜天ぷら｜東京｜SILVER
+- クッカーニャ｜イタリアン｜福岡｜BRONZE
+- クッチーナ イタリアーナ ガッルーラ｜イタリアン｜愛知｜BRONZE
+- くるますし｜寿司｜愛媛｜SILVER
+- クロモリ｜中華料理｜宮城｜BRONZE
+- 京洛焼肉 ぽめ｜焼肉・肉料理｜大阪｜BRONZE
+- コート ドール｜フレンチ｜東京｜BRONZE
+- 吾一｜焼き鳥・鳥料理｜大阪｜BRONZE
+- Goh｜イノベーティブ｜福岡｜BRONZE
+- 好日｜日本料理｜愛知｜BRONZE
+- 高台寺 和久傳｜日本料理｜京都｜BRONZE
+- 行楽庵｜日本料理｜滋賀｜BRONZE
+- 御幸町 田がわ｜日本料理｜京都｜BRONZE
+- 小魚料理 とみ助｜日本料理｜広島｜BRONZE
+- 枯淡｜寿司｜福岡｜BRONZE
+- ことわりをはかるみせ ばんどう｜日本料理｜愛知｜BRONZE
+- 小判寿司 棚倉｜寿司｜福島｜BRONZE
+- こま田｜寿司｜三重｜GOLD
+- 小松 弥助｜寿司｜石川｜BRONZE
+- 湖里庵｜日本料理｜滋賀｜BRONZE
+- commedia｜イタリアン｜東京｜BRONZE
+- 齋華｜中華料理｜京都｜SILVER
+- 在掌｜寿司｜福岡｜BRONZE
+- サエキ飯店｜中華料理｜東京｜BRONZE
+- 魚菜料理 縄屋｜日本料理｜京都｜BRONZE
+- SATOブリアン 本店｜焼肉・肉料理｜東京｜BRONZE
+- SATOブリアン にごう｜焼肉・肉料理｜東京｜BRONZE
+- 澤田｜日本料理｜大阪｜SILVER
+- 参宮橋 あさや｜うなぎ｜東京｜SILVER
+- 山玄茶｜日本料理｜京都｜BRONZE
+- 三田牛竈炭火焼 ウェスタ｜焼肉・肉料理｜東京｜BRONZE
+- 時限堂｜日本料理｜東京｜BRONZE
+- 6｜イノベーティブ｜沖縄｜BRONZE
+- 召膳 無苦庵｜日本料理｜和歌山｜BRONZE
+- じどりや 穏座｜焼き鳥・鳥料理｜滋賀｜BRONZE
+- jinen.｜フレンチ｜東京｜BRONZE
+- しの田｜日本料理｜愛媛｜BRONZE
+- ShinoiS｜中華料理｜東京｜BRONZE
+- 私房菜 きた川｜中華料理｜三重｜SILVER
+- しまなみふれんち Murakami｜フレンチ｜大阪｜BRONZE
+- 霜止出苗｜イノベーティブ｜北海道｜BRONZE
+- 車力門 おの澤｜日本料理｜東京｜BRONZE
+- ジュエーメ｜イタリアン｜秋田｜BRONZE
+- 酒盃｜居酒屋｜秋田｜BRONZE
+- 橦木町 しみず｜日本料理｜愛知｜GOLD
+- 旬彩天 つちや｜天ぷら｜大阪｜BRONZE
+- 小菜中華 hiro｜中華料理｜岐阜｜BRONZE
+- 青蓮院門跡前 月おか｜日本料理｜京都｜BRONZE
+- 食堂 おがわ｜日本料理｜京都｜SILVER
+- SHOKUDO YArn｜イノベーティブ｜石川｜BRONZE
+- しろ｜イタリアン｜京都｜BRONZE
+- Syn｜フレンチ｜福岡｜BRONZE
+- JIMGU｜イノベーティブ｜大分｜BRONZE
+- sincere｜フレンチ｜東京｜BRONZE
+- 眞善美｜中華料理｜愛知｜SILVER
+- Simples｜イノベーティブ｜静岡｜BRONZE
+- 新門前 米村｜イノベーティブ｜京都｜BRONZE
+- 深夜焼肉 だいちゃん｜焼肉・肉料理｜京都｜BRONZE
+- 末冨｜日本料理｜東京｜SILVER
+- すが弥｜寿司｜東京｜BRONZE
+- 須崎食料品店｜うどん｜香川｜BRONZE
+- 鮨 あお｜寿司｜東京｜BRONZE
+- 鮨 いとう｜寿司｜福島｜BRONZE
+- 鮨 いの｜寿司｜愛媛｜BRONZE
+- 鮨 猪股｜寿司｜埼玉｜SILVER
+- 寿司栄｜寿司｜千葉｜SILVER
+- 鮨 縁｜寿司｜岡山｜BRONZE
+- 鮨 おさむ｜寿司｜福岡｜BRONZE
+- 鮨おばな｜寿司｜群馬｜SILVER
+- 鮨 唐島｜寿司｜福岡｜BRONZE
+- 鮨 木場谷｜寿司｜石川｜BRONZE
+- すし 喜邑｜寿司｜東京｜SILVER
+- 鮨 行天｜寿司｜福岡｜BRONZE
+- 鮨駒｜寿司｜秋田｜SILVER
+- 鮨菜 和喜智｜寿司｜北海道｜BRONZE
+- 鮨 さかい｜寿司｜福岡｜SILVER
+- 鮨 Shizuku｜寿司｜大阪｜BRONZE
+- 鮨 十兵衛｜寿司｜福井｜SILVER
+- 鮨 しゅん輔 阿佐ヶ谷｜寿司｜東京｜SILVER
+- 鮨旬美西川｜寿司｜愛知｜BRONZE
+- 鮨 しょう太｜寿司｜北海道｜BRONZE
+- 鮨匠 のむら｜寿司｜鹿児島｜SILVER
+- 鮨 草平｜寿司｜北海道｜BRONZE
+- 鮓 たいと｜寿司｜熊本｜BRONZE
+- 鮨 大門｜寿司｜富山｜BRONZE
+- 鮨 尚充｜寿司｜東京｜SILVER
+- 寿司つばさ｜寿司｜福岡｜BRONZE
+- 鮨処 有馬｜寿司｜北海道｜BRONZE
+- すし処 ひさ田｜寿司｜岡山｜SILVER
+- すし処 睦月｜寿司｜愛知｜BRONZE
+- すし処 めくみ｜寿司｜石川｜SILVER
+- 鮨処 やまと｜寿司｜東京｜BRONZE
+- 鮨中村｜寿司｜熊本｜BRONZE
+- 鮨 西崎｜寿司｜東京｜SILVER
+- 鮨ノ蔵｜寿司｜北海道｜BRONZE
+- 鮨 土方｜寿司｜愛知｜BRONZE
+- 寿し ひでたか｜寿司｜北海道｜BRONZE
+- 鮨 ます田｜寿司｜東京｜BRONZE
+- 鮨みなと｜寿司｜北海道｜BRONZE
+- すし みむろ｜寿司｜熊本｜BRONZE
+- すし宮川｜寿司｜北海道｜SILVER
+- スシュ｜フレンチ｜秋田｜BRONZE
+- 鮨 よし田｜寿司｜福岡｜BRONZE
+- すゝき野 鮨金｜寿司｜北海道｜BRONZE
+- スタミナ苑｜焼肉・肉料理｜東京｜SILVER
+- Stanza della SINCERITA｜イタリアン｜山形｜BRONZE
+- SPICY CURRY 魯珈｜アジア・エスニック・カレー｜東京｜BRONZE
+- 炭火割烹 いふき｜日本料理｜京都｜BRONZE
+- 炭火焼肉 久｜焼肉・肉料理｜秋田｜BRONZE
+- 炭火焼肉 なかはら｜焼肉・肉料理｜東京｜BRONZE
+- 炭火焼肉ホルモンさわいし｜焼肉・肉料理｜神奈川｜SILVER
+- 炭火焼 ゆうじ｜焼肉・肉料理｜東京｜BRONZE
+- 瞬｜うなぎ｜静岡｜GOLD
+- 炭焼 おかげさん｜焼き鳥・鳥料理｜宮城｜BRONZE
+- 炭焼ハンバーグ 牛船｜焼肉・肉料理｜佐賀｜BRONZE
+- 壽山｜日本料理｜北海道｜BRONZE
+- 勢麟｜日本料理｜静岡｜SILVER
+- SECRETO｜イノベーティブ｜東京｜BRONZE
+- 雪月花 たなかさとる｜焼肉・肉料理｜愛知｜BRONZE
+- cepages｜フレンチ｜群馬｜BRONZE
+- 1000｜焼き鳥・鳥料理｜神奈川｜BRONZE
+- SÉN｜イノベーティブ｜奈良｜BRONZE
+- 杦｜日本料理｜京都｜BRONZE
+- センティウ｜イタリアン｜鹿児島｜BRONZE
+- 草庵 鍋島｜日本料理｜佐賀｜BRONZE
+- 壮士｜寿司｜広島｜BRONZE
+- 草喰 なかひがし｜日本料理｜京都｜BRONZE
+- 大市｜魚介料理・海鮮料理｜京都｜BRONZE
+- たかおか｜寿司｜千葉｜BRONZE
+- 鷹匠壽｜焼き鳥・鳥料理｜東京｜SILVER
+- 鷹ノ橋 清耽｜創作料理｜広島｜BRONZE
+- 髙橋 謙太郎｜寿司｜大阪｜BRONZE
+- タカヤマ｜イノベーティブ｜京都｜BRONZE
+- 宝寿司分店｜寿司｜秋田｜BRONZE
+- たきや｜天ぷら｜東京｜GOLD
+- TACUBO｜イタリアン｜東京｜SILVER
+- 竹屋町 三多｜日本料理｜京都｜SILVER
+- 田代｜うなぎ｜愛知｜BRONZE
+- 田中圭英｜中華料理｜大阪｜SILVER
+- 玉笑｜そば｜東京｜BRONZE
+- 淡流｜日本料理｜兵庫｜BRONZE
+- チェルカ トローヴァ｜イタリアン｜宮崎｜SILVER
+- cenci｜イタリアン｜京都｜BRONZE
+- 近松｜寿司｜福岡｜GOLD
+- 馳走 啐啄一十｜日本料理｜広島｜SILVER
+- 馳走西健一｜フレンチ｜静岡｜GOLD
+- 千葉たかおか｜寿司｜東京｜BRONZE
+- 中華 大しげ｜中華料理｜佐賀｜SILVER
+- 中国菜 Guu｜中華料理｜京都｜SILVER
+- 中國菜 奈良町 枸杞｜中華料理｜奈良｜BRONZE
+- 中国菜 木燕｜中華料理｜長野｜BRONZE
+- 中国料理 川｜中華料理｜宮崎｜BRONZE
+- 中国料理マスキ｜中華料理｜広島｜BRONZE
+- 白｜日本料理｜奈良｜BRONZE
+- TSUSHIMI｜フレンチ｜山梨｜SILVER
+- つねちゃん｜焼肉・肉料理｜大阪｜BRONZE
+- 津の守坂 小柴｜日本料理｜東京｜BRONZE
+- 鶴八｜天ぷら｜熊本｜BRONZE
+- つる由｜日本料理｜奈良｜BRONZE
+- 手打蕎麦 じゆうさん｜そば｜東京｜BRONZE
+- 照寿司｜寿司｜福岡｜BRONZE
+- Terroir愛と胃袋｜イノベーティブ｜山梨｜BRONZE
+- 出羽屋｜日本料理｜山形｜SILVER
+- 傳｜創作料理｜東京｜SILVER
+- 天寿し 京町店｜寿司｜福岡｜SILVER
+- 天白｜天ぷら｜千葉｜SILVER
+- 天ぷらあら木｜天ぷら｜北海道｜BRONZE
+- 天ぷら 京星｜天ぷら｜京都｜BRONZE
+- 天ぷら 車｜天ぷら｜群馬｜BRONZE
+- 天ぷら 小泉｜天ぷら｜石川｜BRONZE
+- 天ぷら 桜人｜天ぷら｜兵庫｜BRONZE
+- 佐藤養助 正心庵｜天ぷら｜秋田｜BRONZE
+- 天ぷら たけうち｜天ぷら｜福岡｜SILVER
+- 秋田 てんぷら みかわ｜天ぷら｜秋田｜BRONZE
+- 天ぷら もっこす｜天ぷら｜群馬｜SILVER
+- TTOAHISU｜イノベーティブ｜福岡｜BRONZE
+- トゥールダルジャン 東京｜フレンチ｜東京｜BRONZE
+- 道後 海舟｜日本料理｜愛媛｜BRONZE
+- トゥ・ラ・ジョア イズム｜イノベーティブ｜愛知｜BRONZE
+- 登喜和鮨 新潟店｜寿司｜新潟｜BRONZE
+- 登喜和鮨 新発田本店｜寿司｜新潟｜SILVER
+- 徳ㇵ本也｜日本料理｜京都｜GOLD
+- 徳山鮓｜日本料理｜滋賀｜BRONZE
+- トマト｜アジア・エスニック・カレー｜東京｜BRONZE
+- TOMONO｜中華料理｜大阪｜BRONZE
+- 虎屋 壺中庵｜日本料理｜徳島｜BRONZE
+- 鳥さき｜焼き鳥・鳥料理｜京都｜BRONZE
+- 鳥しき｜焼き鳥・鳥料理｜東京｜SILVER
+- 鳥茂｜居酒屋｜東京｜BRONZE
+- とり茶太郎｜焼き鳥・鳥料理｜東京｜SILVER
+- とり やまもと｜焼き鳥・鳥料理｜広島｜BRONZE
+- 鳥料理 鳥勝｜焼き鳥・鳥料理｜東京｜BRONZE
+- トレイス｜イノベーティブ｜東京｜SILVER
+- とんかつ成蔵｜とんかつ・揚げ物｜東京｜BRONZE
+- とんかつ ふじ井｜とんかつ・揚げ物｜大阪｜BRONZE
+- ドンブラボー｜イタリアン｜東京｜BRONZE
+- なか條｜寿司｜神奈川｜BRONZE
+- 中津をにく｜焼肉・肉料理｜大阪｜BRONZE
+- 中土｜フレンチ｜広島｜BRONZE
+- なかむら｜天ぷら｜静岡｜SILVER
+- リストランテ ナカモト｜イタリアン｜京都｜BRONZE
+- ナベノ-イズム｜フレンチ｜東京｜BRONZE
+- 名前のないイタリア料理店｜イタリアン｜愛媛｜BRONZE
+- 奈良 而今｜日本料理｜奈良｜BRONZE
+- 奈良屋町 青｜イノベーティブ｜福岡｜SILVER
+- 成生｜天ぷら｜静岡｜GOLD
+- にかわ｜焼き鳥・鳥料理｜三重｜BRONZE
+- 肉割烹 上｜焼肉・肉料理｜東京｜BRONZE
+- 肉割烹 山口｜日本料理｜大阪｜BRONZE
+- #肉といえば松田 奈良本店｜焼肉・肉料理｜奈良｜BRONZE
+- にくの匠 三芳｜焼肉・肉料理｜京都｜SILVER
+- 肉屋 雪月花 NAGOYA｜焼肉・肉料理｜愛知｜BRONZE
+- 肉屋 田中｜焼肉・肉料理｜東京｜SILVER
+- NICON｜イタリアン｜広島｜BRONZE
+- 虹吉｜魚介料理・海鮮料理｜愛媛｜SILVER
+- にしぶち飯店｜中華料理｜京都｜SILVER
+- 壱｜日本料理｜兵庫｜BRONZE
+- 日本のイタリア料理店 sai｜イタリアン｜愛知｜BRONZE
+- 日本橋蛎殻町 すぎた｜寿司｜東京｜GOLD
+- 日本橋 蕎ノ字｜天ぷら｜東京｜SILVER
+- 日本料理 研野｜日本料理｜京都｜BRONZE
+- こまつ｜日本料理｜北海道｜BRONZE
+- 日本料理 新茶家｜日本料理｜岩手｜BRONZE
+- 日本料理 鷹光｜日本料理｜愛知｜BRONZE
+- 日本料理 たかむら｜日本料理｜秋田｜SILVER
+- 日本料理 TOBIUME｜日本料理｜福岡｜SILVER
+- 日本料理FUJI｜日本料理｜静岡｜SILVER
+- 日本料理 別府 廣門｜日本料理｜大分｜SILVER
+- 仁修樓｜中華料理｜京都｜GOLD
+- 温味｜日本料理｜北海道｜BRONZE
+- ぬま田｜天ぷら｜大阪｜SILVER
+- NOMI RESTAURANT｜日本料理｜京都｜SILVER
+- nôtori｜イノベーティブ｜山梨｜BRONZE
+- 野口 グラングリーン大阪｜日本料理｜大阪｜BRONZE
+- 野口太郎｜日本料理｜大阪｜BRONZE
+- 野嵯和｜日本料理｜愛知｜BRONZE
+- ノノカ レストラン｜イノベーティブ｜福岡｜BRONZE
+- Nonna Nietta｜イタリアン｜茨城｜BRONZE
+- HAGI｜フレンチ｜福島｜SILVER
+- 橋本屋｜アジア・エスニック・カレー｜大阪｜BRONZE
+- はすのみ｜中華料理｜岡山｜BRONZE
+- 八寸｜日本料理｜京都｜BRONZE
+- 初音鮨｜寿司｜東京｜BRONZE
+- 花いち｜日本料理｜愛知｜BRONZE
+- 蛤坂 まえかわ｜焼き鳥・鳥料理｜石川｜BRONZE
+- 浜源｜寿司｜愛知｜BRONZE
+- パルコ フィエラ｜イタリアン｜北海道｜SILVER
+- 東茶屋 なかむら｜日本料理｜大阪｜BRONZE
+- 東山 緒方｜日本料理｜京都｜BRONZE
+- ひがしやま 司｜日本料理｜京都｜BRONZE
+- 東山 吉寿｜日本料理｜京都｜BRONZE
+- ヒカリヤ ニシ｜フレンチ｜長野｜BRONZE
+- 樋口｜日本料理｜東京｜BRONZE
+- 土方｜日本料理｜愛知｜BRONZE
+- ひつじや｜焼肉・肉料理｜山形｜BRONZE
+- ひとつ｜寿司｜宮崎｜BRONZE
+- 日の出｜日本料理｜三重｜BRONZE
+- ひまわり食堂2｜イタリアン｜富山｜BRONZE
+- 樋山｜日本料理｜埼玉｜SILVER
+- Hirovanna｜イタリアン｜愛知｜BRONZE
+- 廣澤｜中華料理｜京都｜SILVER
+- ヒロ ナゴヤ｜焼肉・肉料理｜愛知｜BRONZE
+- 備長炭焼鳥 鳥しげ｜焼き鳥・鳥料理｜静岡｜BRONZE
+- フェネトレ｜フレンチ｜北海道｜BRONZE
+- フォリオリーナ・デッラ・ポルタ・フォルトゥーナ｜イタリアン｜長野｜SILVER
+- ふじさわ｜寿司｜愛知｜BRONZE
+- 伏見町 栫山｜日本料理｜大阪｜BRONZE
+- プチレストラン ブーケ・ド・フランス｜フレンチ｜青森｜BRONZE
+- フランス料理 壺中天｜フレンチ｜愛知｜BRONZE
+- ブレストンコート ユカワタン｜フレンチ｜長野｜BRONZE
+- プレゼンテ スギ｜イタリアン｜千葉｜SILVER
+- pesceco｜イノベーティブ｜長崎｜SILVER
+- Bekk｜イタリアン｜福岡｜BRONZE
+- ベルエキップ｜フレンチ｜岐阜｜BRONZE
+- ボニュ｜フレンチ｜東京｜SILVER
+- マキノンチ｜フレンチ｜石川｜BRONZE
+- まき村｜日本料理｜東京｜SILVER
+- 真白｜イノベーティブ｜京都｜BRONZE
+- MAZ｜イノベーティブ｜東京｜BRONZE
+- マスドラヴァンド｜フレンチ｜愛知｜BRONZE
+- 松石｜中華料理｜宮城｜BRONZE
+- 丸新｜日本料理｜福島｜BRONZE
+- みえ田｜日本料理｜北海道｜BRONZE
+- 美かさ｜天ぷら｜神奈川｜BRONZE
+- 美加登家｜日本料理｜島根｜BRONZE
+- mikami limited50｜寿司｜大阪｜BRONZE
+- 未在｜日本料理｜京都｜BRONZE
+- 三谷｜寿司｜東京｜GOLD
+- みつき｜日本料理｜鳥取｜BRONZE
+- middle｜フレンチ｜京都｜BRONZE
+- 南青山 七鳥目｜焼き鳥・鳥料理｜東京｜BRONZE
+- 宮坂｜日本料理｜東京｜SILVER
+- 美山荘｜日本料理｜京都｜BRONZE
+- 妙見石原荘 食菜石蔵｜日本料理｜鹿児島｜BRONZE
+- 無名｜日本料理｜長野｜BRONZE
+- むら上｜寿司｜熊本｜BRONZE
+- 名山 きみや｜寿司｜鹿児島｜BRONZE
+- メグリヴァ｜イタリアン｜東京｜SILVER
+- メゾン ケイ｜フレンチ｜静岡｜BRONZE
+- Maison DIA Mizuguchi｜フレンチ｜愛知｜BRONZE
+- メゾン フジヤ ハコダテ｜フレンチ｜北海道｜BRONZE
+- MAISON LAFITE｜フレンチ｜福岡｜BRONZE
+- もちづき｜日本料理｜愛知｜BRONZE
+- モトイ｜フレンチ｜京都｜BRONZE
+- 森ふじ｜日本料理｜東京｜BRONZE
+- 焼鳥 おみ乃｜焼き鳥・鳥料理｜東京｜BRONZE
+- 焼き鳥 こと｜焼き鳥・鳥料理｜福岡｜BRONZE
+- 焼き鳥 幸羽｜焼き鳥・鳥料理｜静岡｜BRONZE
+- 焼き鳥 とりら｜焼き鳥・鳥料理｜福岡｜BRONZE
+- 焼鳥 ひげぼうず｜焼き鳥・鳥料理｜北海道｜BRONZE
+- 焼鳥 みずき｜焼き鳥・鳥料理｜岐阜｜BRONZE
+- 焼肉井とう｜焼肉・肉料理｜大分｜BRONZE
+- 焼肉すどう 春吉｜焼肉・肉料理｜福岡｜BRONZE
+- 八ヶ岳 えさき｜日本料理｜山梨｜BRONZE
+- 安参｜焼肉・肉料理｜京都｜BRONZE
+- 柳家｜日本料理｜岐阜｜SILVER
+- 柳家錦｜日本料理｜愛知｜BRONZE
+- 薮蕎麦 宮本｜そば｜静岡｜BRONZE
+- やまぐち｜イタリアン｜京都｜SILVER
+- 山勢｜うなぎ｜長野｜BRONZE
+- 山田屋｜魚介料理・海鮮料理｜大分｜BRONZE
+- U.KAI｜イノベーティブ｜大阪｜BRONZE
+- 柚木元｜日本料理｜長野｜GOLD
+- Une Fleur｜フレンチ｜岐阜｜BRONZE
+- 余市SAGRA｜イタリアン｜北海道｜SILVER
+- 陽｜日本料理｜青森｜BRONZE
+- 揚雫｜とんかつ・揚げ物｜神奈川｜SILVER
+- 吉い｜日本料理｜愛知｜BRONZE
+- YOSHIKI FUJI｜フレンチ｜茨城｜BRONZE
+- よし町｜日本料理｜茨城｜BRONZE
+- 400℃ PIZZA｜イタリアン｜岡山｜BRONZE
+- Ramen FeeL｜ラーメン｜東京｜BRONZE
+- らぁ麺や 嶋｜ラーメン｜東京｜BRONZE
+- ラ・ヴァガボンド｜フレンチ｜愛知｜BRONZE
+- ラ・カーサ・ディ・テツオ オオタ｜イノベーティブ｜長野｜BRONZE
+- La Stalla｜イタリアン｜茨城｜BRONZE
+- LAT.34°N by 蒼｜フレンチ｜静岡｜BRONZE
+- RADICE｜イタリアン｜京都｜BRONZE
+- ラ・ブランシュ｜フレンチ｜東京｜BRONZE
+- ラ・メール｜フレンチ｜三重｜BRONZE
+- ラ・メール ザ クラシック｜フレンチ｜三重｜BRONZE
+- らん亭～ 美日庵｜日本料理｜福島｜BRONZE
+- らんぷ亭｜その他｜宮崎｜BRONZE
+- らんまる｜寿司｜東京｜BRONZE
+- Ristorante SHIKAZAWA｜イタリアン｜岩手｜BRONZE
+- Lito｜イタリアン｜愛知｜BRONZE
+- 里葉亭｜焼き鳥・鳥料理｜神奈川｜BRONZE
+- 料亭 やまさ旅館｜魚介料理・海鮮料理｜大分｜BRONZE
+- 両忘｜イタリアン｜香川｜BRONZE
+- 料理 川口｜日本料理｜京都｜SILVER
+- 料理 小松｜日本料理｜石川｜BRONZE
+- 料理屋 稲家｜日本料理｜大阪｜BRONZE
+- リョウリヤ ステファン パンテル｜フレンチ｜京都｜BRONZE
+- 料理屋そうびき｜日本料理｜広島｜BRONZE
+- 料理屋 みや﨑｜日本料理｜福井｜BRONZE
+- 麟｜うなぎ｜静岡｜BRONZE
+- ル ソルシエ｜フレンチ｜山口｜BRONZE
+- ル・マンジュ・トゥー｜フレンチ｜東京｜BRONZE
+- ル・ミュゼ・イデア｜フレンチ｜北海道｜BRONZE
+- レヴォ｜イノベーティブ｜富山｜SILVER
+- レストラン アレナ｜フレンチ｜福岡｜BRONZE
+- レストラン ウオゼン｜フレンチ｜新潟｜SILVER
+- レストラン オオツ｜フレンチ｜茨城｜BRONZE
+- レストラン スノゥ｜イノベーティブ｜福岡｜BRONZE
+- レストラン 高津｜フレンチ｜山口｜BRONZE
+- レストラン ナズ｜イノベーティブ｜長野｜GOLD
+- レストランぶどうの森 レ・トネル｜フレンチ｜石川｜BRONZE
+- Restaurant Honjin｜フレンチ｜愛知｜BRONZE
+- レストランRyu｜フレンチ｜三重｜BRONZE
+- レスピラシオン｜スペイン料理｜石川｜SILVER
+- レミニセンス｜フレンチ｜愛知｜SILVER
+- Remede nikaho｜フレンチ｜秋田｜BRONZE
+- L'Ermita｜スペイン料理｜福岡｜BRONZE
+- ろあん松田 篠山店｜そば｜兵庫｜BRONZE
+- ろばたやき山ろく｜焼き鳥・鳥料理｜熊本｜SILVER
+- 和牛lab K｜焼肉・肉料理｜広島｜BRONZE
+- わさ｜中華料理｜東京｜SILVER
+- 和田金｜焼肉・肉料理｜三重｜BRONZE
+- 和風もつ料理 あらた｜焼肉・肉料理｜大阪｜BRONZE
+
+## 付記：暦年別（過去年）データの公開状況
+
+調査：2026-10-28、食べログアワード公式サイト（award.tabelog.com）にて確認。
+
+- The Tabelog Award は2017年開始で、2026年版が通算10回目（公式リリースに「2017年の開始以来、通算10回」と明記。Wikipediaの食べログ記事でも2016年度評価分から「THE TABELOG AWARD 2017」に改称と記載）。
+- 公式サイトのフッターに「過去のAward」ページ（https://award.tabelog.com/archive）があり、過去開催回の特設サイトへのリンクが用意されている。ただしリンクは画像主体のデザインで、テキスト抽出では各年のリンク先を列挙できなかった。
+- 受賞店検索（/restaurants/）は常に最新年（現在は2026）のみが対象で、年を指定して過去年の全店一覧を検索・表示する機能は無い。新しい年版が公開されると一覧は最新年に置き換わる。
+- 過去年の受賞情報は、各店舗の食べログ店舗ページ「受賞・選出歴」で年別に確認できる（例：にしぶち飯店は2019年Silver〜2026年Silverまで表示）。また各年の発表プレスリリースにはGOLD受賞店の一覧が掲載される。
+- 結論：暦年別の「全受賞店リスト」が公式にアーカイブ公開されているわけではなく、年別にたどるには店舗ページの受賞歴か各年の特設サイト／プレスリリースを使う必要がある。本ファイルのように全件リスト化したものは2026年分のみ（今回作成）。

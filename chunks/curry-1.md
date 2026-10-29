@@ -1,0 +1,105 @@
+# 追加先リスト：食べログ｜カレー・エスニック
+# チャンク 1/2（50件）｜カテゴリ全63件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- とんかつ檍のカレー屋 いっぺこっぺ 北千住店（最寄り駅：北千住）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%E6%AA%8D%E3%81%AE%E3%82%AB%E3%83%AC%E3%83%BC%E5%B1%8B%20%E3%81%84%E3%81%A3%E3%81%BA%E3%81%93%E3%81%A3%E3%81%BA%20%E5%8C%97%E5%8D%83%E4%BD%8F%E5%BA%97%20%E5%8C%97%E5%8D%83%E4%BD%8F
+- とんかつ檍のカレー屋 いっぺこっぺ 秋葉原店（最寄り駅：末広町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%E6%AA%8D%E3%81%AE%E3%82%AB%E3%83%AC%E3%83%BC%E5%B1%8B%20%E3%81%84%E3%81%A3%E3%81%BA%E3%81%93%E3%81%A3%E3%81%BA%20%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97%20%E6%9C%AB%E5%BA%83%E7%94%BA
+- とんかつ檍のカレー屋 いっぺこっぺ 西新宿店（最寄り駅：新宿西口）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%E6%AA%8D%E3%81%AE%E3%82%AB%E3%83%AC%E3%83%BC%E5%B1%8B%20%E3%81%84%E3%81%A3%E3%81%BA%E3%81%93%E3%81%A3%E3%81%BA%20%E8%A5%BF%E6%96%B0%E5%AE%BF%E5%BA%97%20%E6%96%B0%E5%AE%BF%E8%A5%BF%E5%8F%A3
+- とんかつ檍のカレー屋 いっぺこっぺ 飯田橋店（最寄り駅：九段下）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%E6%AA%8D%E3%81%AE%E3%82%AB%E3%83%AC%E3%83%BC%E5%B1%8B%20%E3%81%84%E3%81%A3%E3%81%BA%E3%81%93%E3%81%A3%E3%81%BA%20%E9%A3%AF%E7%94%B0%E6%A9%8B%E5%BA%97%20%E4%B9%9D%E6%AE%B5%E4%B8%8B
+- とんかつ檍のカレー屋 いっぺこっぺ 芝大門店（最寄り駅：大門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%E6%AA%8D%E3%81%AE%E3%82%AB%E3%83%AC%E3%83%BC%E5%B1%8B%20%E3%81%84%E3%81%A3%E3%81%BA%E3%81%93%E3%81%A3%E3%81%BA%20%E8%8A%9D%E5%A4%A7%E9%96%80%E5%BA%97%20%E5%A4%A7%E9%96%80
+- とんかつ檍のカレー屋 いっぺこっぺ 新橋店（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%E6%AA%8D%E3%81%AE%E3%82%AB%E3%83%AC%E3%83%BC%E5%B1%8B%20%E3%81%84%E3%81%A3%E3%81%BA%E3%81%93%E3%81%A3%E3%81%BA%20%E6%96%B0%E6%A9%8B%E5%BA%97%20%E6%96%B0%E6%A9%8B
+- Curry House MUMBAI 松戸店（最寄り駅：松戸）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Curry%20House%20MUMBAI%20%E6%9D%BE%E6%88%B8%E5%BA%97%20%E6%9D%BE%E6%88%B8
+- タンドールバル カマル2号（最寄り駅：亀戸）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%BF%E3%83%B3%E3%83%89%E3%83%BC%E3%83%AB%E3%83%90%E3%83%AB%20%E3%82%AB%E3%83%9E%E3%83%AB2%E5%8F%B7%20%E4%BA%80%E6%88%B8
+- サンサール 小岩店（最寄り駅：小岩）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%AB%20%E5%B0%8F%E5%B2%A9%E5%BA%97%20%E5%B0%8F%E5%B2%A9
+- プティフ・ア・ラ・カンパーニュ（最寄り駅：半蔵門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%97%E3%83%86%E3%82%A3%E3%83%95%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%83%BB%E3%82%AB%E3%83%B3%E3%83%91%E3%83%BC%E3%83%8B%E3%83%A5%20%E5%8D%8A%E8%94%B5%E9%96%80
+- SPICE CURRY アルクロード 飯田橋店（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=SPICE%20CURRY%20%E3%82%A2%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%20%E9%A3%AF%E7%94%B0%E6%A9%8B%E5%BA%97%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- &スリランカTOKYO（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%26%E3%82%B9%E3%83%AA%E3%83%A9%E3%83%B3%E3%82%ABTOKYO%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- FISH 丸の内店（最寄り駅：大手町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=FISH%20%E4%B8%B8%E3%81%AE%E5%86%85%E5%BA%97%20%E5%A4%A7%E6%89%8B%E7%94%BA
+- エリックサウス 八重洲店（最寄り駅：京橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A8%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B5%E3%82%A6%E3%82%B9%20%E5%85%AB%E9%87%8D%E6%B4%B2%E5%BA%97%20%E4%BA%AC%E6%A9%8B
+- ３丁目のカレー屋さん（最寄り駅：宝町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%EF%BC%93%E4%B8%81%E7%9B%AE%E3%81%AE%E3%82%AB%E3%83%AC%E3%83%BC%E5%B1%8B%E3%81%95%E3%82%93%20%E5%AE%9D%E7%94%BA
+- アーンドラ・ダイニング 銀座（最寄り駅：銀座一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%BC%E3%83%B3%E3%83%89%E3%83%A9%E3%83%BB%E3%83%80%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%20%E9%8A%80%E5%BA%A7%20%E9%8A%80%E5%BA%A7%E4%B8%80%E4%B8%81%E7%9B%AE
+- ガンディー（最寄り駅：京成船橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%20%E4%BA%AC%E6%88%90%E8%88%B9%E6%A9%8B
+- サールナート（最寄り駅：大神宮下）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%BC%E3%83%AB%E3%83%8A%E3%83%BC%E3%83%88%20%E5%A4%A7%E7%A5%9E%E5%AE%AE%E4%B8%8B
+- DEWAN 幕張店（最寄り駅：幕張豊砂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=DEWAN%20%E5%B9%95%E5%BC%B5%E5%BA%97%20%E5%B9%95%E5%BC%B5%E8%B1%8A%E7%A0%82
+- スパイシーカリーハウス 銀座半月（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B7%E3%83%BC%E3%82%AB%E3%83%AA%E3%83%BC%E3%83%8F%E3%82%A6%E3%82%B9%20%E9%8A%80%E5%BA%A7%E5%8D%8A%E6%9C%88%20%E9%8A%80%E5%BA%A7
+- デリー 銀座店（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%87%E3%83%AA%E3%83%BC%20%E9%8A%80%E5%BA%A7%E5%BA%97%20%E9%8A%80%E5%BA%A7
+- カーン・ケバブ・ビリヤニ（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%B1%E3%83%90%E3%83%96%E3%83%BB%E3%83%93%E3%83%AA%E3%83%A4%E3%83%8B%20%E6%96%B0%E6%A9%8B
+- インド料理 想いの木（最寄り駅：牛込神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%83%B3%E3%83%89%E6%96%99%E7%90%86%20%E6%83%B3%E3%81%84%E3%81%AE%E6%9C%A8%20%E7%89%9B%E8%BE%BC%E7%A5%9E%E6%A5%BD%E5%9D%82
+- すぱいし家 飯田橋店（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%B1%E3%81%84%E3%81%97%E5%AE%B6%20%E9%A3%AF%E7%94%B0%E6%A9%8B%E5%BA%97%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- TOKYO BHAVAN（最寄り駅：九段下）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=TOKYO%20BHAVAN%20%E4%B9%9D%E6%AE%B5%E4%B8%8B
+- カリカル 新橋本店（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%AA%E3%82%AB%E3%83%AB%20%E6%96%B0%E6%A9%8B%E6%9C%AC%E5%BA%97%20%E6%96%B0%E6%A9%8B
+- ナンディニ 虎ノ門店（最寄り駅：虎ノ門ヒルズ）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%8A%E3%83%B3%E3%83%87%E3%82%A3%E3%83%8B%20%E8%99%8E%E3%83%8E%E9%96%80%E5%BA%97%20%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA
+- ガネー舎（最寄り駅：汐留）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AC%E3%83%8D%E3%83%BC%E8%88%8E%20%E6%B1%90%E7%95%99
+- カレー屋ばんび（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%AC%E3%83%BC%E5%B1%8B%E3%81%B0%E3%82%93%E3%81%B3%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- スープカレー屋 鴻 神田駿河台店（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%BC%E3%83%97%E3%82%AB%E3%83%AC%E3%83%BC%E5%B1%8B%20%E9%B4%BB%20%E7%A5%9E%E7%94%B0%E9%A7%BF%E6%B2%B3%E5%8F%B0%E5%BA%97%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- カリーライス専門店エチオピア 本店（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%AA%E3%83%BC%E3%83%A9%E3%82%A4%E3%82%B9%E5%B0%82%E9%96%80%E5%BA%97%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%20%E6%9C%AC%E5%BA%97%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- ヒナタ屋（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%92%E3%83%8A%E3%82%BF%E5%B1%8B%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- カリー＆ワイン ビストロべっぴん舎 お茶の水店（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%AA%E3%83%BC%EF%BC%86%E3%83%AF%E3%82%A4%E3%83%B3%20%E3%83%93%E3%82%B9%E3%83%88%E3%83%AD%E3%81%B9%E3%81%A3%E3%81%B4%E3%82%93%E8%88%8E%20%E3%81%8A%E8%8C%B6%E3%81%AE%E6%B0%B4%E5%BA%97%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- エチオピアカリーキッチン 御茶ノ水ソラシティ店（最寄り駅：新御茶ノ水）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E3%82%AB%E3%83%AA%E3%83%BC%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%20%E5%BE%A1%E8%8C%B6%E3%83%8E%E6%B0%B4%E3%82%BD%E3%83%A9%E3%82%B7%E3%83%86%E3%82%A3%E5%BA%97%20%E6%96%B0%E5%BE%A1%E8%8C%B6%E3%83%8E%E6%B0%B4
+- 本石亭（最寄り駅：新日本橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%9C%AC%E7%9F%B3%E4%BA%AD%20%E6%96%B0%E6%97%A5%E6%9C%AC%E6%A9%8B
+- ブラウニー（最寄り駅：末広町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%96%E3%83%A9%E3%82%A6%E3%83%8B%E3%83%BC%20%E6%9C%AB%E5%BA%83%E7%94%BA
+- カリガリ 総本店（最寄り駅：末広町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%AA%E3%82%AC%E3%83%AA%20%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E6%9C%AB%E5%BA%83%E7%94%BA
+- アロマズ オブ インディア（最寄り駅：淡路町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AD%E3%83%9E%E3%82%BA%20%E3%82%AA%E3%83%96%20%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2%20%E6%B7%A1%E8%B7%AF%E7%94%BA
+- ライスカレー まんてん（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%82%A4%E3%82%B9%E3%82%AB%E3%83%AC%E3%83%BC%20%E3%81%BE%E3%82%93%E3%81%A6%E3%82%93%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- パンチマハル（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%B3%E3%83%81%E3%83%9E%E3%83%8F%E3%83%AB%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- ガヴィアル（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AC%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%AB%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- Indian Street Food & Bar GOND（最寄り駅：新御茶ノ水）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Indian%20Street%20Food%20%26%20Bar%20GOND%20%E6%96%B0%E5%BE%A1%E8%8C%B6%E3%83%8E%E6%B0%B4
+- 三燈舎（最寄り駅：小川町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E7%87%88%E8%88%8E%20%E5%B0%8F%E5%B7%9D%E7%94%BA
+- アーンドラ・ダバ（最寄り駅：神田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%BC%E3%83%B3%E3%83%89%E3%83%A9%E3%83%BB%E3%83%80%E3%83%90%20%E7%A5%9E%E7%94%B0
+- ジョニーのビリヤニ 神田店（最寄り駅：神田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B8%E3%83%A7%E3%83%8B%E3%83%BC%E3%81%AE%E3%83%93%E3%83%AA%E3%83%A4%E3%83%8B%20%E7%A5%9E%E7%94%B0%E5%BA%97%20%E7%A5%9E%E7%94%B0
+- スパイスボックス（最寄り駅：小川町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%91%E3%82%A4%E3%82%B9%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%20%E5%B0%8F%E5%B7%9D%E7%94%BA
+- スマトラカレー 共栄堂（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%9E%E3%83%88%E3%83%A9%E3%82%AB%E3%83%AC%E3%83%BC%20%E5%85%B1%E6%A0%84%E5%A0%82%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- タケウチ 神保町本店（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%BF%E3%82%B1%E3%82%A6%E3%83%81%20%E7%A5%9E%E4%BF%9D%E7%94%BA%E6%9C%AC%E5%BA%97%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- ビリヤニ大澤（最寄り駅：小川町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%93%E3%83%AA%E3%83%A4%E3%83%8B%E5%A4%A7%E6%BE%A4%20%E5%B0%8F%E5%B7%9D%E7%94%BA
+- カレーの店 ガン爺（最寄り駅：虎ノ門ヒルズ）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%AC%E3%83%BC%E3%81%AE%E5%BA%97%20%E3%82%AC%E3%83%B3%E7%88%BA%20%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA

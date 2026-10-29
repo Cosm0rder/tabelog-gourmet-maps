@@ -1,0 +1,105 @@
+# 追加先リスト：食べログ｜スイーツ・カフェ・パン
+# チャンク 1/5（50件）｜カテゴリ全238件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- ザ・ロビーラウンジ＆バー（最寄り駅：六本木）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B6%E3%83%BB%E3%83%AD%E3%83%93%E3%83%BC%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%EF%BC%86%E3%83%90%E3%83%BC%20%E5%85%AD%E6%9C%AC%E6%9C%A8
+- ザ・ロビーラウンジ（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B6%E3%83%BB%E3%83%AD%E3%83%93%E3%83%BC%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%20%E6%9D%B1%E4%BA%AC
+- ニューヨークラウンジ by インターコンチネンタル 東京ベイ（最寄り駅：竹芝）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%20by%20%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%81%E3%83%8D%E3%83%B3%E3%82%BF%E3%83%AB%20%E6%9D%B1%E4%BA%AC%E3%83%99%E3%82%A4%20%E7%AB%B9%E8%8A%9D
+- THE LOUNGE（最寄り駅：大手町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=THE%20LOUNGE%20%E5%A4%A7%E6%89%8B%E7%94%BA
+- ザ パレス ラウンジ（最寄り駅：大手町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B6%20%E3%83%91%E3%83%AC%E3%82%B9%20%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%20%E5%A4%A7%E6%89%8B%E7%94%BA
+- カメリア（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%A1%E3%83%AA%E3%82%A2%20%E6%9D%B1%E4%BA%AC
+- ジャヌ ラウンジ&ガーデンテラス（最寄り駅：六本木一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B8%E3%83%A3%E3%83%8C%20%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%26%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%86%E3%83%A9%E3%82%B9%20%E5%85%AD%E6%9C%AC%E6%9C%A8%E4%B8%80%E4%B8%81%E7%9B%AE
+- Lobby Lounge（最寄り駅：有楽町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Lobby%20Lounge%20%E6%9C%89%E6%A5%BD%E7%94%BA
+- アトリウムラウンジ（最寄り駅：六本木一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%88%E3%83%AA%E3%82%A6%E3%83%A0%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%20%E5%85%AD%E6%9C%AC%E6%9C%A8%E4%B8%80%E4%B8%81%E7%9B%AE
+- ガーデンラウンジ（最寄り駅：赤坂見附）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%20%E8%B5%A4%E5%9D%82%E8%A6%8B%E9%99%84
+- クラブハリエ 岡崎高島屋店（最寄り駅：六名）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8%20%E5%B2%A1%E5%B4%8E%E9%AB%98%E5%B3%B6%E5%B1%8B%E5%BA%97%20%E5%85%AD%E5%90%8D
+- クラブハリエ B-スタジオ 名古屋高島屋店（最寄り駅：名古屋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8%20B-%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E5%90%8D%E5%8F%A4%E5%B1%8B%E9%AB%98%E5%B3%B6%E5%B1%8B%E5%BA%97%20%E5%90%8D%E5%8F%A4%E5%B1%8B
+- クラブハリエ ジュブリルタン（最寄り駅：フジテック前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8%20%E3%82%B8%E3%83%A5%E3%83%96%E3%83%AA%E3%83%AB%E3%82%BF%E3%83%B3%20%E3%83%95%E3%82%B8%E3%83%86%E3%83%83%E3%82%AF%E5%89%8D
+- クラブハリエ 彦根美濠の舎（最寄り駅：彦根）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8%20%E5%BD%A6%E6%A0%B9%E7%BE%8E%E6%BF%A0%E3%81%AE%E8%88%8E%20%E5%BD%A6%E6%A0%B9
+- メインショプ クラブハリエ（最寄り駅：近江八幡）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%97%20%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8%20%E8%BF%91%E6%B1%9F%E5%85%AB%E5%B9%A1
+- クラブ ハリエ 八日市の杜（最寄り駅：八日市）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%96%20%E3%83%8F%E3%83%AA%E3%82%A8%20%E5%85%AB%E6%97%A5%E5%B8%82%E3%81%AE%E6%9D%9C%20%E5%85%AB%E6%97%A5%E5%B8%82
+- クラブハリエ 守山玻璃絵館（最寄り駅：守山）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8%20%E5%AE%88%E5%B1%B1%E7%8E%BB%E7%92%83%E7%B5%B5%E9%A4%A8%20%E5%AE%88%E5%B1%B1
+- クラブハリエ 草津近鉄店（最寄り駅：草津）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8%20%E8%8D%89%E6%B4%A5%E8%BF%91%E9%89%84%E5%BA%97%20%E8%8D%89%E6%B4%A5
+- クラブハリエ ビースタジオ 京都高島屋店（最寄り駅：京都河原町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8%20%E3%83%93%E3%83%BC%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E4%BA%AC%E9%83%BD%E9%AB%98%E5%B3%B6%E5%B1%8B%E5%BA%97%20%E4%BA%AC%E9%83%BD%E6%B2%B3%E5%8E%9F%E7%94%BA
+- クラブハリエ うめだ阪急店（最寄り駅：梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8%20%E3%81%86%E3%82%81%E3%81%A0%E9%98%AA%E6%80%A5%E5%BA%97%20%E6%A2%85%E7%94%B0
+- クラブハリエ B-スタジオ あべのハルカス近鉄店（最寄り駅：天王寺駅前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8%20B-%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E3%81%82%E3%81%B9%E3%81%AE%E3%83%8F%E3%83%AB%E3%82%AB%E3%82%B9%E8%BF%91%E9%89%84%E5%BA%97%20%E5%A4%A9%E7%8E%8B%E5%AF%BA%E9%A7%85%E5%89%8D
+- クラブハリエ B-スタジオ 横浜高島屋店（最寄り駅：横浜）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8%20B-%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%A8%AA%E6%B5%9C%E9%AB%98%E5%B3%B6%E5%B1%8B%E5%BA%97%20%E6%A8%AA%E6%B5%9C
+- クラブハリエ 羽田空港店（最寄り駅：羽田空港第２ターミナル（東京モノレール））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8%20%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF%E5%BA%97%20%E7%BE%BD%E7%94%B0%E7%A9%BA%E6%B8%AF%E7%AC%AC%EF%BC%92%E3%82%BF%E3%83%BC%E3%83%9F%E3%83%8A%E3%83%AB%EF%BC%88%E6%9D%B1%E4%BA%AC%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%EF%BC%89
+- CLUB HARIE 舞浜イクスピアリ店（最寄り駅：リゾートゲートウェイ・ステーション）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=CLUB%20HARIE%20%E8%88%9E%E6%B5%9C%E3%82%A4%E3%82%AF%E3%82%B9%E3%83%94%E3%82%A2%E3%83%AA%E5%BA%97%20%E3%83%AA%E3%82%BE%E3%83%BC%E3%83%88%E3%82%B2%E3%83%BC%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A4%E3%83%BB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3
+- クラブハリエ B-スタジオ 池袋東武店（最寄り駅：池袋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8%20B-%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%20%E6%B1%A0%E8%A2%8B%E6%9D%B1%E6%AD%A6%E5%BA%97%20%E6%B1%A0%E8%A2%8B
+- クラブハリエ イーチャレンジ 東京ギフトパレット店（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8%20%E3%82%A4%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%20%E6%9D%B1%E4%BA%AC%E3%82%AE%E3%83%95%E3%83%88%E3%83%91%E3%83%AC%E3%83%83%E3%83%88%E5%BA%97%20%E6%9D%B1%E4%BA%AC
+- クラブハリエ 日本橋三越店（最寄り駅：三越前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8%20%E6%97%A5%E6%9C%AC%E6%A9%8B%E4%B8%89%E8%B6%8A%E5%BA%97%20%E4%B8%89%E8%B6%8A%E5%89%8D
+- クラブハリエ 水天宮前店（最寄り駅：水天宮前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%96%E3%83%8F%E3%83%AA%E3%82%A8%20%E6%B0%B4%E5%A4%A9%E5%AE%AE%E5%89%8D%E5%BA%97%20%E6%B0%B4%E5%A4%A9%E5%AE%AE%E5%89%8D
+- すみだ珈琲（最寄り駅：錦糸町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%BF%E3%81%A0%E7%8F%88%E7%90%B2%20%E9%8C%A6%E7%B3%B8%E7%94%BA
+- 珈琲専門店 トミィ（最寄り駅：錦糸町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%8F%88%E7%90%B2%E5%B0%82%E9%96%80%E5%BA%97%20%E3%83%88%E3%83%9F%E3%82%A3%20%E9%8C%A6%E7%B3%B8%E7%94%BA
+- パティシエ・ヒロ ヤマモト（最寄り駅：篠崎）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%83%BB%E3%83%92%E3%83%AD%20%E3%83%A4%E3%83%9E%E3%83%A2%E3%83%88%20%E7%AF%A0%E5%B4%8E
+- モンシェール 東陽町工場（最寄り駅：東陽町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A2%E3%83%B3%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%AB%20%E6%9D%B1%E9%99%BD%E7%94%BA%E5%B7%A5%E5%A0%B4%20%E6%9D%B1%E9%99%BD%E7%94%BA
+- 珈琲 天国（最寄り駅：浅草（つくばＥＸＰ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%8F%88%E7%90%B2%20%E5%A4%A9%E5%9B%BD%20%E6%B5%85%E8%8D%89%EF%BC%88%E3%81%A4%E3%81%8F%E3%81%B0%EF%BC%A5%EF%BC%B8%EF%BC%B0%EF%BC%89
+- 祇園辻利 東京スカイツリータウン・ソラマチ店（最寄り駅：押上）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%A5%87%E5%9C%92%E8%BE%BB%E5%88%A9%20%E6%9D%B1%E4%BA%AC%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%84%E3%83%AA%E3%83%BC%E3%82%BF%E3%82%A6%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%A9%E3%83%9E%E3%83%81%E5%BA%97%20%E6%8A%BC%E4%B8%8A
+- オープンオーブン（最寄り駅：市川）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%AA%E3%83%BC%E3%83%96%E3%83%B3%20%E5%B8%82%E5%B7%9D
+- ワンモア（最寄り駅：平井）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AF%E3%83%B3%E3%83%A2%E3%82%A2%20%E5%B9%B3%E4%BA%95
+- 自家焙煎珈琲庵（最寄り駅：春日）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E%E7%8F%88%E7%90%B2%E5%BA%B5%20%E6%98%A5%E6%97%A5
+- アヴランシュ・ゲネー（最寄り駅：春日）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%B4%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%BB%E3%82%B2%E3%83%8D%E3%83%BC%20%E6%98%A5%E6%97%A5
+- ル・グルニエ・ア・パン 麹町店（最寄り駅：半蔵門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%8B%E3%82%A8%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%91%E3%83%B3%20%E9%BA%B9%E7%94%BA%E5%BA%97%20%E5%8D%8A%E8%94%B5%E9%96%80
+- ファクトリー（最寄り駅：九段下）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%20%E4%B9%9D%E6%AE%B5%E4%B8%8B
+- ディゾン 水道橋（最寄り駅：水道橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%87%E3%82%A3%E3%82%BE%E3%83%B3%20%E6%B0%B4%E9%81%93%E6%A9%8B%20%E6%B0%B4%E9%81%93%E6%A9%8B
+- カンダコーヒー（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%B3%E3%83%80%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- M＆C Cafe 丸の内オアゾ（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=M%EF%BC%86C%20Cafe%20%E4%B8%B8%E3%81%AE%E5%86%85%E3%82%AA%E3%82%A2%E3%82%BE%20%E6%9D%B1%E4%BA%AC
+- 365日と日本橋（最寄り駅：日本橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=365%E6%97%A5%E3%81%A8%E6%97%A5%E6%9C%AC%E6%A9%8B%20%E6%97%A5%E6%9C%AC%E6%A9%8B
+- ル カフェドゥ ジョエル・ロブション 日本橋高島屋店（最寄り駅：日本橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AB%20%E3%82%AB%E3%83%95%E3%82%A7%E3%83%89%E3%82%A5%20%E3%82%B8%E3%83%A7%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%AD%E3%83%96%E3%82%B7%E3%83%A7%E3%83%B3%20%E6%97%A5%E6%9C%AC%E6%A9%8B%E9%AB%98%E5%B3%B6%E5%B1%8B%E5%BA%97%20%E6%97%A5%E6%9C%AC%E6%A9%8B
+- トシ・ヨロイヅカ 東京（最寄り駅：京橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%88%E3%82%B7%E3%83%BB%E3%83%A8%E3%83%AD%E3%82%A4%E3%83%85%E3%82%AB%20%E6%9D%B1%E4%BA%AC%20%E4%BA%AC%E6%A9%8B
+- セントル ザ・ベーカリー（最寄り駅：銀座一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AB%20%E3%82%B6%E3%83%BB%E3%83%99%E3%83%BC%E3%82%AB%E3%83%AA%E3%83%BC%20%E9%8A%80%E5%BA%A7%E4%B8%80%E4%B8%81%E7%9B%AE
+- 十一房珈琲店（最寄り駅：銀座一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%8D%81%E4%B8%80%E6%88%BF%E7%8F%88%E7%90%B2%E5%BA%97%20%E9%8A%80%E5%BA%A7%E4%B8%80%E4%B8%81%E7%9B%AE
+- みんなのぱんや（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AE%E3%81%B1%E3%82%93%E3%82%84%20%E6%9D%B1%E4%BA%AC
+- VIRON 丸の内店（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=VIRON%20%E4%B8%B8%E3%81%AE%E5%86%85%E5%BA%97%20%E6%9D%B1%E4%BA%AC

@@ -1,0 +1,81 @@
+# 追加先リスト：食べログ｜スイーツ・カフェ・パン
+# チャンク 5/5（38件）｜カテゴリ全238件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- 時屋 新宿小田急ハルク店（最寄り駅：新宿西口）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%99%82%E5%B1%8B%20%E6%96%B0%E5%AE%BF%E5%B0%8F%E7%94%B0%E6%80%A5%E3%83%8F%E3%83%AB%E3%82%AF%E5%BA%97%20%E6%96%B0%E5%AE%BF%E8%A5%BF%E5%8F%A3
+- うさぎや 中央通り店（最寄り駅：日本橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%86%E3%81%95%E3%81%8E%E3%82%84%20%E4%B8%AD%E5%A4%AE%E9%80%9A%E3%82%8A%E5%BA%97%20%E6%97%A5%E6%9C%AC%E6%A9%8B
+- ショパン（最寄り駅：淡路町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A7%E3%83%91%E3%83%B3%20%E6%B7%A1%E8%B7%AF%E7%94%BA
+- 近江屋洋菓子店（最寄り駅：淡路町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%BF%91%E6%B1%9F%E5%B1%8B%E6%B4%8B%E8%8F%93%E5%AD%90%E5%BA%97%20%E6%B7%A1%E8%B7%AF%E7%94%BA
+- 竹むら（最寄り駅：淡路町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%AB%B9%E3%82%80%E3%82%89%20%E6%B7%A1%E8%B7%AF%E7%94%BA
+- カフェテラス ポンヌフ（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%86%E3%83%A9%E3%82%B9%20%E3%83%9D%E3%83%B3%E3%83%8C%E3%83%95%20%E6%96%B0%E6%A9%8B
+- カフェ・ド・ランブル（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%83%89%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%96%E3%83%AB%20%E6%96%B0%E6%A9%8B
+- 西洋菓子 しろたえ（最寄り駅：赤坂見附）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E6%B4%8B%E8%8F%93%E5%AD%90%20%E3%81%97%E3%82%8D%E3%81%9F%E3%81%88%20%E8%B5%A4%E5%9D%82%E8%A6%8B%E9%99%84
+- ヘッケルン（最寄り駅：虎ノ門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%98%E3%83%83%E3%82%B1%E3%83%AB%E3%83%B3%20%E8%99%8E%E3%83%8E%E9%96%80
+- ラ･メゾン･デュ･ショコラ 丸の内店（最寄り駅：有楽町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A9%EF%BD%A5%E3%83%A1%E3%82%BE%E3%83%B3%EF%BD%A5%E3%83%87%E3%83%A5%EF%BD%A5%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%20%E4%B8%B8%E3%81%AE%E5%86%85%E5%BA%97%20%E6%9C%89%E6%A5%BD%E7%94%BA
+- ザ・ペニンシュラ ブティック＆カフェ（最寄り駅：日比谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B6%E3%83%BB%E3%83%9A%E3%83%8B%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%A9%20%E3%83%96%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%EF%BC%86%E3%82%AB%E3%83%95%E3%82%A7%20%E6%97%A5%E6%AF%94%E8%B0%B7
+- ル・プチメック 日比谷店（最寄り駅：日比谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AB%E3%83%BB%E3%83%97%E3%83%81%E3%83%A1%E3%83%83%E3%82%AF%20%E6%97%A5%E6%AF%94%E8%B0%B7%E5%BA%97%20%E6%97%A5%E6%AF%94%E8%B0%B7
+- アングランパ（最寄り駅：さいたま新都心）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%91%20%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E6%96%B0%E9%83%BD%E5%BF%83
+- シャンドワゾー・グラシエ・ショコラティエ（最寄り駅：川口）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AF%E3%82%BE%E3%83%BC%E3%83%BB%E3%82%B0%E3%83%A9%E3%82%B7%E3%82%A8%E3%83%BB%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E3%83%86%E3%82%A3%E3%82%A8%20%E5%B7%9D%E5%8F%A3
+- シャンドワゾー（最寄り駅：川口）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%89%E3%83%AF%E3%82%BE%E3%83%BC%20%E5%B7%9D%E5%8F%A3
+- BURDIGALA TOKYO（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=BURDIGALA%20TOKYO%20%E6%9D%B1%E4%BA%AC
+- DEPOT（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=DEPOT%20%E6%9D%B1%E4%BA%AC
+- 幸せのパンケーキ 銀座店（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%B9%B8%E3%81%9B%E3%81%AE%E3%83%91%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD%20%E9%8A%80%E5%BA%A7%E5%BA%97%20%E9%8A%80%E5%BA%A7
+- Vue Mer (フェアモント東京)（最寄り駅：日の出）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Vue%20Mer%20%28%E3%83%95%E3%82%A7%E3%82%A2%E3%83%A2%E3%83%B3%E3%83%88%E6%9D%B1%E4%BA%AC%29%20%E6%97%A5%E3%81%AE%E5%87%BA
+- バー＆ラウンジ トゥエンティエイト コンラッド東京（最寄り駅：汐留）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%90%E3%83%BC%EF%BC%86%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%20%E3%83%88%E3%82%A5%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A8%E3%82%A4%E3%83%88%20%E3%82%B3%E3%83%B3%E3%83%A9%E3%83%83%E3%83%89%E6%9D%B1%E4%BA%AC%20%E6%B1%90%E7%95%99
+- プレミアムクラブ ラウンジ（最寄り駅：赤羽橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%82%AF%E3%83%A9%E3%83%96%20%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%20%E8%B5%A4%E7%BE%BD%E6%A9%8B
+- カフェ＆バー タワービューテラス（最寄り駅：御成門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%95%E3%82%A7%EF%BC%86%E3%83%90%E3%83%BC%20%E3%82%BF%E3%83%AF%E3%83%BC%E3%83%93%E3%83%A5%E3%83%BC%E3%83%86%E3%83%A9%E3%82%B9%20%E5%BE%A1%E6%88%90%E9%96%80
+- 中央合同庁舎第7号館 喫茶室Ⅱ（最寄り駅：虎ノ門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%A4%AE%E5%90%88%E5%90%8C%E5%BA%81%E8%88%8E%E7%AC%AC7%E5%8F%B7%E9%A4%A8%20%E5%96%AB%E8%8C%B6%E5%AE%A4%E2%85%A1%20%E8%99%8E%E3%83%8E%E9%96%80
+- ザ・カフェ by アマン（最寄り駅：大手町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B6%E3%83%BB%E3%82%AB%E3%83%95%E3%82%A7%20by%20%E3%82%A2%E3%83%9E%E3%83%B3%20%E5%A4%A7%E6%89%8B%E7%94%BA
+- ル・パン・コティディアン 芝公園店（最寄り駅：御成門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AB%E3%83%BB%E3%83%91%E3%83%B3%E3%83%BB%E3%82%B3%E3%83%86%E3%82%A3%E3%83%87%E3%82%A3%E3%82%A2%E3%83%B3%20%E8%8A%9D%E5%85%AC%E5%9C%92%E5%BA%97%20%E5%BE%A1%E6%88%90%E9%96%80
+- キャトルラパン・デリ（最寄り駅：西大橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AD%E3%83%A3%E3%83%88%E3%83%AB%E3%83%A9%E3%83%91%E3%83%B3%E3%83%BB%E3%83%87%E3%83%AA%20%E8%A5%BF%E5%A4%A7%E6%A9%8B
+- パンデュース 本店（最寄り駅：本町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%B3%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%9C%AC%E5%BA%97%20%E6%9C%AC%E7%94%BA
+- ショコラティエ パレ ド オール 大阪（最寄り駅：西梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%E3%83%86%E3%82%A3%E3%82%A8%20%E3%83%91%E3%83%AC%20%E3%83%89%20%E3%82%AA%E3%83%BC%E3%83%AB%20%E5%A4%A7%E9%98%AA%20%E8%A5%BF%E6%A2%85%E7%94%B0
+- ザ・リッツ・カールトン・グルメショップ（最寄り駅：西梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B6%E3%83%BB%E3%83%AA%E3%83%83%E3%83%84%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%88%E3%83%B3%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%A1%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%20%E8%A5%BF%E6%A2%85%E7%94%B0
+- 吉祥菓寮 祇園本店（最寄り駅：東山）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%90%89%E7%A5%A5%E8%8F%93%E5%AF%AE%20%E7%A5%87%E5%9C%92%E6%9C%AC%E5%BA%97%20%E6%9D%B1%E5%B1%B1
+- カフェ モロゾフ 上本町YUFURA店（最寄り駅：大阪上本町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%95%E3%82%A7%20%E3%83%A2%E3%83%AD%E3%82%BE%E3%83%95%20%E4%B8%8A%E6%9C%AC%E7%94%BAYUFURA%E5%BA%97%20%E5%A4%A7%E9%98%AA%E4%B8%8A%E6%9C%AC%E7%94%BA
+- たい焼き 二万翁（最寄り駅：尼崎（阪神））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%9F%E3%81%84%E7%84%BC%E3%81%8D%20%E4%BA%8C%E4%B8%87%E7%BF%81%20%E5%B0%BC%E5%B4%8E%EF%BC%88%E9%98%AA%E7%A5%9E%EF%BC%89
+- 幸せのパンケーキ 梅田店（最寄り駅：東梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%B9%B8%E3%81%9B%E3%81%AE%E3%83%91%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD%20%E6%A2%85%E7%94%B0%E5%BA%97%20%E6%9D%B1%E6%A2%85%E7%94%B0
+- ショウタニ 庄谷倶楽部（最寄り駅：出屋敷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A7%E3%82%A6%E3%82%BF%E3%83%8B%20%E5%BA%84%E8%B0%B7%E5%80%B6%E6%A5%BD%E9%83%A8%20%E5%87%BA%E5%B1%8B%E6%95%B7
+- コレクション ドゥ ショウタニ（最寄り駅：武庫之荘）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E3%83%89%E3%82%A5%20%E3%82%B7%E3%83%A7%E3%82%A6%E3%82%BF%E3%83%8B%20%E6%AD%A6%E5%BA%AB%E4%B9%8B%E8%8D%98
+- ケーキハウスショウタニ 武庫之荘店（最寄り駅：武庫之荘）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B1%E3%83%BC%E3%82%AD%E3%83%8F%E3%82%A6%E3%82%B9%E3%82%B7%E3%83%A7%E3%82%A6%E3%82%BF%E3%83%8B%20%E6%AD%A6%E5%BA%AB%E4%B9%8B%E8%8D%98%E5%BA%97%20%E6%AD%A6%E5%BA%AB%E4%B9%8B%E8%8D%98
+- MAYFAIR（最寄り駅：蹴上）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=MAYFAIR%20%E8%B9%B4%E4%B8%8A
+- みはし 東京駅一番街店（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%BF%E3%81%AF%E3%81%97%20%E6%9D%B1%E4%BA%AC%E9%A7%85%E4%B8%80%E7%95%AA%E8%A1%97%E5%BA%97%20%E6%9D%B1%E4%BA%AC

@@ -1,0 +1,8 @@
+以下のデータを使って、私のGoogleアカウントに全国の名店マップを作ってください。
+
+軽量版ZIP（CSVと指示書入り）:
+https://github.com/Cosm0rder/tabelog-gourmet-maps/releases/download/v1.0/gourmet-maps-for-ai.zip
+
+まずZIPをダウンロードして展開し、中の「AI-INSTRUCTIONS.md」を読んで、その手順どおりに進めてください。
+作業は私のGoogleアカウントに対して行います。ログインが必要な場面では私に操作させてください（パスワードは聞かないでください）。
+終わったら、作ったマップのURLと取り込めた件数を報告してください。

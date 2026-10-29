@@ -1,0 +1,105 @@
+# 追加先リスト：食べログ｜居酒屋
+# チャンク 1/2（50件）｜カテゴリ全81件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- 虎連坊 秋葉原店（最寄り駅：秋葉原）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%99%8E%E9%80%A3%E5%9D%8A%20%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97%20%E7%A7%8B%E8%91%89%E5%8E%9F
+- 釣宿酒場 マヅメ 有楽町電気ビル店（最寄り駅：有楽町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%87%A3%E5%AE%BF%E9%85%92%E5%A0%B4%20%E3%83%9E%E3%83%85%E3%83%A1%20%E6%9C%89%E6%A5%BD%E7%94%BA%E9%9B%BB%E6%B0%97%E3%83%93%E3%83%AB%E5%BA%97%20%E6%9C%89%E6%A5%BD%E7%94%BA
+- 近畿大学水産研究所 銀座店（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%BF%91%E7%95%BF%E5%A4%A7%E5%AD%A6%E6%B0%B4%E7%94%A3%E7%A0%94%E7%A9%B6%E6%89%80%20%E9%8A%80%E5%BA%A7%E5%BA%97%20%E9%8A%80%E5%BA%A7
+- 東京コトブキ 虎ノ門店（最寄り駅：虎ノ門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E4%BA%AC%E3%82%B3%E3%83%88%E3%83%96%E3%82%AD%20%E8%99%8E%E3%83%8E%E9%96%80%E5%BA%97%20%E8%99%8E%E3%83%8E%E9%96%80
+- 海鮮食堂 魚盛 コクーンシティ さいたま新都心店（最寄り駅：さいたま新都心）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E9%AE%AE%E9%A3%9F%E5%A0%82%20%E9%AD%9A%E7%9B%9B%20%E3%82%B3%E3%82%AF%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%86%E3%82%A3%20%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E6%96%B0%E9%83%BD%E5%BF%83%E5%BA%97%20%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E6%96%B0%E9%83%BD%E5%BF%83
+- 釣宿酒場 マヅメ 浦和店（最寄り駅：浦和）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%87%A3%E5%AE%BF%E9%85%92%E5%A0%B4%20%E3%83%9E%E3%83%85%E3%83%A1%20%E6%B5%A6%E5%92%8C%E5%BA%97%20%E6%B5%A6%E5%92%8C
+- 釣宿酒場マヅメ 御茶ノ水店（最寄り駅：御茶ノ水）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%87%A3%E5%AE%BF%E9%85%92%E5%A0%B4%E3%83%9E%E3%83%85%E3%83%A1%20%E5%BE%A1%E8%8C%B6%E3%83%8E%E6%B0%B4%E5%BA%97%20%E5%BE%A1%E8%8C%B6%E3%83%8E%E6%B0%B4
+- 魚盛 コレド室町テラス店（最寄り駅：新日本橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AD%9A%E7%9B%9B%20%E3%82%B3%E3%83%AC%E3%83%89%E5%AE%A4%E7%94%BA%E3%83%86%E3%83%A9%E3%82%B9%E5%BA%97%20%E6%96%B0%E6%97%A5%E6%9C%AC%E6%A9%8B
+- 酒場ダルマ（最寄り駅：神田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%85%92%E5%A0%B4%E3%83%80%E3%83%AB%E3%83%9E%20%E7%A5%9E%E7%94%B0
+- 馬舌屋 小伝馬町店（最寄り駅：小伝馬町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%A6%AC%E8%88%8C%E5%B1%8B%20%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA%E5%BA%97%20%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA
+- 鴨ときどき馬 神保町本店（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%B4%A8%E3%81%A8%E3%81%8D%E3%81%A9%E3%81%8D%E9%A6%AC%20%E7%A5%9E%E4%BF%9D%E7%94%BA%E6%9C%AC%E5%BA%97%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- 立呑み 浅草 洒落者（最寄り駅：田原町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E5%91%91%E3%81%BF%20%E6%B5%85%E8%8D%89%20%E6%B4%92%E8%90%BD%E8%80%85%20%E7%94%B0%E5%8E%9F%E7%94%BA
+- スタンドヒーロー（最寄り駅：水道橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC%20%E6%B0%B4%E9%81%93%E6%A9%8B
+- 日々酒々（最寄り駅：大宮）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E3%80%85%E9%85%92%E3%80%85%20%E5%A4%A7%E5%AE%AE
+- ワインショップ 奥神楽坂商店（最寄り駅：神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AF%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%97%20%E5%A5%A5%E7%A5%9E%E6%A5%BD%E5%9D%82%E5%95%86%E5%BA%97%20%E7%A5%9E%E6%A5%BD%E5%9D%82
+- 銀座 しまだ（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7%20%E3%81%97%E3%81%BE%E3%81%A0%20%E6%96%B0%E6%A9%8B
+- 城喜元（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%9F%8E%E5%96%9C%E5%85%83%20%E6%96%B0%E6%A9%8B
+- わたや（最寄り駅：浦和）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%8F%E3%81%9F%E3%82%84%20%E6%B5%A6%E5%92%8C
+- ふなっ子（最寄り駅：東船橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%B5%E3%81%AA%E3%81%A3%E5%AD%90%20%E6%9D%B1%E8%88%B9%E6%A9%8B
+- かんだ光壽（最寄り駅：神田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%8B%E3%82%93%E3%81%A0%E5%85%89%E5%A3%BD%20%E7%A5%9E%E7%94%B0
+- 月肴（最寄り駅：四谷三丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%9C%88%E8%82%B4%20%E5%9B%9B%E8%B0%B7%E4%B8%89%E4%B8%81%E7%9B%AE
+- 萬屋 おかげさん（最寄り駅：四谷三丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%90%AC%E5%B1%8B%20%E3%81%8A%E3%81%8B%E3%81%92%E3%81%95%E3%82%93%20%E5%9B%9B%E8%B0%B7%E4%B8%89%E4%B8%81%E7%9B%AE
+- 創和堂（最寄り駅：恵比寿）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%89%B5%E5%92%8C%E5%A0%82%20%E6%81%B5%E6%AF%94%E5%AF%BF
+- 産直屋 たか（最寄り駅：神泉）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%94%A3%E7%9B%B4%E5%B1%8B%20%E3%81%9F%E3%81%8B%20%E7%A5%9E%E6%B3%89
+- 高太郎（最寄り駅：渋谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E5%A4%AA%E9%83%8E%20%E6%B8%8B%E8%B0%B7
+- 松濤 爛缶（最寄り駅：神泉）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E6%BF%A4%20%E7%88%9B%E7%BC%B6%20%E7%A5%9E%E6%B3%89
+- 酒井商会（最寄り駅：渋谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%85%92%E4%BA%95%E5%95%86%E4%BC%9A%20%E6%B8%8B%E8%B0%B7
+- 酒 秀治郎（最寄り駅：代官山）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%85%92%20%E7%A7%80%E6%B2%BB%E9%83%8E%20%E4%BB%A3%E5%AE%98%E5%B1%B1
+- 銀座呑小路やま岸（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7%E5%91%91%E5%B0%8F%E8%B7%AF%E3%82%84%E3%81%BE%E5%B2%B8%20%E9%8A%80%E5%BA%A7
+- のどぐろ専門 銀座 中俣（最寄り駅：東銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%AE%E3%81%A9%E3%81%90%E3%82%8D%E5%B0%82%E9%96%80%20%E9%8A%80%E5%BA%A7%20%E4%B8%AD%E4%BF%A3%20%E6%9D%B1%E9%8A%80%E5%BA%A7
+- ニュー新みかん（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%A5%E3%83%BC%E6%96%B0%E3%81%BF%E3%81%8B%E3%82%93%20%E6%96%B0%E6%A9%8B
+- 新橋 いっぱし（最寄り駅：内幸町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E6%A9%8B%20%E3%81%84%E3%81%A3%E3%81%B1%E3%81%97%20%E5%86%85%E5%B9%B8%E7%94%BA
+- 美味ぇ津゛（最寄り駅：汐留）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E5%91%B3%E3%81%87%E6%B4%A5%E3%82%9B%20%E6%B1%90%E7%95%99
+- 舞浜（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%88%9E%E6%B5%9C%20%E6%96%B0%E6%A9%8B
+- 田舎家 炉（最寄り駅：北浦和）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%94%B0%E8%88%8E%E5%AE%B6%20%E7%82%89%20%E5%8C%97%E6%B5%A6%E5%92%8C
+- 山内農場 東京ミッドタウン八重洲店（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E5%86%85%E8%BE%B2%E5%A0%B4%20%E6%9D%B1%E4%BA%AC%E3%83%9F%E3%83%83%E3%83%89%E3%82%BF%E3%82%A6%E3%83%B3%E5%85%AB%E9%87%8D%E6%B4%B2%E5%BA%97%20%E6%9D%B1%E4%BA%AC
+- 海鮮 日本酒 ほっこり 霞が関店（最寄り駅：虎ノ門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E9%AE%AE%20%E6%97%A5%E6%9C%AC%E9%85%92%20%E3%81%BB%E3%81%A3%E3%81%93%E3%82%8A%20%E9%9C%9E%E3%81%8C%E9%96%A2%E5%BA%97%20%E8%99%8E%E3%83%8E%E9%96%80
+- かっぽうぎ 日テレプラザ店（最寄り駅：汐留）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%8B%E3%81%A3%E3%81%BD%E3%81%86%E3%81%8E%20%E6%97%A5%E3%83%86%E3%83%AC%E3%83%97%E3%83%A9%E3%82%B6%E5%BA%97%20%E6%B1%90%E7%95%99
+- ダイナミックキッチン＆バー 響 有楽町店（最寄り駅：有楽町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%EF%BC%86%E3%83%90%E3%83%BC%20%E9%9F%BF%20%E6%9C%89%E6%A5%BD%E7%94%BA%E5%BA%97%20%E6%9C%89%E6%A5%BD%E7%94%BA
+- 初つぼみ 霞が関店（最寄り駅：国会議事堂前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%88%9D%E3%81%A4%E3%81%BC%E3%81%BF%20%E9%9C%9E%E3%81%8C%E9%96%A2%E5%BA%97%20%E5%9B%BD%E4%BC%9A%E8%AD%B0%E4%BA%8B%E5%A0%82%E5%89%8D
+- 肴房 田（最寄り駅：郡山富田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%82%B4%E6%88%BF%20%E7%94%B0%20%E9%83%A1%E5%B1%B1%E5%AF%8C%E7%94%B0
+- ダイナミックキッチン＆バー 響 新宿サザンタワー店（最寄り駅：代々木）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%EF%BC%86%E3%83%90%E3%83%BC%20%E9%9F%BF%20%E6%96%B0%E5%AE%BF%E3%82%B5%E3%82%B6%E3%83%B3%E3%82%BF%E3%83%AF%E3%83%BC%E5%BA%97%20%E4%BB%A3%E3%80%85%E6%9C%A8
+- 九州うまいもんと焼酎 芋蔵 霞が関店（最寄り駅：虎ノ門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B9%9D%E5%B7%9E%E3%81%86%E3%81%BE%E3%81%84%E3%82%82%E3%82%93%E3%81%A8%E7%84%BC%E9%85%8E%20%E8%8A%8B%E8%94%B5%20%E9%9C%9E%E3%81%8C%E9%96%A2%E5%BA%97%20%E8%99%8E%E3%83%8E%E9%96%80
+- 虎連坊 大手町店（最寄り駅：大手町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%99%8E%E9%80%A3%E5%9D%8A%20%E5%A4%A7%E6%89%8B%E7%94%BA%E5%BA%97%20%E5%A4%A7%E6%89%8B%E7%94%BA
+- 虎連坊 八重洲店（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%99%8E%E9%80%A3%E5%9D%8A%20%E5%85%AB%E9%87%8D%E6%B4%B2%E5%BA%97%20%E6%9D%B1%E4%BA%AC
+- 旬菜ダイニング 新（最寄り駅：綾瀬）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%97%AC%E8%8F%9C%E3%83%80%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%20%E6%96%B0%20%E7%B6%BE%E7%80%AC
+- 鳥せゑ 四条木屋町店（最寄り駅：京都河原町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E3%81%9B%E3%82%91%20%E5%9B%9B%E6%9D%A1%E6%9C%A8%E5%B1%8B%E7%94%BA%E5%BA%97%20%E4%BA%AC%E9%83%BD%E6%B2%B3%E5%8E%9F%E7%94%BA
+- 魚頂天酒場 まつり 梅田店（最寄り駅：大阪梅田（阪急））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AD%9A%E9%A0%82%E5%A4%A9%E9%85%92%E5%A0%B4%20%E3%81%BE%E3%81%A4%E3%82%8A%20%E6%A2%85%E7%94%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E6%A2%85%E7%94%B0%EF%BC%88%E9%98%AA%E6%80%A5%EF%BC%89
+- 魚盛 阪急西宮ガーデンズ店（最寄り駅：西宮北口）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AD%9A%E7%9B%9B%20%E9%98%AA%E6%80%A5%E8%A5%BF%E5%AE%AE%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%82%BA%E5%BA%97%20%E8%A5%BF%E5%AE%AE%E5%8C%97%E5%8F%A3
+- おんどり庵 西宮北口店（最寄り駅：西宮北口）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E3%82%93%E3%81%A9%E3%82%8A%E5%BA%B5%20%E8%A5%BF%E5%AE%AE%E5%8C%97%E5%8F%A3%E5%BA%97%20%E8%A5%BF%E5%AE%AE%E5%8C%97%E5%8F%A3

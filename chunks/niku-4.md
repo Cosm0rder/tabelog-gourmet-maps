@@ -1,0 +1,79 @@
+# 追加先リスト：食べログ｜肉料理（焼肉・ステーキ等）
+# チャンク 4/4（37件）｜カテゴリ全187件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- 個室 和牛焼肉 吟 難波店（最寄り駅：なんば（大阪メトロ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%80%8B%E5%AE%A4%20%E5%92%8C%E7%89%9B%E7%84%BC%E8%82%89%20%E5%90%9F%20%E9%9B%A3%E6%B3%A2%E5%BA%97%20%E3%81%AA%E3%82%93%E3%81%B0%EF%BC%88%E5%A4%A7%E9%98%AA%E3%83%A1%E3%83%88%E3%83%AD%EF%BC%89
+- 和牛の紀楽（最寄り駅：大阪天満宮）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E7%89%9B%E3%81%AE%E7%B4%80%E6%A5%BD%20%E5%A4%A7%E9%98%AA%E5%A4%A9%E6%BA%80%E5%AE%AE
+- 奈良きみや 別邸 柘榴（最寄り駅：大江橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%A5%88%E8%89%AF%E3%81%8D%E3%81%BF%E3%82%84%20%E5%88%A5%E9%82%B8%20%E6%9F%98%E6%A6%B4%20%E5%A4%A7%E6%B1%9F%E6%A9%8B
+- さつま（最寄り駅：大江橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%81%A4%E3%81%BE%20%E5%A4%A7%E6%B1%9F%E6%A9%8B
+- 京松蘭 本店（最寄り駅：京橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E6%9D%BE%E8%98%AD%20%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E6%A9%8B
+- 万両 天神橋店（最寄り駅：南森町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%87%E4%B8%A1%20%E5%A4%A9%E7%A5%9E%E6%A9%8B%E5%BA%97%20%E5%8D%97%E6%A3%AE%E7%94%BA
+- KOBE BEEF STEAK ITOH DINING KYOTO（最寄り駅：祇園四条）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=KOBE%20BEEF%20STEAK%20ITOH%20DINING%20KYOTO%20%E7%A5%87%E5%9C%92%E5%9B%9B%E6%9D%A1
+- Teppanyaki×Wine あかくろ（最寄り駅：西梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Teppanyaki%C3%97Wine%20%E3%81%82%E3%81%8B%E3%81%8F%E3%82%8D%20%E8%A5%BF%E6%A2%85%E7%94%B0
+- 挽肉と米 渋谷（最寄り駅：渋谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%8C%BD%E8%82%89%E3%81%A8%E7%B1%B3%20%E6%B8%8B%E8%B0%B7%20%E6%B8%8B%E8%B0%B7
+- 挽肉と米 吉祥寺（最寄り駅：吉祥寺）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%8C%BD%E8%82%89%E3%81%A8%E7%B1%B3%20%E5%90%89%E7%A5%A5%E5%AF%BA%20%E5%90%89%E7%A5%A5%E5%AF%BA
+- シュラスコレストランALEGRIA ebisu（最寄り駅：恵比寿）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A5%E3%83%A9%E3%82%B9%E3%82%B3%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3ALEGRIA%20ebisu%20%E6%81%B5%E6%AF%94%E5%AF%BF
+- シュラスコレストランALEGRIA GINZA（最寄り駅：新富町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%A5%E3%83%A9%E3%82%B9%E3%82%B3%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3ALEGRIA%20GINZA%20%E6%96%B0%E5%AF%8C%E7%94%BA
+- 焼肉 黒5 本店（最寄り駅：池袋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%84%BC%E8%82%89%20%E9%BB%925%20%E6%9C%AC%E5%BA%97%20%E6%B1%A0%E8%A2%8B
+- 大阪焼肉・ホルモン ふたご 渋谷センター街店（最寄り駅：渋谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E7%84%BC%E8%82%89%E3%83%BB%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3%20%E3%81%B5%E3%81%9F%E3%81%94%20%E6%B8%8B%E8%B0%B7%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E8%A1%97%E5%BA%97%20%E6%B8%8B%E8%B0%B7
+- ホルモンまさる（最寄り駅：三田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3%E3%81%BE%E3%81%95%E3%82%8B%20%E4%B8%89%E7%94%B0
+- 焼肉 ジャンボ 本郷店（最寄り駅：本郷三丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%84%BC%E8%82%89%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9C%20%E6%9C%AC%E9%83%B7%E5%BA%97%20%E6%9C%AC%E9%83%B7%E4%B8%89%E4%B8%81%E7%9B%AE
+- 焼肉 ジャンボ はなれ（最寄り駅：本郷三丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%84%BC%E8%82%89%20%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9C%20%E3%81%AF%E3%81%AA%E3%82%8C%20%E6%9C%AC%E9%83%B7%E4%B8%89%E4%B8%81%E7%9B%AE
+- 焼肉ジャンボ 白金（最寄り駅：白金高輪）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%84%BC%E8%82%89%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9C%20%E7%99%BD%E9%87%91%20%E7%99%BD%E9%87%91%E9%AB%98%E8%BC%AA
+- 焼肉 静龍苑（最寄り駅：清澄白河）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%84%BC%E8%82%89%20%E9%9D%99%E9%BE%8D%E8%8B%91%20%E6%B8%85%E6%BE%84%E7%99%BD%E6%B2%B3
+- 焼肉うしごろ 銀座並木通り店（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%84%BC%E8%82%89%E3%81%86%E3%81%97%E3%81%94%E3%82%8D%20%E9%8A%80%E5%BA%A7%E4%B8%A6%E6%9C%A8%E9%80%9A%E3%82%8A%E5%BA%97%20%E9%8A%80%E5%BA%A7
+- 北新地はらみ 阪神梅田店（最寄り駅：大阪梅田（阪神））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%96%B0%E5%9C%B0%E3%81%AF%E3%82%89%E3%81%BF%20%E9%98%AA%E7%A5%9E%E6%A2%85%E7%94%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E6%A2%85%E7%94%B0%EF%BC%88%E9%98%AA%E7%A5%9E%EF%BC%89
+- ウルフギャング・ステーキハウス 大阪店（最寄り駅：大阪）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A6%E3%83%AB%E3%83%95%E3%82%AE%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%E3%83%8F%E3%82%A6%E3%82%B9%20%E5%A4%A7%E9%98%AA%E5%BA%97%20%E5%A4%A7%E9%98%AA
+- 味楽園（最寄り駅：出屋敷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%91%B3%E6%A5%BD%E5%9C%92%20%E5%87%BA%E5%B1%8B%E6%95%B7
+- 鉄板焼き 華粋（最寄り駅：北新地）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%89%84%E6%9D%BF%E7%84%BC%E3%81%8D%20%E8%8F%AF%E7%B2%8B%20%E5%8C%97%E6%96%B0%E5%9C%B0
+- 肉問屋 曾根崎∞街（最寄り駅：東梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%82%89%E5%95%8F%E5%B1%8B%20%E6%9B%BE%E6%A0%B9%E5%B4%8E%E2%88%9E%E8%A1%97%20%E6%9D%B1%E6%A2%85%E7%94%B0
+- 焼肉萬野 天王寺店（最寄り駅：天王寺）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%84%BC%E8%82%89%E8%90%AC%E9%87%8E%20%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%BA%97%20%E5%A4%A9%E7%8E%8B%E5%AF%BA
+- 和牛 まつした 本通り店（最寄り駅：北新地）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E7%89%9B%20%E3%81%BE%E3%81%A4%E3%81%97%E3%81%9F%20%E6%9C%AC%E9%80%9A%E3%82%8A%E5%BA%97%20%E5%8C%97%E6%96%B0%E5%9C%B0
+- 北新地 すがはら（最寄り駅：大江橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%96%B0%E5%9C%B0%20%E3%81%99%E3%81%8C%E3%81%AF%E3%82%89%20%E5%A4%A7%E6%B1%9F%E6%A9%8B
+- 北新地 はらみ（最寄り駅：北新地）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%96%B0%E5%9C%B0%20%E3%81%AF%E3%82%89%E3%81%BF%20%E5%8C%97%E6%96%B0%E5%9C%B0
+- にくや萬野 お初天神裏参道店（最寄り駅：東梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%AB%E3%81%8F%E3%82%84%E8%90%AC%E9%87%8E%20%E3%81%8A%E5%88%9D%E5%A4%A9%E7%A5%9E%E8%A3%8F%E5%8F%82%E9%81%93%E5%BA%97%20%E6%9D%B1%E6%A2%85%E7%94%B0
+- 益市 本店（最寄り駅：西大路）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%9B%8A%E5%B8%82%20%E6%9C%AC%E5%BA%97%20%E8%A5%BF%E5%A4%A7%E8%B7%AF
+- やきにく なり田屋（最寄り駅：神宮丸太町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%84%E3%81%8D%E3%81%AB%E3%81%8F%20%E3%81%AA%E3%82%8A%E7%94%B0%E5%B1%8B%20%E7%A5%9E%E5%AE%AE%E4%B8%B8%E5%A4%AA%E7%94%BA
+- 炭焼肉 石田屋。 本店（最寄り駅：三宮（神戸市営））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%82%AD%E7%84%BC%E8%82%89%20%E7%9F%B3%E7%94%B0%E5%B1%8B%E3%80%82%20%E6%9C%AC%E5%BA%97%20%E4%B8%89%E5%AE%AE%EF%BC%88%E7%A5%9E%E6%88%B8%E5%B8%82%E5%96%B6%EF%BC%89
+- 炭火焼肉いち鈴 本店（最寄り駅：出町柳）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%82%AD%E7%81%AB%E7%84%BC%E8%82%89%E3%81%84%E3%81%A1%E9%88%B4%20%E6%9C%AC%E5%BA%97%20%E5%87%BA%E7%94%BA%E6%9F%B3
+- ミリオン（最寄り駅：出町柳）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%20%E5%87%BA%E7%94%BA%E6%9F%B3
+- KENYA（最寄り駅：鳴尾・武庫川女子大前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=KENYA%20%E9%B3%B4%E5%B0%BE%E3%83%BB%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%89%8D
+- 甲子園 牛萬（最寄り駅：鳴尾・武庫川女子大前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E5%AD%90%E5%9C%92%20%E7%89%9B%E8%90%AC%20%E9%B3%B4%E5%B0%BE%E3%83%BB%E6%AD%A6%E5%BA%AB%E5%B7%9D%E5%A5%B3%E5%AD%90%E5%A4%A7%E5%89%8D

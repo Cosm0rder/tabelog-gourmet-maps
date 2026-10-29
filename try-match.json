@@ -1,0 +1,4550 @@
+{
+ "entries": [
+  {
+   "edition": 27,
+   "group": "TRY大賞",
+   "category": "総合",
+   "rank": "1",
+   "name": "中華そば しば田",
+   "area_note": "東京都狛江市",
+   "norm": "中華そばしば田"
+  },
+  {
+   "edition": 27,
+   "group": "TRY大賞",
+   "category": "総合",
+   "rank": "1",
+   "name": "創作麺工房 鳴龍",
+   "area_note": "東京都豊島区（大塚）",
+   "norm": "創作麺工房鳴竜"
+  },
+  {
+   "edition": 27,
+   "group": "名店",
+   "category": "しょう油部門",
+   "rank": "1",
+   "name": "中華そば しば田",
+   "area_note": "東京都狛江市",
+   "norm": "中華そばしば田"
+  },
+  {
+   "edition": 27,
+   "group": "新店大賞",
+   "category": "総合",
+   "rank": "1",
+   "name": "手作りラーメンの店 Rustic Noodles",
+   "area_note": "千葉県野田市（愛宕）",
+   "norm": "手作りラーメンの店rusticnoodles"
+  },
+  {
+   "edition": 27,
+   "group": "新店",
+   "category": "しょう油部門",
+   "rank": "1",
+   "name": "手作りラーメンの店 Rustic Noodles",
+   "area_note": "千葉県野田市（愛宕）",
+   "norm": "手作りラーメンの店rusticnoodles"
+  },
+  {
+   "edition": 27,
+   "group": "新店",
+   "category": "しお部門",
+   "rank": "1",
+   "name": "手作りラーメンの店 Rustic Noodles",
+   "area_note": "千葉県野田市（愛宕）",
+   "norm": "手作りラーメンの店rusticnoodles"
+  },
+  {
+   "edition": 27,
+   "group": "新店",
+   "category": "つけ麺部門",
+   "rank": "1",
+   "name": "手作りラーメンの店 Rustic Noodles",
+   "area_note": "千葉県野田市（愛宕）",
+   "norm": "手作りラーメンの店rusticnoodles"
+  },
+  {
+   "edition": 27,
+   "group": "名店",
+   "category": "とんこつ部門",
+   "rank": "8",
+   "name": "箕輪家",
+   "area_note": "東京都中野区（箕輪家 中野本店）",
+   "norm": "箕輪家"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "総合",
+   "rank": "1",
+   "name": "麺や 晴心",
+   "area_note": "",
+   "norm": "麺や晴心"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "総合",
+   "rank": "2",
+   "name": "3931WORKS.",
+   "area_note": "",
+   "norm": "3931works."
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "総合",
+   "rank": "3",
+   "name": "らーめん3000",
+   "area_note": "",
+   "norm": "らーめん3000"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "総合",
+   "rank": "3",
+   "name": "中華そばの店 みのひ",
+   "area_note": "",
+   "norm": "中華そばの店みのひ"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "総合",
+   "rank": "5",
+   "name": "味噌らーめん屋 ちょりん",
+   "area_note": "",
+   "norm": "味噌らーめん屋ちょりん"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "総合",
+   "rank": "6",
+   "name": "豚骨らーめん ぶたまるき",
+   "area_note": "",
+   "norm": "豚骨らーめんぶたまるき"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "総合",
+   "rank": "7",
+   "name": "Ramen 翡翠",
+   "area_note": "",
+   "norm": "ramen翡翠"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "しょう油部門",
+   "rank": "1",
+   "name": "麺や 晴心",
+   "area_note": "",
+   "norm": "麺や晴心"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "しょう油部門",
+   "rank": "2",
+   "name": "らーめん3000",
+   "area_note": "",
+   "norm": "らーめん3000"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "しょう油部門",
+   "rank": "3",
+   "name": "flour works",
+   "area_note": "",
+   "norm": "flourworks"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "しょう油部門",
+   "rank": "4",
+   "name": "Ramen 翡翠",
+   "area_note": "",
+   "norm": "ramen翡翠"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "しょう油部門",
+   "rank": "4",
+   "name": "3931WORKS.",
+   "area_note": "",
+   "norm": "3931works."
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "しょう油部門",
+   "rank": "6",
+   "name": "ら～麺 瑞藤",
+   "area_note": "",
+   "norm": "ら~麺瑞藤"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "しょう油部門",
+   "rank": "7",
+   "name": "らぁ麺 花筏",
+   "area_note": "",
+   "norm": "らぁ麺花筏"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "しお部門",
+   "rank": "1",
+   "name": "麺や 晴心",
+   "area_note": "",
+   "norm": "麺や晴心"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "しお部門",
+   "rank": "2",
+   "name": "3931WORKS.",
+   "area_note": "",
+   "norm": "3931works."
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "しお部門",
+   "rank": "3",
+   "name": "らーめん3000",
+   "area_note": "",
+   "norm": "らーめん3000"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "しお部門",
+   "rank": "4",
+   "name": "Ramen 翡翠",
+   "area_note": "",
+   "norm": "ramen翡翠"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "しお部門",
+   "rank": "4",
+   "name": "らぁ麺 花筏",
+   "area_note": "",
+   "norm": "らぁ麺花筏"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "しお部門",
+   "rank": "6",
+   "name": "札幌 六坊",
+   "area_note": "",
+   "norm": "札幌六坊"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "しお部門",
+   "rank": "7",
+   "name": "一条流がんこラーメン 金町",
+   "area_note": "",
+   "norm": "一条流がんこラーメン金町"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "しお部門",
+   "rank": "8",
+   "name": "ラーメン専門店 なんぞ",
+   "area_note": "",
+   "norm": "ラーメン専門店なんぞ"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "みそ部門",
+   "rank": "1",
+   "name": "味噌らーめん屋 ちょりん",
+   "area_note": "",
+   "norm": "味噌らーめん屋ちょりん"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "みそ部門",
+   "rank": "2",
+   "name": "地鶏中華そばと炊きたて秩父おかん飯 トリコ食堂",
+   "area_note": "",
+   "norm": "地鶏中華そばと炊きたて秩父おかん飯トリコ食堂"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "みそ部門",
+   "rank": "3",
+   "name": "らぁ麺 ようざん",
+   "area_note": "",
+   "norm": "らぁ麺ようざん"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "みそ部門",
+   "rank": "4",
+   "name": "札幌 六坊",
+   "area_note": "",
+   "norm": "札幌六坊"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "みそ部門",
+   "rank": "5",
+   "name": "らーめん味噌中華 ちちぶ屋",
+   "area_note": "",
+   "norm": "らーめん味噌中華ちちぶ屋"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "とんこつ部門",
+   "rank": "1",
+   "name": "豚骨らーめん ぶたまるき",
+   "area_note": "",
+   "norm": "豚骨らーめんぶたまるき"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "とんこつ部門",
+   "rank": "2",
+   "name": "まるあ中華そば",
+   "area_note": "",
+   "norm": "まるあ中華そば"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "とんこつ部門",
+   "rank": "3",
+   "name": "家系ラーメン いんなみ家",
+   "area_note": "",
+   "norm": "家系ラーメンいんなみ家"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "とんこつ部門",
+   "rank": "4",
+   "name": "ラーメン 豚ヒロ",
+   "area_note": "",
+   "norm": "ラーメン豚ヒロ"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "とんこつ部門",
+   "rank": "5",
+   "name": "家系ラーメン ゆくる家",
+   "area_note": "",
+   "norm": "家系ラーメンゆくる家"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "とんこつ部門",
+   "rank": "6",
+   "name": "豚骨オタク！",
+   "area_note": "",
+   "norm": "豚骨オタク!"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "MIX部門",
+   "rank": "1",
+   "name": "中華そばの店 みのひ",
+   "area_note": "",
+   "norm": "中華そばの店みのひ"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "MIX部門",
+   "rank": "2",
+   "name": "麺屋 青",
+   "area_note": "",
+   "norm": "麺屋青"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "MIX部門",
+   "rank": "2",
+   "name": "ラーメンパーク あずーる",
+   "area_note": "",
+   "norm": "ラーメンパークあずーる"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "MIX部門",
+   "rank": "4",
+   "name": "創作麺 ひとすじ",
+   "area_note": "",
+   "norm": "創作麺ひとすじ"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "MIX部門",
+   "rank": "5",
+   "name": "一条流がんこラーメン 金町",
+   "area_note": "",
+   "norm": "一条流がんこラーメン金町"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "MIX部門",
+   "rank": "6",
+   "name": "中華そばの店 りょうが",
+   "area_note": "",
+   "norm": "中華そばの店りょうが"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "MIX部門",
+   "rank": "7",
+   "name": "豚骨らーめん ぶたまるき",
+   "area_note": "",
+   "norm": "豚骨らーめんぶたまるき"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "にぼし部門",
+   "rank": "1",
+   "name": "煮干らぁめん 瀧川",
+   "area_note": "",
+   "norm": "煮干らぁめん瀧川"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "にぼし部門",
+   "rank": "2",
+   "name": "中華そば カナリヤ",
+   "area_note": "",
+   "norm": "中華そばカナリヤ"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "にぼし部門",
+   "rank": "3",
+   "name": "伊藤中華そば",
+   "area_note": "",
+   "norm": "伊藤中華そば"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "にぼし部門",
+   "rank": "4",
+   "name": "新潟ラーメン なみ福 浅草店",
+   "area_note": "",
+   "norm": "新潟ラーメンなみ福浅草店"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "にぼし部門",
+   "rank": "5",
+   "name": "中華そば 縁",
+   "area_note": "",
+   "norm": "中華そば縁"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "つけ麺部門",
+   "rank": "1",
+   "name": "らーめん 3000",
+   "area_note": "",
+   "norm": "らーめん3000"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "つけ麺部門",
+   "rank": "2",
+   "name": "中華そばの店 みのひ",
+   "area_note": "",
+   "norm": "中華そばの店みのひ"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "つけ麺部門",
+   "rank": "3",
+   "name": "3931WORKS.",
+   "area_note": "",
+   "norm": "3931works."
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "つけ麺部門",
+   "rank": "4",
+   "name": "御影麺 鏑矢",
+   "area_note": "",
+   "norm": "御影麺鏑矢"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "つけ麺部門",
+   "rank": "5",
+   "name": "弐昇",
+   "area_note": "",
+   "norm": "弐昇"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "つけ麺部門",
+   "rank": "6",
+   "name": "中華そばの店 りょうが",
+   "area_note": "",
+   "norm": "中華そばの店りょうが"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "汁なし部門",
+   "rank": "1",
+   "name": "油カダブラ",
+   "area_note": "",
+   "norm": "油カダブラ"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "汁なし部門",
+   "rank": "2",
+   "name": "味噌らーめん屋 ちょりん",
+   "area_note": "",
+   "norm": "味噌らーめん屋ちょりん"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "汁なし部門",
+   "rank": "3",
+   "name": "13湯麺 集",
+   "area_note": "",
+   "norm": "13湯麺集"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "汁なし部門",
+   "rank": "4",
+   "name": "香味まぜそば しろ",
+   "area_note": "",
+   "norm": "香味まぜそばしろ"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "汁なし部門",
+   "rank": "4",
+   "name": "麺座 すず丸",
+   "area_note": "",
+   "norm": "麺座すず丸"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "オリジナル部門",
+   "rank": "-",
+   "name": "麺ZINさいとう",
+   "area_note": "",
+   "norm": "麺zinさいとう"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "オリジナル部門",
+   "rank": "-",
+   "name": "Noodle Create Marry",
+   "area_note": "",
+   "norm": "noodlecreatemarry"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "オリジナル部門",
+   "rank": "-",
+   "name": "創作麺 ひとすじ",
+   "area_note": "",
+   "norm": "創作麺ひとすじ"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "オリジナル部門",
+   "rank": "-",
+   "name": "佐とう",
+   "area_note": "",
+   "norm": "佐とう"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "オリジナル部門",
+   "rank": "-",
+   "name": "らーめん Orange",
+   "area_note": "",
+   "norm": "らーめんorange"
+  },
+  {
+   "edition": 26,
+   "group": "新店",
+   "category": "オリジナル部門",
+   "rank": "-",
+   "name": "東京華山椒",
+   "area_note": "",
+   "norm": "東京華山椒"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "総合",
+   "rank": "1",
+   "name": "らーめん かねかつ",
+   "area_note": "",
+   "norm": "らーめんかねかつ"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "総合",
+   "rank": "2",
+   "name": "自家製手もみ麺 鈴ノ木",
+   "area_note": "",
+   "norm": "自家製手もみ麺鈴ノ木"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "総合",
+   "rank": "3",
+   "name": "中華そば しば田",
+   "area_note": "",
+   "norm": "中華そばしば田"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "総合",
+   "rank": "4",
+   "name": "Ramen Feel",
+   "area_note": "",
+   "norm": "ramenfeel"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "総合",
+   "rank": "5",
+   "name": "創作麺工房 鳴龍",
+   "area_note": "",
+   "norm": "創作麺工房鳴竜"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しょう油部門",
+   "rank": "1",
+   "name": "中華そば しば田",
+   "area_note": "",
+   "norm": "中華そばしば田"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しょう油部門",
+   "rank": "2",
+   "name": "中華そば 深緑",
+   "area_note": "",
+   "norm": "中華そば深緑"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しょう油部門",
+   "rank": "3",
+   "name": "Ramen FeeL",
+   "area_note": "",
+   "norm": "ramenfeel"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しょう油部門",
+   "rank": "4",
+   "name": "手打ちそば 一番いちばん",
+   "area_note": "",
+   "norm": "手打ちそば一番いちばん"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しょう油部門",
+   "rank": "5",
+   "name": "らぁめん 鴇",
+   "area_note": "",
+   "norm": "らぁめん鴇"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しょう油部門",
+   "rank": "6",
+   "name": "創作麺工房 鳴龍",
+   "area_note": "",
+   "norm": "創作麺工房鳴竜"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しょう油部門",
+   "rank": "7",
+   "name": "ラーメン 星印",
+   "area_note": "",
+   "norm": "ラーメン星印"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しょう油部門",
+   "rank": "8",
+   "name": "とものもと",
+   "area_note": "",
+   "norm": "とものもと"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しょう油部門",
+   "rank": "9",
+   "name": "自家製手もみ麺 鈴ノ木",
+   "area_note": "",
+   "norm": "自家製手もみ麺鈴ノ木"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しょう油部門",
+   "rank": "10",
+   "name": "らーめんMAIKAGURA",
+   "area_note": "",
+   "norm": "らーめんmaikagura"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しょう油部門",
+   "rank": "11",
+   "name": "自家製麺 カミカゼ",
+   "area_note": "",
+   "norm": "自家製麺カミカゼ"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しょう油部門",
+   "rank": "12",
+   "name": "らぁ麺や 嶋",
+   "area_note": "",
+   "norm": "らぁ麺や島"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しょう油部門",
+   "rank": "13",
+   "name": "Tombo",
+   "area_note": "",
+   "norm": "tombo"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しょう油部門",
+   "rank": "14",
+   "name": "麺 ふじさき",
+   "area_note": "",
+   "norm": "麺ふじさき"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しょう油部門",
+   "rank": "15",
+   "name": "支那ソバかづ屋",
+   "area_note": "",
+   "norm": "支那ソバかづ屋"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しお部門",
+   "rank": "1",
+   "name": "中華そば しば田",
+   "area_note": "",
+   "norm": "中華そばしば田"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しお部門",
+   "rank": "2",
+   "name": "自家製麺 カミカゼ",
+   "area_note": "",
+   "norm": "自家製麺カミカゼ"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しお部門",
+   "rank": "3",
+   "name": "Ramen FeeL",
+   "area_note": "",
+   "norm": "ramenfeel"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しお部門",
+   "rank": "4",
+   "name": "のスた",
+   "area_note": "",
+   "norm": "のスた"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しお部門",
+   "rank": "5",
+   "name": "ラーメン 星印",
+   "area_note": "",
+   "norm": "ラーメン星印"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しお部門",
+   "rank": "6",
+   "name": "らあめん 元",
+   "area_note": "",
+   "norm": "らあめん元"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しお部門",
+   "rank": "7",
+   "name": "らーめん とうかんや",
+   "area_note": "",
+   "norm": "らーめんとうかんや"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しお部門",
+   "rank": "8",
+   "name": "らぁめん 信 shin",
+   "area_note": "",
+   "norm": "らぁめん信shin"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しお部門",
+   "rank": "9",
+   "name": "饗 くろ㐂",
+   "area_note": "",
+   "norm": "饗くろ喜"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しお部門",
+   "rank": "10",
+   "name": "Tombo",
+   "area_note": "",
+   "norm": "tombo"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しお部門",
+   "rank": "11",
+   "name": "創作麺工房 鳴龍",
+   "area_note": "",
+   "norm": "創作麺工房鳴竜"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しお部門",
+   "rank": "12",
+   "name": "支那ソバ 小むろ",
+   "area_note": "",
+   "norm": "支那ソバ小むろ"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しお部門",
+   "rank": "13",
+   "name": "らーめんMAIKAGURA",
+   "area_note": "",
+   "norm": "らーめんmaikagura"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しお部門",
+   "rank": "13",
+   "name": "麺処 ら塾",
+   "area_note": "",
+   "norm": "麺処ら塾"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しお部門",
+   "rank": "15",
+   "name": "自家製手もみ麺 鈴ノ木",
+   "area_note": "",
+   "norm": "自家製手もみ麺鈴ノ木"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "しお部門",
+   "rank": "15",
+   "name": "一条流がんこ 総本家分家 四谷荒木町",
+   "area_note": "",
+   "norm": "一条流がんこ総本家分家四谷荒木町"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "みそ部門",
+   "rank": "1",
+   "name": "ラーメン 郷",
+   "area_note": "",
+   "norm": "ラーメン郷"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "みそ部門",
+   "rank": "2",
+   "name": "東京味噌らーめん 鶉",
+   "area_note": "",
+   "norm": "東京味噌らーめん鶉"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "みそ部門",
+   "rank": "3",
+   "name": "ら～麺 あけどや",
+   "area_note": "",
+   "norm": "ら~麺あけどや"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "みそ部門",
+   "rank": "4",
+   "name": "流星軒",
+   "area_note": "",
+   "norm": "流星軒"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "みそ部門",
+   "rank": "5",
+   "name": "三ん寅",
+   "area_note": "",
+   "norm": "三ん寅"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "みそ部門",
+   "rank": "6",
+   "name": "雪ぐに",
+   "area_note": "",
+   "norm": "雪ぐに"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "みそ部門",
+   "rank": "7",
+   "name": "拉麺大公 南太田本店",
+   "area_note": "",
+   "norm": "拉麺大公南太田本店"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "みそ部門",
+   "rank": "8",
+   "name": "麺小屋 てち",
+   "area_note": "",
+   "norm": "麺小屋てち"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "みそ部門",
+   "rank": "9",
+   "name": "麺処 秋もと",
+   "area_note": "",
+   "norm": "麺処秋もと"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "みそ部門",
+   "rank": "9",
+   "name": "麺・粥 けんけん",
+   "area_note": "",
+   "norm": "麺粥けんけん"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "とんこつ部門",
+   "rank": "1",
+   "name": "うまいヨ ゆうちゃんラーメン",
+   "area_note": "",
+   "norm": "うまいヨゆうちゃんラーメン"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "とんこつ部門",
+   "rank": "2",
+   "name": "三代目 博多 だるま",
+   "area_note": "",
+   "norm": "三代目博多だるま"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "とんこつ部門",
+   "rank": "3",
+   "name": "ラーメン 厚木家",
+   "area_note": "",
+   "norm": "ラーメン厚木家"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "とんこつ部門",
+   "rank": "4",
+   "name": "博多長浜らーめん もりや",
+   "area_note": "",
+   "norm": "博多長浜らーめんもりや"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "とんこつ部門",
+   "rank": "5",
+   "name": "麺処 一笑",
+   "area_note": "",
+   "norm": "麺処一笑"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "とんこつ部門",
+   "rank": "6",
+   "name": "三代目 沖食堂",
+   "area_note": "",
+   "norm": "三代目沖食堂"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "とんこつ部門",
+   "rank": "7",
+   "name": "博多ラーメン 和",
+   "area_note": "",
+   "norm": "博多ラーメン和"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "とんこつ部門",
+   "rank": "8",
+   "name": "ラーメン 男盛",
+   "area_note": "",
+   "norm": "ラーメン男盛"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "とんこつ部門",
+   "rank": "9",
+   "name": "豚骨 蒼翔",
+   "area_note": "",
+   "norm": "豚骨蒼翔"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "MIX部門",
+   "rank": "1",
+   "name": "麺屋 永太",
+   "area_note": "",
+   "norm": "麺屋永太"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "MIX部門",
+   "rank": "2",
+   "name": "勢得",
+   "area_note": "",
+   "norm": "勢得"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "MIX部門",
+   "rank": "3",
+   "name": "こうかいぼう",
+   "area_note": "",
+   "norm": "こうかいぼう"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "MIX部門",
+   "rank": "4",
+   "name": "中華そば べんてん",
+   "area_note": "",
+   "norm": "中華そばべんてん"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "MIX部門",
+   "rank": "5",
+   "name": "桜上水 船越",
+   "area_note": "",
+   "norm": "桜上水船越"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "MIX部門",
+   "rank": "6",
+   "name": "一条流がんこ 総本家分家 四谷荒木町",
+   "area_note": "",
+   "norm": "一条流がんこ総本家分家四谷荒木町"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "MIX部門",
+   "rank": "7",
+   "name": "らーめん 文蔵",
+   "area_note": "",
+   "norm": "らーめん文蔵"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "MIX部門",
+   "rank": "8",
+   "name": "所沢大勝軒",
+   "area_note": "",
+   "norm": "所沢大勝軒"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "MIX部門",
+   "rank": "9",
+   "name": "自家製麺 麺屋 利八",
+   "area_note": "",
+   "norm": "自家製麺麺屋利八"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "MIX部門",
+   "rank": "10",
+   "name": "麺 髙はし",
+   "area_note": "",
+   "norm": "麺高はし"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "MIX部門",
+   "rank": "11",
+   "name": "RAMEN GOTTSU",
+   "area_note": "",
+   "norm": "ramengottsu"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "にぼし部門",
+   "rank": "1",
+   "name": "Dad's Ramen 夢にでてきた中華そば",
+   "area_note": "",
+   "norm": "dadsramen夢にでてきた中華そば"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "にぼし部門",
+   "rank": "2",
+   "name": "中華そば 西川",
+   "area_note": "",
+   "norm": "中華そば西川"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "にぼし部門",
+   "rank": "3",
+   "name": "永福町大勝軒",
+   "area_note": "",
+   "norm": "永福町大勝軒"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "にぼし部門",
+   "rank": "4",
+   "name": "DAIKUMA",
+   "area_note": "",
+   "norm": "daikuma"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "にぼし部門",
+   "rank": "5",
+   "name": "麺響 万蕾",
+   "area_note": "",
+   "norm": "麺響万蕾"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "にぼし部門",
+   "rank": "6",
+   "name": "中華ソバ 篤々 TOKU-TOKU",
+   "area_note": "",
+   "norm": "中華ソバ篤々tokutoku"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "にぼし部門",
+   "rank": "7",
+   "name": "中華そば 児ノ木",
+   "area_note": "",
+   "norm": "中華そば児ノ木"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "にぼし部門",
+   "rank": "8",
+   "name": "中華そば専門 とんちぼ",
+   "area_note": "",
+   "norm": "中華そば専門とんちぼ"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "にぼし部門",
+   "rank": "9",
+   "name": "煮干そば 流。",
+   "area_note": "",
+   "norm": "煮干そば流。"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "にぼし部門",
+   "rank": "10",
+   "name": "中華そば屋 伊藤",
+   "area_note": "",
+   "norm": "中華そば屋伊藤"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "鶏白湯部門",
+   "rank": "1",
+   "name": "らーめんMAIKAGURA",
+   "area_note": "",
+   "norm": "らーめんmaikagura"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "鶏白湯部門",
+   "rank": "2",
+   "name": "臥龍",
+   "area_note": "",
+   "norm": "臥竜"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "鶏白湯部門",
+   "rank": "3",
+   "name": "らー麺屋 バリバリジョニー",
+   "area_note": "",
+   "norm": "らー麺屋バリバリジョニー"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "鶏白湯部門",
+   "rank": "4",
+   "name": "らぁ麺 松しん",
+   "area_note": "",
+   "norm": "らぁ麺松しん"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "鶏白湯部門",
+   "rank": "5",
+   "name": "らーめん れんげ",
+   "area_note": "",
+   "norm": "らーめんれんげ"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "鶏白湯部門",
+   "rank": "6",
+   "name": "中華そば やま福",
+   "area_note": "",
+   "norm": "中華そばやま福"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "鶏白湯部門",
+   "rank": "7",
+   "name": "らあめん 元",
+   "area_note": "",
+   "norm": "らあめん元"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 清湯部門",
+   "rank": "1",
+   "name": "らーめん かねかつ",
+   "area_note": "",
+   "norm": "らーめんかねかつ"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 清湯部門",
+   "rank": "2",
+   "name": "自家製手もみ麺 鈴ノ木",
+   "area_note": "",
+   "norm": "自家製手もみ麺鈴ノ木"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 清湯部門",
+   "rank": "3",
+   "name": "らーめんMAIKAGURA",
+   "area_note": "",
+   "norm": "らーめんmaikagura"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 清湯部門",
+   "rank": "4",
+   "name": "Ramen FeeL",
+   "area_note": "",
+   "norm": "ramenfeel"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 清湯部門",
+   "rank": "5",
+   "name": "とものもと",
+   "area_note": "",
+   "norm": "とものもと"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 清湯部門",
+   "rank": "6",
+   "name": "創作麺工房 鳴龍",
+   "area_note": "",
+   "norm": "創作麺工房鳴竜"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 清湯部門",
+   "rank": "7",
+   "name": "らあめん 元",
+   "area_note": "",
+   "norm": "らあめん元"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 清湯部門",
+   "rank": "8",
+   "name": "Tombo",
+   "area_note": "",
+   "norm": "tombo"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 清湯部門",
+   "rank": "9",
+   "name": "麺処 ほん田 秋葉原本店",
+   "area_note": "",
+   "norm": "麺処ほん田秋葉原本店"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 清湯部門",
+   "rank": "10",
+   "name": "らぁめん 信 shin",
+   "area_note": "",
+   "norm": "らぁめん信shin"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 濃厚部門",
+   "rank": "1",
+   "name": "麺屋 永太",
+   "area_note": "",
+   "norm": "麺屋永太"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 濃厚部門",
+   "rank": "2",
+   "name": "らーめん とうかんや",
+   "area_note": "",
+   "norm": "らーめんとうかんや"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 濃厚部門",
+   "rank": "3",
+   "name": "麺舗 十六",
+   "area_note": "",
+   "norm": "麺舗十六"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 濃厚部門",
+   "rank": "4",
+   "name": "自家製麺 福は内",
+   "area_note": "",
+   "norm": "自家製麺福は内"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 濃厚部門",
+   "rank": "5",
+   "name": "べんてん",
+   "area_note": "",
+   "norm": "べんてん"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 濃厚部門",
+   "rank": "6",
+   "name": "中華そば なりたや",
+   "area_note": "",
+   "norm": "中華そばなりたや"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 濃厚部門",
+   "rank": "7",
+   "name": "勢得",
+   "area_note": "",
+   "norm": "勢得"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 濃厚部門",
+   "rank": "7",
+   "name": "麺 髙はし",
+   "area_note": "",
+   "norm": "麺高はし"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 濃厚部門",
+   "rank": "9",
+   "name": "所沢大勝軒",
+   "area_note": "",
+   "norm": "所沢大勝軒"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 濃厚部門",
+   "rank": "10",
+   "name": "らーめん 文蔵",
+   "area_note": "",
+   "norm": "らーめん文蔵"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 濃厚部門",
+   "rank": "11",
+   "name": "自家製麺 麺屋 利八",
+   "area_note": "",
+   "norm": "自家製麺麺屋利八"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "つけ麺 濃厚部門",
+   "rank": "12",
+   "name": "中華そば専門 とんちぼ",
+   "area_note": "",
+   "norm": "中華そば専門とんちぼ"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "汁なし部門",
+   "rank": "1",
+   "name": "らーめん かねかつ",
+   "area_note": "",
+   "norm": "らーめんかねかつ"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "汁なし部門",
+   "rank": "2",
+   "name": "自家製手もみ麺 鈴ノ木",
+   "area_note": "",
+   "norm": "自家製手もみ麺鈴ノ木"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "汁なし部門",
+   "rank": "3",
+   "name": "中華そば べんてん",
+   "area_note": "",
+   "norm": "中華そばべんてん"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "汁なし部門",
+   "rank": "4",
+   "name": "煮干しNoodles Nibo Nibo Cino",
+   "area_note": "",
+   "norm": "煮干しnoodlesnibonibocino"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "汁なし部門",
+   "rank": "5",
+   "name": "担々麺 麺山椒",
+   "area_note": "",
+   "norm": "担々麺麺山椒"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "汁なし部門",
+   "rank": "6",
+   "name": "麺や 金時",
+   "area_note": "",
+   "norm": "麺や金時"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "汁なし部門",
+   "rank": "7",
+   "name": "房総式ラーメン JINRIKISEN",
+   "area_note": "",
+   "norm": "房総式ラーメンjinrikisen"
+  },
+  {
+   "edition": 26,
+   "group": "名店",
+   "category": "汁なし部門",
+   "rank": "8",
+   "name": "珍々亭",
+   "area_note": "",
+   "norm": "珍々亭"
+  }
+ ],
+ "shops": [
+  {
+   "display": "中華そば しば田",
+   "status": "新規",
+   "names": [
+    "中華そば しば田"
+   ],
+   "results": [
+    {
+     "edition": 27,
+     "group": "TRY大賞",
+     "category": "総合",
+     "rank": "1"
+    },
+    {
+     "edition": 27,
+     "group": "名店",
+     "category": "しょう油部門",
+     "rank": "1"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "総合",
+     "rank": "3"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しょう油部門",
+     "rank": "1"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しお部門",
+     "rank": "1"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京都狛江市"
+  },
+  {
+   "display": "創作麺工房 鳴龍",
+   "status": "新規",
+   "names": [
+    "創作麺工房 鳴龍"
+   ],
+   "results": [
+    {
+     "edition": 27,
+     "group": "TRY大賞",
+     "category": "総合",
+     "rank": "1"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "総合",
+     "rank": "5"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しょう油部門",
+     "rank": "6"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しお部門",
+     "rank": "11"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 清湯部門",
+     "rank": "6"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "ミシュラン東京2026新規",
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京都豊島区（大塚）"
+  },
+  {
+   "display": "手作りラーメンの店 Rustic Noodles",
+   "status": "新規",
+   "names": [
+    "手作りラーメンの店 Rustic Noodles"
+   ],
+   "results": [
+    {
+     "edition": 27,
+     "group": "新店大賞",
+     "category": "総合",
+     "rank": "1"
+    },
+    {
+     "edition": 27,
+     "group": "新店",
+     "category": "しょう油部門",
+     "rank": "1"
+    },
+    {
+     "edition": 27,
+     "group": "新店",
+     "category": "しお部門",
+     "rank": "1"
+    },
+    {
+     "edition": 27,
+     "group": "新店",
+     "category": "つけ麺部門",
+     "rank": "1"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": "千葉県野田市（愛宕）"
+  },
+  {
+   "display": "箕輪家",
+   "status": "新規",
+   "names": [
+    "箕輪家"
+   ],
+   "results": [
+    {
+     "edition": 27,
+     "group": "名店",
+     "category": "とんこつ部門",
+     "rank": "8"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": "東京都中野区（箕輪家 中野本店）"
+  },
+  {
+   "display": "麺や 晴心",
+   "status": "新規",
+   "names": [
+    "麺や 晴心"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "総合",
+     "rank": "1"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "しょう油部門",
+     "rank": "1"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "しお部門",
+     "rank": "1"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "3931WORKS.",
+   "status": "新規",
+   "names": [
+    "3931WORKS."
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "総合",
+     "rank": "2"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "しょう油部門",
+     "rank": "4"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "しお部門",
+     "rank": "2"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "つけ麺部門",
+     "rank": "3"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "埼玉県"
+  },
+  {
+   "display": "らーめん3000",
+   "status": "新規",
+   "names": [
+    "らーめん3000",
+    "らーめん 3000"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "総合",
+     "rank": "3"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "しょう油部門",
+     "rank": "2"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "しお部門",
+     "rank": "3"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "つけ麺部門",
+     "rank": "1"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "中華そばの店 みのひ",
+   "status": "新規",
+   "names": [
+    "中華そばの店 みのひ"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "総合",
+     "rank": "3"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "MIX部門",
+     "rank": "1"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "つけ麺部門",
+     "rank": "2"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "味噌らーめん屋 ちょりん",
+   "status": "新規",
+   "names": [
+    "味噌らーめん屋 ちょりん"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "総合",
+     "rank": "5"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "みそ部門",
+     "rank": "1"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "汁なし部門",
+     "rank": "2"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "豚骨らーめん ぶたまるき",
+   "status": "新規",
+   "names": [
+    "豚骨らーめん ぶたまるき"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "総合",
+     "rank": "6"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "とんこつ部門",
+     "rank": "1"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "MIX部門",
+     "rank": "7"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "Ramen 翡翠",
+   "status": "新規",
+   "names": [
+    "Ramen 翡翠"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "総合",
+     "rank": "7"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "しょう油部門",
+     "rank": "4"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "しお部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "flour works",
+   "status": "新規",
+   "names": [
+    "flour works"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "しょう油部門",
+     "rank": "3"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "ら～麺 瑞藤",
+   "status": "新規",
+   "names": [
+    "ら～麺 瑞藤"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "しょう油部門",
+     "rank": "6"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "らぁ麺 花筏",
+   "status": "新規",
+   "names": [
+    "らぁ麺 花筏"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "しょう油部門",
+     "rank": "7"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "しお部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "札幌 六坊",
+   "status": "新規",
+   "names": [
+    "札幌 六坊"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "しお部門",
+     "rank": "6"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "みそ部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "一条流がんこラーメン 金町",
+   "status": "新規",
+   "names": [
+    "一条流がんこラーメン 金町"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "しお部門",
+     "rank": "7"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "MIX部門",
+     "rank": "5"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "ラーメン専門店 なんぞ",
+   "status": "新規",
+   "names": [
+    "ラーメン専門店 なんぞ"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "しお部門",
+     "rank": "8"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "地鶏中華そばと炊きたて秩父おかん飯 トリコ食堂",
+   "status": "新規",
+   "names": [
+    "地鶏中華そばと炊きたて秩父おかん飯 トリコ食堂"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "みそ部門",
+     "rank": "2"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "らぁ麺 ようざん",
+   "status": "新規",
+   "names": [
+    "らぁ麺 ようざん"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "みそ部門",
+     "rank": "3"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "らーめん味噌中華 ちちぶ屋",
+   "status": "新規",
+   "names": [
+    "らーめん味噌中華 ちちぶ屋"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "みそ部門",
+     "rank": "5"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "まるあ中華そば",
+   "status": "新規",
+   "names": [
+    "まるあ中華そば"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "とんこつ部門",
+     "rank": "2"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "家系ラーメン いんなみ家",
+   "status": "新規",
+   "names": [
+    "家系ラーメン いんなみ家"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "とんこつ部門",
+     "rank": "3"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "ラーメン 豚ヒロ",
+   "status": "新規",
+   "names": [
+    "ラーメン 豚ヒロ"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "とんこつ部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "家系ラーメン ゆくる家",
+   "status": "新規",
+   "names": [
+    "家系ラーメン ゆくる家"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "とんこつ部門",
+     "rank": "5"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "豚骨オタク！",
+   "status": "新規",
+   "names": [
+    "豚骨オタク！"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "とんこつ部門",
+     "rank": "6"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "麺屋 青",
+   "status": "新規",
+   "names": [
+    "麺屋 青"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "MIX部門",
+     "rank": "2"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "ラーメンパーク あずーる",
+   "status": "新規",
+   "names": [
+    "ラーメンパーク あずーる"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "MIX部門",
+     "rank": "2"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "創作麺 ひとすじ",
+   "status": "新規",
+   "names": [
+    "創作麺 ひとすじ"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "MIX部門",
+     "rank": "4"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "オリジナル部門",
+     "rank": "-"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京都"
+  },
+  {
+   "display": "中華そばの店 りょうが",
+   "status": "新規",
+   "names": [
+    "中華そばの店 りょうが"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "MIX部門",
+     "rank": "6"
+    },
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "つけ麺部門",
+     "rank": "6"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "煮干らぁめん 瀧川",
+   "status": "新規",
+   "names": [
+    "煮干らぁめん 瀧川"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "にぼし部門",
+     "rank": "1"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "中華そば カナリヤ",
+   "status": "新規",
+   "names": [
+    "中華そば カナリヤ"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "にぼし部門",
+     "rank": "2"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "伊藤中華そば",
+   "status": "新規",
+   "names": [
+    "伊藤中華そば"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "にぼし部門",
+     "rank": "3"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "新潟ラーメン なみ福 浅草店",
+   "status": "新規",
+   "names": [
+    "新潟ラーメン なみ福 浅草店"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "にぼし部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "中華そば 縁",
+   "status": "新規",
+   "names": [
+    "中華そば 縁"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "にぼし部門",
+     "rank": "5"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "御影麺 鏑矢",
+   "status": "新規",
+   "names": [
+    "御影麺 鏑矢"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "つけ麺部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "弐昇",
+   "status": "新規",
+   "names": [
+    "弐昇"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "つけ麺部門",
+     "rank": "5"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "油カダブラ",
+   "status": "新規",
+   "names": [
+    "油カダブラ"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "汁なし部門",
+     "rank": "1"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "13湯麺 集",
+   "status": "新規",
+   "names": [
+    "13湯麺 集"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "汁なし部門",
+     "rank": "3"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "香味まぜそば しろ",
+   "status": "新規",
+   "names": [
+    "香味まぜそば しろ"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "汁なし部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "麺座 すず丸",
+   "status": "新規",
+   "names": [
+    "麺座 すず丸"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "汁なし部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "麺ZINさいとう",
+   "status": "新規",
+   "names": [
+    "麺ZINさいとう"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "オリジナル部門",
+     "rank": "-"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "Noodle Create Marry",
+   "status": "新規",
+   "names": [
+    "Noodle Create Marry"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "オリジナル部門",
+     "rank": "-"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "佐とう",
+   "status": "新規",
+   "names": [
+    "佐とう"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "オリジナル部門",
+     "rank": "-"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "らーめん Orange",
+   "status": "新規",
+   "names": [
+    "らーめん Orange"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "オリジナル部門",
+     "rank": "-"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "東京華山椒",
+   "status": "新規",
+   "names": [
+    "東京華山椒"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "新店",
+     "category": "オリジナル部門",
+     "rank": "-"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "らーめん かねかつ",
+   "status": "既存",
+   "names": [
+    "らーめん かねかつ"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "総合",
+     "rank": "1"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 清湯部門",
+     "rank": "1"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "汁なし部門",
+     "rank": "1"
+    }
+   ],
+   "saved": [
+    {
+     "name": "らーめん かねかつ",
+     "stations": "北浦和",
+     "genre": "ラーメン、つけ麺"
+    }
+   ],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "自家製手もみ麺 鈴ノ木",
+   "status": "新規",
+   "names": [
+    "自家製手もみ麺 鈴ノ木"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "総合",
+     "rank": "2"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しょう油部門",
+     "rank": "9"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しお部門",
+     "rank": "15"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 清湯部門",
+     "rank": "2"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "汁なし部門",
+     "rank": "2"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "埼玉県"
+  },
+  {
+   "display": "Ramen Feel",
+   "status": "新規",
+   "names": [
+    "Ramen Feel",
+    "Ramen FeeL"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "総合",
+     "rank": "4"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しょう油部門",
+     "rank": "3"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しお部門",
+     "rank": "3"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 清湯部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "アワード2026新規",
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京"
+  },
+  {
+   "display": "中華そば 深緑",
+   "status": "新規",
+   "names": [
+    "中華そば 深緑"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しょう油部門",
+     "rank": "2"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "埼玉県"
+  },
+  {
+   "display": "手打ちそば 一番いちばん",
+   "status": "新規",
+   "names": [
+    "手打ちそば 一番いちばん"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しょう油部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [
+    [
+     "百名店旧年版新規",
+     "一番いちばん"
+    ]
+   ],
+   "area": ""
+  },
+  {
+   "display": "らぁめん 鴇",
+   "status": "新規",
+   "names": [
+    "らぁめん 鴇"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しょう油部門",
+     "rank": "5"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "神奈川県"
+  },
+  {
+   "display": "ラーメン 星印",
+   "status": "新規",
+   "names": [
+    "ラーメン 星印"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しょう油部門",
+     "rank": "7"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しお部門",
+     "rank": "5"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "神奈川県"
+  },
+  {
+   "display": "とものもと",
+   "status": "新規",
+   "names": [
+    "とものもと"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しょう油部門",
+     "rank": "8"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 清湯部門",
+     "rank": "5"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "千葉県"
+  },
+  {
+   "display": "らーめんMAIKAGURA",
+   "status": "新規",
+   "names": [
+    "らーめんMAIKAGURA"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しょう油部門",
+     "rank": "10"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しお部門",
+     "rank": "13"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "鶏白湯部門",
+     "rank": "1"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 清湯部門",
+     "rank": "3"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京都"
+  },
+  {
+   "display": "自家製麺 カミカゼ",
+   "status": "新規",
+   "names": [
+    "自家製麺 カミカゼ"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しょう油部門",
+     "rank": "11"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しお部門",
+     "rank": "2"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "神奈川県"
+  },
+  {
+   "display": "らぁ麺や 嶋",
+   "status": "新規",
+   "names": [
+    "らぁ麺や 嶋"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しょう油部門",
+     "rank": "12"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "アワード2026新規",
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京"
+  },
+  {
+   "display": "Tombo",
+   "status": "新規",
+   "names": [
+    "Tombo"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しょう油部門",
+     "rank": "13"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しお部門",
+     "rank": "10"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 清湯部門",
+     "rank": "8"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "麺 ふじさき",
+   "status": "新規",
+   "names": [
+    "麺 ふじさき"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しょう油部門",
+     "rank": "14"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京都"
+  },
+  {
+   "display": "支那ソバかづ屋",
+   "status": "新規",
+   "names": [
+    "支那ソバかづ屋"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しょう油部門",
+     "rank": "15"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "のスた",
+   "status": "新規",
+   "names": [
+    "のスた"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しお部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "らあめん 元",
+   "status": "新規",
+   "names": [
+    "らあめん 元"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しお部門",
+     "rank": "6"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "鶏白湯部門",
+     "rank": "7"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 清湯部門",
+     "rank": "7"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "らーめん とうかんや",
+   "status": "新規",
+   "names": [
+    "らーめん とうかんや"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しお部門",
+     "rank": "7"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 濃厚部門",
+     "rank": "2"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "らぁめん 信 shin",
+   "status": "新規",
+   "names": [
+    "らぁめん 信 shin"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しお部門",
+     "rank": "8"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 清湯部門",
+     "rank": "10"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "饗 くろ㐂",
+   "status": "既存",
+   "names": [
+    "饗 くろ㐂"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しお部門",
+     "rank": "9"
+    }
+   ],
+   "saved": [
+    {
+     "name": "饗 くろ喜",
+     "stations": "浅草橋、馬喰町、東日本橋",
+     "genre": "ラーメン"
+    }
+   ],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "支那ソバ 小むろ",
+   "status": "既存",
+   "names": [
+    "支那ソバ 小むろ"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しお部門",
+     "rank": "12"
+    }
+   ],
+   "saved": [
+    {
+     "name": "支那ソバ 小むろ",
+     "stations": "行徳、妙典",
+     "genre": "ラーメン、つけ麺"
+    }
+   ],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "麺処 ら塾",
+   "status": "新規",
+   "names": [
+    "麺処 ら塾"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しお部門",
+     "rank": "13"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "神奈川県"
+  },
+  {
+   "display": "一条流がんこ 総本家分家 四谷荒木町",
+   "status": "新規",
+   "names": [
+    "一条流がんこ 総本家分家 四谷荒木町"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "しお部門",
+     "rank": "15"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "MIX部門",
+     "rank": "6"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京都"
+  },
+  {
+   "display": "ラーメン 郷",
+   "status": "新規",
+   "names": [
+    "ラーメン 郷"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "みそ部門",
+     "rank": "1"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "神奈川県"
+  },
+  {
+   "display": "東京味噌らーめん 鶉",
+   "status": "新規",
+   "names": [
+    "東京味噌らーめん 鶉"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "みそ部門",
+     "rank": "2"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "ら～麺 あけどや",
+   "status": "新規",
+   "names": [
+    "ら～麺 あけどや"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "みそ部門",
+     "rank": "3"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "流星軒",
+   "status": "新規",
+   "names": [
+    "流星軒"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "みそ部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "神奈川県"
+  },
+  {
+   "display": "三ん寅",
+   "status": "新規",
+   "names": [
+    "三ん寅"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "みそ部門",
+     "rank": "5"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京都"
+  },
+  {
+   "display": "雪ぐに",
+   "status": "新規",
+   "names": [
+    "雪ぐに"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "みそ部門",
+     "rank": "6"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "神奈川県"
+  },
+  {
+   "display": "拉麺大公 南太田本店",
+   "status": "新規",
+   "names": [
+    "拉麺大公 南太田本店"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "みそ部門",
+     "rank": "7"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [
+    [
+     "百名店旧年版新規",
+     "拉麺大公"
+    ]
+   ],
+   "area": ""
+  },
+  {
+   "display": "麺小屋 てち",
+   "status": "新規",
+   "names": [
+    "麺小屋 てち"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "みそ部門",
+     "rank": "8"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "神奈川県"
+  },
+  {
+   "display": "麺処 秋もと",
+   "status": "新規",
+   "names": [
+    "麺処 秋もと"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "みそ部門",
+     "rank": "9"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "神奈川県"
+  },
+  {
+   "display": "麺・粥 けんけん",
+   "status": "新規",
+   "names": [
+    "麺・粥 けんけん"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "みそ部門",
+     "rank": "9"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "うまいヨ ゆうちゃんラーメン",
+   "status": "新規",
+   "names": [
+    "うまいヨ ゆうちゃんラーメン"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "とんこつ部門",
+     "rank": "1"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "神奈川県"
+  },
+  {
+   "display": "三代目 博多 だるま",
+   "status": "新規",
+   "names": [
+    "三代目 博多 だるま"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "とんこつ部門",
+     "rank": "2"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "ラーメン 厚木家",
+   "status": "新規",
+   "names": [
+    "ラーメン 厚木家"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "とんこつ部門",
+     "rank": "3"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "神奈川県"
+  },
+  {
+   "display": "博多長浜らーめん もりや",
+   "status": "新規",
+   "names": [
+    "博多長浜らーめん もりや"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "とんこつ部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "麺処 一笑",
+   "status": "新規",
+   "names": [
+    "麺処 一笑"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "とんこつ部門",
+     "rank": "5"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "三代目 沖食堂",
+   "status": "新規",
+   "names": [
+    "三代目 沖食堂"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "とんこつ部門",
+     "rank": "6"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "博多ラーメン 和",
+   "status": "新規",
+   "names": [
+    "博多ラーメン 和"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "とんこつ部門",
+     "rank": "7"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "ラーメン 男盛",
+   "status": "新規",
+   "names": [
+    "ラーメン 男盛"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "とんこつ部門",
+     "rank": "8"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "豚骨 蒼翔",
+   "status": "新規",
+   "names": [
+    "豚骨 蒼翔"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "とんこつ部門",
+     "rank": "9"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "麺屋 永太",
+   "status": "既存",
+   "names": [
+    "麺屋 永太"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "MIX部門",
+     "rank": "1"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 濃厚部門",
+     "rank": "1"
+    }
+   ],
+   "saved": [
+    {
+     "name": "麺屋 永太",
+     "stations": "蕨",
+     "genre": "つけ麺、ラーメン"
+    }
+   ],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "勢得",
+   "status": "新規",
+   "names": [
+    "勢得"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "MIX部門",
+     "rank": "2"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 濃厚部門",
+     "rank": "7"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "こうかいぼう",
+   "status": "新規",
+   "names": [
+    "こうかいぼう"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "MIX部門",
+     "rank": "3"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京都"
+  },
+  {
+   "display": "中華そば べんてん",
+   "status": "新規",
+   "names": [
+    "中華そば べんてん",
+    "べんてん"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "MIX部門",
+     "rank": "4"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 濃厚部門",
+     "rank": "5"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "汁なし部門",
+     "rank": "3"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京都"
+  },
+  {
+   "display": "桜上水 船越",
+   "status": "新規",
+   "names": [
+    "桜上水 船越"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "MIX部門",
+     "rank": "5"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京都"
+  },
+  {
+   "display": "らーめん 文蔵",
+   "status": "新規",
+   "names": [
+    "らーめん 文蔵"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "MIX部門",
+     "rank": "7"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 濃厚部門",
+     "rank": "10"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "所沢大勝軒",
+   "status": "新規",
+   "names": [
+    "所沢大勝軒"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "MIX部門",
+     "rank": "8"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 濃厚部門",
+     "rank": "9"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "自家製麺 麺屋 利八",
+   "status": "新規",
+   "names": [
+    "自家製麺 麺屋 利八"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "MIX部門",
+     "rank": "9"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 濃厚部門",
+     "rank": "11"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "麺 髙はし",
+   "status": "新規",
+   "names": [
+    "麺 髙はし"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "MIX部門",
+     "rank": "10"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 濃厚部門",
+     "rank": "7"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "RAMEN GOTTSU",
+   "status": "新規",
+   "names": [
+    "RAMEN GOTTSU"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "MIX部門",
+     "rank": "11"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "Dad's Ramen 夢にでてきた中華そば",
+   "status": "新規",
+   "names": [
+    "Dad's Ramen 夢にでてきた中華そば"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "にぼし部門",
+     "rank": "1"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "中華そば 西川",
+   "status": "新規",
+   "names": [
+    "中華そば 西川"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "にぼし部門",
+     "rank": "2"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京都"
+  },
+  {
+   "display": "永福町大勝軒",
+   "status": "新規",
+   "names": [
+    "永福町大勝軒"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "にぼし部門",
+     "rank": "3"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "DAIKUMA",
+   "status": "新規",
+   "names": [
+    "DAIKUMA"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "にぼし部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "麺響 万蕾",
+   "status": "新規",
+   "names": [
+    "麺響 万蕾"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "にぼし部門",
+     "rank": "5"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "中華ソバ 篤々 TOKU-TOKU",
+   "status": "新規",
+   "names": [
+    "中華ソバ 篤々 TOKU-TOKU"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "にぼし部門",
+     "rank": "6"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [
+    [
+     "百名店旧年版新規",
+     "中華ソバ 篤々"
+    ]
+   ],
+   "area": ""
+  },
+  {
+   "display": "中華そば 児ノ木",
+   "status": "新規",
+   "names": [
+    "中華そば 児ノ木"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "にぼし部門",
+     "rank": "7"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京都"
+  },
+  {
+   "display": "中華そば専門 とんちぼ",
+   "status": "新規",
+   "names": [
+    "中華そば専門 とんちぼ"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "にぼし部門",
+     "rank": "8"
+    },
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 濃厚部門",
+     "rank": "12"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "埼玉県"
+  },
+  {
+   "display": "煮干そば 流。",
+   "status": "新規",
+   "names": [
+    "煮干そば 流。"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "にぼし部門",
+     "rank": "9"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京都"
+  },
+  {
+   "display": "中華そば屋 伊藤",
+   "status": "新規",
+   "names": [
+    "中華そば屋 伊藤"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "にぼし部門",
+     "rank": "10"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京都"
+  },
+  {
+   "display": "臥龍",
+   "status": "新規",
+   "names": [
+    "臥龍"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "鶏白湯部門",
+     "rank": "2"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "らー麺屋 バリバリジョニー",
+   "status": "新規",
+   "names": [
+    "らー麺屋 バリバリジョニー"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "鶏白湯部門",
+     "rank": "3"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "らぁ麺 松しん",
+   "status": "新規",
+   "names": [
+    "らぁ麺 松しん"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "鶏白湯部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "神奈川県"
+  },
+  {
+   "display": "らーめん れんげ",
+   "status": "新規",
+   "names": [
+    "らーめん れんげ"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "鶏白湯部門",
+     "rank": "5"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "中華そば やま福",
+   "status": "新規",
+   "names": [
+    "中華そば やま福"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "鶏白湯部門",
+     "rank": "6"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "麺処 ほん田 秋葉原本店",
+   "status": "既存",
+   "names": [
+    "麺処 ほん田 秋葉原本店"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 清湯部門",
+     "rank": "9"
+    }
+   ],
+   "saved": [
+    {
+     "name": "麺処 ほん田 秋葉原本店",
+     "stations": "秋葉原、岩本町、末広町",
+     "genre": "ラーメン、つけ麺、汁なし担々麺"
+    }
+   ],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "麺舗 十六",
+   "status": "新規",
+   "names": [
+    "麺舗 十六"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 濃厚部門",
+     "rank": "3"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "自家製麺 福は内",
+   "status": "新規",
+   "names": [
+    "自家製麺 福は内"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 濃厚部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "中華そば なりたや",
+   "status": "新規",
+   "names": [
+    "中華そば なりたや"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "つけ麺 濃厚部門",
+     "rank": "6"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "煮干しNoodles Nibo Nibo Cino",
+   "status": "新規",
+   "names": [
+    "煮干しNoodles Nibo Nibo Cino"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "汁なし部門",
+     "rank": "4"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "担々麺 麺山椒",
+   "status": "新規",
+   "names": [
+    "担々麺 麺山椒"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "汁なし部門",
+     "rank": "5"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "麺や 金時",
+   "status": "新規",
+   "names": [
+    "麺や 金時"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "汁なし部門",
+     "rank": "6"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [
+    "百名店旧年版新規"
+   ],
+   "pool_near": [],
+   "area": "東京都"
+  },
+  {
+   "display": "房総式ラーメン JINRIKISEN",
+   "status": "新規",
+   "names": [
+    "房総式ラーメン JINRIKISEN"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "汁なし部門",
+     "rank": "7"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  },
+  {
+   "display": "珍々亭",
+   "status": "新規",
+   "names": [
+    "珍々亭"
+   ],
+   "results": [
+    {
+     "edition": 26,
+     "group": "名店",
+     "category": "汁なし部門",
+     "rank": "8"
+    }
+   ],
+   "saved": [],
+   "near": [],
+   "pools": [],
+   "pool_near": [],
+   "area": ""
+  }
+ ]
+}

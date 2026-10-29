@@ -1,0 +1,105 @@
+# 追加先リスト：食べログ｜洋食・欧州料理
+# チャンク 2/5（50件）｜カテゴリ全214件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- ラ・トゥーエル（最寄り駅：神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%83%BB%E3%83%88%E3%82%A5%E3%83%BC%E3%82%A8%E3%83%AB%20%E7%A5%9E%E6%A5%BD%E5%9D%82
+- ラトラス（最寄り駅：神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%83%88%E3%83%A9%E3%82%B9%20%E7%A5%9E%E6%A5%BD%E5%9D%82
+- 洋食堂 葡萄 神楽坂（最寄り駅：牛込神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%B4%8B%E9%A3%9F%E5%A0%82%20%E8%91%A1%E8%90%84%20%E7%A5%9E%E6%A5%BD%E5%9D%82%20%E7%89%9B%E8%BE%BC%E7%A5%9E%E6%A5%BD%E5%9D%82
+- L'ETERRE（最寄り駅：牛込神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=L%27ETERRE%20%E7%89%9B%E8%BE%BC%E7%A5%9E%E6%A5%BD%E5%9D%82
+- フロレゾン（最寄り駅：牛込神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%AD%E3%83%AC%E3%82%BE%E3%83%B3%20%E7%89%9B%E8%BE%BC%E7%A5%9E%E6%A5%BD%E5%9D%82
+- エル ブエイ（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A8%E3%83%AB%20%E3%83%96%E3%82%A8%E3%82%A4%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- シェ オリビエ（最寄り駅：市ケ谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%82%A7%20%E3%82%AA%E3%83%AA%E3%83%93%E3%82%A8%20%E5%B8%82%E3%82%B1%E8%B0%B7
+- ソンブルイユ TOKYO（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%BD%E3%83%B3%E3%83%96%E3%83%AB%E3%82%A4%E3%83%A6%20TOKYO%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- インフィニート ヒロ（最寄り駅：赤坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A3%E3%83%8B%E3%83%BC%E3%83%88%20%E3%83%92%E3%83%AD%20%E8%B5%A4%E5%9D%82
+- フランス料理 タンモア（最寄り駅：乃木坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E6%96%99%E7%90%86%20%E3%82%BF%E3%83%B3%E3%83%A2%E3%82%A2%20%E4%B9%83%E6%9C%A8%E5%9D%82
+- aniko（最寄り駅：赤坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=aniko%20%E8%B5%A4%E5%9D%82
+- Héritage by Kei Kobayashi（最寄り駅：六本木）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=H%C3%A9ritage%20by%20Kei%20Kobayashi%20%E5%85%AD%E6%9C%AC%E6%9C%A8
+- フィリップ・ミル 東京（最寄り駅：乃木坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%97%E3%83%BB%E3%83%9F%E3%83%AB%20%E6%9D%B1%E4%BA%AC%20%E4%B9%83%E6%9C%A8%E5%9D%82
+- 赤坂 津つ井 総本店（最寄り駅：赤坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E5%9D%82%20%E6%B4%A5%E3%81%A4%E4%BA%95%20%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E8%B5%A4%E5%9D%82
+- エリオ・ロカンダ・イタリアーナ（最寄り駅：半蔵門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A8%E3%83%AA%E3%82%AA%E3%83%BB%E3%83%AD%E3%82%AB%E3%83%B3%E3%83%80%E3%83%BB%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%BC%E3%83%8A%20%E5%8D%8A%E8%94%B5%E9%96%80
+- a table（最寄り駅：末広町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=a%20table%20%E6%9C%AB%E5%BA%83%E7%94%BA
+- タパス モラキュラーバー（最寄り駅：三越前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%BF%E3%83%91%E3%82%B9%20%E3%83%A2%E3%83%A9%E3%82%AD%E3%83%A5%E3%83%A9%E3%83%BC%E3%83%90%E3%83%BC%20%E4%B8%89%E8%B6%8A%E5%89%8D
+- ザ ピッツァバー ON 38TH（最寄り駅：三越前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B6%20%E3%83%94%E3%83%83%E3%83%84%E3%82%A1%E3%83%90%E3%83%BC%20ON%2038TH%20%E4%B8%89%E8%B6%8A%E5%89%8D
+- シグネチャー（最寄り駅：三越前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%82%B0%E3%83%8D%E3%83%81%E3%83%A3%E3%83%BC%20%E4%B8%89%E8%B6%8A%E5%89%8D
+- 美味卵家（最寄り駅：神田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E5%91%B3%E5%8D%B5%E5%AE%B6%20%E7%A5%9E%E7%94%B0
+- キッチン南海 神保町店（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%E5%8D%97%E6%B5%B7%20%E7%A5%9E%E4%BF%9D%E7%94%BA%E5%BA%97%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- 土桜（最寄り駅：新御茶ノ水）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%9C%9F%E6%A1%9C%20%E6%96%B0%E5%BE%A1%E8%8C%B6%E3%83%8E%E6%B0%B4
+- ルー・ド・メール（最寄り駅：神田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AB%E3%83%BC%E3%83%BB%E3%83%89%E3%83%BB%E3%83%A1%E3%83%BC%E3%83%AB%20%E7%A5%9E%E7%94%B0
+- CYCLE by Mauro Colagreco（最寄り駅：大手町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=CYCLE%20by%20Mauro%20Colagreco%20%E5%A4%A7%E6%89%8B%E7%94%BA
+- アカ（最寄り駅：三越前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%AB%20%E4%B8%89%E8%B6%8A%E5%89%8D
+- PRIMO PASSO（最寄り駅：新富町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=PRIMO%20PASSO%20%E6%96%B0%E5%AF%8C%E7%94%BA
+- シェ・イノ（最寄り駅：京橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%82%A7%E3%83%BB%E3%82%A4%E3%83%8E%20%E4%BA%AC%E6%A9%8B
+- 銀座 大石（最寄り駅：銀座一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7%20%E5%A4%A7%E7%9F%B3%20%E9%8A%80%E5%BA%A7%E4%B8%80%E4%B8%81%E7%9B%AE
+- レストラン ラフィナージュ（最寄り駅：東銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%20%E3%83%A9%E3%83%95%E3%82%A3%E3%83%8A%E3%83%BC%E3%82%B8%E3%83%A5%20%E6%9D%B1%E9%8A%80%E5%BA%A7
+- エスキス（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A8%E3%82%B9%E3%82%AD%E3%82%B9%20%E9%8A%80%E5%BA%A7
+- スリオラ（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%AA%E3%82%AA%E3%83%A9%20%E9%8A%80%E5%BA%A7
+- ロオジエ（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AD%E3%82%AA%E3%82%B8%E3%82%A8%20%E9%8A%80%E5%BA%A7
+- 美会（最寄り駅：乃木坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E4%BC%9A%20%E4%B9%83%E6%9C%A8%E5%9D%82
+- NARISAWA（最寄り駅：青山一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=NARISAWA%20%E9%9D%92%E5%B1%B1%E4%B8%80%E4%B8%81%E7%9B%AE
+- tens.（最寄り駅：外苑前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=tens.%20%E5%A4%96%E8%8B%91%E5%89%8D
+- malca（最寄り駅：外苑前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=malca%20%E5%A4%96%E8%8B%91%E5%89%8D
+- プリズマ（最寄り駅：表参道）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%97%E3%83%AA%E3%82%BA%E3%83%9E%20%E8%A1%A8%E5%8F%82%E9%81%93
+- レフェルヴェソンス（最寄り駅：表参道）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AC%E3%83%95%E3%82%A7%E3%83%AB%E3%83%B4%E3%82%A7%E3%82%BD%E3%83%B3%E3%82%B9%20%E8%A1%A8%E5%8F%82%E9%81%93
+- AZUR et MASA UEKI（最寄り駅：乃木坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=AZUR%20et%20MASA%20UEKI%20%E4%B9%83%E6%9C%A8%E5%9D%82
+- Takumi（最寄り駅：乃木坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Takumi%20%E4%B9%83%E6%9C%A8%E5%9D%82
+- グルマンディーズ（最寄り駅：広尾）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%AB%E3%83%9E%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%82%BA%20%E5%BA%83%E5%B0%BE
+- ペレグリーノ（最寄り駅：広尾）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%9A%E3%83%AC%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%8E%20%E5%BA%83%E5%B0%BE
+- 長谷川 稔（最寄り駅：広尾）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E8%B0%B7%E5%B7%9D%20%E7%A8%94%20%E5%BA%83%E5%B0%BE
+- アルゴリズム（最寄り駅：白金台）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%20%E7%99%BD%E9%87%91%E5%8F%B0
+- SUGALABO（最寄り駅：神谷町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=SUGALABO%20%E7%A5%9E%E8%B0%B7%E7%94%BA
+- 食堂 aca（最寄り駅：神谷町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%A3%9F%E5%A0%82%20aca%20%E7%A5%9E%E8%B0%B7%E7%94%BA
+- Florilege（最寄り駅：神谷町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Florilege%20%E7%A5%9E%E8%B0%B7%E7%94%BA
+- ASAHINA Gastronome（最寄り駅：茅場町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=ASAHINA%20Gastronome%20%E8%8C%85%E5%A0%B4%E7%94%BA
+- 銀座 レカン（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7%20%E3%83%AC%E3%82%AB%E3%83%B3%20%E9%8A%80%E5%BA%A7
+- エディション・コウジ シモムラ（最寄り駅：六本木一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A8%E3%83%87%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B3%E3%82%A6%E3%82%B8%20%E3%82%B7%E3%83%A2%E3%83%A0%E3%83%A9%20%E5%85%AD%E6%9C%AC%E6%9C%A8%E4%B8%80%E4%B8%81%E7%9B%AE

@@ -1,0 +1,105 @@
+# 追加先リスト：食べログ｜洋食・欧州料理
+# チャンク 4/5（50件）｜カテゴリ全214件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- コンヴィヴィアリテ（最寄り駅：西大橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%B3%E3%83%B4%E3%82%A3%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%AA%E3%83%86%20%E8%A5%BF%E5%A4%A7%E6%A9%8B
+- ベック（最寄り駅：県庁前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%99%E3%83%83%E3%82%AF%20%E7%9C%8C%E5%BA%81%E5%89%8D
+- Pluie dete（最寄り駅：北新地）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Pluie%20dete%20%E5%8C%97%E6%96%B0%E5%9C%B0
+- コース料理とワインのお店 UNE（最寄り駅：北新地）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B3%E3%83%BC%E3%82%B9%E6%96%99%E7%90%86%E3%81%A8%E3%83%AF%E3%82%A4%E3%83%B3%E3%81%AE%E3%81%8A%E5%BA%97%20UNE%20%E5%8C%97%E6%96%B0%E5%9C%B0
+- レオーネ（最寄り駅：大江橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AC%E3%82%AA%E3%83%BC%E3%83%8D%20%E5%A4%A7%E6%B1%9F%E6%A9%8B
+- 吾味吾感（最寄り駅：大江橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%90%BE%E5%91%B3%E5%90%BE%E6%84%9F%20%E5%A4%A7%E6%B1%9F%E6%A9%8B
+- アニエルドール（最寄り駅：阿波座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%89%E3%83%BC%E3%83%AB%20%E9%98%BF%E6%B3%A2%E5%BA%A7
+- グリル小川（最寄り駅：武庫之荘）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%AA%E3%83%AB%E5%B0%8F%E5%B7%9D%20%E6%AD%A6%E5%BA%AB%E4%B9%8B%E8%8D%98
+- リュミエール（最寄り駅：心斎橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%A5%E3%83%9F%E3%82%A8%E3%83%BC%E3%83%AB%20%E5%BF%83%E6%96%8E%E6%A9%8B
+- ラ ローザネーラ（最寄り駅：北新地）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A9%20%E3%83%AD%E3%83%BC%E3%82%B6%E3%83%8D%E3%83%BC%E3%83%A9%20%E5%8C%97%E6%96%B0%E5%9C%B0
+- SAKURA（最寄り駅：大阪ビジネスパーク）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=SAKURA%20%E5%A4%A7%E9%98%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF
+- ピッツェリア ガレリア 富田林（最寄り駅：川西）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%94%E3%83%83%E3%83%84%E3%82%A7%E3%83%AA%E3%82%A2%20%E3%82%AC%E3%83%AC%E3%83%AA%E3%82%A2%20%E5%AF%8C%E7%94%B0%E6%9E%97%20%E5%B7%9D%E8%A5%BF
+- 洋食 泉（最寄り駅：大江橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%B4%8B%E9%A3%9F%20%E6%B3%89%20%E5%A4%A7%E6%B1%9F%E6%A9%8B
+- アバッキオ（最寄り駅：谷町六丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%90%E3%83%83%E3%82%AD%E3%82%AA%20%E8%B0%B7%E7%94%BA%E5%85%AD%E4%B8%81%E7%9B%AE
+- キャトルラパン（最寄り駅：大江橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AD%E3%83%A3%E3%83%88%E3%83%AB%E3%83%A9%E3%83%91%E3%83%B3%20%E5%A4%A7%E6%B1%9F%E6%A9%8B
+- カランドリエ（最寄り駅：堺筋本町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%A9%E3%83%B3%E3%83%89%E3%83%AA%E3%82%A8%20%E5%A0%BA%E7%AD%8B%E6%9C%AC%E7%94%BA
+- 蒼（最寄り駅：六本木）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%92%BC%20%E5%85%AD%E6%9C%AC%E6%9C%A8
+- LES SOUVENIRS（最寄り駅：北新地）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=LES%20SOUVENIRS%20%E5%8C%97%E6%96%B0%E5%9C%B0
+- ルポンドシエル（最寄り駅：淀屋橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AB%E3%83%9D%E3%83%B3%E3%83%89%E3%82%B7%E3%82%A8%E3%83%AB%20%E6%B7%80%E5%B1%8B%E6%A9%8B
+- RISTORANTE Orobianco（最寄り駅：淀屋橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=RISTORANTE%20Orobianco%20%E6%B7%80%E5%B1%8B%E6%A9%8B
+- 石窯イタリアン チーナ邸 肥後橋・靭公園（最寄り駅：肥後橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E7%AA%AF%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%B3%20%E3%83%81%E3%83%BC%E3%83%8A%E9%82%B8%20%E8%82%A5%E5%BE%8C%E6%A9%8B%E3%83%BB%E9%9D%AD%E5%85%AC%E5%9C%92%20%E8%82%A5%E5%BE%8C%E6%A9%8B
+- 菜々竈（最寄り駅：阿波座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%8F%9C%E3%80%85%E7%AB%88%20%E9%98%BF%E6%B3%A2%E5%BA%A7
+- FRIGERIO（最寄り駅：桜川）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=FRIGERIO%20%E6%A1%9C%E5%B7%9D
+- 俺のイタリアン 心斎橋（最寄り駅：心斎橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%BF%BA%E3%81%AE%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%83%B3%20%E5%BF%83%E6%96%8E%E6%A9%8B%20%E5%BF%83%E6%96%8E%E6%A9%8B
+- Noeud.×THE CHEF'S（最寄り駅：心斎橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Noeud.%C3%97THE%20CHEF%27S%20%E5%BF%83%E6%96%8E%E6%A9%8B
+- ラ ピニャータ（最寄り駅：堺筋本町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A9%20%E3%83%94%E3%83%8B%E3%83%A3%E3%83%BC%E3%82%BF%20%E5%A0%BA%E7%AD%8B%E6%9C%AC%E7%94%BA
+- カハラ（最寄り駅：北新地）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%8F%E3%83%A9%20%E5%8C%97%E6%96%B0%E5%9C%B0
+- カモシヤ クスモト（最寄り駅：新福島）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%A2%E3%82%B7%E3%83%A4%20%E3%82%AF%E3%82%B9%E3%83%A2%E3%83%88%20%E6%96%B0%E7%A6%8F%E5%B3%B6
+- クイントカント（最寄り駅：渡辺橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%B3%E3%83%88%20%E6%B8%A1%E8%BE%BA%E6%A9%8B
+- Grand rocher（最寄り駅：肥後橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Grand%20rocher%20%E8%82%A5%E5%BE%8C%E6%A9%8B
+- スガラボヴィー（最寄り駅：心斎橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%82%AC%E3%83%A9%E3%83%9C%E3%83%B4%E3%82%A3%E3%83%BC%20%E5%BF%83%E6%96%8E%E6%A9%8B
+- トムクリオーザ（最寄り駅：大江橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%88%E3%83%A0%E3%82%AF%E3%83%AA%E3%82%AA%E3%83%BC%E3%82%B6%20%E5%A4%A7%E6%B1%9F%E6%A9%8B
+- ハジメ（最寄り駅：肥後橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%8F%E3%82%B8%E3%83%A1%20%E8%82%A5%E5%BE%8C%E6%A9%8B
+- Fujiya 1935（最寄り駅：谷町四丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Fujiya%201935%20%E8%B0%B7%E7%94%BA%E5%9B%9B%E4%B8%81%E7%9B%AE
+- フナシェフ（最寄り駅：天満）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%8A%E3%82%B7%E3%82%A7%E3%83%95%20%E5%A4%A9%E6%BA%80
+- Point（最寄り駅：少路（大阪モノレール））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Point%20%E5%B0%91%E8%B7%AF%EF%BC%88%E5%A4%A7%E9%98%AA%E3%83%A2%E3%83%8E%E3%83%AC%E3%83%BC%E3%83%AB%EF%BC%89
+- ラ カンロ（最寄り駅：南森町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A9%20%E3%82%AB%E3%83%B3%E3%83%AD%20%E5%8D%97%E6%A3%AE%E7%94%BA
+- ラ・ベ（最寄り駅：西梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%83%BB%E3%83%99%20%E8%A5%BF%E6%A2%85%E7%94%B0
+- CAINOYA（最寄り駅：京都河原町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=CAINOYA%20%E4%BA%AC%E9%83%BD%E6%B2%B3%E5%8E%9F%E7%94%BA
+- オルト（最寄り駅：烏丸御池）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%AB%E3%83%88%20%E7%83%8F%E4%B8%B8%E5%BE%A1%E6%B1%A0
+- bb9（最寄り駅：元町（ＪＲ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=bb9%20%E5%85%83%E7%94%BA%EF%BC%88%EF%BC%AA%EF%BC%B2%EF%BC%89
+- カセント（最寄り駅：県庁前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%82%BB%E3%83%B3%E3%83%88%20%E7%9C%8C%E5%BA%81%E5%89%8D
+- 北野坂 木下（最寄り駅：三宮（神戸市営））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E9%87%8E%E5%9D%82%20%E6%9C%A8%E4%B8%8B%20%E4%B8%89%E5%AE%AE%EF%BC%88%E7%A5%9E%E6%88%B8%E5%B8%82%E5%96%B6%EF%BC%89
+- legno（最寄り駅：元町（阪神））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=legno%20%E5%85%83%E7%94%BA%EF%BC%88%E9%98%AA%E7%A5%9E%EF%BC%89
+- グシテ（最寄り駅：天満橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%82%B7%E3%83%86%20%E5%A4%A9%E6%BA%80%E6%A9%8B
+- ポンテ ベッキオ（最寄り駅：北浜）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%9D%E3%83%B3%E3%83%86%20%E3%83%99%E3%83%83%E3%82%AD%E3%82%AA%20%E5%8C%97%E6%B5%9C
+- マカウダ（最寄り駅：谷町四丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%9E%E3%82%AB%E3%82%A6%E3%83%80%20%E8%B0%B7%E7%94%BA%E5%9B%9B%E4%B8%81%E7%9B%AE
+- FaRo Italiano（最寄り駅：梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=FaRo%20Italiano%20%E6%A2%85%E7%94%B0
+- フレンチレストラン フルーヴ（最寄り駅：大阪）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%AC%E3%83%B3%E3%83%81%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%20%E3%83%95%E3%83%AB%E3%83%BC%E3%83%B4%20%E5%A4%A7%E9%98%AA
+- GRILL＆BAR DINING 燦 ルクアサウス店（最寄り駅：大阪梅田（阪神））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=GRILL%EF%BC%86BAR%20DINING%20%E7%87%A6%20%E3%83%AB%E3%82%AF%E3%82%A2%E3%82%B5%E3%82%A6%E3%82%B9%E5%BA%97%20%E5%A4%A7%E9%98%AA%E6%A2%85%E7%94%B0%EF%BC%88%E9%98%AA%E7%A5%9E%EF%BC%89

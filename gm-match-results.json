@@ -1,0 +1,8628 @@
+{
+ "results": [
+  {
+   "name": "レストラン レミニセンス",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "フランス料理",
+   "norm": "レストランレミニセンス",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "壺中天",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "壺中天",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ラ・ヴァガボンド",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "ラヴァガボンド",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "アリーニュ",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "アリーニュ",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ラ・フロレゾン・ドゥ・タケウチ",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "ラフロレゾンドゥタケウチ",
+   "src": "aichi.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "フロレゾン",
+     "stations": "牛込神楽坂、飯田橋、神楽坂",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "イツキ",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "イツキ",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "イル アオヤマ",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "イルアオヤマ",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "セッタンタ",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "セッタンタ",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "日本のイタリア料理店 sai",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "日本のイタリア料理店sai",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "虹霓",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "中華料理",
+   "norm": "虹霓",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": [
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "眞善美",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "中華料理",
+   "norm": "眞善美",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "京味 もと井",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "京味もと井",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "橦木町 しみず",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "橦木町しみず",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "寿し道 桜田",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "寿し道桜田",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "四間道レストラン MATSUURA",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "四間道レストランmatsuura",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "レストラン ホンジン",
+   "pref": "愛知県",
+   "area": "一宮市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "レストランホンジン",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "アル",
+   "pref": "愛知県",
+   "area": "豊橋市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "東三河の季節料理",
+   "norm": "アル",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "sincerita 拓",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "sincerita拓",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ヒロヴァーナ",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "ヒロヴァーナ",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "MEI",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "mei",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ル クーリュズ",
+   "pref": "愛知県",
+   "area": "常滑市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "知多半島ガストロノミー",
+   "norm": "ルクーリュズ",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "Joe's Kitchen",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "中華料理",
+   "norm": "joeskitchen",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": [
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "ヴィチーノ",
+   "pref": "愛知県",
+   "area": "名古屋市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "ヴィチーノ",
+   "src": "aichi.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "すし匠",
+   "pref": "秋田県",
+   "area": "秋田市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "すし匠",
+   "src": "akita.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "すし匠 齋藤",
+     "stations": "赤坂見附、赤坂、永田町",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "スシュ",
+   "pref": "秋田県",
+   "area": "秋田市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "スシュ",
+   "src": "akita.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "レメデ ニカホ",
+   "pref": "秋田県",
+   "area": "にかほ市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "レメデニカホ",
+   "src": "akita.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "アフェット アキタ",
+   "pref": "秋田県",
+   "area": "由利本荘市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "アフェットアキタ",
+   "src": "akita.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "フルット",
+   "pref": "秋田県",
+   "area": "秋田市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "フルット",
+   "src": "akita.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "フルタ",
+     "stations": "新富町、宝町、銀座一丁目",
+     "genre": "中華料理"
+    },
+    {
+     "name": "オルト",
+     "stations": "烏丸御池、烏丸、四条（京都市営）",
+     "genre": "イノベーティブ"
+    }
+   ]
+  },
+  {
+   "name": "リストランテ ジュエーメ",
+   "pref": "秋田県",
+   "area": "大仙市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "リストランテジュエーメ",
+   "src": "akita.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "鮨駒",
+   "pref": "秋田県",
+   "area": "由利本荘市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "寿司",
+   "norm": "鮨駒",
+   "src": "akita.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "イチ",
+   "pref": "秋田県",
+   "area": "秋田市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "創作料理",
+   "norm": "イチ",
+   "src": "akita.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "オステリア・エノテカ・ダ・サスィーノ",
+   "pref": "青森県",
+   "area": "弘前市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "オステリアエノテカダサスィーノ",
+   "src": "aomori.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "カーサ・デル・チーボ",
+   "pref": "青森県",
+   "area": "八戸市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "カーサデルチーボ",
+   "src": "aomori.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "陽",
+   "pref": "青森県",
+   "area": "弘前市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "陽",
+   "src": "aomori.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "日香",
+   "pref": "青森県",
+   "area": "弘前市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "日香",
+   "src": "aomori.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "Kashu",
+   "pref": "青森県",
+   "area": "青森市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "創作料理",
+   "norm": "kashu",
+   "src": "aomori.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "アルチェントロ",
+   "pref": "青森県",
+   "area": "青森市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "アルチェントロ",
+   "src": "aomori.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "イル フィーロ",
+   "pref": "青森県",
+   "area": "弘前市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "イルフィーロ",
+   "src": "aomori.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "澱と葉",
+   "pref": "青森県",
+   "area": "鶴田町",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "創作料理",
+   "norm": "澱と葉",
+   "src": "aomori.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ウシマル",
+   "pref": "千葉県",
+   "area": "山武市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "ウシマル",
+   "src": "chiba.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "プレゼンテ スギ",
+   "pref": "千葉県",
+   "area": "佐倉市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "プレゼンテスギ",
+   "src": "chiba.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "五氣里",
+   "pref": "千葉県",
+   "area": "いすみ市",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "フランス料理",
+   "norm": "五氣里",
+   "src": "chiba.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "くるますし",
+   "pref": "愛媛県",
+   "area": "松山市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "寿司",
+   "norm": "くるますし",
+   "src": "ehime.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "道後 海舟",
+   "pref": "愛媛県",
+   "area": "松山市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "道後海舟",
+   "src": "ehime.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "鮨いの",
+   "pref": "愛媛県",
+   "area": "松山市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "鮨いの",
+   "src": "ehime.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "フェヌア",
+   "pref": "愛媛県",
+   "area": "今治市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "フェヌア",
+   "src": "ehime.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "リュシオル",
+   "pref": "愛媛県",
+   "area": "東温市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "リュシオル",
+   "src": "ehime.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "シノ",
+   "pref": "愛媛県",
+   "area": "松山市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "シノ",
+   "src": "ehime.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "しの田",
+   "pref": "愛媛県",
+   "area": "今治市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "しの田",
+   "src": "ehime.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "鮨の間",
+   "pref": "愛媛県",
+   "area": "松山市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "寿司",
+   "norm": "鮨の間",
+   "src": "ehime.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ラピ",
+   "pref": "愛媛県",
+   "area": "伊予市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "ラピ",
+   "src": "ehime.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "リストランテ ソウ",
+   "pref": "愛媛県",
+   "area": "今治市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "リストランテソウ",
+   "src": "ehime.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "御料理 一燈",
+   "pref": "福井県",
+   "area": "福井市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "御料理一燈",
+   "src": "fukui.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "御料理 光安",
+     "stations": "二条、二条城前",
+     "genre": "日本料理"
+    },
+    {
+     "name": "御料理 樋渡",
+     "stations": "丸太町（京都市営）、烏丸御池、京都市役所前",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "料亭 開花亭",
+   "pref": "福井県",
+   "area": "福井市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "料亭開花亭",
+   "src": "fukui.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ル・ジャルダン",
+   "pref": "福井県",
+   "area": "福井市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "ルジャルダン",
+   "src": "fukui.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "鮨 十兵衛",
+   "pref": "福井県",
+   "area": "福井市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "鮨十兵衛",
+   "src": "fukui.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "安兵衛",
+     "stations": "西九条、千鳥橋、野田（ＪＲ）",
+     "genre": "焼肉、ホルモン"
+    }
+   ]
+  },
+  {
+   "name": "日本料理 崇",
+   "pref": "福井県",
+   "area": "おおい町",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "日本料理崇",
+   "src": "fukui.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "日本料理 山崎",
+     "stations": "宝町、京橋、銀座一丁目",
+     "genre": "日本料理、うなぎ"
+    },
+    {
+     "name": "日本料理 太月",
+     "stations": "表参道、明治神宮前、渋谷",
+     "genre": "日本料理"
+    },
+    {
+     "name": "日本料理 久丹",
+     "stations": "新富町、築地、八丁堀",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "鮨 さかい",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "寿司",
+   "norm": "鮨さかい",
+   "src": "fukuoka.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "鮨 あらい",
+     "stations": "東銀座、銀座、新橋",
+     "genre": "寿司"
+    },
+    {
+     "name": "鮨 さえ喜",
+     "stations": "銀座、日比谷、有楽町",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "天寿し 京町店",
+   "pref": "福岡県",
+   "area": "北九州市",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "寿司",
+   "norm": "天寿し京町店",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "リュニック・ラボ",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "リュニックラボ",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "井本",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "井本",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "江戸前鮨 二鶴",
+   "pref": "福岡県",
+   "area": "北九州市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "寿司",
+   "norm": "江戸前鮨二鶴",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "コギシ",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "コギシ",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "Syn",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "syn",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "メゾン ラフィット",
+   "pref": "福岡県",
+   "area": "那珂川市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "メゾンラフィット",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "レストラン アレナ",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "レストランアレナ",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award"
+   ]
+  },
+  {
+   "name": "奈良屋町 青",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フュージョン",
+   "norm": "奈良屋町青",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "お料理 佐藤",
+   "pref": "福岡県",
+   "area": "北九州市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "お料理佐藤",
+   "src": "fukuoka.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "お料理 宮本",
+     "stations": "大阪天満宮、南森町、扇町",
+     "genre": "日本料理"
+    },
+    {
+     "name": "お料理 直心",
+     "stations": "夙川、さくら夙川、苦楽園口",
+     "genre": "日本料理、海鮮"
+    }
+   ]
+  },
+  {
+   "name": "御料理 まつ山",
+   "pref": "福岡県",
+   "area": "北九州市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "御料理まつ山",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "安春計",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "安春計",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "菊鮨",
+   "pref": "福岡県",
+   "area": "春日市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "菊鮨",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "枯淡",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "枯淡",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "鮨 唐島",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "鮨唐島",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "鮨 ぶんぺい",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "鮨ぶんぺい",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "船越",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "船越",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ゴウ",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ゴウ",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ル・シュッド",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ルシュッド",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "レストラン ソラ",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "レストランソラ",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ローブランシュ",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ローブランシュ",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "レストラン スノゥ",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "ニューノルディック・フレンチ",
+   "norm": "レストランスノゥ",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "レルミタ",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "スペイン料理",
+   "norm": "レルミタ",
+   "src": "fukuoka.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "フルタ",
+     "stations": "新富町、宝町、銀座一丁目",
+     "genre": "中華料理"
+    }
+   ]
+  },
+  {
+   "name": "トアヒス",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イノベーティブ",
+   "norm": "トアヒス",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "一本木 石橋",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "一本木石橋",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "白金 にし田",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "白金にし田",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "明珠ひら緒",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "明珠ひら緒",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "寿司つばさ",
+   "pref": "福岡県",
+   "area": "北九州市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "寿司",
+   "norm": "寿司つばさ",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "郷土料理 嗣味",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "日本料理",
+   "norm": "郷土料理嗣味",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "鮨 仙八",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "寿司",
+   "norm": "鮨仙八",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "なかがわ",
+   "pref": "福岡県",
+   "area": "福岡市",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "イタリア料理",
+   "norm": "なかがわ",
+   "src": "fukuoka.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "HAGI",
+   "pref": "福島県",
+   "area": "いわき市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "hagi",
+   "src": "fukushima.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "小判寿司",
+   "pref": "福島県",
+   "area": "棚倉町",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "小判寿司",
+   "src": "fukushima.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "小笹寿し",
+     "stations": "新橋、内幸町、銀座",
+     "genre": "寿司"
+    },
+    {
+     "name": "大和寿司",
+     "stations": "市場前、新豊洲、有明テニスの森",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "鮨いとう",
+   "pref": "福島県",
+   "area": "いわき市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "鮨いとう",
+   "src": "fukushima.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "鮨 えいろう",
+     "stations": "京都、東寺、五条（京都市営）",
+     "genre": "寿司"
+    },
+    {
+     "name": "鮨 さいとう",
+     "stations": "六本木一丁目、神谷町、六本木",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "なか田",
+   "pref": "福島県",
+   "area": "郡山市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "なか田",
+   "src": "fukushima.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "NIM",
+   "pref": "岐阜県",
+   "area": "高山市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "nim",
+   "src": "gifu.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ラビ",
+   "pref": "岐阜県",
+   "area": "郡上市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "フランス料理",
+   "norm": "ラビ",
+   "src": "gifu.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ファン・ダルクオーレ",
+   "pref": "群馬県",
+   "area": "高崎市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フュージョン",
+   "norm": "ファンダルクオーレ",
+   "src": "gunma.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ヴェンティノーヴェ",
+   "pref": "群馬県",
+   "area": "川場村",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "ヴェンティノーヴェ",
+   "src": "gunma.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "白井屋ザ・レストラン",
+   "pref": "群馬県",
+   "area": "前橋市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イノベーティブ",
+   "norm": "白井屋ザレストラン",
+   "src": "gunma.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "季節料理 なかしま",
+   "pref": "広島県",
+   "area": "広島市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "季節料理なかしま",
+   "src": "hiroshima.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "料理屋そうびき",
+   "pref": "広島県",
+   "area": "東広島市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "料理屋そうびき",
+   "src": "hiroshima.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "エピュレ",
+   "pref": "広島県",
+   "area": "広島市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "エピュレ",
+   "src": "hiroshima.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "ラチュレ",
+     "stations": "表参道、渋谷、明治神宮前",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "ル・ジャルダン グルマン",
+   "pref": "広島県",
+   "area": "広島市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "ルジャルダングルマン",
+   "src": "hiroshima.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "永山",
+   "pref": "広島県",
+   "area": "広島市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "永山",
+   "src": "hiroshima.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "アミラル",
+   "pref": "広島県",
+   "area": "呉市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "アミラル",
+   "src": "hiroshima.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "アラルデ",
+     "stations": "本町、西大橋、阿波座",
+     "genre": "スペイン料理、ヨーロッパ料理"
+    }
+   ]
+  },
+  {
+   "name": "キヨ コラージュ",
+   "pref": "広島県",
+   "area": "広島市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "キヨコラージュ",
+   "src": "hiroshima.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "中土",
+   "pref": "広島県",
+   "area": "広島市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "中土",
+   "src": "hiroshima.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ヒロト",
+   "pref": "広島県",
+   "area": "広島市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ヒロト",
+   "src": "hiroshima.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "壮士",
+   "pref": "広島県",
+   "area": "広島市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "寿司",
+   "norm": "壮士",
+   "src": "hiroshima.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ディレット",
+   "pref": "広島県",
+   "area": "広島市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "ディレット",
+   "src": "hiroshima.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "中国料理 MASUKI",
+   "pref": "広島県",
+   "area": "広島市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "中華料理",
+   "norm": "中国料理masuki",
+   "src": "hiroshima.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ル・ミュゼ イデア",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "フランス料理",
+   "norm": "ルミュゼイデア",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "すし 宮川",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "寿司",
+   "norm": "すし宮川",
+   "src": "hokkaido.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "すし処 宮葉",
+     "stations": "浜松町、大門、竹芝",
+     "genre": "寿司"
+    },
+    {
+     "name": "すし 良月",
+     "stations": "広尾、白金台",
+     "genre": "寿司"
+    },
+    {
+     "name": "すし処 智",
+     "stations": "日本橋、近鉄日本橋、長堀橋",
+     "genre": "寿司、海鮮、鍋"
+    }
+   ]
+  },
+  {
+   "name": "アキ ナガオ",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "アキナガオ",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "モリエール",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "モリエール",
+   "src": "hokkaido.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "ピエール",
+     "stations": "大阪梅田（阪急）、中津（阪急）、大阪",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "タカオ",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "イタリア料理",
+   "norm": "タカオ",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "エレゾ エスプリ",
+   "pref": "北海道",
+   "area": "豊頃町",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "肉料理",
+   "norm": "エレゾエスプリ",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "壽山",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "壽山",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "温味",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "温味",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "鮨菜 和喜智",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "寿司",
+   "norm": "鮨菜和喜智",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "アグリスケープ",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "アグリスケープ",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "タテオカ タケシ",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "タテオカタケシ",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ル・ジャンティオム",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "ルジャンティオム",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "エノテカ・ラ・リコルマ",
+   "pref": "北海道",
+   "area": "函館市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "エノテカラリコルマ",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "味道広路",
+   "pref": "北海道",
+   "area": "栗山町",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "味道広路",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "御料理 ふじ田",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "御料理ふじ田",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "日本料理 潤花",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "日本料理潤花",
+   "src": "hokkaido.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "日本料理 山崎",
+     "stations": "宝町、京橋、銀座一丁目",
+     "genre": "日本料理、うなぎ"
+    },
+    {
+     "name": "日本料理 太月",
+     "stations": "表参道、明治神宮前、渋谷",
+     "genre": "日本料理"
+    },
+    {
+     "name": "日本料理 久丹",
+     "stations": "新富町、築地、八丁堀",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "料理屋 素",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "料理屋素",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "すし 開",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "すし開",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "鮨しょう太",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "鮨しょう太",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "鮨処 有馬",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "鮨処有馬",
+   "src": "hokkaido.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "麺処 有彩",
+     "stations": "西川口",
+     "genre": "ラーメン、つけ麺"
+    },
+    {
+     "name": "鮨処 多田",
+     "stations": "北新地、西梅田、東梅田",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "鮨処 木はら",
+   "pref": "北海道",
+   "area": "函館市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "鮨処木はら",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "アキヒサ ハンダ",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "アキヒサハンダ",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "マリヨンヌ",
+   "pref": "北海道",
+   "area": "帯広市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "マリヨンヌ",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "メゾン フジヤ ハコダテ",
+   "pref": "北海道",
+   "area": "函館市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "メゾンフジヤハコダテ",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "パルコ フィエラ",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "パルコフィエラ",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "リストランテ カノフィーロ",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "リストランテカノフィーロ",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ヨイチループ",
+   "pref": "北海道",
+   "area": "余市町",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イノベーティブ",
+   "norm": "ヨイチループ",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "伊勢鮨",
+   "pref": "北海道",
+   "area": "小樽市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "寿司",
+   "norm": "伊勢鮨",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "東雲",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "寿司",
+   "norm": "東雲",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "鮨こいせ",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "寿司",
+   "norm": "鮨こいせ",
+   "src": "hokkaido.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "鮨 めい乃",
+     "stations": "麻布十番、六本木、赤羽橋",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "鮨ノ蔵",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "寿司",
+   "norm": "鮨ノ蔵",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "姫沙羅",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "寿司",
+   "norm": "姫沙羅",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ニカプ",
+   "pref": "北海道",
+   "area": "江別市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "ニカプ",
+   "src": "hokkaido.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "noya",
+   "pref": "北海道",
+   "area": "札幌市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イノベーティブ",
+   "norm": "noya",
+   "src": "hokkaido.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "CAINOYA",
+     "stations": "京都河原町、祇園四条、清水五条",
+     "genre": "イノベーティブ"
+    }
+   ]
+  },
+  {
+   "name": "料理屋 植むら",
+   "pref": "兵庫県",
+   "area": "神戸市",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "日本料理",
+   "norm": "料理屋植むら",
+   "src": "hyogo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "料理屋 植むら",
+     "stations": "三宮（神戸市営）、三ノ宮（ＪＲ）、三宮（神戸新交通）",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "アントル ヌー",
+   "pref": "兵庫県",
+   "area": "神戸市",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "フランス料理",
+   "norm": "アントルヌー",
+   "src": "hyogo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "カセント",
+   "pref": "兵庫県",
+   "area": "神戸市",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "スペイン料理",
+   "norm": "カセント",
+   "src": "hyogo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "カセント",
+     "stations": "県庁前、元町（ＪＲ）、元町（阪神）",
+     "genre": "イノベーティブ、スペイン料理"
+    }
+   ]
+  },
+  {
+   "name": "北野坂 木下",
+   "pref": "兵庫県",
+   "area": "神戸市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "イタリア料理",
+   "norm": "北野坂木下",
+   "src": "hyogo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "北野坂 木下",
+     "stations": "三宮（神戸市営）、三ノ宮（ＪＲ）、三宮（神戸新交通）",
+     "genre": "イタリアン"
+    }
+   ]
+  },
+  {
+   "name": "日本料理 淡流",
+   "pref": "兵庫県",
+   "area": "姫路市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "日本料理淡流",
+   "src": "hyogo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "日本料理 山崎",
+     "stations": "宝町、京橋、銀座一丁目",
+     "genre": "日本料理、うなぎ"
+    },
+    {
+     "name": "日本料理 太月",
+     "stations": "表参道、明治神宮前、渋谷",
+     "genre": "日本料理"
+    },
+    {
+     "name": "日本料理 久丹",
+     "stations": "新富町、築地、八丁堀",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "すし うえだ",
+   "pref": "兵庫県",
+   "area": "神戸市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "寿司",
+   "norm": "すしうえだ",
+   "src": "hyogo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "すし うえだ",
+     "stations": "元町（ＪＲ）、県庁前、元町（阪神）",
+     "genre": "寿司、日本料理"
+    }
+   ]
+  },
+  {
+   "name": "セッタン",
+   "pref": "兵庫県",
+   "area": "神戸市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "セッタン",
+   "src": "hyogo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "リストランテ ダ ルーポ 322",
+   "pref": "兵庫県",
+   "area": "西宮市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "リストランテダルーポ322",
+   "src": "hyogo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "レストラン オオツ",
+   "pref": "茨城県",
+   "area": "水戸市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "レストランオオツ",
+   "src": "ibaraki.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "YOSHIKI FUJI",
+   "pref": "茨城県",
+   "area": "常陸大宮市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "スペイン料理",
+   "norm": "yoshikifuji",
+   "src": "ibaraki.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "京遊膳 花みやこ",
+   "pref": "茨城県",
+   "area": "ひたちなか市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "京遊膳花みやこ",
+   "src": "ibaraki.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "リストランテ ツム",
+   "pref": "茨城県",
+   "area": "つくば市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "リストランテツム",
+   "src": "ibaraki.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "よし町",
+   "pref": "茨城県",
+   "area": "土浦市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "よし町",
+   "src": "ibaraki.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ノンナ・ニェッタ",
+   "pref": "茨城県",
+   "area": "つくば市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "ノンナニェッタ",
+   "src": "ibaraki.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "片折",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "日本料理",
+   "norm": "片折",
+   "src": "ishikawa.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "片折",
+     "stations": "北鉄金沢、金沢、七ツ屋",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "料理 小松",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "日本料理",
+   "norm": "料理小松",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "レスピラシオン",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "スペイン料理",
+   "norm": "レスピラシオン",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "つば甚",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "日本料理",
+   "norm": "つば甚",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "日本料理 銭屋",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "日本料理",
+   "norm": "日本料理銭屋",
+   "src": "ishikawa.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "日本料理 山崎",
+     "stations": "宝町、京橋、銀座一丁目",
+     "genre": "日本料理、うなぎ"
+    },
+    {
+     "name": "日本料理 太月",
+     "stations": "表参道、明治神宮前、渋谷",
+     "genre": "日本料理"
+    },
+    {
+     "name": "日本料理 久丹",
+     "stations": "新富町、築地、八丁堀",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "インスタレーションテーブル エンソ ラシンメトリードゥカルム",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "インスタレーションテーブルエンソラシンメトリードゥカルム",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "マキノンチ",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "マキノンチ",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "木佐貫",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "木佐貫",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": [
+    "award"
+   ]
+  },
+  {
+   "name": "東山 和今",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "東山和今",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "料亭 穂濤",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "料亭穂濤",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "オーベルジュ オーフ",
+   "pref": "石川県",
+   "area": "小松市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "オーベルジュオーフ",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ヴィラ デラ パーチェ",
+   "pref": "石川県",
+   "area": "七尾市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "能登饗藝料理",
+   "norm": "ヴィラデラパーチェ",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ショクドウ ヤーン",
+   "pref": "石川県",
+   "area": "小松市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イノベーティブ",
+   "norm": "ショクドウヤーン",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "うつしき",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "うつしき",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "和田屋",
+   "pref": "石川県",
+   "area": "白山市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "和田屋",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "乙女寿司",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "乙女寿司",
+   "src": "ishikawa.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "大和寿司",
+     "stations": "市場前、新豊洲、有明テニスの森",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "レストラン エクティル",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "レストランエクティル",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "味処 大工町 よし村",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "味処大工町よし村",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "御料理 良所",
+   "pref": "石川県",
+   "area": "白山市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "御料理良所",
+   "src": "ishikawa.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "御料理 光安",
+     "stations": "二条、二条城前",
+     "genre": "日本料理"
+    },
+    {
+     "name": "御料理 樋渡",
+     "stations": "丸太町（京都市営）、烏丸御池、京都市役所前",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "光日",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "光日",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "茶寮 杣径",
+   "pref": "石川県",
+   "area": "輪島市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "茶寮杣径",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "てんぷら的場",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "てんぷら的場",
+   "src": "ishikawa.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "てんぷら 拓",
+     "stations": "飯田橋、牛込神楽坂、神楽坂",
+     "genre": "天ぷら"
+    },
+    {
+     "name": "てんぷら 深町",
+     "stations": "京橋、宝町、銀座一丁目",
+     "genre": "天ぷら"
+    },
+    {
+     "name": "てんぷら 近藤",
+     "stations": "銀座、東銀座、有楽町",
+     "genre": "天ぷら"
+    }
+   ]
+  },
+  {
+   "name": "フィルドール",
+   "pref": "石川県",
+   "area": "金沢市",
+   "toque": "POP",
+   "score": "-",
+   "genre": "フランス料理",
+   "norm": "フィルドール",
+   "src": "ishikawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "御料理 寺沢",
+   "pref": "岩手県",
+   "area": "北上市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "御料理寺沢",
+   "src": "iwate.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "御料理 光安",
+     "stations": "二条、二条城前",
+     "genre": "日本料理"
+    },
+    {
+     "name": "御料理 樋渡",
+     "stations": "丸太町（京都市営）、烏丸御池、京都市役所前",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "日本料理 新茶家",
+   "pref": "岩手県",
+   "area": "奥州市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "日本料理新茶家",
+   "src": "iwate.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ロレオール田野畑",
+   "pref": "岩手県",
+   "area": "田野畑村",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ロレオール田野畑",
+   "src": "iwate.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "リストランテ シカザワ",
+   "pref": "岩手県",
+   "area": "盛岡市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イノベーティブ",
+   "norm": "リストランテシカザワ",
+   "src": "iwate.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "雨宿り",
+   "pref": "岩手県",
+   "area": "盛岡市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "オリジナル郷土料理",
+   "norm": "雨宿り",
+   "src": "iwate.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "おのひづめ",
+   "pref": "岩手県",
+   "area": "遠野市",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "イタリア料理",
+   "norm": "おのひづめ",
+   "src": "iwate.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "バダローネ",
+   "pref": "岩手県",
+   "area": "花巻市",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "イタリア料理",
+   "norm": "バダローネ",
+   "src": "iwate.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "長江 SORAE",
+   "pref": "香川県",
+   "area": "高松市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "中華料理",
+   "norm": "長江sorae",
+   "src": "kagawa.txt",
+   "status": "新規",
+   "pools": [
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "両忘",
+   "pref": "香川県",
+   "area": "高松市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "両忘",
+   "src": "kagawa.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "小料理 Yarn",
+   "pref": "香川県",
+   "area": "高松市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イノベーティブ",
+   "norm": "小料理yarn",
+   "src": "kagawa.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "センティウ",
+   "pref": "鹿児島県",
+   "area": "鹿屋市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "センティウ",
+   "src": "kagoshima.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "エ ヌゥ",
+   "pref": "鹿児島県",
+   "area": "鹿児島市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "エヌゥ",
+   "src": "kagoshima.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "鎌倉 北じま",
+   "pref": "神奈川県",
+   "area": "鎌倉市",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "日本料理",
+   "norm": "鎌倉北じま",
+   "src": "kanagawa.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "リストランテ イルノード",
+   "pref": "神奈川県",
+   "area": "鎌倉市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "リストランテイルノード",
+   "src": "kanagawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "フィエルテ",
+   "pref": "神奈川県",
+   "area": "鎌倉市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "フィエルテ",
+   "src": "kanagawa.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "イザ",
+   "pref": "神奈川県",
+   "area": "鎌倉市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "イザ",
+   "src": "kanagawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "リスペット",
+   "pref": "神奈川県",
+   "area": "横浜市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "リスペット",
+   "src": "kanagawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "アンチョア",
+   "pref": "神奈川県",
+   "area": "鎌倉市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "スペイン料理",
+   "norm": "アンチョア",
+   "src": "kanagawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "季音",
+   "pref": "神奈川県",
+   "area": "鎌倉市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "薪火料理",
+   "norm": "季音",
+   "src": "kanagawa.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "イチリン ハナレ",
+   "pref": "神奈川県",
+   "area": "鎌倉市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "中華料理",
+   "norm": "イチリンハナレ",
+   "src": "kanagawa.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "メシモ",
+   "pref": "神奈川県",
+   "area": "小田原市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "フランス料理",
+   "norm": "メシモ",
+   "src": "kanagawa.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ラ・プリマヴォルタ",
+   "pref": "高知県",
+   "area": "高知市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "ラプリマヴォルタ",
+   "src": "kochi.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ローグ",
+   "pref": "高知県",
+   "area": "土佐市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "ローグ",
+   "src": "kochi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "イハラ",
+   "pref": "高知県",
+   "area": "高知市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イノベーティブ",
+   "norm": "イハラ",
+   "src": "kochi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "将人",
+   "pref": "高知県",
+   "area": "高知市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "日本料理",
+   "norm": "将人",
+   "src": "kochi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "MIKIドゥーブル",
+   "pref": "高知県",
+   "area": "高知市",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "フランス料理",
+   "norm": "mikiドゥーブル",
+   "src": "kochi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ダ ゼロ",
+   "pref": "高知県",
+   "area": "佐川町",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "イタリア料理",
+   "norm": "ダゼロ",
+   "src": "kochi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "中華料理 弥栄園",
+   "pref": "高知県",
+   "area": "高知市",
+   "toque": "POP",
+   "score": "-",
+   "genre": "中華料理",
+   "norm": "中華料理弥栄園",
+   "src": "kochi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "アンティカ・ロカンダ・ミヤモト",
+   "pref": "熊本県",
+   "area": "熊本市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "アンティカロカンダミヤモト",
+   "src": "kumamoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ノウ",
+   "pref": "熊本県",
+   "area": "熊本市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イノベーティブ",
+   "norm": "ノウ",
+   "src": "kumamoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "花小町",
+   "pref": "熊本県",
+   "area": "熊本市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "ガストロリジョン",
+   "norm": "花小町",
+   "src": "kumamoto.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "むら上",
+   "pref": "熊本県",
+   "area": "熊本市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "寿司",
+   "norm": "むら上",
+   "src": "kumamoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "イル カジーノ",
+   "pref": "熊本県",
+   "area": "熊本市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "イルカジーノ",
+   "src": "kumamoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "飯田",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "4トック",
+   "score": "18.5",
+   "genre": "日本料理",
+   "norm": "飯田",
+   "src": "kyoto.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "飯田",
+     "stations": "京都市役所前、烏丸御池、三条",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "祇園 さゝ木",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "4トック",
+   "score": "18",
+   "genre": "日本料理",
+   "norm": "祇園ささ木",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "菊乃井 本店",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "4トック",
+   "score": "18",
+   "genre": "日本料理",
+   "norm": "菊乃井本店",
+   "src": "kyoto.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "菊乃井 本店",
+     "stations": "東山、祇園四条、蹴上",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "京都吉兆 嵐山本店",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "4トック",
+   "score": "18",
+   "genre": "日本料理",
+   "norm": "京都吉兆嵐山本店",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "未在",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "4トック",
+   "score": "18",
+   "genre": "日本料理",
+   "norm": "未在",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "瓢亭",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "4トック",
+   "score": "17.5",
+   "genre": "日本料理",
+   "norm": "瓢亭",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "草喰 なかひがし",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "日本料理",
+   "norm": "草喰なかひがし",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "浜作",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "日本料理",
+   "norm": "浜作",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "御料理 はやし",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "日本料理",
+   "norm": "御料理はやし",
+   "src": "kyoto.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "御料理 はやし",
+     "stations": "出町柳、今出川",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "祇園 きだ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "日本料理",
+   "norm": "祇園きだ",
+   "src": "kyoto.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "祇園 にし",
+     "stations": "祇園四条、京都河原町、東山",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "富小路やま岸",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "日本料理",
+   "norm": "富小路やま岸",
+   "src": "kyoto.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "富小路 やま岸",
+     "stations": "京都河原町、烏丸、京都市役所前",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "美山荘",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "日本料理",
+   "norm": "美山荘",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ドロワ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "ドロワ",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "モトイ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "モトイ",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "レストラン コガ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "レストランコガ",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "チェンチ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "イタリア料理",
+   "norm": "チェンチ",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "木山",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "木山",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "衹園丸山",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "衹園丸山",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "高台寺 和久傳",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "高台寺和久傳",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "青蓮院門跡前 月おか",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "青蓮院門跡前月おか",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "徳ハ本也",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "徳ハ本也",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "獨歩",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "獨歩",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "凌霄",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "凌霄",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "真白",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "真白",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ミドル",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "ミドル",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "レーヌデプレ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "レーヌデプレ",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ドーディチ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "ドーディチ",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "コケ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イノベーティブ",
+   "norm": "コケ",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "タカヤマ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イノベーティブ",
+   "norm": "タカヤマ",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ルーラ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イノベーティブ",
+   "norm": "ルーラ",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "仁修樓",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "中華料理",
+   "norm": "仁修樓",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "廣澤",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "中華料理",
+   "norm": "廣澤",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "ベルロオジエ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "中華料理",
+   "norm": "ベルロオジエ",
+   "src": "kyoto.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "ロオジエ",
+     "stations": "銀座、新橋、内幸町",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "日本料理 研野",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "日本料理研野",
+   "src": "kyoto.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "日本料理 山崎",
+     "stations": "宝町、京橋、銀座一丁目",
+     "genre": "日本料理、うなぎ"
+    },
+    {
+     "name": "日本料理 太月",
+     "stations": "表参道、明治神宮前、渋谷",
+     "genre": "日本料理"
+    },
+    {
+     "name": "日本料理 久丹",
+     "stations": "新富町、築地、八丁堀",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "ひがしやま 司",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "ひがしやま司",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "料 かわしま",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "料かわしま",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "料理屋 まえかわ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "料理屋まえかわ",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ラ ブッシュ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ラブッシュ",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "熙怡",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "熙怡",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "しろ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "しろ",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ジェルモーリオ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "ジェルモーリオ",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ビーニ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "ビーニ",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "リストランテ ナカモト",
+   "pref": "京都府",
+   "area": "木津川市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "リストランテナカモト",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "魚菜料理 縄屋",
+   "pref": "京都府",
+   "area": "京丹後市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "魚菜料理縄屋",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "なる屋",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "なる屋",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "西入る",
+   "pref": "京都府",
+   "area": "宮津市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "西入る",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ヴェーナ",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "ヴェーナ",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "モンク",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "薪窯料理",
+   "norm": "モンク",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ノーミ レストラン",
+   "pref": "京都府",
+   "area": "福知山市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "KIREAJIガストロノミー",
+   "norm": "ノーミレストラン",
+   "src": "kyoto.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "フウド",
+   "pref": "京都府",
+   "area": "京都市",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "イタリア料理",
+   "norm": "フウド",
+   "src": "kyoto.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "チャイナダイニング イフウドウドウ",
+     "stations": "甲子園口、阪神国道",
+     "genre": "中華料理、ちゃんぽん、居酒屋"
+    }
+   ]
+  },
+  {
+   "name": "ラ・メール ザ・クラシック",
+   "pref": "三重県",
+   "area": "志摩市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "ラメールザクラシック",
+   "src": "mie.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "センプレ",
+   "pref": "三重県",
+   "area": "桑名市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "センプレ",
+   "src": "mie.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "伊勢 三玄",
+   "pref": "三重県",
+   "area": "伊勢市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "伊勢三玄",
+   "src": "mie.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "割烹 西むら",
+   "pref": "三重県",
+   "area": "四日市市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "割烹西むら",
+   "src": "mie.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "江戸町 すぎもと",
+   "pref": "三重県",
+   "area": "桑名市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "江戸町すぎもと",
+   "src": "mie.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ボン ヴィヴァン",
+   "pref": "三重県",
+   "area": "伊勢市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ボンヴィヴァン",
+   "src": "mie.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "レストラン カイト",
+   "pref": "三重県",
+   "area": "四日市市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "レストランカイト",
+   "src": "mie.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "気仙沼 KUROMORI",
+   "pref": "宮城県",
+   "area": "気仙沼市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "中華料理",
+   "norm": "気仙沼kuromori",
+   "src": "miyagi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ナクレ",
+   "pref": "宮城県",
+   "area": "仙台市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "ナクレ",
+   "src": "miyagi.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "アルカ",
+   "pref": "宮城県",
+   "area": "仙台市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イノベーティブ",
+   "norm": "アルカ",
+   "src": "miyagi.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "アルカナ 東京",
+     "stations": "東京、二重橋前、有楽町",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "バーム",
+   "pref": "宮城県",
+   "area": "仙台市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "薪焼料理",
+   "norm": "バーム",
+   "src": "miyagi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "鮨いわ貴",
+   "pref": "宮城県",
+   "area": "仙台市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "寿司",
+   "norm": "鮨いわ貴",
+   "src": "miyagi.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "鮨いわもと",
+     "stations": "北新地、大江橋、渡辺橋",
+     "genre": "寿司、海鮮、日本料理"
+    }
+   ]
+  },
+  {
+   "name": "鮨德",
+   "pref": "宮城県",
+   "area": "仙台市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "寿司",
+   "norm": "鮨德",
+   "src": "miyagi.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "笠聖",
+   "pref": "宮城県",
+   "area": "加美町",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "寿司",
+   "norm": "笠聖",
+   "src": "miyagi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "レストラン エス",
+   "pref": "宮城県",
+   "area": "丸森町",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "フランス料理",
+   "norm": "レストランエス",
+   "src": "miyagi.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "レストランエール",
+     "stations": "銀座、東銀座、有楽町",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "レストラン カシュカシュ",
+   "pref": "宮城県",
+   "area": "岩沼市",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "フランス料理",
+   "norm": "レストランカシュカシュ",
+   "src": "miyagi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "チェルカ トローヴァ",
+   "pref": "宮崎県",
+   "area": "延岡市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "チェルカトローヴァ",
+   "src": "miyazaki.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "宮崎 燠火kawaguchi ∴",
+   "pref": "宮崎県",
+   "area": "宮崎市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "ローカルガストロミー",
+   "norm": "宮崎燠火kawaguchi∴",
+   "src": "miyazaki.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "Washoku たか木",
+   "pref": "宮崎県",
+   "area": "宮崎市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "washokuたか木",
+   "src": "miyazaki.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ただの料理屋 きたうら善漁。",
+   "pref": "宮崎県",
+   "area": "延岡市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "料理屋",
+   "norm": "ただの料理屋きたうら善漁。",
+   "src": "miyazaki.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "レストラン ナズ",
+   "pref": "長野県",
+   "area": "軽井沢町",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "イノベーティブ",
+   "norm": "レストランナズ",
+   "src": "nagano.txt",
+   "status": "新規",
+   "pools": [
+    "award"
+   ]
+  },
+  {
+   "name": "トエダ",
+   "pref": "長野県",
+   "area": "軽井沢町",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "トエダ",
+   "src": "nagano.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ヒカリヤ ニシ",
+   "pref": "長野県",
+   "area": "松本市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "ヒカリヤニシ",
+   "src": "nagano.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "カエンネ",
+   "pref": "長野県",
+   "area": "茅野市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "カエンネ",
+   "src": "nagano.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "カセント",
+     "stations": "県庁前、元町（ＪＲ）、元町（阪神）",
+     "genre": "イノベーティブ、スペイン料理"
+    }
+   ]
+  },
+  {
+   "name": "日本料理 柚木元",
+   "pref": "長野県",
+   "area": "飯田市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "日本料理柚木元",
+   "src": "nagano.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "無名",
+   "pref": "長野県",
+   "area": "茅野市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "無名",
+   "src": "nagano.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "すし崇",
+   "pref": "長野県",
+   "area": "長野市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "寿司",
+   "norm": "すし崇",
+   "src": "nagano.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ヴィッラ デル ニード",
+   "pref": "長崎県",
+   "area": "雲仙市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "ネイチャードリブン／イタリア料理",
+   "norm": "ヴィッラデルニード",
+   "src": "nagasaki.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "pesceco",
+   "pref": "長崎県",
+   "area": "島原市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "ジオ・ガストロノミー",
+   "norm": "pesceco",
+   "src": "nagasaki.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ビアード",
+   "pref": "長崎県",
+   "area": "雲仙市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "自然料理",
+   "norm": "ビアード",
+   "src": "nagasaki.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "鮨 白雲",
+   "pref": "長崎県",
+   "area": "長崎市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "寿司",
+   "norm": "鮨白雲",
+   "src": "nagasaki.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "小料理 藤緒",
+   "pref": "長崎県",
+   "area": "長崎市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "日本料理",
+   "norm": "小料理藤緒",
+   "src": "nagasaki.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "アコルドゥ",
+   "pref": "奈良県",
+   "area": "奈良市",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "スペイン料理",
+   "norm": "アコルドゥ",
+   "src": "nara.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "セン",
+   "pref": "奈良県",
+   "area": "天川村",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "流域料理",
+   "norm": "セン",
+   "src": "nara.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "白",
+   "pref": "奈良県",
+   "area": "奈良市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "白",
+   "src": "nara.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "奈良 而今",
+   "pref": "奈良県",
+   "area": "奈良市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "奈良而今",
+   "src": "nara.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ヴィラ コムニコ",
+   "pref": "奈良県",
+   "area": "奈良市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "薪火料理",
+   "norm": "ヴィラコムニコ",
+   "src": "nara.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ラ・トラース",
+   "pref": "奈良県",
+   "area": "奈良市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ラトラース",
+   "src": "nara.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "ラトラス",
+     "stations": "神楽坂、牛込神楽坂、飯田橋",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "奈良町 枸杞",
+   "pref": "奈良県",
+   "area": "奈良市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "中華料理",
+   "norm": "奈良町枸杞",
+   "src": "nara.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "クチーナ レジョナーレ ヤナガワ",
+   "pref": "奈良県",
+   "area": "奈良市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "クチーナレジョナーレヤナガワ",
+   "src": "nara.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "玄",
+   "pref": "奈良県",
+   "area": "奈良市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "蕎麦懐石",
+   "norm": "玄",
+   "src": "nara.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "割烹 新多久",
+   "pref": "新潟県",
+   "area": "村上市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "割烹新多久",
+   "src": "niigata.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "レストラン イソ",
+   "pref": "新潟県",
+   "area": "新潟市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "レストランイソ",
+   "src": "niigata.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "レストラン ウオゼン",
+   "pref": "新潟県",
+   "area": "三条市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "レストランウオゼン",
+   "src": "niigata.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "古門",
+   "pref": "新潟県",
+   "area": "新潟市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "古門",
+   "src": "niigata.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "里山十帖 －早苗饗－",
+   "pref": "新潟県",
+   "area": "南魚沼市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "里山十帖早苗饗",
+   "src": "niigata.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "鍋茶屋 光琳",
+   "pref": "新潟県",
+   "area": "新潟市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "鍋茶屋光琳",
+   "src": "niigata.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "兄弟寿し",
+   "pref": "新潟県",
+   "area": "新潟市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "兄弟寿し",
+   "src": "niigata.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "小笹寿し",
+     "stations": "新橋、内幸町、銀座",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "登喜和鮨",
+   "pref": "新潟県",
+   "area": "新発田市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "登喜和鮨",
+   "src": "niigata.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "灯りの食邸 KOKAJIYA",
+   "pref": "新潟県",
+   "area": "新潟市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "灯りの食邸kokajiya",
+   "src": "niigata.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "オステリア バッコ",
+   "pref": "新潟県",
+   "area": "新潟市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "オステリアバッコ",
+   "src": "niigata.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "割烹 渡辺",
+   "pref": "新潟県",
+   "area": "新潟市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "割烹渡辺",
+   "src": "niigata.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "割烹 室井",
+     "stations": "乃木坂、表参道、外苑前",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "ミュリール",
+   "pref": "新潟県",
+   "area": "糸魚川市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "ジオ・ガストロノミー",
+   "norm": "ミュリール",
+   "src": "niigata.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "新潟浦島 小平",
+   "pref": "新潟県",
+   "area": "新潟市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "日本料理",
+   "norm": "新潟浦島小平",
+   "src": "niigata.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ピュシス",
+   "pref": "大分県",
+   "area": "国東市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "ピュシス",
+   "src": "oita.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ジングー",
+   "pref": "大分県",
+   "area": "由布市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イノベーティブ",
+   "norm": "ジングー",
+   "src": "oita.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "味 あら井",
+   "pref": "大分県",
+   "area": "中津市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "味あら井",
+   "src": "oita.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "鮨 あらい",
+     "stations": "東銀座、銀座、新橋",
+     "genre": "寿司"
+    },
+    {
+     "name": "あら輝",
+     "stations": "赤坂、溜池山王、赤坂見附",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "御料理 はた野",
+   "pref": "大分県",
+   "area": "別府市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "御料理はた野",
+   "src": "oita.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "御料理 はやし",
+     "stations": "出町柳、今出川",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "日本料理 別府 廣門",
+   "pref": "大分県",
+   "area": "別府市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "日本料理別府廣門",
+   "src": "oita.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "おおいた花山椒",
+   "pref": "大分県",
+   "area": "大分市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "日本料理",
+   "norm": "おおいた花山椒",
+   "src": "oita.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ミザンセーヌ",
+   "pref": "岡山県",
+   "area": "岡山市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ミザンセーヌ",
+   "src": "okayama.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "エッセレ",
+   "pref": "岡山県",
+   "area": "岡山市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "エッセレ",
+   "src": "okayama.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "はすのみ",
+   "pref": "岡山県",
+   "area": "岡山市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "中華料理",
+   "norm": "はすのみ",
+   "src": "okayama.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "魚正 山本淳",
+   "pref": "岡山県",
+   "area": "岡山市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "寿司",
+   "norm": "魚正山本淳",
+   "src": "okayama.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "アグニ",
+   "pref": "岡山県",
+   "area": "岡山市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "フランス料理",
+   "norm": "アグニ",
+   "src": "okayama.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "すし晴",
+   "pref": "岡山県",
+   "area": "岡山市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "寿司",
+   "norm": "すし晴",
+   "src": "okayama.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "食の家 まつおか",
+   "pref": "岡山県",
+   "area": "倉敷市",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "日本料理",
+   "norm": "食の家まつおか",
+   "src": "okayama.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ブリコール",
+   "pref": "岡山県",
+   "area": "倉敷市",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "日本料理",
+   "norm": "ブリコール",
+   "src": "okayama.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "アローエデッセ",
+   "pref": "沖縄県",
+   "area": "金武町",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "アローエデッセ",
+   "src": "okinawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "シス",
+   "pref": "沖縄県",
+   "area": "今帰仁村",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イノベーティブ",
+   "norm": "シス",
+   "src": "okinawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "PAUL",
+   "pref": "沖縄県",
+   "area": "本部町",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イノベーティブ",
+   "norm": "paul",
+   "src": "okinawa.txt",
+   "status": "新規",
+   "pools": [
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "ザ・ひらまつ ホテルズ＆リゾーツ 宜野座",
+   "pref": "沖縄県",
+   "area": "宜野座村",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ザひらまつホテルズ&リゾーツ宜野座",
+   "src": "okinawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "トット",
+   "pref": "沖縄県",
+   "area": "宜野湾市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "トット",
+   "src": "okinawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "モヴェズ エルブ",
+   "pref": "沖縄県",
+   "area": "うるま市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "沖縄イノベーティブ",
+   "norm": "モヴェズエルブ",
+   "src": "okinawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "島cuisine あーすん",
+   "pref": "沖縄県",
+   "area": "那覇市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "島キュイジーヌ",
+   "norm": "島cuisineあーすん",
+   "src": "okinawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "フレンチレストラン ラトリエ",
+   "pref": "沖縄県",
+   "area": "那覇市",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "フランス料理",
+   "norm": "フレンチレストランラトリエ",
+   "src": "okinawa.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ハジメ",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "4トック",
+   "score": "18",
+   "genre": "イノベーティブ",
+   "norm": "ハジメ",
+   "src": "osaka.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "ハジメ",
+     "stations": "肥後橋、渡辺橋、淀屋橋",
+     "genre": "イノベーティブ、フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "本湖月",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "4トック",
+   "score": "17.5",
+   "genre": "日本料理",
+   "norm": "本湖月",
+   "src": "osaka.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "本湖月",
+     "stations": "なんば（大阪メトロ）、大阪難波、日本橋",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "柏屋 大阪千里山",
+   "pref": "大阪府",
+   "area": "吹田市",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "日本料理",
+   "norm": "柏屋大阪千里山",
+   "src": "osaka.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "柏屋 大阪千里山",
+     "stations": "関大前、緑地公園、千里山",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "ラシーム",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "フランス料理",
+   "norm": "ラシーム",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ポンテベッキオ",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "イタリア料理",
+   "norm": "ポンテベッキオ",
+   "src": "osaka.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "ポンテ ベッキオ",
+     "stations": "北浜、なにわ橋、淀屋橋",
+     "genre": "イタリアン"
+    }
+   ]
+  },
+  {
+   "name": "Fujiya1935",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "イノベーティブ",
+   "norm": "fujiya1935",
+   "src": "osaka.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "Fujiya 1935",
+     "stations": "谷町四丁目、堺筋本町、松屋町",
+     "genre": "イノベーティブ、スペイン料理"
+    }
+   ]
+  },
+  {
+   "name": "空心 伽藍堂",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "中華料理",
+   "norm": "空心伽藍堂",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": [
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "老松 喜多川",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "老松喜多川",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "弧柳",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "弧柳",
+   "src": "osaka.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "弧柳",
+     "stations": "北浜、堺筋本町、天満橋",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "太庵",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "太庵",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "伏見町 栫山",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "伏見町栫山",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": [
+    "award"
+   ]
+  },
+  {
+   "name": "楽心",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "楽心",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "アドック",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "アドック",
+   "src": "osaka.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "ベック",
+     "stations": "県庁前、元町（ＪＲ）、元町（阪神）",
+     "genre": "ビストロ、ワインバー"
+    }
+   ]
+  },
+  {
+   "name": "アニエルドール",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "アニエルドール",
+   "src": "osaka.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "アニエルドール",
+     "stations": "阿波座、本町、西大橋",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "シナエ",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "シナエ",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ラ・ベカス",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "ラベカス",
+   "src": "osaka.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "ラトラス",
+     "stations": "神楽坂、牛込神楽坂、飯田橋",
+     "genre": "フレンチ"
+    },
+    {
+     "name": "ラ・ベ",
+     "stations": "西梅田、北新地、福島（阪神）",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "ピ・グレコ",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "ピグレコ",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "上方中華 新瓊",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "中華料理",
+   "norm": "上方中華新瓊",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": [
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "お料理 山田",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "お料理山田",
+   "src": "osaka.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "お料理 宮本",
+     "stations": "大阪天満宮、南森町、扇町",
+     "genre": "日本料理"
+    },
+    {
+     "name": "お料理 直心",
+     "stations": "夙川、さくら夙川、苦楽園口",
+     "genre": "日本料理、海鮮"
+    }
+   ]
+  },
+  {
+   "name": "翠 大屋",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "翠大屋",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "照屋",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "照屋",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "鮨 三心",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "鮨三心",
+   "src": "osaka.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "鮨 三心",
+     "stations": "谷町六丁目、谷町四丁目、松屋町",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "鮨 原正",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "鮨原正",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "オノウエ",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "オノウエ",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "フナシェフ",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "フナシェフ",
+   "src": "osaka.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "フナシェフ",
+     "stations": "天満、天神橋筋六丁目、中崎町",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "ミチノ・ル・トゥールビヨン",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ミチノルトゥールビヨン",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ラ カンロ",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ラカンロ",
+   "src": "osaka.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "ラ カンロ",
+     "stations": "南森町、大阪天満宮、なにわ橋",
+     "genre": "イノベーティブ、フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "カピ",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "カピ",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ラチェルバ",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "ラチェルバ",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "月泉",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "中華料理",
+   "norm": "月泉",
+   "src": "osaka.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "月泉",
+     "stations": "なにわ橋、北浜、南森町",
+     "genre": "中華料理"
+    }
+   ]
+  },
+  {
+   "name": "シーフ",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "中華料理",
+   "norm": "シーフ",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "料理屋 稲家",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "料理屋稲家",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ア・カント",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "アカント",
+   "src": "osaka.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "アカ",
+     "stations": "三越前、新日本橋、日本橋",
+     "genre": "スペイン料理"
+    },
+    {
+     "name": "ラ カンロ",
+     "stations": "南森町、大阪天満宮、なにわ橋",
+     "genre": "イノベーティブ、フレンチ"
+    },
+    {
+     "name": "カセント",
+     "stations": "県庁前、元町（ＪＲ）、元町（阪神）",
+     "genre": "イノベーティブ、スペイン料理"
+    }
+   ]
+  },
+  {
+   "name": "イル・チェントリーノ",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "イルチェントリーノ",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "十皿",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "十皿",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "レストラン マイス",
+   "pref": "大阪府",
+   "area": "島本町",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "レストランマイス",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "アラルデ",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "バスク料理",
+   "norm": "アラルデ",
+   "src": "osaka.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "アラルデ",
+     "stations": "本町、西大橋、阿波座",
+     "genre": "スペイン料理、ヨーロッパ料理"
+    }
+   ]
+  },
+  {
+   "name": "ミルパ",
+   "pref": "大阪府",
+   "area": "大阪市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イノベーティブ・メキシコ料理",
+   "norm": "ミルパ",
+   "src": "osaka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "飴源",
+   "pref": "佐賀県",
+   "area": "唐津市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "飴源",
+   "src": "saga.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "鮨処 つく田",
+   "pref": "佐賀県",
+   "area": "唐津市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "鮨処つく田",
+   "src": "saga.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "鮨処 多田",
+     "stations": "北新地、西梅田、東梅田",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "カジシナジーレストラン",
+   "pref": "佐賀県",
+   "area": "武雄市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "カジシナジーレストラン",
+   "src": "saga.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "カテクオーレ",
+   "pref": "佐賀県",
+   "area": "伊万里市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "カテクオーレ",
+   "src": "saga.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "あるところ",
+   "pref": "佐賀県",
+   "area": "唐津市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "日本料理",
+   "norm": "あるところ",
+   "src": "saga.txt",
+   "status": "新規",
+   "pools": [
+    "award"
+   ]
+  },
+  {
+   "name": "レストラン プレサージュ",
+   "pref": "佐賀県",
+   "area": "唐津市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "フランス料理",
+   "norm": "レストランプレサージュ",
+   "src": "saga.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "日本料理 会席 かわしま",
+   "pref": "佐賀県",
+   "area": "唐津市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "日本料理",
+   "norm": "日本料理会席かわしま",
+   "src": "saga.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "カレーのアキンボ",
+   "pref": "佐賀県",
+   "area": "佐賀市",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "カレー料理",
+   "norm": "カレーのアキンボ",
+   "src": "saga.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "モデスト",
+   "pref": "埼玉県",
+   "area": "松伏町",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "モデスト",
+   "src": "saitama.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "レストラン カム",
+   "pref": "埼玉県",
+   "area": "川口市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "レストランカム",
+   "src": "saitama.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "レストラン・サカキ",
+     "stations": "宝町、京橋、銀座一丁目",
+     "genre": "フレンチ、洋食、スイーツ"
+    }
+   ]
+  },
+  {
+   "name": "レストラン ソルト",
+   "pref": "埼玉県",
+   "area": "さいたま市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イノベーティブ",
+   "norm": "レストランソルト",
+   "src": "saitama.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "クチーナ サルヴェ",
+   "pref": "埼玉県",
+   "area": "秩父市",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "イタリア料理",
+   "norm": "クチーナサルヴェ",
+   "src": "saitama.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "湖里庵",
+   "pref": "滋賀県",
+   "area": "高島市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "湖里庵",
+   "src": "shiga.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "徳山鮓",
+   "pref": "滋賀県",
+   "area": "長浜市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "徳山鮓",
+   "src": "shiga.txt",
+   "status": "新規",
+   "pools": [
+    "award"
+   ]
+  },
+  {
+   "name": "比良山荘",
+   "pref": "滋賀県",
+   "area": "大津市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "比良山荘",
+   "src": "shiga.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "比良山荘",
+     "stations": "大津市その他",
+     "genre": "日本料理、オーベルジュ"
+    }
+   ]
+  },
+  {
+   "name": "炭火割烹 蔓ききょう",
+   "pref": "滋賀県",
+   "area": "大津市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "日本料理",
+   "norm": "炭火割烹蔓ききょう",
+   "src": "shiga.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "島根 美加登家",
+   "pref": "島根県",
+   "area": "津和野町",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "島根美加登家",
+   "src": "shimane.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ル レストラン ハラ オ ナチュレル",
+   "pref": "島根県",
+   "area": "松江市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ルレストランハラオナチュレル",
+   "src": "shimane.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "オマッジオ ダ コニシ",
+   "pref": "島根県",
+   "area": "松江市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "オマッジオダコニシ",
+   "src": "shimane.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "成生",
+   "pref": "静岡県",
+   "area": "静岡市",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "天ぷら",
+   "norm": "成生",
+   "src": "shizuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "茶懐石 温石",
+   "pref": "静岡県",
+   "area": "焼津市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "茶懐石温石",
+   "src": "shizuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "日本料理 FUJI",
+   "pref": "静岡県",
+   "area": "静岡市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "日本料理fuji",
+   "src": "shizuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "カワサキ",
+   "pref": "静岡県",
+   "area": "静岡市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "カワサキ",
+   "src": "shizuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "スミ",
+   "pref": "静岡県",
+   "area": "御殿場市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "スミ",
+   "src": "shizuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "馳走 西健一",
+   "pref": "静岡県",
+   "area": "焼津市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "馳走西健一",
+   "src": "shizuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "メゾンケイ",
+   "pref": "静岡県",
+   "area": "御殿場市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "メゾンケイ",
+   "src": "shizuoka.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "シンク",
+   "pref": "静岡県",
+   "area": "静岡市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "炭火料理",
+   "norm": "シンク",
+   "src": "shizuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "シンプルズ",
+   "pref": "静岡県",
+   "area": "静岡市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "西洋料理",
+   "norm": "シンプルズ",
+   "src": "shizuoka.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "なかむら",
+   "pref": "静岡県",
+   "area": "焼津市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "天ぷら",
+   "norm": "なかむら",
+   "src": "shizuoka.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "焼鳥なかむら",
+     "stations": "虎ノ門ヒルズ、虎ノ門、内幸町",
+     "genre": "焼き鳥"
+    },
+    {
+     "name": "梅むら",
+     "stations": "浅草（つくばＥＸＰ）、浅草（東武・都営・メトロ）、田原町",
+     "genre": "甘味処、かき氷、和菓子"
+    },
+    {
+     "name": "竹むら",
+     "stations": "淡路町、小川町、新御茶ノ水",
+     "genre": "甘味処、かき氷、和菓子"
+    }
+   ]
+  },
+  {
+   "name": "オトワレストラン",
+   "pref": "栃木県",
+   "area": "宇都宮市",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "フランス料理",
+   "norm": "オトワレストラン",
+   "src": "tochigi.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "天婦羅 まつむら",
+   "pref": "栃木県",
+   "area": "足利市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "天ぷら",
+   "norm": "天婦羅まつむら",
+   "src": "tochigi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "虎屋 壺中庵",
+   "pref": "徳島県",
+   "area": "佐那河内村",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "虎屋壺中庵",
+   "src": "tokushima.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ペルトナーレ",
+   "pref": "徳島県",
+   "area": "上勝町",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "ペルトナーレ",
+   "src": "tokushima.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ラームス",
+   "pref": "徳島県",
+   "area": "佐那河内村",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "ヨーロッパ料理",
+   "norm": "ラームス",
+   "src": "tokushima.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "ラトラス",
+     "stations": "神楽坂、牛込神楽坂、飯田橋",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "ラトリエあべ",
+   "pref": "徳島県",
+   "area": "美波町",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "フランス料理",
+   "norm": "ラトリエあべ",
+   "src": "tokushima.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "エッセ",
+   "pref": "徳島県",
+   "area": "徳島市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "エッセ",
+   "src": "tokushima.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "日本料理 龍吟",
+   "pref": "東京都",
+   "area": "千代田区",
+   "toque": "5トック",
+   "score": "19",
+   "genre": "日本料理",
+   "norm": "日本料理竜吟",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "日本料理 山崎",
+     "stations": "宝町、京橋、銀座一丁目",
+     "genre": "日本料理、うなぎ"
+    },
+    {
+     "name": "日本料理 太月",
+     "stations": "表参道、明治神宮前、渋谷",
+     "genre": "日本料理"
+    },
+    {
+     "name": "日本料理 久丹",
+     "stations": "新富町、築地、八丁堀",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "赤坂 松川",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "5トック",
+   "score": "19",
+   "genre": "日本料理",
+   "norm": "赤坂松川",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "赤坂味一",
+     "stations": "京成船橋、船橋、大神宮下",
+     "genre": "ラーメン"
+    },
+    {
+     "name": "赤坂珉珉",
+     "stations": "乃木坂、青山一丁目、赤坂",
+     "genre": "中華料理、餃子"
+    },
+    {
+     "name": "赤坂武蔵",
+     "stations": "赤坂、溜池山王、赤坂見附",
+     "genre": "豚しゃぶ、海鮮"
+    }
+   ]
+  },
+  {
+   "name": "日本料理 かんだ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "5トック",
+   "score": "19",
+   "genre": "日本料理",
+   "norm": "日本料理かんだ",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "かんだ",
+     "stations": "虎ノ門ヒルズ、神谷町、虎ノ門",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "エスキス",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "4トック",
+   "score": "18.5",
+   "genre": "フランス料理",
+   "norm": "エスキス",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "エスキス",
+     "stations": "銀座、有楽町、東銀座",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "カンテサンス",
+   "pref": "東京都",
+   "area": "品川区",
+   "toque": "4トック",
+   "score": "18.5",
+   "genre": "フランス料理",
+   "norm": "カンテサンス",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "michelin",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ジョエル・ロブション",
+   "pref": "東京都",
+   "area": "目黒区",
+   "toque": "4トック",
+   "score": "18.5",
+   "genre": "フランス料理",
+   "norm": "ジョエルロブション",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "ル カフェドゥ ジョエル・ロブション 日本橋高島屋店",
+     "stations": "日本橋、三越前、東京",
+     "genre": "カフェ、ケーキ、フレンチ"
+    },
+    {
+     "name": "ラ ブティック ドゥ ジョエル・ロブション 丸の内ブリックスクエア店",
+     "stations": "二重橋前、有楽町、日比谷",
+     "genre": "パン、ケーキ、カフェ"
+    }
+   ]
+  },
+  {
+   "name": "ロオジエ",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "4トック",
+   "score": "18.5",
+   "genre": "フランス料理",
+   "norm": "ロオジエ",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "ロオジエ",
+     "stations": "銀座、新橋、内幸町",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "虎白",
+   "pref": "東京都",
+   "area": "新宿区",
+   "toque": "4トック",
+   "score": "18.5",
+   "genre": "日本料理",
+   "norm": "虎白",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "虎白",
+     "stations": "飯田橋、牛込神楽坂、神楽坂",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "茶禅華",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "4トック",
+   "score": "18",
+   "genre": "中華料理",
+   "norm": "茶禅華",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "茶禅華",
+     "stations": "広尾、白金高輪、麻布十番",
+     "genre": "中華料理"
+    }
+   ]
+  },
+  {
+   "name": "日本橋蛎殻町 すぎた",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "4トック",
+   "score": "18",
+   "genre": "寿司",
+   "norm": "日本橋蛎殻町すぎた",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "セザン",
+   "pref": "東京都",
+   "area": "千代田区",
+   "toque": "4トック",
+   "score": "18",
+   "genre": "フランス料理",
+   "norm": "セザン",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "青空",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "4トック",
+   "score": "18",
+   "genre": "寿司",
+   "norm": "青空",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "青空",
+     "stations": "新橋、内幸町、銀座",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "神楽坂 石かわ",
+   "pref": "東京都",
+   "area": "新宿区",
+   "toque": "4トック",
+   "score": "17.5",
+   "genre": "日本料理",
+   "norm": "神楽坂石かわ",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "神楽坂 石かわ",
+     "stations": "牛込神楽坂、飯田橋、神楽坂",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "鮨 一幸",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "4トック",
+   "score": "17.5",
+   "genre": "寿司",
+   "norm": "鮨一幸",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "鮨 一幸",
+     "stations": "東銀座、銀座、築地市場",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "新ばし 星野",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "4トック",
+   "score": "17.5",
+   "genre": "日本料理",
+   "norm": "新ばし星野",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "新ばし 星野",
+     "stations": "御成門、汐留、新橋",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "まき村",
+   "pref": "東京都",
+   "area": "品川区",
+   "toque": "4トック",
+   "score": "17.5",
+   "genre": "日本料理",
+   "norm": "まき村",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "麻布 かどわき",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "日本料理",
+   "norm": "麻布かどわき",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "銀座 しのはら",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "日本料理",
+   "norm": "銀座しのはら",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "銀座 しのはら",
+     "stations": "銀座一丁目、銀座、東銀座",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "くろぎ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "日本料理",
+   "norm": "くろぎ",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "くろぎ",
+     "stations": "大門、御成門、浜松町",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "日本料理 晴山",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "日本料理",
+   "norm": "日本料理晴山",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "日本料理 晴山",
+     "stations": "田町、白金高輪、三田",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "銀座 すきやばし次郎 本店",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "寿司",
+   "norm": "銀座すきやばし次郎本店",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "フロリレージュ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "フランス料理",
+   "norm": "フロリレージュ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "レストラン ナベノ-イズム",
+   "pref": "東京都",
+   "area": "台東区",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "フランス料理",
+   "norm": "レストランナベノイズム",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "明寂",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "日本料理",
+   "norm": "明寂",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "明寂",
+     "stations": "六本木、乃木坂、麻布十番",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "レストラン リューズ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "フランス料理",
+   "norm": "レストランリューズ",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "レストラン リューズ",
+     "stations": "六本木、六本木一丁目、乃木坂",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "レフェルヴェソンス",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "フランス料理",
+   "norm": "レフェルヴェソンス",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "レフェルヴェソンス",
+     "stations": "表参道、乃木坂、広尾",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "アサヒナ ガストロノーム",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "フランス料理",
+   "norm": "アサヒナガストロノーム",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "アポテオーズ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "フランス料理",
+   "norm": "アポテオーズ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "マージ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "フランス料理",
+   "norm": "マージ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "レストラン ラフィナージュ",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "フランス料理",
+   "norm": "レストランラフィナージュ",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "レストラン ラフィナージュ",
+     "stations": "東銀座、銀座、銀座一丁目",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "レ セゾン",
+   "pref": "東京都",
+   "area": "千代田区",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "フランス料理",
+   "norm": "レセゾン",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "レ セゾン",
+     "stations": "日比谷、内幸町、有楽町",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "スリオラ",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "スペイン料理",
+   "norm": "スリオラ",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "スリオラ",
+     "stations": "銀座、東銀座、有楽町",
+     "genre": "スペイン料理"
+    }
+   ]
+  },
+  {
+   "name": "コバヤシ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "中華料理",
+   "norm": "コバヤシ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "日本料理 久丹",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "日本料理",
+   "norm": "日本料理久丹",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "日本料理 久丹",
+     "stations": "新富町、築地、八丁堀",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "宮坂",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "日本料理",
+   "norm": "宮坂",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "michelin",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "たきや",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "天ぷら",
+   "norm": "たきや",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "天ぷら 元吉",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "天ぷら",
+   "norm": "天ぷら元吉",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "天ぷら 逢坂",
+     "stations": "虎ノ門ヒルズ、虎ノ門、内幸町",
+     "genre": "天ぷら"
+    },
+    {
+     "name": "天ぷら浅沼",
+     "stations": "日本橋、茅場町、三越前",
+     "genre": "天ぷら"
+    }
+   ]
+  },
+  {
+   "name": "鮨 あらい",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "寿司",
+   "norm": "鮨あらい",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "鮨 あらい",
+     "stations": "東銀座、銀座、新橋",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "鮨 なんば",
+   "pref": "東京都",
+   "area": "千代田区",
+   "toque": "3トック",
+   "score": "16.5",
+   "genre": "寿司",
+   "norm": "鮨なんば",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "鮨 なんば 日比谷",
+     "stations": "日比谷、有楽町、銀座",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "アルシミスト",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "アルシミスト",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "エスト",
+   "pref": "東京都",
+   "area": "千代田区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "エスト",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "カルネジーオ ウエスト",
+     "stations": "大阪梅田（阪急）、梅田、中津（大阪メトロ）",
+     "genre": "ステーキ、イタリアン、ビストロ"
+    },
+    {
+     "name": "うなぎ四代目菊川 ヒルトンプラザウエスト大阪店",
+     "stations": "西梅田、北新地、大阪",
+     "genre": "うなぎ、日本料理"
+    },
+    {
+     "name": "ダイナミックキッチン＆バー 燦 ヒルトンプラザウエスト店",
+     "stations": "西梅田、北新地、大阪",
+     "genre": "居酒屋、海鮮、肉料理"
+    }
+   ]
+  },
+  {
+   "name": "エディション・コウジ シモムラ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "エディションコウジシモムラ",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "エディション・コウジ シモムラ",
+     "stations": "六本木一丁目、六本木、神谷町",
+     "genre": "フレンチ、イノベーティブ"
+    }
+   ]
+  },
+  {
+   "name": "Heritage by Kei Kobayashi",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "heritagebykeikobayashi",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "Héritage by Kei Kobayashi",
+     "stations": "六本木、乃木坂、六本木一丁目",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "オマージュ",
+   "pref": "東京都",
+   "area": "台東区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "オマージュ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "michelin",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "シェ・イノ",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "シェイノ",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "シェ・イノ",
+     "stations": "京橋、宝町、銀座一丁目",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "シンシア",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "シンシア",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "ワンモア",
+     "stations": "平井、東あずま",
+     "genre": "喫茶店、パンケーキ、カフェ"
+    }
+   ]
+  },
+  {
+   "name": "スィークル",
+   "pref": "東京都",
+   "area": "千代田区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "スィークル",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "ナオト ケイ",
+   "pref": "東京都",
+   "area": "千代田区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "ナオトケイ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "エステール by アラン・デュカス",
+   "pref": "東京都",
+   "area": "千代田区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "エステールbyアランデュカス",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "フランス料理 エステール by アラン・デュカス",
+     "stations": "大手町、二重橋前、東京",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "ル スプートニク",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "ルスプートニク",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "レストラン ローブ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "レストランローブ",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "レストランエール",
+     "stations": "銀座、東銀座、有楽町",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "レテール",
+   "pref": "東京都",
+   "area": "新宿区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "レテール",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "レオーネ",
+     "stations": "大江橋、北新地、淀屋橋",
+     "genre": "イノベーティブ、イタリアン、ヨーロッパ料理"
+    },
+    {
+     "name": "ピエール",
+     "stations": "大阪梅田（阪急）、中津（阪急）、大阪",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "レラン",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "フランス料理",
+   "norm": "レラン",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "アカ",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "スペイン料理",
+   "norm": "アカ",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "アカ",
+     "stations": "三越前、新日本橋、日本橋",
+     "genre": "スペイン料理"
+    }
+   ]
+  },
+  {
+   "name": "クローニー",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "イノベーティブ",
+   "norm": "クローニー",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "NARISAWA",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "イノベーティブ",
+   "norm": "narisawa",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "NARISAWA",
+     "stations": "青山一丁目、外苑前、乃木坂",
+     "genre": "イノベーティブ"
+    }
+   ]
+  },
+  {
+   "name": "マス",
+   "pref": "東京都",
+   "area": "千代田区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "イノベーティブ",
+   "norm": "マス",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "慈華",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "中華料理",
+   "norm": "慈華",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin",
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "の弥七",
+   "pref": "東京都",
+   "area": "新宿区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "中華料理",
+   "norm": "の弥七",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin",
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "飄香",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "中華料理",
+   "norm": "飄香",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "日本料理 炎水",
+   "pref": "東京都",
+   "area": "目黒区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "日本料理炎水",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "日本料理 山崎",
+     "stations": "宝町、京橋、銀座一丁目",
+     "genre": "日本料理、うなぎ"
+    },
+    {
+     "name": "日本料理 太月",
+     "stations": "表参道、明治神宮前、渋谷",
+     "genre": "日本料理"
+    },
+    {
+     "name": "日本料理 久丹",
+     "stations": "新富町、築地、八丁堀",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "乃木坂 しん",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "乃木坂しん",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "野田",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "野田",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "伯雲",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "伯雲",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "伯雲",
+     "stations": "外苑前、表参道、乃木坂",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "天てんぷら うち津",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "天ぷら",
+   "norm": "天てんぷらうち津",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "てんぷら近藤",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "天ぷら",
+   "norm": "てんぷら近藤",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "てんぷら 近藤",
+     "stations": "銀座、東銀座、有楽町",
+     "genre": "天ぷら"
+    }
+   ]
+  },
+  {
+   "name": "日本橋 蕎ノ字",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "天ぷら",
+   "norm": "日本橋蕎ノ字",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "michelin",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "いちかわ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "寿司",
+   "norm": "いちかわ",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "いちかわ",
+     "stations": "白金高輪、麻布十番、赤羽橋",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "くろ﨑",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "寿司",
+   "norm": "くろ崎",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "くろ﨑",
+     "stations": "表参道、外苑前、乃木坂",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "鮨 あお",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "寿司",
+   "norm": "鮨あお",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "鮨しゅんじ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "寿司",
+   "norm": "鮨しゅんじ",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "鮨しゅんじ",
+     "stations": "麻布十番、六本木、広尾",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "鮨 みずかみ",
+   "pref": "東京都",
+   "area": "千代田区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "寿司",
+   "norm": "鮨みずかみ",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "鮨 みずかみ",
+     "stations": "半蔵門、麹町、市ケ谷",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "波濤",
+   "pref": "東京都",
+   "area": "新宿区",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "寿司",
+   "norm": "波濤",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "波濤",
+     "stations": "牛込神楽坂、神楽坂、飯田橋",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "アビス",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "アビス",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "アピシウス",
+   "pref": "東京都",
+   "area": "千代田区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "アピシウス",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "アピシウス",
+     "stations": "日比谷、有楽町、銀座",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "アマラントス",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "アマラントス",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "銀座レカン",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "銀座レカン",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "銀座 レカン",
+     "stations": "銀座、東銀座、銀座一丁目",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "サンプリシテ",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "サンプリシテ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "ジョンティ・アッシュ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "ジョンティアッシュ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "Takumi",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "takumi",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "Takumi",
+     "stations": "乃木坂、六本木、広尾",
+     "genre": "フレンチ、イノベーティブ"
+    }
+   ]
+  },
+  {
+   "name": "トワヴィサージュ",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "トワヴィサージュ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "ノル",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "ノル",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "プレーガ トウキョウ",
+   "pref": "東京都",
+   "area": "千代田区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "プレーガトウキョウ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "メティス 六本木",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "メティス六本木",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "モノリス",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "モノリス",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ラ グロワ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "ラグロワ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "ラチュレ",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "ラチュレ",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "ラチュレ",
+     "stations": "表参道、渋谷、明治神宮前",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "ラペ",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "ラペ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "La Maison Confortable",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "lamaisonconfortable",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ラルジャン",
+   "pref": "東京都",
+   "area": "千代田区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "ラルジャン",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "ラルジャン",
+     "stations": "虎ノ門、虎ノ門ヒルズ、国会議事堂前",
+     "genre": "フレンチ、イノベーティブ"
+    }
+   ]
+  },
+  {
+   "name": "ラルブル",
+   "pref": "東京都",
+   "area": "あきる野市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "ラルブル",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "レクレルール",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "レクレルール",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "シアモ ノイ",
+   "pref": "東京都",
+   "area": "目黒区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "シアモノイ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "タクボ",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "タクボ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "プリモ パッソ",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "プリモパッソ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "リストランテ ホンダ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "リストランテホンダ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ア・ニュ Shohei Shimono",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フュージョン",
+   "norm": "アニュshoheishimono",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "シノワ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "中華料理",
+   "norm": "シノワ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "4000 Chinese Restaurant",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "中華料理",
+   "norm": "4000chineserestaurant",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "4000 Chinese Restaurant",
+     "stations": "広尾、表参道",
+     "genre": "四川料理"
+    }
+   ]
+  },
+  {
+   "name": "赤坂 おぎ乃",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "赤坂おぎ乃",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "赤坂おぎ乃",
+     "stations": "赤坂、溜池山王、赤坂見附",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "川田",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "川田",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "氣分",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "氣分",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "てんぷら 深町",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "天ぷら",
+   "norm": "てんぷら深町",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "てんぷら 深町",
+     "stations": "京橋、宝町、銀座一丁目",
+     "genre": "天ぷら"
+    }
+   ]
+  },
+  {
+   "name": "すが弥",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "すが弥",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "鮨 すが弥",
+     "stations": "赤羽橋、麻布十番、芝公園",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "鮨 たかはし",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "鮨たかはし",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "鮨処 やまと",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "鮨処やまと",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "michelin",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "鮨 ゆうき",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "寿司",
+   "norm": "鮨ゆうき",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "鮨 ゆうき",
+     "stations": "広尾、恵比寿",
+     "genre": "寿司"
+    }
+   ]
+  },
+  {
+   "name": "アルゴリズム",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "アルゴリズム",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "アルゴリズム",
+     "stations": "白金台、白金高輪、広尾",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "イドル",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "イドル",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "クラフタル",
+   "pref": "東京都",
+   "area": "目黒区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "クラフタル",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "啓蟄",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "啓蟄",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "コウタロウ ハセガワ ダウンタウン キュイジーヌ",
+   "pref": "東京都",
+   "area": "台東区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "コウタロウハセガワダウンタウンキュイジーヌ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "シュヴァル",
+   "pref": "東京都",
+   "area": "中央区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "シュヴァル",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ジェフリー",
+   "pref": "東京都",
+   "area": "新宿区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ジェフリー",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "ネモ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ネモ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "白寧",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "白寧",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "モナリザ 丸の内店",
+   "pref": "東京都",
+   "area": "千代田区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "モナリザ丸の内店",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ル・ブルギニオン",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ルブルギニオン",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "レストラン ラリューム",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "レストランラリューム",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "レストラン リューズ",
+     "stations": "六本木、六本木一丁目、乃木坂",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "ロー",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "ロー",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "イル ラート",
+   "pref": "東京都",
+   "area": "新宿区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "イルラート",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "オガサワラ レストラン",
+   "pref": "東京都",
+   "area": "新宿区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "オガサワラレストラン",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "コンヴィヴィオ",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "コンヴィヴィオ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ジンボ ミナミアオヤマ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "ジンボミナミアオヤマ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "ボッテガ",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "ボッテガ",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "ビッテ",
+     "stations": "溜池山王、永田町、国会議事堂前",
+     "genre": "ドイツ料理、ビアホール、ダイニングバー"
+    }
+   ]
+  },
+  {
+   "name": "ミソラ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "ミソラ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "メラキ",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イタリア料理",
+   "norm": "メラキ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "エマン",
+   "pref": "東京都",
+   "area": "江東区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "スペイン料理",
+   "norm": "エマン",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "ジュリア",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イノベーティブ",
+   "norm": "ジュリア",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "カメリア",
+     "stations": "東京、二重橋前、京橋",
+     "genre": "カフェ、バー"
+    }
+   ]
+  },
+  {
+   "name": "セララバアド",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イノベーティブ",
+   "norm": "セララバアド",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "アンディ",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "モダンベトナミーズ",
+   "norm": "アンディ",
+   "src": "tokyo.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "ガンディー",
+     "stations": "京成船橋、船橋、大神宮下",
+     "genre": "インド料理、インドカレー"
+    }
+   ]
+  },
+  {
+   "name": "KHAO",
+   "pref": "東京都",
+   "area": "千代田区",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "タイ料理",
+   "norm": "khao",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "KHAO",
+     "stations": "神保町、九段下、竹橋",
+     "genre": "タイ料理"
+    }
+   ]
+  },
+  {
+   "name": "南方中華料理 南三",
+   "pref": "東京都",
+   "area": "新宿区",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "中華料理",
+   "norm": "南方中華料理南三",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "龍圓",
+   "pref": "東京都",
+   "area": "台東区",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "中華料理",
+   "norm": "竜圓",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "江戸前 芝浜",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "日本料理",
+   "norm": "江戸前芝浜",
+   "src": "tokyo.txt",
+   "status": "既存",
+   "saved": [
+    {
+     "name": "江戸前芝浜",
+     "stations": "芝公園、三田、田町",
+     "genre": "日本料理"
+    }
+   ]
+  },
+  {
+   "name": "エンメ",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "フランス料理",
+   "norm": "エンメ",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "蓮香",
+   "pref": "東京都",
+   "area": "港区",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "中華料理",
+   "norm": "蓮香",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "hyaku2026"
+   ]
+  },
+  {
+   "name": "ナイトマーケット",
+   "pref": "東京都",
+   "area": "渋谷区",
+   "toque": "POP",
+   "score": "-",
+   "genre": "東南アジア料理",
+   "norm": "ナイトマーケット",
+   "src": "tokyo.txt",
+   "status": "新規",
+   "pools": [
+    "michelin"
+   ]
+  },
+  {
+   "name": "かに吉",
+   "pref": "鳥取県",
+   "area": "鳥取市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "蟹料理",
+   "norm": "かに吉",
+   "src": "tottori.txt",
+   "status": "新規",
+   "pools": [
+    "award"
+   ]
+  },
+  {
+   "name": "みつき",
+   "pref": "鳥取県",
+   "area": "鳥取市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "みつき",
+   "src": "tottori.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ファロ トラットリア",
+   "pref": "鳥取県",
+   "area": "鳥取市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "ファロトラットリア",
+   "src": "tottori.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "酒菜 桔梗屋",
+   "pref": "鳥取県",
+   "area": "米子市",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "日本料理",
+   "norm": "酒菜桔梗屋",
+   "src": "tottori.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "レヴォ",
+   "pref": "富山県",
+   "area": "南砺市",
+   "toque": "4トック",
+   "score": "18",
+   "genre": "フランス料理",
+   "norm": "レヴォ",
+   "src": "toyama.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "御料理 ふじ居",
+   "pref": "富山県",
+   "area": "富山市",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "日本料理",
+   "norm": "御料理ふじ居",
+   "src": "toyama.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "海老亭別館",
+   "pref": "富山県",
+   "area": "富山市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "海老亭別館",
+   "src": "toyama.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "鮨 大門",
+   "pref": "富山県",
+   "area": "魚津市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "寿司",
+   "norm": "鮨大門",
+   "src": "toyama.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "成希",
+   "pref": "富山県",
+   "area": "氷見市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "寿司",
+   "norm": "成希",
+   "src": "toyama.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "カーヴ・ユノキ",
+   "pref": "富山県",
+   "area": "富山市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "カーヴユノキ",
+   "src": "toyama.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "シンポジウム",
+   "pref": "富山県",
+   "area": "富山市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "シンポジウム",
+   "src": "toyama.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ひまわり食堂 2",
+   "pref": "富山県",
+   "area": "富山市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "イタリア料理",
+   "norm": "ひまわり食堂2",
+   "src": "toyama.txt",
+   "status": "新規",
+   "pools": [
+    "award"
+   ]
+  },
+  {
+   "name": "冨久屋",
+   "pref": "富山県",
+   "area": "富山市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "日本料理",
+   "norm": "冨久屋",
+   "src": "toyama.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "ヴィラ アイーダ",
+   "pref": "和歌山県",
+   "area": "岩出市",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "ガーデンガストロノミー",
+   "norm": "ヴィラアイーダ",
+   "src": "wakayama.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "オテル・ド・ヨシノ",
+   "pref": "和歌山県",
+   "area": "和歌山市",
+   "toque": "3トック",
+   "score": "15.5",
+   "genre": "フランス料理",
+   "norm": "オテルドヨシノ",
+   "src": "wakayama.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "アダージョ",
+   "pref": "和歌山県",
+   "area": "和歌山市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イノベーティブ",
+   "norm": "アダージョ",
+   "src": "wakayama.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "スタンザ デッラ シンチェリータ",
+   "pref": "山形県",
+   "area": "南陽市",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "イノベーティブ",
+   "norm": "スタンザデッラシンチェリータ",
+   "src": "yamagata.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "出羽屋",
+   "pref": "山形県",
+   "area": "西川町",
+   "toque": "3トック",
+   "score": "16",
+   "genre": "日本料理",
+   "norm": "出羽屋",
+   "src": "yamagata.txt",
+   "status": "新規",
+   "pools": [
+    "award"
+   ]
+  },
+  {
+   "name": "クレド",
+   "pref": "山形県",
+   "area": "山形市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "クレド",
+   "src": "yamagata.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "レストラン パ・マル",
+   "pref": "山形県",
+   "area": "山形市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "フランス料理",
+   "norm": "レストランパマル",
+   "src": "yamagata.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "レストランエール",
+     "stations": "銀座、東銀座、有楽町",
+     "genre": "フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "アル・ケッチァーノ",
+   "pref": "山形県",
+   "area": "鶴岡市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "イタリア料理",
+   "norm": "アルケッチァーノ",
+   "src": "yamagata.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "イル・コテキーノ",
+   "pref": "山形県",
+   "area": "山形市",
+   "toque": "2トック",
+   "score": "14",
+   "genre": "イタリア料理",
+   "norm": "イルコテキーノ",
+   "src": "yamagata.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "レストラン高津",
+   "pref": "山口県",
+   "area": "下関市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イノベーティブ",
+   "norm": "レストラン高津",
+   "src": "yamaguchi.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "エヌ トロワ",
+   "pref": "山口県",
+   "area": "宇部市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "フランス料理",
+   "norm": "エヌトロワ",
+   "src": "yamaguchi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ツシミ",
+   "pref": "山梨県",
+   "area": "韮崎市",
+   "toque": "4トック",
+   "score": "17",
+   "genre": "フランス料理",
+   "norm": "ツシミ",
+   "src": "yamanashi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "ノウトリ",
+   "pref": "山梨県",
+   "area": "忍野村",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "富士北麗キュイジーヌ",
+   "norm": "ノウトリ",
+   "src": "yamanashi.txt",
+   "status": "新規",
+   "pools": []
+  },
+  {
+   "name": "Restaurant SAI 燊",
+   "pref": "山梨県",
+   "area": "富士河口湖町",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "ガストロノミー／奥・山梨料理",
+   "norm": "restaurantsai燊",
+   "src": "yamanashi.txt",
+   "status": "要確認",
+   "reason": "店名が類似する保存店あり",
+   "saved": [
+    {
+     "name": "RESTAURANT SALT",
+     "stations": "浦和、中浦和",
+     "genre": "イノベーティブ、フレンチ"
+    }
+   ]
+  },
+  {
+   "name": "Terroir 愛と胃袋",
+   "pref": "山梨県",
+   "area": "北杜市",
+   "toque": "3トック",
+   "score": "15",
+   "genre": "イノベーティブ",
+   "norm": "terroir愛と胃袋",
+   "src": "yamanashi.txt",
+   "status": "新規",
+   "pools": [
+    "award",
+    "hyakuolder"
+   ]
+  },
+  {
+   "name": "キュイエット",
+   "pref": "山梨県",
+   "area": "韮崎市",
+   "toque": "2トック",
+   "score": "14.5",
+   "genre": "フランス料理",
+   "norm": "キュイエット",
+   "src": "yamanashi.txt",
+   "status": "新規",
+   "pools": [
+    "hyakuolder"
+   ]
+  }
+ ],
+ "dups": []
+}

@@ -1,0 +1,9351 @@
+[
+ {
+  "name": "一子相伝 なかむら",
+  "kubun": "3つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "一子相伝なかむら",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "祇園 さゝ木",
+  "kubun": "3つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "祇園ささ木",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "菊乃井 本店",
+  "kubun": "3つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "菊乃井本店",
+  "city": "京都",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1201,
+    "section": "main",
+    "name": "菊乃井 本店",
+    "stations": "東山、祇園四条、蹴上",
+    "genre": "日本料理",
+    "rating": "4.11",
+    "norm": "菊乃井本店"
+   }
+  ]
+ },
+ {
+  "name": "未在",
+  "kubun": "3つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "未在",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "美山荘",
+  "kubun": "3つ星",
+  "area": "京都市左京区",
+  "genre": "日本料理",
+  "norm": "美山荘",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 553,
+    "section": "main",
+    "name": "美会",
+    "stations": "乃木坂、六本木、青山一丁目",
+    "genre": "イノベーティブ、日本料理、タイ料理",
+    "rating": "4.37",
+    "norm": "美会"
+   },
+   {
+    "no": 567,
+    "section": "main",
+    "name": "山﨑",
+    "stations": "乃木坂、六本木、表参道",
+    "genre": "日本料理、海鮮",
+    "rating": "4.42",
+    "norm": "山崎"
+   },
+   {
+    "no": 1033,
+    "section": "main",
+    "name": "比良山荘",
+    "stations": "大津市その他",
+    "genre": "日本料理、オーベルジュ",
+    "rating": "4.47",
+    "norm": "比良山荘"
+   }
+  ]
+ },
+ {
+  "name": "瓢亭",
+  "kubun": "3つ星",
+  "area": "京都市左京区",
+  "genre": "日本料理",
+  "norm": "瓢亭",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 800,
+    "section": "main",
+    "name": "南禅寺 瓢亭 日比谷店",
+    "stations": "日比谷、有楽町、銀座",
+    "genre": "日本料理",
+    "rating": "3.57",
+    "norm": "南禅寺瓢亭日比谷店"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   }
+  ]
+ },
+ {
+  "name": "室町 唯",
+  "kubun": "2つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "室町唯",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "建仁寺 祇園 丸山",
+  "kubun": "2つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "建仁寺祇園丸山",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "祇園 丸山",
+  "kubun": "2つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "祇園丸山",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1238,
+    "section": "main",
+    "name": "祇園 にし",
+    "stations": "祇園四条、京都河原町、東山",
+    "genre": "日本料理",
+    "rating": "4.17",
+    "norm": "祇園にし"
+   }
+  ]
+ },
+ {
+  "name": "祇園 又吉",
+  "kubun": "2つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "祇園又吉",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1238,
+    "section": "main",
+    "name": "祇園 にし",
+    "stations": "祇園四条、京都河原町、東山",
+    "genre": "日本料理",
+    "rating": "4.17",
+    "norm": "祇園にし"
+   }
+  ]
+ },
+ {
+  "name": "炭火割烹 いふき",
+  "kubun": "2つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "炭火割烹いふき",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "凌霄",
+  "kubun": "2つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "凌霄",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "祇園 にしかわ",
+  "kubun": "2つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "祇園にしかわ",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1238,
+    "section": "main",
+    "name": "祇園 にし",
+    "stations": "祇園四条、京都河原町、東山",
+    "genre": "日本料理",
+    "rating": "4.17",
+    "norm": "祇園にし"
+   }
+  ]
+ },
+ {
+  "name": "高台寺 和久傳",
+  "kubun": "2つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "高台寺和久傳",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "山荘 京大和",
+  "kubun": "2つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "山荘京大和",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "高台寺 十牛庵",
+  "kubun": "2つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "高台寺十牛庵",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "東山 吉寿",
+  "kubun": "2つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "東山吉寿",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "京懐石 吉泉",
+  "kubun": "2つ星",
+  "area": "京都市左京区",
+  "genre": "日本料理",
+  "norm": "京懐石吉泉",
+  "city": "京都",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1239,
+    "section": "main",
+    "name": "京懐石 吉泉",
+    "stations": "出町柳、元田中",
+    "genre": "日本料理",
+    "rating": "3.88",
+    "norm": "京懐石吉泉"
+   }
+  ]
+ },
+ {
+  "name": "草喰 なかひがし",
+  "kubun": "2つ星",
+  "area": "京都市左京区",
+  "genre": "日本料理",
+  "norm": "草喰なかひがし",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "菊乃井 露庵",
+  "kubun": "2つ星",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "菊乃井露庵",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1201,
+    "section": "main",
+    "name": "菊乃井 本店",
+    "stations": "東山、祇園四条、蹴上",
+    "genre": "日本料理",
+    "rating": "4.11",
+    "norm": "菊乃井本店"
+   }
+  ]
+ },
+ {
+  "name": "緒方",
+  "kubun": "2つ星",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "緒方",
+  "city": "京都",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1237,
+    "section": "main",
+    "name": "緒方",
+    "stations": "四条（京都市営）、烏丸、大宮",
+    "genre": "日本料理",
+    "rating": "4.53",
+    "norm": "緒方"
+   }
+  ]
+ },
+ {
+  "name": "有職料理 萬亀楼",
+  "kubun": "2つ星",
+  "area": "京都市上京区",
+  "genre": "日本料理",
+  "norm": "有職料理萬亀楼",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "徳ハ本也",
+  "kubun": "2つ星",
+  "area": "京都市上京区",
+  "genre": "日本料理",
+  "norm": "徳ハ本也",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "おたぎ",
+  "kubun": "2つ星",
+  "area": "京都市北区",
+  "genre": "日本料理",
+  "norm": "おたぎ",
+  "city": "京都",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1207,
+    "section": "main",
+    "name": "おたぎ",
+    "stations": "北大路、北野白梅町、等持院・立命館大学衣笠キャンパス前",
+    "genre": "日本料理",
+    "rating": "3.93",
+    "norm": "おたぎ"
+   }
+  ]
+ },
+ {
+  "name": "獨歩",
+  "kubun": "2つ星",
+  "area": "京都市北区",
+  "genre": "日本料理",
+  "norm": "獨歩",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "即今 藤本",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "即今藤本",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "辻布紗",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "辻布紗",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "中満",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "中満",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 702,
+    "section": "main",
+    "name": "中里",
+    "stations": "駒込、巣鴨",
+    "genre": "和菓子",
+    "rating": "3.68",
+    "norm": "中里"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   }
+  ]
+ },
+ {
+  "name": "実伶",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "実伶",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "京料理 藤本",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "京料理藤本",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1087,
+    "section": "main",
+    "name": "お料理 宮本",
+    "stations": "大阪天満宮、南森町、扇町",
+    "genre": "日本料理",
+    "rating": "3.87",
+    "norm": "お料理宮本"
+   }
+  ]
+ },
+ {
+  "name": "二條 みなみ",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "二條みなみ",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1276,
+    "section": "main",
+    "name": "焼鳥みなみ",
+    "stations": "北新地、大江橋、渡辺橋",
+    "genre": "焼き鳥、鳥料理",
+    "rating": "3.71",
+    "norm": "焼鳥みなみ"
+   }
+  ]
+ },
+ {
+  "name": "宮脇",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "宮脇",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "二条城 ふる田",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "二条城ふる田",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "室町 和久傳",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "室町和久傳",
+  "city": "京都",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1242,
+    "section": "main",
+    "name": "室町 和久傳",
+    "stations": "烏丸御池、京都市役所前、烏丸",
+    "genre": "日本料理、かに",
+    "rating": "4.15",
+    "norm": "室町和久傳"
+   }
+  ]
+ },
+ {
+  "name": "研覃 ほりべ",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "研覃ほりべ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "御所 岩さき",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "御所岩さき",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "御幸町 田がわ",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "御幸町田がわ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "おが和",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "おが和",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 155,
+    "section": "main",
+    "name": "おけ以",
+    "stations": "飯田橋、九段下、牛込神楽坂",
+    "genre": "餃子、中華料理",
+    "rating": "3.55",
+    "norm": "おけ以"
+   },
+   {
+    "no": 989,
+    "section": "main",
+    "name": "三和",
+    "stations": "白金台、目黒、高輪台",
+    "genre": "イタリアン、ステーキ、バル",
+    "rating": "4.48",
+    "norm": "三和"
+   },
+   {
+    "no": 1207,
+    "section": "main",
+    "name": "おたぎ",
+    "stations": "北大路、北野白梅町、等持院・立命館大学衣笠キャンパス前",
+    "genre": "日本料理",
+    "rating": "3.93",
+    "norm": "おたぎ"
+   }
+  ]
+ },
+ {
+  "name": "要庵 西富家",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "要庵西富家",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "木山",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "木山",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "魚津屋",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "魚津屋",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 591,
+    "section": "main",
+    "name": "島津",
+    "stations": "白金高輪、泉岳寺、白金台",
+    "genre": "寿司",
+    "rating": "4.56",
+    "norm": "島津"
+   },
+   {
+    "no": 641,
+    "section": "main",
+    "name": "石田屋",
+    "stations": "上板橋",
+    "genre": "和菓子、ケーキ、どら焼き",
+    "rating": "3.70",
+    "norm": "石田屋"
+   },
+   {
+    "no": 642,
+    "section": "main",
+    "name": "千葉屋",
+    "stations": "浅草（つくばＥＸＰ）、浅草（東武・都営・メトロ）、田原町",
+    "genre": "焼き芋・大学芋、和菓子、スイーツ",
+    "rating": "3.79",
+    "norm": "千葉屋"
+   },
+   {
+    "no": 660,
+    "section": "main",
+    "name": "一元屋",
+    "stations": "半蔵門、麹町、永田町",
+    "genre": "和菓子",
+    "rating": "3.71",
+    "norm": "一元屋"
+   }
+  ]
+ },
+ {
+  "name": "ひがしやま 司",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "ひがしやま司",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "宮川町 ほった",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "宮川町ほった",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "鮨 割烹 なか一",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "鮨割烹なか一",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "祇園 おかだ",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "祇園おかだ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "のぐち 継",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "のぐち継",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "割烹 八寸",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "割烹八寸",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 565,
+    "section": "main",
+    "name": "割烹 室井",
+    "stations": "乃木坂、表参道、外苑前",
+    "genre": "日本料理",
+    "rating": "4.20",
+    "norm": "割烹室井"
+   }
+  ]
+ },
+ {
+  "name": "御料理 味舌",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "御料理味舌",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1204,
+    "section": "main",
+    "name": "御料理 光安",
+    "stations": "二条、二条城前",
+    "genre": "日本料理",
+    "rating": "3.89",
+    "norm": "御料理光安"
+   },
+   {
+    "no": 1205,
+    "section": "main",
+    "name": "御料理 樋渡",
+    "stations": "丸太町（京都市営）、烏丸御池、京都市役所前",
+    "genre": "日本料理",
+    "rating": "3.95",
+    "norm": "御料理樋渡"
+   }
+  ]
+ },
+ {
+  "name": "水の",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "水の",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "ぎをん 福志",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "ぎをん福志",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "HANA 吉兆",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "hana吉兆",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "佳肴 岡もと",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "佳肴岡もと",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "祇園 大渡",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "祇園大渡",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1238,
+    "section": "main",
+    "name": "祇園 にし",
+    "stations": "祇園四条、京都河原町、東山",
+    "genre": "日本料理",
+    "rating": "4.17",
+    "norm": "祇園にし"
+   }
+  ]
+ },
+ {
+  "name": "祇園 きだ",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "祇園きだ",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1238,
+    "section": "main",
+    "name": "祇園 にし",
+    "stations": "祇園四条、京都河原町、東山",
+    "genre": "日本料理",
+    "rating": "4.17",
+    "norm": "祇園にし"
+   }
+  ]
+ },
+ {
+  "name": "東山 緒方",
+  "kubun": "1つ星",
+  "area": "京都市左京区",
+  "genre": "日本料理",
+  "norm": "東山緒方",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1237,
+    "section": "main",
+    "name": "緒方",
+    "stations": "四条（京都市営）、烏丸、大宮",
+    "genre": "日本料理",
+    "rating": "4.53",
+    "norm": "緒方"
+   }
+  ]
+ },
+ {
+  "name": "研野",
+  "kubun": "1つ星",
+  "area": "京都市左京区",
+  "genre": "日本料理",
+  "norm": "研野",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 667,
+    "section": "main",
+    "name": "塩野",
+    "stations": "赤坂、溜池山王、赤坂見附",
+    "genre": "和菓子、どら焼き",
+    "rating": "3.75",
+    "norm": "塩野"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   }
+  ]
+ },
+ {
+  "name": "萬寿寺はくらん",
+  "kubun": "1つ星",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "萬寿寺はくらん",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "よこい",
+  "kubun": "1つ星",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "よこい",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 651,
+    "section": "main",
+    "name": "い志い",
+    "stations": "柴又、新柴又",
+    "genre": "和菓子、洋菓子、どら焼き",
+    "rating": "3.73",
+    "norm": "い志い"
+   }
+  ]
+ },
+ {
+  "name": "料理屋 まえかわ",
+  "kubun": "1つ星",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "料理屋まえかわ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ごだん 宮ざわ",
+  "kubun": "1つ星",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "ごだん宮ざわ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "綾小路 唐津",
+  "kubun": "1つ星",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "綾小路唐津",
+  "city": "京都",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1210,
+    "section": "main",
+    "name": "綾小路 唐津",
+    "stations": "四条（京都市営）、烏丸、大宮",
+    "genre": "日本料理",
+    "rating": "3.80",
+    "norm": "綾小路唐津"
+   }
+  ]
+ },
+ {
+  "name": "和ごころ 泉",
+  "kubun": "1つ星",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "和ごころ泉",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "杦 SEN",
+  "kubun": "1つ星",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "杦sen",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "京料理 木乃婦",
+  "kubun": "1つ星",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "京料理木乃婦",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "弧玖",
+  "kubun": "1つ星",
+  "area": "京都市上京区",
+  "genre": "日本料理",
+  "norm": "弧玖",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1079,
+    "section": "main",
+    "name": "弧柳",
+    "stations": "北浜、堺筋本町、天満橋",
+    "genre": "日本料理",
+    "rating": "3.84",
+    "norm": "弧柳"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   }
+  ]
+ },
+ {
+  "name": "嵯峨 おきな",
+  "kubun": "1つ星",
+  "area": "京都市右京区",
+  "genre": "日本料理",
+  "norm": "嵯峨おきな",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ムベ",
+  "kubun": "1つ星",
+  "area": "京都市北区",
+  "genre": "日本料理",
+  "norm": "ムベ",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1200,
+    "section": "main",
+    "name": "ラ・ベ",
+    "stations": "西梅田、北新地、福島（阪神）",
+    "genre": "フレンチ",
+    "rating": "4.04",
+    "norm": "ラベ"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   }
+  ]
+ },
+ {
+  "name": "陶然亭",
+  "kubun": "1つ星",
+  "area": "京都市北区",
+  "genre": "日本料理",
+  "norm": "陶然亭",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 260,
+    "section": "main",
+    "name": "煉瓦亭",
+    "stations": "銀座、銀座一丁目、有楽町",
+    "genre": "洋食、オムライス、肉料理",
+    "rating": "3.49",
+    "norm": "煉瓦亭"
+   },
+   {
+    "no": 470,
+    "section": "main",
+    "name": "本石亭",
+    "stations": "新日本橋、神田、三越前",
+    "genre": "カレー、バー、インドカレー",
+    "rating": "3.81",
+    "norm": "本石亭"
+   },
+   {
+    "no": 1061,
+    "section": "main",
+    "name": "空蝉亭",
+    "stations": "二条城前",
+    "genre": "とんかつ、洋食、居酒屋",
+    "rating": "3.75",
+    "norm": "空蝉亭"
+   },
+   {
+    "no": 1064,
+    "section": "main",
+    "name": "とん亭",
+    "stations": "寺田町、天王寺、大阪阿部野橋",
+    "genre": "とんかつ、コロッケ",
+    "rating": "3.55",
+    "norm": "とん亭"
+   }
+  ]
+ },
+ {
+  "name": "朝食 喜心",
+  "kubun": "ビブグルマン",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "朝食喜心",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "菊乃井 無碍山房",
+  "kubun": "ビブグルマン",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "菊乃井無碍山房",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "丹",
+  "kubun": "ビブグルマン",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "丹",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 520,
+    "section": "main",
+    "name": "日本料理 久丹",
+    "stations": "新富町、築地、八丁堀",
+    "genre": "日本料理",
+    "rating": "4.01",
+    "norm": "日本料理久丹"
+   },
+   {
+    "no": 551,
+    "section": "main",
+    "name": "隼",
+    "stations": "六本木、六本木一丁目、乃木坂",
+    "genre": "中華料理、イノベーティブ",
+    "rating": "4.50",
+    "norm": "隼"
+   },
+   {
+    "no": 1115,
+    "section": "main",
+    "name": "蒼",
+    "stations": "六本木、乃木坂、広尾",
+    "genre": "イノベーティブ、フレンチ",
+    "rating": "4.65",
+    "norm": "蒼"
+   },
+   {
+    "no": 1305,
+    "section": "main",
+    "name": "樽",
+    "stations": "大江橋、北新地、東梅田",
+    "genre": "バー",
+    "rating": "3.05",
+    "norm": "樽"
+   }
+  ]
+ },
+ {
+  "name": "和食 晴ル",
+  "kubun": "ビブグルマン",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "和食晴ル",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "りょうりや 御旅屋",
+  "kubun": "ビブグルマン",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "りょうりや御旅屋",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "一献 うえ原",
+  "kubun": "ビブグルマン",
+  "area": "京都市北区",
+  "genre": "日本料理",
+  "norm": "一献うえ原",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "紫竹 葵湖",
+  "kubun": "ビブグルマン",
+  "area": "京都市北区",
+  "genre": "日本料理",
+  "norm": "紫竹葵湖",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "りょうりや〇",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "りょうりや〇",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "割烹 市川",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "割烹市川",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 565,
+    "section": "main",
+    "name": "割烹 室井",
+    "stations": "乃木坂、表参道、外苑前",
+    "genre": "日本料理",
+    "rating": "4.20",
+    "norm": "割烹室井"
+   }
+  ]
+ },
+ {
+  "name": "押小路 岡田",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "押小路岡田",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "馳走 あい田",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "馳走あい田",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "蛸薬師 ふるかわ",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "蛸薬師ふるかわ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "料 かわしま",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "料かわしま",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "柾木",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "柾木",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 604,
+    "section": "main",
+    "name": "櫻木",
+    "stations": "築地、新富町、東銀座",
+    "genre": "日本料理",
+    "rating": "4.08",
+    "norm": "桜木"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   }
+  ]
+ },
+ {
+  "name": "竹ざき",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "竹ざき",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 246,
+    "section": "main",
+    "name": "宮わき",
+    "stations": "赤羽橋、芝公園、麻布十番",
+    "genre": "日本料理",
+    "rating": "3.90",
+    "norm": "宮わき"
+   },
+   {
+    "no": 249,
+    "section": "main",
+    "name": "新まき",
+    "stations": "赤羽橋、芝公園、麻布十番",
+    "genre": "焼き鳥、日本料理",
+    "rating": "3.74",
+    "norm": "新まき"
+   },
+   {
+    "no": 622,
+    "section": "main",
+    "name": "竹や",
+    "stations": "御茶ノ水、新御茶ノ水、末広町",
+    "genre": "うどん、カレーうどん、居酒屋",
+    "rating": "3.67",
+    "norm": "竹や"
+   },
+   {
+    "no": 703,
+    "section": "main",
+    "name": "小ざさ",
+    "stations": "吉祥寺、井の頭公園",
+    "genre": "和菓子",
+    "rating": "3.77",
+    "norm": "小ざさ"
+   }
+  ]
+ },
+ {
+  "name": "竹久",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "竹久",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 622,
+    "section": "main",
+    "name": "竹や",
+    "stations": "御茶ノ水、新御茶ノ水、末広町",
+    "genre": "うどん、カレーうどん、居酒屋",
+    "rating": "3.67",
+    "norm": "竹や"
+   },
+   {
+    "no": 1103,
+    "section": "main",
+    "name": "藤久",
+    "stations": "近鉄日本橋、日本橋、難波（南海）",
+    "genre": "日本料理",
+    "rating": "3.57",
+    "norm": "藤久"
+   },
+   {
+    "no": 1209,
+    "section": "main",
+    "name": "安久",
+    "stations": "祇園四条、京都河原町、清水五条",
+    "genre": "日本料理",
+    "rating": "3.84",
+    "norm": "安久"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   }
+  ]
+ },
+ {
+  "name": "釜座 長島",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "釜座長島",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "方寸 長島",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "方寸長島",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "割烹 蛸八",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "割烹蛸八",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 565,
+    "section": "main",
+    "name": "割烹 室井",
+    "stations": "乃木坂、表参道、外苑前",
+    "genre": "日本料理",
+    "rating": "4.20",
+    "norm": "割烹室井"
+   }
+  ]
+ },
+ {
+  "name": "じき 宮ざわ",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "じき宮ざわ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "而今 平たて",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "而今平たて",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "いそやま",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "いそやま",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "お料理 まえしろ",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "お料理まえしろ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ととよし",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "ととよし",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "德まる",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "德まる",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 249,
+    "section": "main",
+    "name": "新まき",
+    "stations": "赤羽橋、芝公園、麻布十番",
+    "genre": "焼き鳥、日本料理",
+    "rating": "3.74",
+    "norm": "新まき"
+   },
+   {
+    "no": 305,
+    "section": "main",
+    "name": "いしまる",
+    "stations": "大宮",
+    "genre": "寿司",
+    "rating": "4.04",
+    "norm": "いしまる"
+   },
+   {
+    "no": 696,
+    "section": "main",
+    "name": "天まめ",
+    "stations": "築地、新富町、東銀座",
+    "genre": "和菓子",
+    "rating": "3.75",
+    "norm": "天まめ"
+   }
+  ]
+ },
+ {
+  "name": "割烹 はらだ",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "日本料理",
+  "norm": "割烹はらだ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "近野",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "近野",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 667,
+    "section": "main",
+    "name": "塩野",
+    "stations": "赤坂、溜池山王、赤坂見附",
+    "genre": "和菓子、どら焼き",
+    "rating": "3.75",
+    "norm": "塩野"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   }
+  ]
+ },
+ {
+  "name": "祇園 まんま",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "祇園まんま",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "割烹 梅津",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "割烹梅津",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 565,
+    "section": "main",
+    "name": "割烹 室井",
+    "stations": "乃木坂、表参道、外苑前",
+    "genre": "日本料理",
+    "rating": "4.20",
+    "norm": "割烹室井"
+   }
+  ]
+ },
+ {
+  "name": "修伯",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "修伯",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1274,
+    "section": "main",
+    "name": "心伯",
+    "stations": "東梅田、南森町、なにわ橋",
+    "genre": "焼き鳥",
+    "rating": "3.77",
+    "norm": "心伯"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   }
+  ]
+ },
+ {
+  "name": "杢兵衛",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "杢兵衛",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1278,
+    "section": "main",
+    "name": "安兵衛",
+    "stations": "西九条、千鳥橋、野田（ＪＲ）",
+    "genre": "焼肉、ホルモン",
+    "rating": "3.72",
+    "norm": "安兵衛"
+   }
+  ]
+ },
+ {
+  "name": "祇をん かじ正",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "祇をんかじ正",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "祇園 にしむら",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "祇園にしむら",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1238,
+    "section": "main",
+    "name": "祇園 にし",
+    "stations": "祇園四条、京都河原町、東山",
+    "genre": "日本料理",
+    "rating": "4.17",
+    "norm": "祇園にし"
+   }
+  ]
+ },
+ {
+  "name": "祇園ろはん",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "祇園ろはん",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "祇園 楽味",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "日本料理",
+  "norm": "祇園楽味",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1238,
+    "section": "main",
+    "name": "祇園 にし",
+    "stations": "祇園四条、京都河原町、東山",
+    "genre": "日本料理",
+    "rating": "4.17",
+    "norm": "祇園にし"
+   }
+  ]
+ },
+ {
+  "name": "半々",
+  "kubun": "セレクテッド",
+  "area": "京都市左京区",
+  "genre": "日本料理",
+  "norm": "半々",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "仁王門 無為",
+  "kubun": "セレクテッド",
+  "area": "京都市左京区",
+  "genre": "日本料理",
+  "norm": "仁王門無為",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "下鴨茶寮",
+  "kubun": "セレクテッド",
+  "area": "京都市左京区",
+  "genre": "日本料理",
+  "norm": "下鴨茶寮",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "御料理 中善",
+  "kubun": "セレクテッド",
+  "area": "京都市左京区",
+  "genre": "日本料理",
+  "norm": "御料理中善",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1204,
+    "section": "main",
+    "name": "御料理 光安",
+    "stations": "二条、二条城前",
+    "genre": "日本料理",
+    "rating": "3.89",
+    "norm": "御料理光安"
+   },
+   {
+    "no": 1205,
+    "section": "main",
+    "name": "御料理 樋渡",
+    "stations": "丸太町（京都市営）、烏丸御池、京都市役所前",
+    "genre": "日本料理",
+    "rating": "3.95",
+    "norm": "御料理樋渡"
+   }
+  ]
+ },
+ {
+  "name": "堺町 かもくら",
+  "kubun": "セレクテッド",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "堺町かもくら",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "京料理 八清",
+  "kubun": "セレクテッド",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "京料理八清",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "料理屋 かねみつ",
+  "kubun": "セレクテッド",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "料理屋かねみつ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "観山",
+  "kubun": "セレクテッド",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "観山",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "とくを",
+  "kubun": "セレクテッド",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "とくを",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 102,
+    "section": "main",
+    "name": "とり喜",
+    "stations": "錦糸町",
+    "genre": "焼き鳥",
+    "rating": "3.72",
+    "norm": "とり喜"
+   },
+   {
+    "no": 615,
+    "section": "main",
+    "name": "と村",
+    "stations": "虎ノ門、虎ノ門ヒルズ、内幸町",
+    "genre": "日本料理",
+    "rating": "3.87",
+    "norm": "と村"
+   },
+   {
+    "no": 1064,
+    "section": "main",
+    "name": "とん亭",
+    "stations": "寺田町、天王寺、大阪阿部野橋",
+    "genre": "とんかつ、コロッケ",
+    "rating": "3.55",
+    "norm": "とん亭"
+   }
+  ]
+ },
+ {
+  "name": "こりょうり たか屋",
+  "kubun": "セレクテッド",
+  "area": "京都市下京区",
+  "genre": "日本料理",
+  "norm": "こりょうりたか屋",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ますます増田",
+  "kubun": "セレクテッド",
+  "area": "京都市上京区",
+  "genre": "日本料理",
+  "norm": "ますます増田",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "せん田",
+  "kubun": "セレクテッド",
+  "area": "京都市上京区",
+  "genre": "日本料理",
+  "norm": "せん田",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 542,
+    "section": "main",
+    "name": "きよ田",
+    "stations": "銀座、日比谷、有楽町",
+    "genre": "寿司",
+    "rating": "4.07",
+    "norm": "きよ田"
+   },
+   {
+    "no": 672,
+    "section": "main",
+    "name": "あんや",
+    "stations": "成城学園前",
+    "genre": "甘味処、和菓子、かき氷",
+    "rating": "3.73",
+    "norm": "あんや"
+   },
+   {
+    "no": 798,
+    "section": "main",
+    "name": "かんだ",
+    "stations": "虎ノ門ヒルズ、神谷町、虎ノ門",
+    "genre": "日本料理",
+    "rating": "4.15",
+    "norm": "かんだ"
+   },
+   {
+    "no": 924,
+    "section": "main",
+    "name": "肴房 田",
+    "stations": "郡山富田、郡山",
+    "genre": "居酒屋、創作料理",
+    "rating": "3.06",
+    "norm": "肴房田"
+   }
+  ]
+ },
+ {
+  "name": "西陣 はしもと",
+  "kubun": "セレクテッド",
+  "area": "京都市上京区",
+  "genre": "日本料理",
+  "norm": "西陣はしもと",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 519,
+    "section": "main",
+    "name": "鮨 はしもと",
+    "stations": "新富町、八丁堀、宝町",
+    "genre": "寿司",
+    "rating": "4.49",
+    "norm": "鮨はしもと"
+   }
+  ]
+ },
+ {
+  "name": "割烹 しなとみ",
+  "kubun": "セレクテッド",
+  "area": "京都市上京区",
+  "genre": "日本料理",
+  "norm": "割烹しなとみ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "間",
+  "kubun": "セレクテッド",
+  "area": "京都市上京区",
+  "genre": "日本料理",
+  "norm": "間",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 551,
+    "section": "main",
+    "name": "隼",
+    "stations": "六本木、六本木一丁目、乃木坂",
+    "genre": "中華料理、イノベーティブ",
+    "rating": "4.50",
+    "norm": "隼"
+   },
+   {
+    "no": 1115,
+    "section": "main",
+    "name": "蒼",
+    "stations": "六本木、乃木坂、広尾",
+    "genre": "イノベーティブ、フレンチ",
+    "rating": "4.65",
+    "norm": "蒼"
+   },
+   {
+    "no": 1305,
+    "section": "main",
+    "name": "樽",
+    "stations": "大江橋、北新地、東梅田",
+    "genre": "バー",
+    "rating": "3.05",
+    "norm": "樽"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   }
+  ]
+ },
+ {
+  "name": "わか杦",
+  "kubun": "セレクテッド",
+  "area": "京都市北区",
+  "genre": "日本料理",
+  "norm": "わか杦",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 623,
+    "section": "main",
+    "name": "わたべ",
+    "stations": "春日、後楽園、本郷三丁目",
+    "genre": "うなぎ、海鮮、日本料理",
+    "rating": "4.07",
+    "norm": "わたべ"
+   },
+   {
+    "no": 746,
+    "section": "main",
+    "name": "わたや",
+    "stations": "浦和",
+    "genre": "居酒屋、日本酒バー",
+    "rating": "3.63",
+    "norm": "わたや"
+   }
+  ]
+ },
+ {
+  "name": "船岡山 清水",
+  "kubun": "セレクテッド",
+  "area": "京都市北区",
+  "genre": "日本料理",
+  "norm": "船岡山清水",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "悠々",
+  "kubun": "セレクテッド",
+  "area": "京都市北区",
+  "genre": "日本料理",
+  "norm": "悠々",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "和食 德",
+  "kubun": "セレクテッド",
+  "area": "京都市北区",
+  "genre": "日本料理",
+  "norm": "和食德",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1105,
+    "section": "main",
+    "name": "洋食 泉",
+    "stations": "大江橋、なにわ橋、東梅田",
+    "genre": "洋食",
+    "rating": "3.95",
+    "norm": "洋食泉"
+   }
+  ]
+ },
+ {
+  "name": "洛北 なかやま",
+  "kubun": "セレクテッド",
+  "area": "京都市北区",
+  "genre": "日本料理",
+  "norm": "洛北なかやま",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "燕",
+  "kubun": "セレクテッド",
+  "area": "京都市南区",
+  "genre": "日本料理",
+  "norm": "燕",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 551,
+    "section": "main",
+    "name": "隼",
+    "stations": "六本木、六本木一丁目、乃木坂",
+    "genre": "中華料理、イノベーティブ",
+    "rating": "4.50",
+    "norm": "隼"
+   },
+   {
+    "no": 1115,
+    "section": "main",
+    "name": "蒼",
+    "stations": "六本木、乃木坂、広尾",
+    "genre": "イノベーティブ、フレンチ",
+    "rating": "4.65",
+    "norm": "蒼"
+   },
+   {
+    "no": 1305,
+    "section": "main",
+    "name": "樽",
+    "stations": "大江橋、北新地、東梅田",
+    "genre": "バー",
+    "rating": "3.05",
+    "norm": "樽"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   }
+  ]
+ },
+ {
+  "name": "菊乃井 鮨 青",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "寿司",
+  "norm": "菊乃井鮨青",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1201,
+    "section": "main",
+    "name": "菊乃井 本店",
+    "stations": "東山、祇園四条、蹴上",
+    "genre": "日本料理",
+    "rating": "4.11",
+    "norm": "菊乃井本店"
+   }
+  ]
+ },
+ {
+  "name": "鮨 まつもと",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "寿司",
+  "norm": "鮨まつもと",
+  "city": "京都",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1371,
+    "section": "main",
+    "name": "鮨まつもと",
+    "stations": "祇園四条、京都河原町、三条京阪",
+    "genre": "寿司",
+    "rating": "3.73",
+    "norm": "鮨まつもと"
+   }
+  ]
+ },
+ {
+  "name": "鮨 楽味",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "寿司",
+  "norm": "鮨楽味",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 137,
+    "section": "main",
+    "name": "永楽",
+    "stations": "京成小岩、江戸川、小岩",
+    "genre": "餃子、ラーメン、中華料理",
+    "rating": "3.50",
+    "norm": "永楽"
+   },
+   {
+    "no": 152,
+    "section": "main",
+    "name": "雅楽",
+    "stations": "飯田橋、後楽園、水道橋",
+    "genre": "うどん、居酒屋",
+    "rating": "3.63",
+    "norm": "雅楽"
+   },
+   {
+    "no": 328,
+    "section": "main",
+    "name": "鮨竹",
+    "stations": "銀座、東銀座、新橋",
+    "genre": "寿司",
+    "rating": "3.74",
+    "norm": "鮨竹"
+   },
+   {
+    "no": 343,
+    "section": "main",
+    "name": "鮨 太一",
+    "stations": "銀座、日比谷、有楽町",
+    "genre": "寿司",
+    "rating": "3.76",
+    "norm": "鮨太一"
+   }
+  ]
+ },
+ {
+  "name": "すし善",
+  "kubun": "ビブグルマン",
+  "area": "京都市中京区",
+  "genre": "寿司",
+  "norm": "すし善",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 479,
+    "section": "main",
+    "name": "いし橋",
+    "stations": "末広町、湯島、御茶ノ水",
+    "genre": "すき焼き",
+    "rating": "3.62",
+    "norm": "いし橋"
+   },
+   {
+    "no": 586,
+    "section": "main",
+    "name": "すし 良月",
+    "stations": "広尾、白金台",
+    "genre": "寿司",
+    "rating": "4.51",
+    "norm": "すし良月"
+   },
+   {
+    "no": 1184,
+    "section": "main",
+    "name": "是しん",
+    "stations": "大江橋、淀屋橋、なにわ橋",
+    "genre": "日本料理",
+    "rating": "3.90",
+    "norm": "是しん"
+   },
+   {
+    "no": 1358,
+    "section": "main",
+    "name": "すし処 智",
+    "stations": "日本橋、近鉄日本橋、長堀橋",
+    "genre": "寿司、海鮮、鍋",
+    "rating": "3.45",
+    "norm": "すし処智"
+   }
+  ]
+ },
+ {
+  "name": "いづう",
+  "kubun": "ビブグルマン",
+  "area": "京都市東山区",
+  "genre": "寿司",
+  "norm": "いづう",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 479,
+    "section": "main",
+    "name": "いし橋",
+    "stations": "末広町、湯島、御茶ノ水",
+    "genre": "すき焼き",
+    "rating": "3.62",
+    "norm": "いし橋"
+   },
+   {
+    "no": 651,
+    "section": "main",
+    "name": "い志い",
+    "stations": "柴又、新柴又",
+    "genre": "和菓子、洋菓子、どら焼き",
+    "rating": "3.73",
+    "norm": "い志い"
+   },
+   {
+    "no": 654,
+    "section": "main",
+    "name": "いり江",
+    "stations": "門前仲町、越中島、木場",
+    "genre": "甘味処、かき氷",
+    "rating": "3.72",
+    "norm": "いり江"
+   },
+   {
+    "no": 1369,
+    "section": "main",
+    "name": "きう",
+    "stations": "烏丸、四条（京都市営）、京都河原町",
+    "genre": "寿司、創作料理",
+    "rating": "4.40",
+    "norm": "きう"
+   }
+  ]
+ },
+ {
+  "name": "いづ源",
+  "kubun": "ビブグルマン",
+  "area": "京都市下京区",
+  "genre": "寿司",
+  "norm": "いづ源",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 479,
+    "section": "main",
+    "name": "いし橋",
+    "stations": "末広町、湯島、御茶ノ水",
+    "genre": "すき焼き",
+    "rating": "3.62",
+    "norm": "いし橋"
+   },
+   {
+    "no": 651,
+    "section": "main",
+    "name": "い志い",
+    "stations": "柴又、新柴又",
+    "genre": "和菓子、洋菓子、どら焼き",
+    "rating": "3.73",
+    "norm": "い志い"
+   },
+   {
+    "no": 654,
+    "section": "main",
+    "name": "いり江",
+    "stations": "門前仲町、越中島、木場",
+    "genre": "甘味処、かき氷",
+    "rating": "3.72",
+    "norm": "いり江"
+   }
+  ]
+ },
+ {
+  "name": "花梓侘",
+  "kubun": "ビブグルマン",
+  "area": "京都市北区",
+  "genre": "寿司",
+  "norm": "花梓侘",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "木屋町 蘭",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "寿司",
+  "norm": "木屋町蘭",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "鮨 かわの",
+  "kubun": "セレクテッド",
+  "area": "京都市左京区",
+  "genre": "寿司",
+  "norm": "鮨かわの",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 226,
+    "section": "main",
+    "name": "みかわや",
+    "stations": "銀座、東銀座、銀座一丁目",
+    "genre": "洋食、コロッケ、ステーキ",
+    "rating": "3.69",
+    "norm": "みかわや"
+   }
+  ]
+ },
+ {
+  "name": "下鴨 いち満",
+  "kubun": "セレクテッド",
+  "area": "京都市左京区",
+  "genre": "寿司",
+  "norm": "下鴨いち満",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "鮨 今尽",
+  "kubun": "セレクテッド",
+  "area": "京都市下京区",
+  "genre": "寿司",
+  "norm": "鮨今尽",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 328,
+    "section": "main",
+    "name": "鮨竹",
+    "stations": "銀座、東銀座、新橋",
+    "genre": "寿司",
+    "rating": "3.74",
+    "norm": "鮨竹"
+   },
+   {
+    "no": 343,
+    "section": "main",
+    "name": "鮨 太一",
+    "stations": "銀座、日比谷、有楽町",
+    "genre": "寿司",
+    "rating": "3.76",
+    "norm": "鮨太一"
+   },
+   {
+    "no": 456,
+    "section": "main",
+    "name": "鮨 浩也",
+    "stations": "大門、御成門、浜松町",
+    "genre": "寿司、日本料理",
+    "rating": "3.73",
+    "norm": "鮨浩也"
+   },
+   {
+    "no": 528,
+    "section": "main",
+    "name": "鮨 一幸",
+    "stations": "東銀座、銀座、築地市場",
+    "genre": "寿司",
+    "rating": "4.63",
+    "norm": "鮨一幸"
+   }
+  ]
+ },
+ {
+  "name": "鮓 はやし",
+  "kubun": "セレクテッド",
+  "area": "京都市上京区",
+  "genre": "寿司",
+  "norm": "鮓はやし",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "京星",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "天ぷら",
+  "norm": "京星",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1247,
+    "section": "main",
+    "name": "福星",
+    "stations": "県庁前、元町（ＪＲ）、元町（阪神）",
+    "genre": "中華料理",
+    "rating": "3.78",
+    "norm": "福星"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   }
+  ]
+ },
+ {
+  "name": "圓融菴 小林",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "天ぷら",
+  "norm": "圓融菴小林",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "天若",
+  "kubun": "1つ星",
+  "area": "京都市上京区",
+  "genre": "天ぷら",
+  "norm": "天若",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 707,
+    "section": "main",
+    "name": "天音",
+    "stations": "吉祥寺、井の頭公園",
+    "genre": "たい焼き・大判焼き",
+    "rating": "3.72",
+    "norm": "天音"
+   },
+   {
+    "no": 771,
+    "section": "main",
+    "name": "天茂",
+    "stations": "赤坂、溜池山王、赤坂見附",
+    "genre": "天ぷら",
+    "rating": "3.57",
+    "norm": "天茂"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   }
+  ]
+ },
+ {
+  "name": "天麩羅 水暉",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "天ぷら",
+  "norm": "天麩羅水暉",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "点邑",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "天ぷら",
+  "norm": "点邑",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "宮川町 天匠",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "天ぷら",
+  "norm": "宮川町天匠",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ぎをん 川柳",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "天ぷら",
+  "norm": "ぎをん川柳",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "イマ",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "フランス料理",
+  "norm": "イマ",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "MOKO",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "フランス料理",
+  "norm": "moko",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 769,
+    "section": "main",
+    "name": "TOKi",
+    "stations": "新橋、汐留、内幸町",
+    "genre": "スペイン料理、イノベーティブ",
+    "rating": "3.74",
+    "norm": "toki"
+   }
+  ]
+ },
+ {
+  "name": "ジャン-ジョルジュ アット ザ シンモンゼン",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "フランス料理",
+  "norm": "ジャンジョルジュアットザシンモンゼン",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ひらまつ 高台寺",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "フランス料理",
+  "norm": "ひらまつ高台寺",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ラ ブッシュ",
+  "kubun": "1つ星",
+  "area": "京都市左京区",
+  "genre": "フランス料理",
+  "norm": "ラブッシュ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "コガ",
+  "kubun": "1つ星",
+  "area": "京都市上京区",
+  "genre": "フランス料理",
+  "norm": "コガ",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "ドロワ",
+  "kubun": "1つ星",
+  "area": "京都市左京区",
+  "genre": "フランス料理",
+  "norm": "ドロワ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ラ・ビオグラフィ",
+  "kubun": "1つ星",
+  "area": "京都市上京区",
+  "genre": "フランス料理",
+  "norm": "ラビオグラフィ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "アンペイジ",
+  "kubun": "1つ星",
+  "area": "京都市伏見区",
+  "genre": "フランス料理",
+  "norm": "アンペイジ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ビストロ ヤナギハラ",
+  "kubun": "ビブグルマン",
+  "area": "京都市中京区",
+  "genre": "フランス料理",
+  "norm": "ビストロヤナギハラ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ビストロ スリージェ",
+  "kubun": "ビブグルマン",
+  "area": "京都市左京区",
+  "genre": "フランス料理",
+  "norm": "ビストロスリージェ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "アスペルジュ ブランシュ",
+  "kubun": "ビブグルマン",
+  "area": "京都市下京区",
+  "genre": "フランス料理",
+  "norm": "アスペルジュブランシュ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ドゥ フィーユ",
+  "kubun": "ビブグルマン",
+  "area": "京都市下京区",
+  "genre": "フランス料理",
+  "norm": "ドゥフィーユ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ルカ",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "フランス料理",
+  "norm": "ルカ",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 890,
+    "section": "main",
+    "name": "アルカナ 東京",
+    "stations": "東京、二重橋前、有楽町",
+    "genre": "フレンチ",
+    "rating": "3.57",
+    "norm": "アルカナ東京"
+   },
+   {
+    "no": 516,
+    "section": "main",
+    "name": "アカ",
+    "stations": "三越前、新日本橋、日本橋",
+    "genre": "スペイン料理",
+    "rating": "4.67",
+    "norm": "アカ"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   }
+  ]
+ },
+ {
+  "name": "モトイ",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "フランス料理",
+  "norm": "モトイ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ル カドー",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "フランス料理",
+  "norm": "ルカドー",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "青いけ",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "フランス料理",
+  "norm": "青いけ",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 235,
+    "section": "main",
+    "name": "佐たけ",
+    "stations": "築地市場、東銀座、新橋",
+    "genre": "寿司、海鮮",
+    "rating": "3.84",
+    "norm": "佐たけ"
+   },
+   {
+    "no": 544,
+    "section": "main",
+    "name": "青空",
+    "stations": "新橋、内幸町、銀座",
+    "genre": "寿司",
+    "rating": "4.40",
+    "norm": "青空"
+   }
+  ]
+ },
+ {
+  "name": "ブノワ",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "フランス料理",
+  "norm": "ブノワ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "山地陽介",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "フランス料理",
+  "norm": "山地陽介",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ラパルテ",
+  "kubun": "セレクテッド",
+  "area": "京都市下京区",
+  "genre": "フランス料理",
+  "norm": "ラパルテ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "レーヌ デ プレ",
+  "kubun": "セレクテッド",
+  "area": "京都市上京区",
+  "genre": "フランス料理",
+  "norm": "レーヌデプレ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ル キャトーズィエム",
+  "kubun": "セレクテッド",
+  "area": "京都市上京区",
+  "genre": "フランス料理",
+  "norm": "ルキャトーズィエム",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ワヴィ",
+  "kubun": "セレクテッド",
+  "area": "京都市右京区",
+  "genre": "フランス料理",
+  "norm": "ワヴィ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ヴェーナ",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "イタリア料理",
+  "norm": "ヴェーナ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ドーディチ",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "イタリア料理",
+  "norm": "ドーディチ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ビーニ",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "イタリア料理",
+  "norm": "ビーニ",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1038,
+    "section": "main",
+    "name": "ビッテ",
+    "stations": "溜池山王、永田町、国会議事堂前",
+    "genre": "ドイツ料理、ビアホール、ダイニングバー",
+    "rating": "3.34",
+    "norm": "ビッテ"
+   },
+   {
+    "no": 1421,
+    "section": "main",
+    "name": "マーヤ",
+    "stations": "出町柳、元田中",
+    "genre": "インド料理、インドカレー",
+    "rating": "3.16",
+    "norm": "マーヤ"
+   }
+  ]
+ },
+ {
+  "name": "チェンチ",
+  "kubun": "1つ星",
+  "area": "京都市左京区",
+  "genre": "イタリア料理",
+  "norm": "チェンチ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ジェルモーリオ",
+  "kubun": "1つ星",
+  "area": "京都市下京区",
+  "genre": "イタリア料理",
+  "norm": "ジェルモーリオ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "タカヤマ",
+  "kubun": "1つ星",
+  "area": "京都市下京区",
+  "genre": "イタリア料理",
+  "norm": "タカヤマ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ラピンタイカ",
+  "kubun": "ビブグルマン",
+  "area": "京都市左京区",
+  "genre": "イタリア料理",
+  "norm": "ラピンタイカ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ボッカ デル ヴィーノ",
+  "kubun": "ビブグルマン",
+  "area": "京都市下京区",
+  "genre": "イタリア料理",
+  "norm": "ボッカデルヴィーノ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ラディーチェ",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "イタリア料理",
+  "norm": "ラディーチェ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "オステリア イル・カント・デル・マッジョ",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "イタリア料理",
+  "norm": "オステリアイルカントデルマッジョ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "アヴァ",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "イタリア料理",
+  "norm": "アヴァ",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 516,
+    "section": "main",
+    "name": "アカ",
+    "stations": "三越前、新日本橋、日本橋",
+    "genre": "スペイン料理",
+    "rating": "4.67",
+    "norm": "アカ"
+   }
+  ]
+ },
+ {
+  "name": "ズッケロ",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "イタリア料理",
+  "norm": "ズッケロ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "モーネ",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "イタリア料理",
+  "norm": "モーネ",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1083,
+    "section": "main",
+    "name": "レオーネ",
+    "stations": "大江橋、北新地、淀屋橋",
+    "genre": "イノベーティブ、イタリアン、ヨーロッパ料理",
+    "rating": "3.69",
+    "norm": "レオーネ"
+   },
+   {
+    "no": 1421,
+    "section": "main",
+    "name": "マーヤ",
+    "stations": "出町柳、元田中",
+    "genre": "インド料理、インドカレー",
+    "rating": "3.16",
+    "norm": "マーヤ"
+   }
+  ]
+ },
+ {
+  "name": "リストランテ ドーノ",
+  "kubun": "セレクテッド",
+  "area": "京都市左京区",
+  "genre": "イタリア料理",
+  "norm": "リストランテドーノ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "エット",
+  "kubun": "セレクテッド",
+  "area": "京都市上京区",
+  "genre": "イタリア料理",
+  "norm": "エット",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1038,
+    "section": "main",
+    "name": "ビッテ",
+    "stations": "溜池山王、永田町、国会議事堂前",
+    "genre": "ドイツ料理、ビアホール、ダイニングバー",
+    "rating": "3.34",
+    "norm": "ビッテ"
+   },
+   {
+    "no": 1076,
+    "section": "main",
+    "name": "ベック",
+    "stations": "県庁前、元町（ＪＲ）、元町（阪神）",
+    "genre": "ビストロ、ワインバー",
+    "rating": "3.79",
+    "norm": "ベック"
+   },
+   {
+    "no": 1203,
+    "section": "main",
+    "name": "オルト",
+    "stations": "烏丸御池、烏丸、四条（京都市営）",
+    "genre": "イノベーティブ",
+    "rating": "3.90",
+    "norm": "オルト"
+   }
+  ]
+ },
+ {
+  "name": "小松 クッチーナ イタリアーナ",
+  "kubun": "セレクテッド",
+  "area": "京都市上京区",
+  "genre": "イタリア料理",
+  "norm": "小松クッチーナイタリアーナ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "オルテンシア",
+  "kubun": "セレクテッド",
+  "area": "京都市上京区",
+  "genre": "イタリア料理",
+  "norm": "オルテンシア",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "京、静華",
+  "kubun": "1つ星",
+  "area": "京都市左京区",
+  "genre": "中華料理",
+  "norm": "京、静華",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ベルロオジエ",
+  "kubun": "1つ星",
+  "area": "京都市下京区",
+  "genre": "中華料理",
+  "norm": "ベルロオジエ",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 539,
+    "section": "main",
+    "name": "ロオジエ",
+    "stations": "銀座、新橋、内幸町",
+    "genre": "フレンチ",
+    "rating": "4.43",
+    "norm": "ロオジエ"
+   }
+  ]
+ },
+ {
+  "name": "広東旬菜 一僖",
+  "kubun": "ビブグルマン",
+  "area": "京都市東山区",
+  "genre": "中華料理",
+  "norm": "広東旬菜一僖",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1245,
+    "section": "main",
+    "name": "一僖",
+    "stations": "祇園四条、京都河原町、東山",
+    "genre": "中華料理",
+    "rating": "3.91",
+    "norm": "一僖"
+   }
+  ]
+ },
+ {
+  "name": "廣澤",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "中華料理",
+  "norm": "廣澤",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "京中華 牧定",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "中華料理",
+  "norm": "京中華牧定",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ハクビ",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "中華料理",
+  "norm": "ハクビ",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1191,
+    "section": "main",
+    "name": "ハジメ",
+    "stations": "肥後橋、渡辺橋、淀屋橋",
+    "genre": "イノベーティブ、フレンチ",
+    "rating": "4.32",
+    "norm": "ハジメ"
+   }
+  ]
+ },
+ {
+  "name": "八楽",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "中華料理",
+  "norm": "八楽",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 137,
+    "section": "main",
+    "name": "永楽",
+    "stations": "京成小岩、江戸川、小岩",
+    "genre": "餃子、ラーメン、中華料理",
+    "rating": "3.50",
+    "norm": "永楽"
+   },
+   {
+    "no": 152,
+    "section": "main",
+    "name": "雅楽",
+    "stations": "飯田橋、後楽園、水道橋",
+    "genre": "うどん、居酒屋",
+    "rating": "3.63",
+    "norm": "雅楽"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   }
+  ]
+ },
+ {
+  "name": "KOKE",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "イノベーティブ",
+  "norm": "koke",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 769,
+    "section": "main",
+    "name": "TOKi",
+    "stations": "新橋、汐留、内幸町",
+    "genre": "スペイン料理、イノベーティブ",
+    "rating": "3.74",
+    "norm": "toki"
+   }
+  ]
+ },
+ {
+  "name": "ルーラ",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "イノベーティブ",
+  "norm": "ルーラ",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1173,
+    "section": "main",
+    "name": "カハラ",
+    "stations": "北新地、大江橋、東梅田",
+    "genre": "創作料理",
+    "rating": "4.17",
+    "norm": "カハラ"
+   },
+   {
+    "no": 1421,
+    "section": "main",
+    "name": "マーヤ",
+    "stations": "出町柳、元田中",
+    "genre": "インド料理、インドカレー",
+    "rating": "3.16",
+    "norm": "マーヤ"
+   }
+  ]
+ },
+ {
+  "name": "新門前 米村",
+  "kubun": "1つ星",
+  "area": "京都市東山区",
+  "genre": "イノベーティブ",
+  "norm": "新門前米村",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ヴィーガンラーメン ウズ",
+  "kubun": "ビブグルマン",
+  "area": "京都市中京区",
+  "genre": "ラーメン",
+  "norm": "ヴィーガンラーメンウズ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "らぁ麺 とうひち",
+  "kubun": "ビブグルマン",
+  "area": "京都市左京区",
+  "genre": "ラーメン",
+  "norm": "らぁ麺とうひち",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "麦の夜明け",
+  "kubun": "ビブグルマン",
+  "area": "京都市下京区",
+  "genre": "ラーメン",
+  "norm": "麦の夜明け",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "昆布と麺 喜一",
+  "kubun": "ビブグルマン",
+  "area": "京都市上京区",
+  "genre": "ラーメン",
+  "norm": "昆布と麺喜一",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "らぁ麺や ふぢとら",
+  "kubun": "ビブグルマン",
+  "area": "京都市右京区",
+  "genre": "ラーメン",
+  "norm": "らぁ麺やふぢとら",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "麺屋 練之助",
+  "kubun": "ビブグルマン",
+  "area": "京都市北区",
+  "genre": "ラーメン",
+  "norm": "麺屋練之助",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "茶寮哲心",
+  "kubun": "ビブグルマン",
+  "area": "京都市中京区",
+  "genre": "蕎麦",
+  "norm": "茶寮哲心",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "蕎麦 ろうじな",
+  "kubun": "ビブグルマン",
+  "area": "京都市中京区",
+  "genre": "蕎麦",
+  "norm": "蕎麦ろうじな",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "権兵衛",
+  "kubun": "ビブグルマン",
+  "area": "京都市東山区",
+  "genre": "蕎麦",
+  "norm": "権兵衛",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1278,
+    "section": "main",
+    "name": "安兵衛",
+    "stations": "西九条、千鳥橋、野田（ＪＲ）",
+    "genre": "焼肉、ホルモン",
+    "rating": "3.72",
+    "norm": "安兵衛"
+   }
+  ]
+ },
+ {
+  "name": "十五",
+  "kubun": "ビブグルマン",
+  "area": "京都市左京区",
+  "genre": "蕎麦",
+  "norm": "十五",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 835,
+    "section": "main",
+    "name": "丸五",
+    "stations": "秋葉原、新御茶ノ水、末広町",
+    "genre": "とんかつ",
+    "rating": "3.74",
+    "norm": "丸五"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   }
+  ]
+ },
+ {
+  "name": "そのば",
+  "kubun": "ビブグルマン",
+  "area": "京都市下京区",
+  "genre": "蕎麦",
+  "norm": "そのば",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "竹邑庵太郎敦盛",
+  "kubun": "ビブグルマン",
+  "area": "京都市上京区",
+  "genre": "蕎麦",
+  "norm": "竹邑庵太郎敦盛",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "木陰",
+  "kubun": "ビブグルマン",
+  "area": "京都市北区",
+  "genre": "蕎麦",
+  "norm": "木陰",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "手打ち蕎麦 かね井",
+  "kubun": "ビブグルマン",
+  "area": "京都市北区",
+  "genre": "蕎麦",
+  "norm": "手打ち蕎麦かね井",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "蕎麦と料理 五",
+  "kubun": "ビブグルマン",
+  "area": "京都市北区",
+  "genre": "蕎麦",
+  "norm": "蕎麦と料理五",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "鳥さき",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "焼き鳥",
+  "norm": "鳥さき",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 246,
+    "section": "main",
+    "name": "宮わき",
+    "stations": "赤羽橋、芝公園、麻布十番",
+    "genre": "日本料理",
+    "rating": "3.90",
+    "norm": "宮わき"
+   },
+   {
+    "no": 249,
+    "section": "main",
+    "name": "新まき",
+    "stations": "赤羽橋、芝公園、麻布十番",
+    "genre": "焼き鳥、日本料理",
+    "rating": "3.74",
+    "norm": "新まき"
+   }
+  ]
+ },
+ {
+  "name": "炭焼創彩鳥家 人見",
+  "kubun": "ビブグルマン",
+  "area": "京都市左京区",
+  "genre": "焼き鳥",
+  "norm": "炭焼創彩鳥家人見",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "鶏匠 催",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "焼き鳥",
+  "norm": "鶏匠催",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1365,
+    "section": "main",
+    "name": "鶏一途",
+    "stations": "住吉（ＪＲ・六甲ライナー）、御影（阪神）、住吉（阪神）",
+    "genre": "焼き鳥、鳥料理",
+    "rating": "3.83",
+    "norm": "鶏一途"
+   }
+  ]
+ },
+ {
+  "name": "焼鳥 京都橘",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "焼き鳥",
+  "norm": "焼鳥京都橘",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ワビヤ",
+  "kubun": "セレクテッド",
+  "area": "京都市下京区",
+  "genre": "焼き鳥",
+  "norm": "ワビヤ",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 996,
+    "section": "main",
+    "name": "ボビノ",
+    "stations": "北新地、西梅田、大江橋",
+    "genre": "ステーキ、ハンバーグ、カレー",
+    "rating": "3.45",
+    "norm": "ボビノ"
+   },
+   {
+    "no": 1421,
+    "section": "main",
+    "name": "マーヤ",
+    "stations": "出町柳、元田中",
+    "genre": "インド料理、インドカレー",
+    "rating": "3.16",
+    "norm": "マーヤ"
+   }
+  ]
+ },
+ {
+  "name": "麩屋町 久らく",
+  "kubun": "ビブグルマン",
+  "area": "京都市中京区",
+  "genre": "居酒屋",
+  "norm": "麩屋町久らく",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "えいたろう屋",
+  "kubun": "ビブグルマン",
+  "area": "京都市中京区",
+  "genre": "居酒屋",
+  "norm": "えいたろう屋",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "米処いなもと",
+  "kubun": "ビブグルマン",
+  "area": "京都市下京区",
+  "genre": "居酒屋",
+  "norm": "米処いなもと",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "酒と魚 DNA",
+  "kubun": "ビブグルマン",
+  "area": "京都市下京区",
+  "genre": "居酒屋",
+  "norm": "酒と魚dna",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "むろまち 加地",
+  "kubun": "ビブグルマン",
+  "area": "京都市下京区",
+  "genre": "居酒屋",
+  "norm": "むろまち加地",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "三本木商店",
+  "kubun": "ビブグルマン",
+  "area": "京都市上京区",
+  "genre": "居酒屋",
+  "norm": "三本木商店",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "呑小路 やま岸",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "居酒屋",
+  "norm": "呑小路やま岸",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 757,
+    "section": "main",
+    "name": "銀座呑小路やま岸",
+    "stations": "銀座、内幸町、新橋",
+    "genre": "居酒屋",
+    "rating": "3.66",
+    "norm": "銀座呑小路やま岸"
+   },
+   {
+    "no": 1240,
+    "section": "main",
+    "name": "富小路 やま岸",
+    "stations": "京都河原町、烏丸、京都市役所前",
+    "genre": "日本料理",
+    "rating": "4.52",
+    "norm": "富小路やま岸"
+   }
+  ]
+ },
+ {
+  "name": "二条 有恒",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "居酒屋",
+  "norm": "二条有恒",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "恒屋伝助",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "居酒屋",
+  "norm": "恒屋伝助",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "京極 かねよ",
+  "kubun": "ビブグルマン",
+  "area": "京都市中京区",
+  "genre": "うなぎ料理",
+  "norm": "京極かねよ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "かね正",
+  "kubun": "ビブグルマン",
+  "area": "京都市東山区",
+  "genre": "うなぎ料理",
+  "norm": "かね正",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 648,
+    "section": "main",
+    "name": "かどや",
+    "stations": "北千住、小菅",
+    "genre": "和菓子",
+    "rating": "3.74",
+    "norm": "かどや"
+   },
+   {
+    "no": 798,
+    "section": "main",
+    "name": "かんだ",
+    "stations": "虎ノ門ヒルズ、神谷町、虎ノ門",
+    "genre": "日本料理",
+    "rating": "4.15",
+    "norm": "かんだ"
+   }
+  ]
+ },
+ {
+  "name": "大國屋鰻兵衞",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "うなぎ料理",
+  "norm": "大國屋鰻兵衞",
+  "city": "京都",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1376,
+    "section": "main",
+    "name": "大國屋鰻兵衞",
+    "stations": "烏丸、四条（京都市営）、京都河原町",
+    "genre": "うなぎ",
+    "rating": "3.68",
+    "norm": "大國屋鰻兵衞"
+   }
+  ]
+ },
+ {
+  "name": "しろ",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "現代風料理",
+  "norm": "しろ",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 694,
+    "section": "main",
+    "name": "しろいくろ",
+    "stations": "麻布十番、六本木、赤羽橋",
+    "genre": "和菓子、ジェラート・アイスクリーム",
+    "rating": "3.71",
+    "norm": "しろいくろ"
+   },
+   {
+    "no": 772,
+    "section": "main",
+    "name": "西洋菓子 しろたえ",
+    "stations": "赤坂見附、永田町、赤坂",
+    "genre": "ケーキ、カフェ、喫茶店",
+    "rating": "3.79",
+    "norm": "西洋菓子しろたえ"
+   },
+   {
+    "no": 1124,
+    "section": "main",
+    "name": "北新地 鮨 栞庵 やましろ",
+    "stations": "北新地、西梅田、渡辺橋",
+    "genre": "寿司、海鮮、日本料理",
+    "rating": "3.47",
+    "norm": "北新地鮨栞庵やましろ"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   }
+  ]
+ },
+ {
+  "name": "真白",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "現代風料理",
+  "norm": "真白",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 376,
+    "section": "main",
+    "name": "虎白",
+    "stations": "飯田橋、牛込神楽坂、神楽坂",
+    "genre": "日本料理",
+    "rating": "4.35",
+    "norm": "虎白"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   }
+  ]
+ },
+ {
+  "name": "都季",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "現代風料理",
+  "norm": "都季",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "ミドル",
+  "kubun": "セレクテッド",
+  "area": "京都市左京区",
+  "genre": "現代風料理",
+  "norm": "ミドル",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "こぴゑ",
+  "kubun": "セレクテッド",
+  "area": "京都市下京区",
+  "genre": "現代風料理",
+  "norm": "こぴゑ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ライース",
+  "kubun": "セレクテッド",
+  "area": "京都市北区",
+  "genre": "現代風料理",
+  "norm": "ライース",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 383,
+    "section": "main",
+    "name": "ラトラス",
+    "stations": "神楽坂、牛込神楽坂、飯田橋",
+    "genre": "フレンチ",
+    "rating": "3.72",
+    "norm": "ラトラス"
+   }
+  ]
+ },
+ {
+  "name": "韓式料理ピョリヤ",
+  "kubun": "1つ星",
+  "area": "京都市中京区",
+  "genre": "韓国料理",
+  "norm": "韓式料理ピョリヤ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "祇をん 萬屋",
+  "kubun": "ビブグルマン",
+  "area": "京都市東山区",
+  "genre": "うどん",
+  "norm": "祇をん萬屋",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "おいと",
+  "kubun": "ビブグルマン",
+  "area": "京都市東山区",
+  "genre": "おでん",
+  "norm": "おいと",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 155,
+    "section": "main",
+    "name": "おけ以",
+    "stations": "飯田橋、九段下、牛込神楽坂",
+    "genre": "餃子、中華料理",
+    "rating": "3.55",
+    "norm": "おけ以"
+   },
+   {
+    "no": 257,
+    "section": "main",
+    "name": "おかもと",
+    "stations": "神谷町、六本木一丁目、虎ノ門ヒルズ",
+    "genre": "日本料理",
+    "rating": "3.86",
+    "norm": "おかもと"
+   },
+   {
+    "no": 727,
+    "section": "main",
+    "name": "ちもと",
+    "stations": "都立大学",
+    "genre": "和菓子、甘味処、かき氷",
+    "rating": "3.78",
+    "norm": "ちもと"
+   },
+   {
+    "no": 1207,
+    "section": "main",
+    "name": "おたぎ",
+    "stations": "北大路、北野白梅町、等持院・立命館大学衣笠キャンパス前",
+    "genre": "日本料理",
+    "rating": "3.93",
+    "norm": "おたぎ"
+   }
+  ]
+ },
+ {
+  "name": "コリス",
+  "kubun": "ビブグルマン",
+  "area": "京都市東山区",
+  "genre": "洋食",
+  "norm": "コリス",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "天龍寺 篩月",
+  "kubun": "ビブグルマン",
+  "area": "京都市右京区",
+  "genre": "精進料理",
+  "norm": "天竜寺篩月",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "熟成豚 かわむら",
+  "kubun": "ビブグルマン",
+  "area": "京都市山科区",
+  "genre": "とんかつ",
+  "norm": "熟成豚かわむら",
+  "city": "京都",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1059,
+    "section": "main",
+    "name": "熟成豚 かわむら",
+    "stations": "京阪山科、山科、東野",
+    "genre": "とんかつ",
+    "rating": "3.76",
+    "norm": "熟成豚かわむら"
+   }
+  ]
+ },
+ {
+  "name": "三嶋亭",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "すき焼",
+  "norm": "三島亭",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1249,
+    "section": "main",
+    "name": "三国亭",
+    "stations": "日本橋、近鉄日本橋、長堀橋",
+    "genre": "中華料理",
+    "rating": "3.73",
+    "norm": "三国亭"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 260,
+    "section": "main",
+    "name": "煉瓦亭",
+    "stations": "銀座、銀座一丁目、有楽町",
+    "genre": "洋食、オムライス、肉料理",
+    "rating": "3.49",
+    "norm": "煉瓦亭"
+   },
+   {
+    "no": 454,
+    "section": "main",
+    "name": "三政",
+    "stations": "新橋、汐留、内幸町",
+    "genre": "焼き鳥、もつ焼き",
+    "rating": "3.66",
+    "norm": "三政"
+   }
+  ]
+ },
+ {
+  "name": "洋食 おがた",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "洋食",
+  "norm": "洋食おがた",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "先斗町 ますだ",
+  "kubun": "セレクテッド",
+  "area": "京都市中京区",
+  "genre": "おばんざい",
+  "norm": "先斗町ますだ",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "蛸長",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "おでん",
+  "norm": "蛸長",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "安参",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "牛肉料理",
+  "norm": "安参",
+  "city": "京都",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1209,
+    "section": "main",
+    "name": "安久",
+    "stations": "祇園四条、京都河原町、清水五条",
+    "genre": "日本料理",
+    "rating": "3.84",
+    "norm": "安久"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   }
+  ]
+ },
+ {
+  "name": "鳧 -Keri-",
+  "kubun": "セレクテッド",
+  "area": "京都市東山区",
+  "genre": "鴨料理",
+  "norm": "鳧keri",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "阿じろ 本店",
+  "kubun": "セレクテッド",
+  "area": "京都市右京区",
+  "genre": "精進料理",
+  "norm": "阿じろ本店",
+  "city": "京都",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "太庵",
+  "kubun": "3つ星",
+  "area": "大阪市中央区",
+  "genre": "日本料理",
+  "norm": "太庵",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 718,
+    "section": "main",
+    "name": "雅庵",
+    "stations": "中目黒、池尻大橋",
+    "genre": "和菓子",
+    "rating": "3.81",
+    "norm": "雅庵"
+   },
+   {
+    "no": 737,
+    "section": "main",
+    "name": "眠庵",
+    "stations": "淡路町、神田、岩本町",
+    "genre": "そば、居酒屋、日本酒バー",
+    "rating": "3.58",
+    "norm": "眠庵"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   }
+  ]
+ },
+ {
+  "name": "柏屋 大阪千里山",
+  "kubun": "3つ星",
+  "area": "吹田市",
+  "genre": "日本料理",
+  "norm": "柏屋大阪千里山",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1172,
+    "section": "main",
+    "name": "柏屋 大阪千里山",
+    "stations": "関大前、緑地公園、千里山",
+    "genre": "日本料理",
+    "rating": "4.00",
+    "norm": "柏屋大阪千里山"
+   }
+  ]
+ },
+ {
+  "name": "老松 ひさ乃",
+  "kubun": "2つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "老松ひさ乃",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "お料理 宮本",
+  "kubun": "2つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "お料理宮本",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1087,
+    "section": "main",
+    "name": "お料理 宮本",
+    "stations": "大阪天満宮、南森町、扇町",
+    "genre": "日本料理",
+    "rating": "3.87",
+    "norm": "お料理宮本"
+   }
+  ]
+ },
+ {
+  "name": "天神橋 青木",
+  "kubun": "2つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "天神橋青木",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1187,
+    "section": "main",
+    "name": "天神橋 青木",
+    "stations": "天神橋筋六丁目、中崎町、天満",
+    "genre": "日本料理",
+    "rating": "3.89",
+    "norm": "天神橋青木"
+   }
+  ]
+ },
+ {
+  "name": "弧柳",
+  "kubun": "2つ星",
+  "area": "大阪市中央区",
+  "genre": "日本料理",
+  "norm": "弧柳",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1079,
+    "section": "main",
+    "name": "弧柳",
+    "stations": "北浜、堺筋本町、天満橋",
+    "genre": "日本料理",
+    "rating": "3.84",
+    "norm": "弧柳"
+   }
+  ]
+ },
+ {
+  "name": "照屋",
+  "kubun": "2つ星",
+  "area": "大阪市中央区",
+  "genre": "日本料理",
+  "norm": "照屋",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 700,
+    "section": "main",
+    "name": "柳屋",
+    "stations": "人形町、水天宮前、浜町",
+    "genre": "たい焼き・大判焼き、ジェラート・アイスクリーム",
+    "rating": "3.78",
+    "norm": "柳屋"
+   },
+   {
+    "no": 1047,
+    "section": "main",
+    "name": "村屋",
+    "stations": "出町柳、元田中",
+    "genre": "居酒屋",
+    "rating": "3.26",
+    "norm": "村屋"
+   },
+   {
+    "no": 1380,
+    "section": "main",
+    "name": "涿屋",
+    "stations": "東梅田、大阪梅田（阪神）、北新地",
+    "genre": "とんかつ、豚料理",
+    "rating": "3.66",
+    "norm": "涿屋"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   }
+  ]
+ },
+ {
+  "name": "幽玄",
+  "kubun": "2つ星",
+  "area": "大阪市天王寺区",
+  "genre": "日本料理",
+  "norm": "幽玄",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "浮田町 いま",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "浮田町いま",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "西天満 市がや",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "西天満市がや",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "なにわ料理 有",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "なにわ料理有",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "東茶屋 なかむら",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "東茶屋なかむら",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "新地 やま本",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "新地やま本",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "米増",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "米増",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1251,
+    "section": "main",
+    "name": "米増",
+    "stations": "福島（ＪＲ西日本）、大阪、福島（阪神）",
+    "genre": "日本料理",
+    "rating": "4.35",
+    "norm": "米増"
+   }
+  ]
+ },
+ {
+  "name": "翠 大屋",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "翠大屋",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 641,
+    "section": "main",
+    "name": "石田屋",
+    "stations": "上板橋",
+    "genre": "和菓子、ケーキ、どら焼き",
+    "rating": "3.70",
+    "norm": "石田屋"
+   },
+   {
+    "no": 642,
+    "section": "main",
+    "name": "千葉屋",
+    "stations": "浅草（つくばＥＸＰ）、浅草（東武・都営・メトロ）、田原町",
+    "genre": "焼き芋・大学芋、和菓子、スイーツ",
+    "rating": "3.79",
+    "norm": "千葉屋"
+   },
+   {
+    "no": 660,
+    "section": "main",
+    "name": "一元屋",
+    "stations": "半蔵門、麹町、永田町",
+    "genre": "和菓子",
+    "rating": "3.71",
+    "norm": "一元屋"
+   }
+  ]
+ },
+ {
+  "name": "是しん",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "是しん",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1184,
+    "section": "main",
+    "name": "是しん",
+    "stations": "大江橋、淀屋橋、なにわ橋",
+    "genre": "日本料理",
+    "rating": "3.90",
+    "norm": "是しん"
+   }
+  ]
+ },
+ {
+  "name": "懐食 清水",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "懐食清水",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "御料理 堀川",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "御料理堀川",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1204,
+    "section": "main",
+    "name": "御料理 光安",
+    "stations": "二条、二条城前",
+    "genre": "日本料理",
+    "rating": "3.89",
+    "norm": "御料理光安"
+   },
+   {
+    "no": 1205,
+    "section": "main",
+    "name": "御料理 樋渡",
+    "stations": "丸太町（京都市営）、烏丸御池、京都市役所前",
+    "genre": "日本料理",
+    "rating": "3.95",
+    "norm": "御料理樋渡"
+   }
+  ]
+ },
+ {
+  "name": "割烹 いわき",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "割烹いわき",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "柏屋 大阪北新地",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "柏屋大阪北新地",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "料理屋 稲家",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "料理屋稲家",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "緒乃",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "緒乃",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1072,
+    "section": "main",
+    "name": "緒乃",
+    "stations": "北新地、西梅田、大江橋",
+    "genre": "日本料理",
+    "rating": "4.19",
+    "norm": "緒乃"
+   }
+  ]
+ },
+ {
+  "name": "お料理 山田",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "お料理山田",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1087,
+    "section": "main",
+    "name": "お料理 宮本",
+    "stations": "大阪天満宮、南森町、扇町",
+    "genre": "日本料理",
+    "rating": "3.87",
+    "norm": "お料理宮本"
+   },
+   {
+    "no": 1090,
+    "section": "main",
+    "name": "お料理 直心",
+    "stations": "夙川、さくら夙川、苦楽園口",
+    "genre": "日本料理、海鮮",
+    "rating": "3.52",
+    "norm": "お料理直心"
+   }
+  ]
+ },
+ {
+  "name": "老松 喜多川",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "老松喜多川",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "彩葉",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "彩葉",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "楽心",
+  "kubun": "1つ星",
+  "area": "大阪市福島区",
+  "genre": "日本料理",
+  "norm": "楽心",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1228,
+    "section": "main",
+    "name": "空心",
+    "stations": "大阪梅田（阪神）、東梅田、梅田",
+    "genre": "中華料理、四川料理",
+    "rating": "3.49",
+    "norm": "空心"
+   },
+   {
+    "no": 1364,
+    "section": "main",
+    "name": "蓮心",
+    "stations": "大江橋、北新地、東梅田",
+    "genre": "中華料理",
+    "rating": "4.38",
+    "norm": "蓮心"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   }
+  ]
+ },
+ {
+  "name": "このは",
+  "kubun": "1つ星",
+  "area": "大阪市中央区",
+  "genre": "日本料理",
+  "norm": "このは",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "桝田",
+  "kubun": "1つ星",
+  "area": "大阪市中央区",
+  "genre": "日本料理",
+  "norm": "桝田",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1208,
+    "section": "main",
+    "name": "飯田",
+    "stations": "京都市役所前、烏丸御池、三条",
+    "genre": "日本料理",
+    "rating": "4.58",
+    "norm": "飯田"
+   },
+   {
+    "no": 1241,
+    "section": "main",
+    "name": "前田",
+    "stations": "祇園四条、京都河原町、清水五条",
+    "genre": "日本料理",
+    "rating": "3.88",
+    "norm": "前田"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   }
+  ]
+ },
+ {
+  "name": "味吉兆 ぶんぶ庵",
+  "kubun": "1つ星",
+  "area": "大阪市中央区",
+  "genre": "日本料理",
+  "norm": "味吉兆ぶんぶ庵",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "西心斎橋 ゆうの",
+  "kubun": "1つ星",
+  "area": "大阪市中央区",
+  "genre": "日本料理",
+  "norm": "西心斎橋ゆうの",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "伏見町 栫山",
+  "kubun": "1つ星",
+  "area": "大阪市中央区",
+  "genre": "日本料理",
+  "norm": "伏見町栫山",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "にしの",
+  "kubun": "1つ星",
+  "area": "大阪市西区",
+  "genre": "日本料理",
+  "norm": "にしの",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 479,
+    "section": "main",
+    "name": "いし橋",
+    "stations": "末広町、湯島、御茶ノ水",
+    "genre": "すき焼き",
+    "rating": "3.62",
+    "norm": "いし橋"
+   },
+   {
+    "no": 1184,
+    "section": "main",
+    "name": "是しん",
+    "stations": "大江橋、淀屋橋、なにわ橋",
+    "genre": "日本料理",
+    "rating": "3.90",
+    "norm": "是しん"
+   },
+   {
+    "no": 1213,
+    "section": "main",
+    "name": "こにし家",
+    "stations": "三田",
+    "genre": "日本料理",
+    "rating": "3.90",
+    "norm": "こにし家"
+   }
+  ]
+ },
+ {
+  "name": "味吉兆 堀江店",
+  "kubun": "1つ星",
+  "area": "大阪市西区",
+  "genre": "日本料理",
+  "norm": "味吉兆堀江店",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "八盂",
+  "kubun": "1つ星",
+  "area": "大阪市天王寺区",
+  "genre": "日本料理",
+  "norm": "八盂",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "日本料理 寺田",
+  "kubun": "1つ星",
+  "area": "大阪市天王寺区",
+  "genre": "日本料理",
+  "norm": "日本料理寺田",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 181,
+    "section": "main",
+    "name": "日本料理 山崎",
+    "stations": "宝町、京橋、銀座一丁目",
+    "genre": "日本料理、うなぎ",
+    "rating": "4.09",
+    "norm": "日本料理山崎"
+   },
+   {
+    "no": 286,
+    "section": "main",
+    "name": "日本料理 太月",
+    "stations": "表参道、明治神宮前、渋谷",
+    "genre": "日本料理",
+    "rating": "4.13",
+    "norm": "日本料理太月"
+   },
+   {
+    "no": 520,
+    "section": "main",
+    "name": "日本料理 久丹",
+    "stations": "新富町、築地、八丁堀",
+    "genre": "日本料理",
+    "rating": "4.01",
+    "norm": "日本料理久丹"
+   },
+   {
+    "no": 594,
+    "section": "main",
+    "name": "日本料理 晴山",
+    "stations": "田町、白金高輪、三田",
+    "genre": "日本料理",
+    "rating": "4.48",
+    "norm": "日本料理晴山"
+   }
+  ]
+ },
+ {
+  "name": "片町 川口",
+  "kubun": "1つ星",
+  "area": "大阪市都島区",
+  "genre": "日本料理",
+  "norm": "片町川口",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "一汁二菜 うえの 箕面店",
+  "kubun": "1つ星",
+  "area": "箕面市",
+  "genre": "日本料理",
+  "norm": "一汁二菜うえの箕面店",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "お料理 雨ニモマケズ",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "お料理雨ニモマケズ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "酒肴 大阪まんぷく堂",
+  "kubun": "ビブグルマン",
+  "area": "大阪市東成区",
+  "genre": "日本料理",
+  "norm": "酒肴大阪まんぷく堂",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ふくのや",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "ふくのや",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "なにわ料理 さと有",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "なにわ料理さと有",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "北新地 大嵓埜",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "北新地大嵓埜",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "浪速割烹 昇",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "浪速割烹昇",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "踝（くるぶし）",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "踝くるぶし",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "かわ原",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "かわ原",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 226,
+    "section": "main",
+    "name": "みかわや",
+    "stations": "銀座、東銀座、銀座一丁目",
+    "genre": "洋食、コロッケ、ステーキ",
+    "rating": "3.69",
+    "norm": "みかわや"
+   },
+   {
+    "no": 246,
+    "section": "main",
+    "name": "宮わき",
+    "stations": "赤羽橋、芝公園、麻布十番",
+    "genre": "日本料理",
+    "rating": "3.90",
+    "norm": "宮わき"
+   },
+   {
+    "no": 648,
+    "section": "main",
+    "name": "かどや",
+    "stations": "北千住、小菅",
+    "genre": "和菓子",
+    "rating": "3.74",
+    "norm": "かどや"
+   },
+   {
+    "no": 798,
+    "section": "main",
+    "name": "かんだ",
+    "stations": "虎ノ門ヒルズ、神谷町、虎ノ門",
+    "genre": "日本料理",
+    "rating": "4.15",
+    "norm": "かんだ"
+   }
+  ]
+ },
+ {
+  "name": "弧柳 継心",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "弧柳継心",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1079,
+    "section": "main",
+    "name": "弧柳",
+    "stations": "北浜、堺筋本町、天満橋",
+    "genre": "日本料理",
+    "rating": "3.84",
+    "norm": "弧柳"
+   }
+  ]
+ },
+ {
+  "name": "きたしんち 弓場慎之佑",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "きたしんち弓場慎之佑",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "北新地 魚菜 まさ志",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "北新地魚菜まさ志",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "和食 いいくら",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "和食いいくら",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1073,
+    "section": "main",
+    "name": "和食 いいくら",
+    "stations": "南森町、なにわ橋、大阪天満宮",
+    "genre": "日本料理",
+    "rating": "3.80",
+    "norm": "和食いいくら"
+   }
+  ]
+ },
+ {
+  "name": "天満橋 藤かわ",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "天満橋藤かわ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "同心町 和食 瑞",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "同心町和食瑞",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "雲鶴",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "雲鶴",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "生成",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "日本料理",
+  "norm": "生成",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 475,
+    "section": "main",
+    "name": "生粋",
+    "stations": "末広町、湯島、上野広小路",
+    "genre": "焼肉、ホルモン",
+    "rating": "3.69",
+    "norm": "生粋"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   }
+  ]
+ },
+ {
+  "name": "御料理 野々原",
+  "kubun": "セレクテッド",
+  "area": "大阪市福島区",
+  "genre": "日本料理",
+  "norm": "御料理野々原",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "大月",
+  "kubun": "セレクテッド",
+  "area": "大阪市福島区",
+  "genre": "日本料理",
+  "norm": "大月",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 1024,
+    "section": "main",
+    "name": "大栄",
+    "stations": "摩耶、王子公園、大石",
+    "genre": "鉄板焼き、ステーキ",
+    "rating": "3.64",
+    "norm": "大栄"
+   },
+   {
+    "no": 1099,
+    "section": "main",
+    "name": "満月",
+    "stations": "西元町、花隈、みなと元町",
+    "genre": "焼肉、ホルモン",
+    "rating": "3.70",
+    "norm": "満月"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   }
+  ]
+ },
+ {
+  "name": "カミノザ",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "日本料理",
+  "norm": "カミノザ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "たけだ",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "日本料理",
+  "norm": "たけだ",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 155,
+    "section": "main",
+    "name": "おけ以",
+    "stations": "飯田橋、九段下、牛込神楽坂",
+    "genre": "餃子、中華料理",
+    "rating": "3.55",
+    "norm": "おけ以"
+   },
+   {
+    "no": 235,
+    "section": "main",
+    "name": "佐たけ",
+    "stations": "築地市場、東銀座、新橋",
+    "genre": "寿司、海鮮",
+    "rating": "3.84",
+    "norm": "佐たけ"
+   },
+   {
+    "no": 798,
+    "section": "main",
+    "name": "かんだ",
+    "stations": "虎ノ門ヒルズ、神谷町、虎ノ門",
+    "genre": "日本料理",
+    "rating": "4.15",
+    "norm": "かんだ"
+   }
+  ]
+ },
+ {
+  "name": "すぎまち",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "日本料理",
+  "norm": "すぎまち",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "輝 kirari",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "日本料理",
+  "norm": "輝kirari",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "旬膳 季らく",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "日本料理",
+  "norm": "旬膳季らく",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "翠 岡﨑",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "日本料理",
+  "norm": "翠岡崎",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 559,
+    "section": "main",
+    "name": "くろ﨑",
+    "stations": "表参道、外苑前、乃木坂",
+    "genre": "寿司",
+    "rating": "4.39",
+    "norm": "くろ崎"
+   },
+   {
+    "no": 567,
+    "section": "main",
+    "name": "山﨑",
+    "stations": "乃木坂、六本木、表参道",
+    "genre": "日本料理、海鮮",
+    "rating": "4.42",
+    "norm": "山崎"
+   }
+  ]
+ },
+ {
+  "name": "新町 あだち",
+  "kubun": "セレクテッド",
+  "area": "大阪市西区",
+  "genre": "日本料理",
+  "norm": "新町あだち",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1166,
+    "section": "main",
+    "name": "新町あだち",
+    "stations": "西長堀、西大橋、阿波座",
+    "genre": "日本料理、海鮮",
+    "rating": "3.79",
+    "norm": "新町あだち"
+   }
+  ]
+ },
+ {
+  "name": "靱本町 がく",
+  "kubun": "セレクテッド",
+  "area": "大阪市西区",
+  "genre": "日本料理",
+  "norm": "靱本町がく",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "庖山（ほうざん）",
+  "kubun": "セレクテッド",
+  "area": "大阪市天王寺区",
+  "genre": "日本料理",
+  "norm": "庖山ほうざん",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "御料理 松むら",
+  "kubun": "セレクテッド",
+  "area": "大阪市城東区",
+  "genre": "日本料理",
+  "norm": "御料理松むら",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "鮨 原正",
+  "kubun": "2つ星",
+  "area": "大阪市天王寺区",
+  "genre": "寿司",
+  "norm": "鮨原正",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 328,
+    "section": "main",
+    "name": "鮨竹",
+    "stations": "銀座、東銀座、新橋",
+    "genre": "寿司",
+    "rating": "3.74",
+    "norm": "鮨竹"
+   },
+   {
+    "no": 343,
+    "section": "main",
+    "name": "鮨 太一",
+    "stations": "銀座、日比谷、有楽町",
+    "genre": "寿司",
+    "rating": "3.76",
+    "norm": "鮨太一"
+   },
+   {
+    "no": 456,
+    "section": "main",
+    "name": "鮨 浩也",
+    "stations": "大門、御成門、浜松町",
+    "genre": "寿司、日本料理",
+    "rating": "3.73",
+    "norm": "鮨浩也"
+   },
+   {
+    "no": 528,
+    "section": "main",
+    "name": "鮨 一幸",
+    "stations": "東銀座、銀座、築地市場",
+    "genre": "寿司",
+    "rating": "4.63",
+    "norm": "鮨一幸"
+   }
+  ]
+ },
+ {
+  "name": "鮨 重永",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "寿司",
+  "norm": "鮨重永",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 328,
+    "section": "main",
+    "name": "鮨竹",
+    "stations": "銀座、東銀座、新橋",
+    "genre": "寿司",
+    "rating": "3.74",
+    "norm": "鮨竹"
+   },
+   {
+    "no": 343,
+    "section": "main",
+    "name": "鮨 太一",
+    "stations": "銀座、日比谷、有楽町",
+    "genre": "寿司",
+    "rating": "3.76",
+    "norm": "鮨太一"
+   },
+   {
+    "no": 456,
+    "section": "main",
+    "name": "鮨 浩也",
+    "stations": "大門、御成門、浜松町",
+    "genre": "寿司、日本料理",
+    "rating": "3.73",
+    "norm": "鮨浩也"
+   },
+   {
+    "no": 528,
+    "section": "main",
+    "name": "鮨 一幸",
+    "stations": "東銀座、銀座、築地市場",
+    "genre": "寿司",
+    "rating": "4.63",
+    "norm": "鮨一幸"
+   }
+  ]
+ },
+ {
+  "name": "鮨 ほしやま",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "寿司",
+  "norm": "鮨ほしやま",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "鮨 村上二郎",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "寿司",
+  "norm": "鮨村上二郎",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1381,
+    "section": "main",
+    "name": "鮨 村上二郎",
+    "stations": "北新地、西梅田、東梅田",
+    "genre": "寿司",
+    "rating": "3.75",
+    "norm": "鮨村上二郎"
+   }
+  ]
+ },
+ {
+  "name": "鮨 三心",
+  "kubun": "1つ星",
+  "area": "大阪市中央区",
+  "genre": "寿司",
+  "norm": "鮨三心",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1183,
+    "section": "main",
+    "name": "鮨 三心",
+    "stations": "谷町六丁目、谷町四丁目、松屋町",
+    "genre": "寿司",
+    "rating": "4.62",
+    "norm": "鮨三心"
+   }
+  ]
+ },
+ {
+  "name": "寿し處 あま野",
+  "kubun": "1つ星",
+  "area": "大阪市天王寺区",
+  "genre": "寿司",
+  "norm": "寿し處あま野",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "松寿司 たにがわ",
+  "kubun": "1つ星",
+  "area": "大阪市阿倍野区",
+  "genre": "寿司",
+  "norm": "松寿司たにがわ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "あかとしろ",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "寿司",
+  "norm": "あかとしろ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "寿司処 かい原",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "寿司",
+  "norm": "寿司処かい原",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1382,
+    "section": "main",
+    "name": "寿司処 かい原",
+    "stations": "天満、扇町、天神橋筋六丁目",
+    "genre": "寿司、海鮮、日本料理",
+    "rating": "3.62",
+    "norm": "寿司処かい原"
+   }
+  ]
+ },
+ {
+  "name": "寿司常",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "寿司",
+  "norm": "寿司常",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 233,
+    "section": "main",
+    "name": "寿司 健",
+    "stations": "東銀座、銀座、築地市場",
+    "genre": "寿司",
+    "rating": "3.87",
+    "norm": "寿司健"
+   }
+  ]
+ },
+ {
+  "name": "さか本 鮨",
+  "kubun": "ビブグルマン",
+  "area": "大阪市此花区",
+  "genre": "寿司",
+  "norm": "さか本鮨",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "鮓処 しん",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "寿司",
+  "norm": "鮓処しん",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1184,
+    "section": "main",
+    "name": "是しん",
+    "stations": "大江橋、淀屋橋、なにわ橋",
+    "genre": "日本料理",
+    "rating": "3.90",
+    "norm": "是しん"
+   }
+  ]
+ },
+ {
+  "name": "鮨 ゑにし",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "寿司",
+  "norm": "鮨ゑにし",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1238,
+    "section": "main",
+    "name": "祇園 にし",
+    "stations": "祇園四条、京都河原町、東山",
+    "genre": "日本料理",
+    "rating": "4.17",
+    "norm": "祇園にし"
+   }
+  ]
+ },
+ {
+  "name": "寿し処 黒杉 心貫",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "寿司",
+  "norm": "寿し処黒杉心貫",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "鮨ろく",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "寿司",
+  "norm": "鮨ろく",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 328,
+    "section": "main",
+    "name": "鮨竹",
+    "stations": "銀座、東銀座、新橋",
+    "genre": "寿司",
+    "rating": "3.74",
+    "norm": "鮨竹"
+   },
+   {
+    "no": 343,
+    "section": "main",
+    "name": "鮨 太一",
+    "stations": "銀座、日比谷、有楽町",
+    "genre": "寿司",
+    "rating": "3.76",
+    "norm": "鮨太一"
+   },
+   {
+    "no": 450,
+    "section": "main",
+    "name": "ひろ作",
+    "stations": "新橋、内幸町、汐留",
+    "genre": "日本料理",
+    "rating": "3.88",
+    "norm": "ひろ作"
+   },
+   {
+    "no": 456,
+    "section": "main",
+    "name": "鮨 浩也",
+    "stations": "大門、御成門、浜松町",
+    "genre": "寿司、日本料理",
+    "rating": "3.73",
+    "norm": "鮨浩也"
+   }
+  ]
+ },
+ {
+  "name": "寿司 丸峯",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "寿司",
+  "norm": "寿司丸峯",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 233,
+    "section": "main",
+    "name": "寿司 健",
+    "stations": "東銀座、銀座、築地市場",
+    "genre": "寿司",
+    "rating": "3.87",
+    "norm": "寿司健"
+   }
+  ]
+ },
+ {
+  "name": "鮨笑 ねはち",
+  "kubun": "セレクテッド",
+  "area": "大阪市福島区",
+  "genre": "寿司",
+  "norm": "鮨笑ねはち",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "鮨 たく未",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "寿司",
+  "norm": "鮨たく未",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "鮨 一永",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "寿司",
+  "norm": "鮨一永",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 528,
+    "section": "main",
+    "name": "鮨 一幸",
+    "stations": "東銀座、銀座、築地市場",
+    "genre": "寿司",
+    "rating": "4.63",
+    "norm": "鮨一幸"
+   },
+   {
+    "no": 328,
+    "section": "main",
+    "name": "鮨竹",
+    "stations": "銀座、東銀座、新橋",
+    "genre": "寿司",
+    "rating": "3.74",
+    "norm": "鮨竹"
+   },
+   {
+    "no": 343,
+    "section": "main",
+    "name": "鮨 太一",
+    "stations": "銀座、日比谷、有楽町",
+    "genre": "寿司",
+    "rating": "3.76",
+    "norm": "鮨太一"
+   },
+   {
+    "no": 377,
+    "section": "main",
+    "name": "一宇",
+    "stations": "飯田橋、牛込神楽坂、神楽坂",
+    "genre": "日本料理、寿司",
+    "rating": "3.74",
+    "norm": "一宇"
+   }
+  ]
+ },
+ {
+  "name": "寿し 京町堀 佐藤",
+  "kubun": "セレクテッド",
+  "area": "大阪市西区",
+  "genre": "寿司",
+  "norm": "寿し京町堀佐藤",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "鮨 悠伝",
+  "kubun": "セレクテッド",
+  "area": "大阪市天王寺区",
+  "genre": "寿司",
+  "norm": "鮨悠伝",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 328,
+    "section": "main",
+    "name": "鮨竹",
+    "stations": "銀座、東銀座、新橋",
+    "genre": "寿司",
+    "rating": "3.74",
+    "norm": "鮨竹"
+   },
+   {
+    "no": 343,
+    "section": "main",
+    "name": "鮨 太一",
+    "stations": "銀座、日比谷、有楽町",
+    "genre": "寿司",
+    "rating": "3.76",
+    "norm": "鮨太一"
+   },
+   {
+    "no": 456,
+    "section": "main",
+    "name": "鮨 浩也",
+    "stations": "大門、御成門、浜松町",
+    "genre": "寿司、日本料理",
+    "rating": "3.73",
+    "norm": "鮨浩也"
+   },
+   {
+    "no": 528,
+    "section": "main",
+    "name": "鮨 一幸",
+    "stations": "東銀座、銀座、築地市場",
+    "genre": "寿司",
+    "rating": "4.63",
+    "norm": "鮨一幸"
+   }
+  ]
+ },
+ {
+  "name": "すし処 広川",
+  "kubun": "セレクテッド",
+  "area": "大阪市城東区",
+  "genre": "寿司",
+  "norm": "すし処広川",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 265,
+    "section": "main",
+    "name": "すし処 宮葉",
+    "stations": "浜松町、大門、竹芝",
+    "genre": "寿司",
+    "rating": "3.66",
+    "norm": "すし処宮葉"
+   },
+   {
+    "no": 1358,
+    "section": "main",
+    "name": "すし処 智",
+    "stations": "日本橋、近鉄日本橋、長堀橋",
+    "genre": "寿司、海鮮、鍋",
+    "rating": "3.45",
+    "norm": "すし処智"
+   }
+  ]
+ },
+ {
+  "name": "千成寿司",
+  "kubun": "セレクテッド",
+  "area": "大阪市東淀川区",
+  "genre": "寿司",
+  "norm": "千成寿司",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1361,
+    "section": "main",
+    "name": "大和寿司",
+    "stations": "市場前、新豊洲、有明テニスの森",
+    "genre": "寿司",
+    "rating": "3.63",
+    "norm": "大和寿司"
+   }
+  ]
+ },
+ {
+  "name": "ぬま田",
+  "kubun": "2つ星",
+  "area": "大阪市北区",
+  "genre": "天ぷら",
+  "norm": "ぬま田",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 249,
+    "section": "main",
+    "name": "新まき",
+    "stations": "赤羽橋、芝公園、麻布十番",
+    "genre": "焼き鳥、日本料理",
+    "rating": "3.74",
+    "norm": "新まき"
+   },
+   {
+    "no": 542,
+    "section": "main",
+    "name": "きよ田",
+    "stations": "銀座、日比谷、有楽町",
+    "genre": "寿司",
+    "rating": "4.07",
+    "norm": "きよ田"
+   },
+   {
+    "no": 696,
+    "section": "main",
+    "name": "天まめ",
+    "stations": "築地、新富町、東銀座",
+    "genre": "和菓子",
+    "rating": "3.75",
+    "norm": "天まめ"
+   },
+   {
+    "no": 924,
+    "section": "main",
+    "name": "肴房 田",
+    "stations": "郡山富田、郡山",
+    "genre": "居酒屋、創作料理",
+    "rating": "3.06",
+    "norm": "肴房田"
+   }
+  ]
+ },
+ {
+  "name": "旬彩天 つちや",
+  "kubun": "2つ星",
+  "area": "吹田市",
+  "genre": "天ぷら",
+  "norm": "旬彩天つちや",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ぬまた 双",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "天ぷら",
+  "norm": "ぬまた双",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "天麩羅 ひらいし",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "天ぷら",
+  "norm": "天麩羅ひらいし",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "天星",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "天ぷら",
+  "norm": "天星",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 707,
+    "section": "main",
+    "name": "天音",
+    "stations": "吉祥寺、井の頭公園",
+    "genre": "たい焼き・大判焼き",
+    "rating": "3.72",
+    "norm": "天音"
+   },
+   {
+    "no": 771,
+    "section": "main",
+    "name": "天茂",
+    "stations": "赤坂、溜池山王、赤坂見附",
+    "genre": "天ぷら",
+    "rating": "3.57",
+    "norm": "天茂"
+   },
+   {
+    "no": 1247,
+    "section": "main",
+    "name": "福星",
+    "stations": "県庁前、元町（ＪＲ）、元町（阪神）",
+    "genre": "中華料理",
+    "rating": "3.78",
+    "norm": "福星"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   }
+  ]
+ },
+ {
+  "name": "天ぷら こざき",
+  "kubun": "ビブグルマン",
+  "area": "大阪市阿倍野区",
+  "genre": "天ぷら",
+  "norm": "天ぷらこざき",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "天ぷら 花筐",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "天ぷら",
+  "norm": "天ぷら花筐",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 447,
+    "section": "main",
+    "name": "天ぷら 逢坂",
+    "stations": "虎ノ門ヒルズ、虎ノ門、内幸町",
+    "genre": "天ぷら",
+    "rating": "3.66",
+    "norm": "天ぷら逢坂"
+   },
+   {
+    "no": 517,
+    "section": "main",
+    "name": "天ぷら浅沼",
+    "stations": "日本橋、茅場町、三越前",
+    "genre": "天ぷら",
+    "rating": "4.46",
+    "norm": "天ぷら浅沼"
+   }
+  ]
+ },
+ {
+  "name": "天ぷら ふか名",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "天ぷら",
+  "norm": "天ぷらふか名",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "OIMATSU てんぷら 鈴木",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "天ぷら",
+  "norm": "oimatsuてんぷら鈴木",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "新太呂",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "天ぷら",
+  "norm": "新太呂",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 249,
+    "section": "main",
+    "name": "新まき",
+    "stations": "赤羽橋、芝公園、麻布十番",
+    "genre": "焼き鳥、日本料理",
+    "rating": "3.74",
+    "norm": "新まき"
+   },
+   {
+    "no": 343,
+    "section": "main",
+    "name": "鮨 太一",
+    "stations": "銀座、日比谷、有楽町",
+    "genre": "寿司",
+    "rating": "3.76",
+    "norm": "鮨太一"
+   },
+   {
+    "no": 673,
+    "section": "main",
+    "name": "徳太樓",
+    "stations": "浅草（つくばＥＸＰ）、浅草（東武・都営・メトロ）、田原町",
+    "genre": "和菓子",
+    "rating": "3.73",
+    "norm": "徳太樓"
+   },
+   {
+    "no": 728,
+    "section": "main",
+    "name": "桃太郎",
+    "stations": "浅草（つくばＥＸＰ）、田原町、浅草（東武・都営・メトロ）",
+    "genre": "和菓子",
+    "rating": "3.70",
+    "norm": "桃太郎"
+   }
+  ]
+ },
+ {
+  "name": "ご馳走 ね音",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "天ぷら",
+  "norm": "ご馳走ね音",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "天ぷら うらかみ",
+  "kubun": "セレクテッド",
+  "area": "大阪市福島区",
+  "genre": "天ぷら",
+  "norm": "天ぷらうらかみ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "旬天 伸",
+  "kubun": "セレクテッド",
+  "area": "大阪市天王寺区",
+  "genre": "天ぷら",
+  "norm": "旬天伸",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 707,
+    "section": "main",
+    "name": "天音",
+    "stations": "吉祥寺、井の頭公園",
+    "genre": "たい焼き・大判焼き",
+    "rating": "3.72",
+    "norm": "天音"
+   },
+   {
+    "no": 771,
+    "section": "main",
+    "name": "天茂",
+    "stations": "赤坂、溜池山王、赤坂見附",
+    "genre": "天ぷら",
+    "rating": "3.57",
+    "norm": "天茂"
+   },
+   {
+    "no": 1143,
+    "section": "main",
+    "name": "旬ぎく",
+    "stations": "肥後橋、本町、渡辺橋",
+    "genre": "串揚げ、創作料理",
+    "rating": "3.39",
+    "norm": "旬ぎく"
+   }
+  ]
+ },
+ {
+  "name": "ラ・シーム",
+  "kubun": "2つ星",
+  "area": "大阪市中央区",
+  "genre": "フランス料理",
+  "norm": "ラシーム",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "エンパティ",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "フランス料理",
+  "norm": "エンパティ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ピエール",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "フランス料理",
+  "norm": "ピエール",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1322,
+    "section": "main",
+    "name": "ピエール",
+    "stations": "大阪梅田（阪急）、中津（阪急）、大阪",
+    "genre": "フレンチ",
+    "rating": "3.59",
+    "norm": "ピエール"
+   }
+  ]
+ },
+ {
+  "name": "ラ・ベ",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "フランス料理",
+  "norm": "ラベ",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1200,
+    "section": "main",
+    "name": "ラ・ベ",
+    "stations": "西梅田、北新地、福島（阪神）",
+    "genre": "フレンチ",
+    "rating": "4.04",
+    "norm": "ラベ"
+   }
+  ]
+ },
+ {
+  "name": "アドック",
+  "kubun": "1つ星",
+  "area": "大阪市福島区",
+  "genre": "フランス料理",
+  "norm": "アドック",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1076,
+    "section": "main",
+    "name": "ベック",
+    "stations": "県庁前、元町（ＪＲ）、元町（阪神）",
+    "genre": "ビストロ、ワインバー",
+    "rating": "3.79",
+    "norm": "ベック"
+   }
+  ]
+ },
+ {
+  "name": "ポワン",
+  "kubun": "1つ星",
+  "area": "大阪市福島区",
+  "genre": "フランス料理",
+  "norm": "ポワン",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ラ・ベカス",
+  "kubun": "1つ星",
+  "area": "大阪市中央区",
+  "genre": "フランス料理",
+  "norm": "ラベカス",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1200,
+    "section": "main",
+    "name": "ラ・ベ",
+    "stations": "西梅田、北新地、福島（阪神）",
+    "genre": "フレンチ",
+    "rating": "4.04",
+    "norm": "ラベ"
+   },
+   {
+    "no": 383,
+    "section": "main",
+    "name": "ラトラス",
+    "stations": "神楽坂、牛込神楽坂、飯田橋",
+    "genre": "フレンチ",
+    "rating": "3.72",
+    "norm": "ラトラス"
+   }
+  ]
+ },
+ {
+  "name": "ルポンドシエル",
+  "kubun": "1つ星",
+  "area": "大阪市中央区",
+  "genre": "フランス料理",
+  "norm": "ルポンドシエル",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1138,
+    "section": "main",
+    "name": "ルポンドシエル",
+    "stations": "淀屋橋、大江橋、なにわ橋",
+    "genre": "フレンチ、洋食、創作料理",
+    "rating": "3.78",
+    "norm": "ルポンドシエル"
+   }
+  ]
+ },
+ {
+  "name": "シナエ",
+  "kubun": "1つ星",
+  "area": "大阪市中央区",
+  "genre": "フランス料理",
+  "norm": "シナエ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "プレスキル",
+  "kubun": "1つ星",
+  "area": "大阪市中央区",
+  "genre": "フランス料理",
+  "norm": "プレスキル",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "イデアル ビストロ",
+  "kubun": "1つ星",
+  "area": "大阪市中央区",
+  "genre": "フランス料理",
+  "norm": "イデアルビストロ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ディファランス",
+  "kubun": "1つ星",
+  "area": "大阪市西区",
+  "genre": "フランス料理",
+  "norm": "ディファランス",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "アニエルドール",
+  "kubun": "1つ星",
+  "area": "大阪市西区",
+  "genre": "フランス料理",
+  "norm": "アニエルドール",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1085,
+    "section": "main",
+    "name": "アニエルドール",
+    "stations": "阿波座、本町、西大橋",
+    "genre": "フレンチ",
+    "rating": "4.11",
+    "norm": "アニエルドール"
+   }
+  ]
+ },
+ {
+  "name": "ディーバ",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "フランス料理",
+  "norm": "ディーバ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ラ ボンヌ ターシュ",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "フランス料理",
+  "norm": "ラボンヌターシュ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ビストロ ヌフ",
+  "kubun": "ビブグルマン",
+  "area": "大阪市中央区",
+  "genre": "フランス料理",
+  "norm": "ビストロヌフ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "オー ソレイユ クーシャン",
+  "kubun": "ビブグルマン",
+  "area": "大阪市天王寺区",
+  "genre": "フランス料理",
+  "norm": "オーソレイユクーシャン",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "レ・スヴニール",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "フランス料理",
+  "norm": "レスヴニール",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ル プログレ",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "フランス料理",
+  "norm": "ルプログレ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ヴァリエ",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "フランス料理",
+  "norm": "ヴァリエ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ラ・カンロ",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "フランス料理",
+  "norm": "ラカンロ",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1199,
+    "section": "main",
+    "name": "ラ カンロ",
+    "stations": "南森町、大阪天満宮、なにわ橋",
+    "genre": "イノベーティブ、フレンチ",
+    "rating": "4.26",
+    "norm": "ラカンロ"
+   }
+  ]
+ },
+ {
+  "name": "ミチノ・ル・トゥールビヨン",
+  "kubun": "セレクテッド",
+  "area": "大阪市福島区",
+  "genre": "フランス料理",
+  "norm": "ミチノルトゥールビヨン",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "アルティザン",
+  "kubun": "セレクテッド",
+  "area": "大阪市福島区",
+  "genre": "フランス料理",
+  "norm": "アルティザン",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ブラッスリーレジーヌ",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "フランス料理",
+  "norm": "ブラッスリーレジーヌ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "マキュア",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "フランス料理",
+  "norm": "マキュア",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 931,
+    "section": "main",
+    "name": "マデュロ",
+    "stations": "六本木、麻布十番、乃木坂",
+    "genre": "バー",
+    "rating": "3.57",
+    "norm": "マデュロ"
+   }
+  ]
+ },
+ {
+  "name": "NELU 高麗橋",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "フランス料理",
+  "norm": "nelu高麗橋",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ル カネトン",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "フランス料理",
+  "norm": "ルカネトン",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ル ネ",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "フランス料理",
+  "norm": "ルネ",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1011,
+    "section": "main",
+    "name": "カルネジーオ ウエスト",
+    "stations": "大阪梅田（阪急）、梅田、中津（大阪メトロ）",
+    "genre": "ステーキ、イタリアン、ビストロ",
+    "rating": "3.59",
+    "norm": "カルネジーオウエスト"
+   },
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   }
+  ]
+ },
+ {
+  "name": "カメキチ",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "フランス料理",
+  "norm": "カメキチ",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 66,
+    "section": "main",
+    "name": "カメリア",
+    "stations": "東京、二重橋前、京橋",
+    "genre": "カフェ、バー",
+    "rating": "3.58",
+    "norm": "カメリア"
+   }
+  ]
+ },
+ {
+  "name": "ルイーズ",
+  "kubun": "セレクテッド",
+  "area": "大阪市西区",
+  "genre": "フランス料理",
+  "norm": "ルイーズ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ゲンソ",
+  "kubun": "セレクテッド",
+  "area": "大阪市浪速区",
+  "genre": "フランス料理",
+  "norm": "ゲンソ",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 349,
+    "section": "main",
+    "name": "レンゲ",
+    "stations": "銀座、内幸町、新橋",
+    "genre": "中華料理、イノベーティブ",
+    "rating": "3.75",
+    "norm": "レンゲ"
+   }
+  ]
+ },
+ {
+  "name": "クーデキヨ",
+  "kubun": "セレクテッド",
+  "area": "大阪市淀川区",
+  "genre": "フランス料理",
+  "norm": "クーデキヨ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ユニコ",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "イタリア料理",
+  "norm": "ユニコ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ピ・グレコ",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "イタリア料理",
+  "norm": "ピグレコ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ア・カント",
+  "kubun": "1つ星",
+  "area": "大阪市中央区",
+  "genre": "イタリア料理",
+  "norm": "アカント",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 516,
+    "section": "main",
+    "name": "アカ",
+    "stations": "三越前、新日本橋、日本橋",
+    "genre": "スペイン料理",
+    "rating": "4.67",
+    "norm": "アカ"
+   },
+   {
+    "no": 1199,
+    "section": "main",
+    "name": "ラ カンロ",
+    "stations": "南森町、大阪天満宮、なにわ橋",
+    "genre": "イノベーティブ、フレンチ",
+    "rating": "4.26",
+    "norm": "ラカンロ"
+   },
+   {
+    "no": 1215,
+    "section": "main",
+    "name": "カセント",
+    "stations": "県庁前、元町（ＪＲ）、元町（阪神）",
+    "genre": "イノベーティブ、スペイン料理",
+    "rating": "4.30",
+    "norm": "カセント"
+   }
+  ]
+ },
+ {
+  "name": "イル ルォーゴ ディ・タケウチ",
+  "kubun": "ビブグルマン",
+  "area": "大阪市福島区",
+  "genre": "イタリア料理",
+  "norm": "イルルォーゴディタケウチ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ヴィア デル エンメ",
+  "kubun": "ビブグルマン",
+  "area": "大阪市福島区",
+  "genre": "イタリア料理",
+  "norm": "ヴィアデルエンメ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "マカウダ",
+  "kubun": "ビブグルマン",
+  "area": "大阪市中央区",
+  "genre": "イタリア料理",
+  "norm": "マカウダ",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1255,
+    "section": "main",
+    "name": "マカウダ",
+    "stations": "谷町四丁目、堺筋本町、谷町六丁目",
+    "genre": "イタリアン",
+    "rating": "3.68",
+    "norm": "マカウダ"
+   }
+  ]
+ },
+ {
+  "name": "プレスト",
+  "kubun": "ビブグルマン",
+  "area": "大阪市西区",
+  "genre": "イタリア料理",
+  "norm": "プレスト",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "オステリア・ラ・チチェルキア",
+  "kubun": "ビブグルマン",
+  "area": "大阪市西区",
+  "genre": "イタリア料理",
+  "norm": "オステリアラチチェルキア",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "オステリア87",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "イタリア料理",
+  "norm": "オステリア87",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ペブル",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "イタリア料理",
+  "norm": "ペブル",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "クイントカント",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "イタリア料理",
+  "norm": "クイントカント",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1175,
+    "section": "main",
+    "name": "クイントカント",
+    "stations": "渡辺橋、肥後橋、福島（阪神）",
+    "genre": "イタリアン、イノベーティブ",
+    "rating": "3.91",
+    "norm": "クイントカント"
+   }
+  ]
+ },
+ {
+  "name": "ラチェルバ",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "イタリア料理",
+  "norm": "ラチェルバ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "アニュ",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "イタリア料理",
+  "norm": "アニュ",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 516,
+    "section": "main",
+    "name": "アカ",
+    "stations": "三越前、新日本橋、日本橋",
+    "genre": "スペイン料理",
+    "rating": "4.67",
+    "norm": "アカ"
+   }
+  ]
+ },
+ {
+  "name": "ラ ルッチョラ",
+  "kubun": "セレクテッド",
+  "area": "大阪市福島区",
+  "genre": "イタリア料理",
+  "norm": "ラルッチョラ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ニシデリア",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "イタリア料理",
+  "norm": "ニシデリア",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "イゾラータ",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "イタリア料理",
+  "norm": "イゾラータ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ポンテベッキオ",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "イタリア料理",
+  "norm": "ポンテベッキオ",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1254,
+    "section": "main",
+    "name": "ポンテ ベッキオ",
+    "stations": "北浜、なにわ橋、淀屋橋",
+    "genre": "イタリアン",
+    "rating": "3.77",
+    "norm": "ポンテベッキオ"
+   }
+  ]
+ },
+ {
+  "name": "イル・チェントリーノ",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "イタリア料理",
+  "norm": "イルチェントリーノ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "タマネギ",
+  "kubun": "セレクテッド",
+  "area": "大阪市西区",
+  "genre": "イタリア料理",
+  "norm": "タマネギ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "タヴェルネッタ ダ キタヤマ",
+  "kubun": "セレクテッド",
+  "area": "大阪市天王寺区",
+  "genre": "イタリア料理",
+  "norm": "タヴェルネッタダキタヤマ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "シーフ",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "中華料理",
+  "norm": "シーフ",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1421,
+    "section": "main",
+    "name": "マーヤ",
+    "stations": "出町柳、元田中",
+    "genre": "インド料理、インドカレー",
+    "rating": "3.16",
+    "norm": "マーヤ"
+   }
+  ]
+ },
+ {
+  "name": "上方中華 新瓊",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "中華料理",
+  "norm": "上方中華新瓊",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "空心 伽藍堂",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "中華料理",
+  "norm": "空心伽藍堂",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1228,
+    "section": "main",
+    "name": "空心",
+    "stations": "大阪梅田（阪神）、東梅田、梅田",
+    "genre": "中華料理、四川料理",
+    "rating": "3.49",
+    "norm": "空心"
+   }
+  ]
+ },
+ {
+  "name": "アトリエ ハナダ",
+  "kubun": "1つ星",
+  "area": "大阪市中央区",
+  "genre": "中華料理",
+  "norm": "アトリエハナダ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "アズー",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "中華料理",
+  "norm": "アズー",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 516,
+    "section": "main",
+    "name": "アカ",
+    "stations": "三越前、新日本橋、日本橋",
+    "genre": "スペイン料理",
+    "rating": "4.67",
+    "norm": "アカ"
+   },
+   {
+    "no": 913,
+    "section": "main",
+    "name": "ザ・バー",
+    "stations": "六本木、乃木坂、六本木一丁目",
+    "genre": "バー",
+    "rating": "3.52",
+    "norm": "ザバー"
+   }
+  ]
+ },
+ {
+  "name": "中華旬彩 森本",
+  "kubun": "ビブグルマン",
+  "area": "大阪市中央区",
+  "genre": "中華料理",
+  "norm": "中華旬彩森本",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "江南春",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "中華料理",
+  "norm": "江南春",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "和牛中國菜 熊ノ花レ",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "中華料理",
+  "norm": "和牛中國菜熊ノ花レ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "魔都",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "中華料理",
+  "norm": "魔都",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "饗華",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "中華料理",
+  "norm": "饗華",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "ましの軒",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "中華料理",
+  "norm": "ましの軒",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "一碗水",
+  "kubun": "セレクテッド",
+  "area": "大阪市西区",
+  "genre": "中華料理",
+  "norm": "一碗水",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 377,
+    "section": "main",
+    "name": "一宇",
+    "stations": "飯田橋、牛込神楽坂、神楽坂",
+    "genre": "日本料理、寿司",
+    "rating": "3.74",
+    "norm": "一宇"
+   },
+   {
+    "no": 660,
+    "section": "main",
+    "name": "一元屋",
+    "stations": "半蔵門、麹町、永田町",
+    "genre": "和菓子",
+    "rating": "3.71",
+    "norm": "一元屋"
+   },
+   {
+    "no": 1245,
+    "section": "main",
+    "name": "一僖",
+    "stations": "祇園四条、京都河原町、東山",
+    "genre": "中華料理",
+    "rating": "3.91",
+    "norm": "一僖"
+   }
+  ]
+ },
+ {
+  "name": "エニェ",
+  "kubun": "1つ星",
+  "area": "大阪市中央区",
+  "genre": "スペイン料理",
+  "norm": "エニェ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "アラルデ",
+  "kubun": "1つ星",
+  "area": "大阪市西区",
+  "genre": "スペイン料理",
+  "norm": "アラルデ",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1071,
+    "section": "main",
+    "name": "アラルデ",
+    "stations": "本町、西大橋、阿波座",
+    "genre": "スペイン料理、ヨーロッパ料理",
+    "rating": "4.06",
+    "norm": "アラルデ"
+   }
+  ]
+ },
+ {
+  "name": "ドノスティア",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "スペイン料理",
+  "norm": "ドノスティア",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "ガストロテカ ビメンディ",
+  "kubun": "ビブグルマン",
+  "area": "大阪市西区",
+  "genre": "スペイン料理",
+  "norm": "ガストロテカビメンディ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "上六ワイン",
+  "kubun": "ビブグルマン",
+  "area": "大阪市天王寺区",
+  "genre": "スペイン料理",
+  "norm": "上六ワイン",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "デュカ",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "スペイン料理",
+  "norm": "デュカ",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 516,
+    "section": "main",
+    "name": "アカ",
+    "stations": "三越前、新日本橋、日本橋",
+    "genre": "スペイン料理",
+    "rating": "4.67",
+    "norm": "アカ"
+   },
+   {
+    "no": 931,
+    "section": "main",
+    "name": "マデュロ",
+    "stations": "六本木、麻布十番、乃木坂",
+    "genre": "バー",
+    "rating": "3.57",
+    "norm": "マデュロ"
+   }
+  ]
+ },
+ {
+  "name": "オプティモ",
+  "kubun": "セレクテッド",
+  "area": "大阪市福島区",
+  "genre": "スペイン料理",
+  "norm": "オプティモ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "アサドール・ロカ",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "スペイン料理",
+  "norm": "アサドールロカ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "エチョラ",
+  "kubun": "セレクテッド",
+  "area": "大阪市西区",
+  "genre": "スペイン料理",
+  "norm": "エチョラ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "Hajime（ハジメ）",
+  "kubun": "3つ星",
+  "area": "大阪市西区",
+  "genre": "イノベーティブ",
+  "norm": "hajimeハジメ",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1191,
+    "section": "main",
+    "name": "ハジメ",
+    "stations": "肥後橋、渡辺橋、淀屋橋",
+    "genre": "イノベーティブ、フレンチ",
+    "rating": "4.32",
+    "norm": "ハジメ"
+   }
+  ]
+ },
+ {
+  "name": "カハラ",
+  "kubun": "2つ星",
+  "area": "大阪市北区",
+  "genre": "イノベーティブ",
+  "norm": "カハラ",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1173,
+    "section": "main",
+    "name": "カハラ",
+    "stations": "北新地、大江橋、東梅田",
+    "genre": "創作料理",
+    "rating": "4.17",
+    "norm": "カハラ"
+   }
+  ]
+ },
+ {
+  "name": "Fujiya 1935",
+  "kubun": "2つ星",
+  "area": "大阪市中央区",
+  "genre": "イノベーティブ",
+  "norm": "fujiya1935",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1192,
+    "section": "main",
+    "name": "Fujiya 1935",
+    "stations": "谷町四丁目、堺筋本町、松屋町",
+    "genre": "イノベーティブ、スペイン料理",
+    "rating": "4.14",
+    "norm": "fujiya1935"
+   }
+  ]
+ },
+ {
+  "name": "カピ",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "イノベーティブ",
+  "norm": "カピ",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "らーめん 颯人",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "ラーメン",
+  "norm": "らーめん颯人",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1049,
+    "section": "main",
+    "name": "らーめん 一嗹",
+    "stations": "三宮（神戸市営）、三ノ宮（ＪＲ）、神戸三宮（阪急）",
+    "genre": "ラーメン",
+    "rating": "3.51",
+    "norm": "らーめん一嗹"
+   },
+   {
+    "no": 1102,
+    "section": "main",
+    "name": "らーめん弥七",
+    "stations": "中津（大阪メトロ）、中津（阪急）、中崎町",
+    "genre": "ラーメン、つけ麺、丼",
+    "rating": "3.74",
+    "norm": "らーめん弥七"
+   }
+  ]
+ },
+ {
+  "name": "麦と麺助",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "ラーメン",
+  "norm": "麦と麺助",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "中華そば 無限",
+  "kubun": "ビブグルマン",
+  "area": "大阪市福島区",
+  "genre": "ラーメン",
+  "norm": "中華そば無限",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "らーめん 久遠",
+  "kubun": "ビブグルマン",
+  "area": "大阪市中央区",
+  "genre": "ラーメン",
+  "norm": "らーめん久遠",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1049,
+    "section": "main",
+    "name": "らーめん 一嗹",
+    "stations": "三宮（神戸市営）、三ノ宮（ＪＲ）、神戸三宮（阪急）",
+    "genre": "ラーメン",
+    "rating": "3.51",
+    "norm": "らーめん一嗹"
+   },
+   {
+    "no": 1102,
+    "section": "main",
+    "name": "らーめん弥七",
+    "stations": "中津（大阪メトロ）、中津（阪急）、中崎町",
+    "genre": "ラーメン、つけ麺、丼",
+    "rating": "3.74",
+    "norm": "らーめん弥七"
+   }
+  ]
+ },
+ {
+  "name": "中華そば うえまち",
+  "kubun": "ビブグルマン",
+  "area": "大阪市中央区",
+  "genre": "ラーメン",
+  "norm": "中華そばうえまち",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "上方レインボー",
+  "kubun": "ビブグルマン",
+  "area": "大阪市天王寺区",
+  "genre": "ラーメン",
+  "norm": "上方レインボー",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "麺処 全て",
+  "kubun": "ビブグルマン",
+  "area": "大阪市生野区",
+  "genre": "ラーメン",
+  "norm": "麺処全て",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 766,
+    "section": "main",
+    "name": "麺処 銀笹",
+    "stations": "築地市場、新橋、汐留",
+    "genre": "ラーメン、つけ麺",
+    "rating": "3.78",
+    "norm": "麺処銀笹"
+   },
+   {
+    "no": 817,
+    "section": "main",
+    "name": "麺処 有彩",
+    "stations": "西川口",
+    "genre": "ラーメン、つけ麺",
+    "rating": "3.77",
+    "norm": "麺処有彩"
+   }
+  ]
+ },
+ {
+  "name": "なにわ翁",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "蕎麦",
+  "norm": "なにわ翁",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "そば切り 荒凡夫",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "蕎麦",
+  "norm": "そば切り荒凡夫",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "そば處 とき",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "蕎麦",
+  "norm": "そば處とき",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "そば切り からに",
+  "kubun": "ビブグルマン",
+  "area": "大阪市福島区",
+  "genre": "蕎麦",
+  "norm": "そば切りからに",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "そば切り 岳空",
+  "kubun": "ビブグルマン",
+  "area": "大阪市中央区",
+  "genre": "蕎麦",
+  "norm": "そば切り岳空",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "文目堂",
+  "kubun": "ビブグルマン",
+  "area": "大阪市中央区",
+  "genre": "蕎麦",
+  "norm": "文目堂",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 637,
+    "section": "main",
+    "name": "亀澤堂",
+    "stations": "神保町、九段下、竹橋",
+    "genre": "和菓子、どら焼き、大福",
+    "rating": "3.70",
+    "norm": "亀澤堂"
+   },
+   {
+    "no": 751,
+    "section": "main",
+    "name": "創和堂",
+    "stations": "恵比寿、広尾",
+    "genre": "居酒屋、日本料理、ワインバー",
+    "rating": "3.68",
+    "norm": "創和堂"
+   }
+  ]
+ },
+ {
+  "name": "扇町うどん屋 あすろう",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "うどん",
+  "norm": "扇町うどん屋あすろう",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "うどん処 重己",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "うどん",
+  "norm": "うどん処重己",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "おうどん 蓬",
+  "kubun": "ビブグルマン",
+  "area": "大阪市福島区",
+  "genre": "うどん",
+  "norm": "おうどん蓬",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 301,
+    "section": "main",
+    "name": "おのうどん",
+    "stations": "北与野",
+    "genre": "うどん",
+    "rating": "3.66",
+    "norm": "おのうどん"
+   }
+  ]
+ },
+ {
+  "name": "青空blue",
+  "kubun": "ビブグルマン",
+  "area": "大阪市中央区",
+  "genre": "うどん",
+  "norm": "青空blue",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 544,
+    "section": "main",
+    "name": "青空",
+    "stations": "新橋、内幸町、銀座",
+    "genre": "寿司",
+    "rating": "4.40",
+    "norm": "青空"
+   }
+  ]
+ },
+ {
+  "name": "鳥匠 いし井",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "焼き鳥",
+  "norm": "鳥匠いし井",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1189,
+    "section": "main",
+    "name": "鳥匠 いし井",
+    "stations": "なにわ橋、北浜、南森町",
+    "genre": "焼き鳥、鳥料理",
+    "rating": "4.46",
+    "norm": "鳥匠いし井"
+   }
+  ]
+ },
+ {
+  "name": "焼鳥 市松",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "焼き鳥",
+  "norm": "焼鳥市松",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1273,
+    "section": "main",
+    "name": "焼鳥 市松",
+    "stations": "北新地、渡辺橋、大江橋",
+    "genre": "焼き鳥、創作料理",
+    "rating": "4.00",
+    "norm": "焼鳥市松"
+   }
+  ]
+ },
+ {
+  "name": "焼鳥 とり泉",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "焼き鳥",
+  "norm": "焼鳥とり泉",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "炭匠 御厨",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "焼き鳥",
+  "norm": "炭匠御厨",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "あやむ屋",
+  "kubun": "ビブグルマン",
+  "area": "大阪市福島区",
+  "genre": "焼き鳥",
+  "norm": "あやむ屋",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "炭火いわ田",
+  "kubun": "ビブグルマン",
+  "area": "大阪市都島区",
+  "genre": "焼き鳥",
+  "norm": "炭火いわ田",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "北新地 しえん",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "焼き鳥",
+  "norm": "北新地しえん",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1098,
+    "section": "main",
+    "name": "北新地 さえき",
+    "stations": "大江橋、北新地、東梅田",
+    "genre": "寿司",
+    "rating": "3.72",
+    "norm": "北新地さえき"
+   }
+  ]
+ },
+ {
+  "name": "やきとり 松里",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "焼き鳥",
+  "norm": "やきとり松里",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1133,
+    "section": "main",
+    "name": "やきとり 温",
+    "stations": "北浜、堺筋本町、なにわ橋",
+    "genre": "焼き鳥、居酒屋、日本料理",
+    "rating": "3.54",
+    "norm": "やきとり温"
+   }
+  ]
+ },
+ {
+  "name": "やきとり 松岡",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "焼き鳥",
+  "norm": "やきとり松岡",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1133,
+    "section": "main",
+    "name": "やきとり 温",
+    "stations": "北浜、堺筋本町、なにわ橋",
+    "genre": "焼き鳥、居酒屋、日本料理",
+    "rating": "3.54",
+    "norm": "やきとり温"
+   }
+  ]
+ },
+ {
+  "name": "食堂 燈",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "居酒屋",
+  "norm": "食堂燈",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1150,
+    "section": "main",
+    "name": "六覺燈",
+    "stations": "近鉄日本橋、日本橋、難波（南海）",
+    "genre": "串揚げ、ワインバー、日本料理",
+    "rating": "3.67",
+    "norm": "六覺燈"
+   }
+  ]
+ },
+ {
+  "name": "酒や肴 よしむら",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "居酒屋",
+  "norm": "酒や肴よしむら",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "粋魚 むらばやし",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "居酒屋",
+  "norm": "粋魚むらばやし",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "居酒屋 ときため",
+  "kubun": "ビブグルマン",
+  "area": "大阪市福島区",
+  "genre": "居酒屋",
+  "norm": "居酒屋ときため",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "べにくらげ",
+  "kubun": "ビブグルマン",
+  "area": "大阪市中央区",
+  "genre": "居酒屋",
+  "norm": "べにくらげ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "にこみ 㐂むら",
+  "kubun": "ビブグルマン",
+  "area": "大阪市中央区",
+  "genre": "居酒屋",
+  "norm": "にこみ㐂むら",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "台処 かみ谷",
+  "kubun": "ビブグルマン",
+  "area": "大阪市西区",
+  "genre": "居酒屋",
+  "norm": "台処かみ谷",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "クシアゲ 010",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "串揚げ",
+  "norm": "クシアゲ010",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "串かつ 五條家",
+  "kubun": "ビブグルマン",
+  "area": "大阪市中央区",
+  "genre": "串揚げ",
+  "norm": "串かつ五條家",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "北新地 串かつ凡",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "串揚げ",
+  "norm": "北新地串かつ凡",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "串かつ だいぼん",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "串揚げ",
+  "norm": "串かつだいぼん",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1214,
+    "section": "main",
+    "name": "串かつ あーぼん",
+    "stations": "打出、芦屋（ＪＲ）",
+    "genre": "串揚げ",
+    "rating": "4.40",
+    "norm": "串かつあーぼん"
+   }
+  ]
+ },
+ {
+  "name": "とんかつ みな斗",
+  "kubun": "ビブグルマン",
+  "area": "大阪市中央区",
+  "genre": "とんかつ",
+  "norm": "とんかつみな斗",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "とんかつ KATSU華",
+  "kubun": "ビブグルマン",
+  "area": "大阪市中央区",
+  "genre": "とんかつ",
+  "norm": "とんかつkatsu華",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "京町堀 なかむら",
+  "kubun": "ビブグルマン",
+  "area": "大阪市西区",
+  "genre": "とんかつ",
+  "norm": "京町堀なかむら",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "とんかつ ふじ井",
+  "kubun": "ビブグルマン",
+  "area": "大阪市旭区",
+  "genre": "とんかつ",
+  "norm": "とんかつふじ井",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "タンポポ",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "鉄板焼",
+  "norm": "タンポポ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "時分時",
+  "kubun": "ビブグルマン",
+  "area": "大阪市中央区",
+  "genre": "鉄板焼",
+  "norm": "時分時",
+  "city": "大阪",
+  "status": "exact1",
+  "saved": [
+   {
+    "no": 1015,
+    "section": "main",
+    "name": "時分時",
+    "stations": "本町、心斎橋、四ツ橋",
+    "genre": "鉄板焼き、お好み焼き、ステーキ",
+    "rating": "3.80",
+    "norm": "時分時"
+   }
+  ]
+ },
+ {
+  "name": "オリベ",
+  "kubun": "ビブグルマン",
+  "area": "大阪市西区",
+  "genre": "鉄板焼",
+  "norm": "オリベ",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1200,
+    "section": "main",
+    "name": "ラ・ベ",
+    "stations": "西梅田、北新地、福島（阪神）",
+    "genre": "フレンチ",
+    "rating": "4.04",
+    "norm": "ラベ"
+   },
+   {
+    "no": 1203,
+    "section": "main",
+    "name": "オルト",
+    "stations": "烏丸御池、烏丸、四条（京都市営）",
+    "genre": "イノベーティブ",
+    "rating": "3.90",
+    "norm": "オルト"
+   }
+  ]
+ },
+ {
+  "name": "鉄板焼 和城",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "鉄板焼",
+  "norm": "鉄板焼和城",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 239,
+    "section": "main",
+    "name": "鉄板焼 赤坂",
+    "stations": "六本木一丁目、溜池山王、虎ノ門ヒルズ",
+    "genre": "鉄板焼き",
+    "rating": "3.65",
+    "norm": "鉄板焼赤坂"
+   },
+   {
+    "no": 909,
+    "section": "main",
+    "name": "鉄板焼 一徹",
+    "stations": "内幸町、新橋、虎ノ門",
+    "genre": "鉄板焼き、ステーキ",
+    "rating": "3.45",
+    "norm": "鉄板焼一徹"
+   },
+   {
+    "no": 1008,
+    "section": "main",
+    "name": "鉄板焼 心",
+    "stations": "みなと元町、西元町、花隈",
+    "genre": "鉄板焼き、ステーキ、オーベルジュ",
+    "rating": "3.64",
+    "norm": "鉄板焼心"
+   },
+   {
+    "no": 1009,
+    "section": "main",
+    "name": "鉄板焼 但馬",
+    "stations": "市民広場、南公園、中埠頭",
+    "genre": "鉄板焼き、ステーキ",
+    "rating": "3.58",
+    "norm": "鉄板焼但馬"
+   }
+  ]
+ },
+ {
+  "name": "十皿",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "現代風料理",
+  "norm": "十皿",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "ルーツ ナカノシマ",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "現代風料理",
+  "norm": "ルーツナカノシマ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "かま叶",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "現代風料理",
+  "norm": "かま叶",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 249,
+    "section": "main",
+    "name": "新まき",
+    "stations": "赤羽橋、芝公園、麻布十番",
+    "genre": "焼き鳥、日本料理",
+    "rating": "3.74",
+    "norm": "新まき"
+   },
+   {
+    "no": 648,
+    "section": "main",
+    "name": "かどや",
+    "stations": "北千住、小菅",
+    "genre": "和菓子",
+    "rating": "3.74",
+    "norm": "かどや"
+   },
+   {
+    "no": 696,
+    "section": "main",
+    "name": "天まめ",
+    "stations": "築地、新富町、東銀座",
+    "genre": "和菓子",
+    "rating": "3.75",
+    "norm": "天まめ"
+   },
+   {
+    "no": 798,
+    "section": "main",
+    "name": "かんだ",
+    "stations": "虎ノ門ヒルズ、神谷町、虎ノ門",
+    "genre": "日本料理",
+    "rating": "4.15",
+    "norm": "かんだ"
+   }
+  ]
+ },
+ {
+  "name": "リヴィ",
+  "kubun": "セレクテッド",
+  "area": "大阪市西区",
+  "genre": "現代風料理",
+  "norm": "リヴィ",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "よし光",
+  "kubun": "1つ星",
+  "area": "大阪市北区",
+  "genre": "ふぐ",
+  "norm": "よし光",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 479,
+    "section": "main",
+    "name": "いし橋",
+    "stations": "末広町、湯島、御茶ノ水",
+    "genre": "すき焼き",
+    "rating": "3.62",
+    "norm": "いし橋"
+   },
+   {
+    "no": 1184,
+    "section": "main",
+    "name": "是しん",
+    "stations": "大江橋、淀屋橋、なにわ橋",
+    "genre": "日本料理",
+    "rating": "3.90",
+    "norm": "是しん"
+   }
+  ]
+ },
+ {
+  "name": "ミルパ",
+  "kubun": "1つ星",
+  "area": "大阪市西区",
+  "genre": "メキシコ料理",
+  "norm": "ミルパ",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 521,
+    "section": "main",
+    "name": "フルタ",
+    "stations": "新富町、宝町、銀座一丁目",
+    "genre": "中華料理",
+    "rating": "4.33",
+    "norm": "フルタ"
+   },
+   {
+    "no": 1203,
+    "section": "main",
+    "name": "オルト",
+    "stations": "烏丸御池、烏丸、四条（京都市営）",
+    "genre": "イノベーティブ",
+    "rating": "3.90",
+    "norm": "オルト"
+   }
+  ]
+ },
+ {
+  "name": "ピタックごはん",
+  "kubun": "ビブグルマン",
+  "area": "大阪市北区",
+  "genre": "タイ料理",
+  "norm": "ピタックごはん",
+  "city": "大阪",
+  "status": "new",
+  "saved": []
+ },
+ {
+  "name": "万ん卯",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "おでん",
+  "norm": "万ん卯",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 672,
+    "section": "main",
+    "name": "あんや",
+    "stations": "成城学園前",
+    "genre": "甘味処、和菓子、かき氷",
+    "rating": "3.73",
+    "norm": "あんや"
+   },
+   {
+    "no": 798,
+    "section": "main",
+    "name": "かんだ",
+    "stations": "虎ノ門ヒルズ、神谷町、虎ノ門",
+    "genre": "日本料理",
+    "rating": "4.15",
+    "norm": "かんだ"
+   },
+   {
+    "no": 1064,
+    "section": "main",
+    "name": "とん亭",
+    "stations": "寺田町、天王寺、大阪阿部野橋",
+    "genre": "とんかつ、コロッケ",
+    "rating": "3.55",
+    "norm": "とん亭"
+   }
+  ]
+ },
+ {
+  "name": "北新地 福多亭",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "ステーキハウス",
+  "norm": "北新地福多亭",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1080,
+    "section": "main",
+    "name": "北新地 福多亭 The Ukai",
+    "stations": "北新地、東梅田、西梅田",
+    "genre": "ステーキ、イタリアン、ワインバー",
+    "rating": "3.97",
+    "norm": "北新地福多亭theukai"
+   }
+  ]
+ },
+ {
+  "name": "ランゴロ",
+  "kubun": "セレクテッド",
+  "area": "大阪市北区",
+  "genre": "欧風料理",
+  "norm": "ランゴロ",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 1199,
+    "section": "main",
+    "name": "ラ カンロ",
+    "stations": "南森町、大阪天満宮、なにわ橋",
+    "genre": "イノベーティブ、フレンチ",
+    "rating": "4.26",
+    "norm": "ラカンロ"
+   }
+  ]
+ },
+ {
+  "name": "由堂",
+  "kubun": "セレクテッド",
+  "area": "大阪市中央区",
+  "genre": "おでん",
+  "norm": "由堂",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ },
+ {
+  "name": "おく",
+  "kubun": "セレクテッド",
+  "area": "大阪市都島区",
+  "genre": "うなぎ",
+  "norm": "おく",
+  "city": "大阪",
+  "status": "near",
+  "saved": [
+   {
+    "no": 55,
+    "section": "main",
+    "name": "興隆",
+    "stations": "小川町、新御茶ノ水、淡路町",
+    "genre": "中華料理、四川料理",
+    "rating": "3.21",
+    "norm": "興隆"
+   },
+   {
+    "no": 104,
+    "section": "main",
+    "name": "源亀",
+    "stations": "錦糸町、亀戸、住吉",
+    "genre": "お好み焼き、鉄板焼き、居酒屋",
+    "rating": "3.63",
+    "norm": "源亀"
+   },
+   {
+    "no": 115,
+    "section": "main",
+    "name": "大島",
+    "stations": "船堀",
+    "genre": "ラーメン",
+    "rating": "3.79",
+    "norm": "大島"
+   },
+   {
+    "no": 136,
+    "section": "main",
+    "name": "賞讃",
+    "stations": "京成立石、四ツ木",
+    "genre": "うどん",
+    "rating": "3.65",
+    "norm": "賞讃"
+   }
+  ]
+ }
+]

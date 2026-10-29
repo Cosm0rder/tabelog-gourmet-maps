@@ -1,0 +1,105 @@
+# 追加先リスト：食べログ｜洋食・欧州料理
+# チャンク 3/5（50件）｜カテゴリ全214件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- レストラン リューズ（最寄り駅：六本木）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%20%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%BA%20%E5%85%AD%E6%9C%AC%E6%9C%A8
+- 七條（最寄り駅：三鷹）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%83%E6%A2%9D%20%E4%B8%89%E9%B7%B9
+- 七條（最寄り駅：小川町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%83%E6%A2%9D%20%E5%B0%8F%E5%B7%9D%E7%94%BA
+- ALTER EGO（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=ALTER%20EGO%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- naoto.K（最寄り駅：小川町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=naoto.K%20%E5%B0%8F%E5%B7%9D%E7%94%BA
+- TOKi（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=TOKi%20%E6%96%B0%E6%A9%8B
+- レストラン ラ フィネス（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%20%E3%83%A9%20%E3%83%95%E3%82%A3%E3%83%8D%E3%82%B9%20%E6%96%B0%E6%A9%8B
+- 西洋御料理 東洋軒（最寄り駅：赤坂見附）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%A5%BF%E6%B4%8B%E5%BE%A1%E6%96%99%E7%90%86%20%E6%9D%B1%E6%B4%8B%E8%BB%92%20%E8%B5%A4%E5%9D%82%E8%A6%8B%E9%99%84
+- CHIUnE（最寄り駅：永田町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=CHIUnE%20%E6%B0%B8%E7%94%B0%E7%94%BA
+- unis（最寄り駅：虎ノ門ヒルズ）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=unis%20%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA
+- ラルジャン（最寄り駅：虎ノ門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%83%AB%E3%82%B8%E3%83%A3%E3%83%B3%20%E8%99%8E%E3%83%8E%E9%96%80
+- SALONE TOKYO（最寄り駅：日比谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=SALONE%20TOKYO%20%E6%97%A5%E6%AF%94%E8%B0%B7
+- アピシウス（最寄り駅：日比谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%94%E3%82%B7%E3%82%A6%E3%82%B9%20%E6%97%A5%E6%AF%94%E8%B0%B7
+- レ セゾン（最寄り駅：日比谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AC%20%E3%82%BB%E3%82%BE%E3%83%B3%20%E6%97%A5%E6%AF%94%E8%B0%B7
+- RESTAURANT SALT（最寄り駅：浦和）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=RESTAURANT%20SALT%20%E6%B5%A6%E5%92%8C
+- ぽん多本家（最寄り駅：上野広小路）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%BD%E3%82%93%E5%A4%9A%E6%9C%AC%E5%AE%B6%20%E4%B8%8A%E9%87%8E%E5%BA%83%E5%B0%8F%E8%B7%AF
+- RESTAURANT PRUNIER（最寄り駅：二重橋前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=RESTAURANT%20PRUNIER%20%E4%BA%8C%E9%87%8D%E6%A9%8B%E5%89%8D
+- THE UPPER（最寄り駅：大手町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=THE%20UPPER%20%E5%A4%A7%E6%89%8B%E7%94%BA
+- フランス料理 エステール by アラン・デュカス（最寄り駅：大手町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E6%96%99%E7%90%86%20%E3%82%A8%E3%82%B9%E3%83%86%E3%83%BC%E3%83%AB%20by%20%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%87%E3%83%A5%E3%82%AB%E3%82%B9%20%E5%A4%A7%E6%89%8B%E7%94%BA
+- SEZANNE（最寄り駅：京橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=SEZANNE%20%E4%BA%AC%E6%A9%8B
+- レストランあづま（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%81%82%E3%81%A5%E3%81%BE%20%E9%8A%80%E5%BA%A7
+- ワインの酒場。ディプント 梅田店（最寄り駅：大阪梅田（阪急））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AF%E3%82%A4%E3%83%B3%E3%81%AE%E9%85%92%E5%A0%B4%E3%80%82%E3%83%87%E3%82%A3%E3%83%97%E3%83%B3%E3%83%88%20%E6%A2%85%E7%94%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E6%A2%85%E7%94%B0%EF%BC%88%E9%98%AA%E6%80%A5%EF%BC%89
+- ロイヤルガーデン（最寄り駅：虎ノ門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AD%E3%82%A4%E3%83%A4%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%20%E8%99%8E%E3%83%8E%E9%96%80
+- ル・ブラン 銀座店（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AB%E3%83%BB%E3%83%96%E3%83%A9%E3%83%B3%20%E9%8A%80%E5%BA%A7%E5%BA%97%20%E9%8A%80%E5%BA%A7
+- DRIFTWOOD BAR & GRILL (フェアモント東京)（最寄り駅：日の出）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=DRIFTWOOD%20BAR%20%26%20GRILL%20%28%E3%83%95%E3%82%A7%E3%82%A2%E3%83%A2%E3%83%B3%E3%83%88%E6%9D%B1%E4%BA%AC%29%20%E6%97%A5%E3%81%AE%E5%87%BA
+- ブリーズ オブ トウキョウ（最寄り駅：二重橋前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%96%E3%83%AA%E3%83%BC%E3%82%BA%20%E3%82%AA%E3%83%96%20%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%20%E4%BA%8C%E9%87%8D%E6%A9%8B%E5%89%8D
+- アルカナ 東京（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%8A%20%E6%9D%B1%E4%BA%AC%20%E6%9D%B1%E4%BA%AC
+- DINING & BAR TABLE 9 TOKYO（最寄り駅：品川）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=DINING%20%26%20BAR%20TABLE%209%20TOKYO%20%E5%93%81%E5%B7%9D
+- オールデイダイニング ハーモニー（最寄り駅：汐留）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A4%E3%83%80%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%20%E3%83%8F%E3%83%BC%E3%83%A2%E3%83%8B%E3%83%BC%20%E6%B1%90%E7%95%99
+- KEI Collection PARIS（最寄り駅：虎ノ門ヒルズ）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=KEI%20Collection%20PARIS%20%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA
+- TOKYO NODE DINING（最寄り駅：虎ノ門ヒルズ）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=TOKYO%20NODE%20DINING%20%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA
+- レストランエール（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%82%A8%E3%83%BC%E3%83%AB%20%E9%8A%80%E5%BA%A7
+- byebyeblues TOKYO（最寄り駅：二重橋前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=byebyeblues%20TOKYO%20%E4%BA%8C%E9%87%8D%E6%A9%8B%E5%89%8D
+- BRIANZA TOKYO（最寄り駅：三越前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=BRIANZA%20TOKYO%20%E4%B8%89%E8%B6%8A%E5%89%8D
+- PEONY（最寄り駅：虎ノ門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=PEONY%20%E8%99%8E%E3%83%8E%E9%96%80
+- Aux Delices de Dodine 東京ミッドタウン八重洲店（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Aux%20Delices%20de%20Dodine%20%E6%9D%B1%E4%BA%AC%E3%83%9F%E3%83%83%E3%83%89%E3%82%BF%E3%82%A6%E3%83%B3%E5%85%AB%E9%87%8D%E6%B4%B2%E5%BA%97%20%E6%9D%B1%E4%BA%AC
+- XEX ATAGO GREEN HILLS / Salvatore Cuomo Bros.（最寄り駅：御成門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=XEX%20ATAGO%20GREEN%20HILLS%20/%20Salvatore%20Cuomo%20Bros.%20%E5%BE%A1%E6%88%90%E9%96%80
+- Le Ballon（最寄り駅：綾瀬）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Le%20Ballon%20%E7%B6%BE%E7%80%AC
+- Élan（最寄り駅：恵比寿）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%C3%89lan%20%E6%81%B5%E6%AF%94%E5%AF%BF
+- リストランテAO 逗子マリーナ（最寄り駅：和田塚）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%83%86AO%20%E9%80%97%E5%AD%90%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%8A%20%E5%92%8C%E7%94%B0%E5%A1%9A
+- リストランテKubotsu（最寄り駅：西鉄福岡（天神））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%83%86Kubotsu%20%E8%A5%BF%E9%89%84%E7%A6%8F%E5%B2%A1%EF%BC%88%E5%A4%A9%E7%A5%9E%EF%BC%89
+- リストランテASO（最寄り駅：代官山）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%83%86ASO%20%E4%BB%A3%E5%AE%98%E5%B1%B1
+- 三和（最寄り駅：白金台）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E5%92%8C%20%E7%99%BD%E9%87%91%E5%8F%B0
+- 洋食 つばき（最寄り駅：岐阜市その他）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%B4%8B%E9%A3%9F%20%E3%81%A4%E3%81%B0%E3%81%8D%20%E5%B2%90%E9%98%9C%E5%B8%82%E3%81%9D%E3%81%AE%E4%BB%96
+- ビッテ（最寄り駅：溜池山王）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%93%E3%83%83%E3%83%86%20%E6%BA%9C%E6%B1%A0%E5%B1%B1%E7%8E%8B
+- 壁の穴 日比谷シャンテ店（最寄り駅：日比谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%A3%81%E3%81%AE%E7%A9%B4%20%E6%97%A5%E6%AF%94%E8%B0%B7%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%86%E5%BA%97%20%E6%97%A5%E6%AF%94%E8%B0%B7
+- キャトルラパン 北梅田（最寄り駅：中津（大阪メトロ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AD%E3%83%A3%E3%83%88%E3%83%AB%E3%83%A9%E3%83%91%E3%83%B3%20%E5%8C%97%E6%A2%85%E7%94%B0%20%E4%B8%AD%E6%B4%A5%EF%BC%88%E5%A4%A7%E9%98%AA%E3%83%A1%E3%83%88%E3%83%AD%EF%BC%89
+- キャトルラパン 神戸三宮（最寄り駅：三宮（神戸新交通））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AD%E3%83%A3%E3%83%88%E3%83%AB%E3%83%A9%E3%83%91%E3%83%B3%20%E7%A5%9E%E6%88%B8%E4%B8%89%E5%AE%AE%20%E4%B8%89%E5%AE%AE%EF%BC%88%E7%A5%9E%E6%88%B8%E6%96%B0%E4%BA%A4%E9%80%9A%EF%BC%89
+- La Cime（最寄り駅：堺筋本町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=La%20Cime%20%E5%A0%BA%E7%AD%8B%E6%9C%AC%E7%94%BA
+- アラルデ（最寄り駅：本町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%A9%E3%83%AB%E3%83%87%20%E6%9C%AC%E7%94%BA

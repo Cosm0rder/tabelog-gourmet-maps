@@ -1,0 +1,105 @@
+# 追加先リスト：食べログ｜バー・酒場
+# チャンク 1/2（50件）｜カテゴリ全82件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- 星空の中へ（最寄り駅：西新宿）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%98%9F%E7%A9%BA%E3%81%AE%E4%B8%AD%E3%81%B8%20%E8%A5%BF%E6%96%B0%E5%AE%BF
+- THE R.C. ARMS 秋葉原店（最寄り駅：秋葉原）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=THE%20R.C.%20ARMS%20%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97%20%E7%A7%8B%E8%91%89%E5%8E%9F
+- THE R.C. GATE 八重洲店（最寄り駅：日本橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=THE%20R.C.%20GATE%20%E5%85%AB%E9%87%8D%E6%B4%B2%E5%BA%97%20%E6%97%A5%E6%9C%AC%E6%A9%8B
+- ワインの酒場。ディプント 神田店（最寄り駅：神田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AF%E3%82%A4%E3%83%B3%E3%81%AE%E9%85%92%E5%A0%B4%E3%80%82%E3%83%87%E3%82%A3%E3%83%97%E3%83%B3%E3%83%88%20%E7%A5%9E%E7%94%B0%E5%BA%97%20%E7%A5%9E%E7%94%B0
+- THE R.C. GATE 神田店（最寄り駅：神田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=THE%20R.C.%20GATE%20%E7%A5%9E%E7%94%B0%E5%BA%97%20%E7%A5%9E%E7%94%B0
+- センチュリーコート丸の内 メンバーズルーム（最寄り駅：二重橋前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AA%E3%83%BC%E3%82%B3%E3%83%BC%E3%83%88%E4%B8%B8%E3%81%AE%E5%86%85%20%E3%83%A1%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BA%E3%83%AB%E3%83%BC%E3%83%A0%20%E4%BA%8C%E9%87%8D%E6%A9%8B%E5%89%8D
+- GOOD DISH TOKYO（最寄り駅：小川町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=GOOD%20DISH%20TOKYO%20%E5%B0%8F%E5%B7%9D%E7%94%BA
+- ラウンジバー プリヴェ（最寄り駅：大手町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%E3%83%90%E3%83%BC%20%E3%83%97%E3%83%AA%E3%83%B4%E3%82%A7%20%E5%A4%A7%E6%89%8B%E7%94%BA
+- ザ タヴァン グリル＆ラウンジ（最寄り駅：虎ノ門ヒルズ）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B6%20%E3%82%BF%E3%83%B4%E3%82%A1%E3%83%B3%20%E3%82%B0%E3%83%AA%E3%83%AB%EF%BC%86%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%20%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA
+- STAR BAR GINZA（最寄り駅：銀座一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=STAR%20BAR%20GINZA%20%E9%8A%80%E5%BA%A7%E4%B8%80%E4%B8%81%E7%9B%AE
+- BAR オーパ 銀座（最寄り駅：銀座一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=BAR%20%E3%82%AA%E3%83%BC%E3%83%91%20%E9%8A%80%E5%BA%A7%20%E9%8A%80%E5%BA%A7%E4%B8%80%E4%B8%81%E7%9B%AE
+- フォーシーズンズ（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3%E3%82%BA%20%E9%8A%80%E5%BA%A7
+- サンボア 銀座店（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%B3%E3%83%9C%E3%82%A2%20%E9%8A%80%E5%BA%A7%E5%BA%97%20%E9%8A%80%E5%BA%A7
+- リトル スミス（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%83%88%E3%83%AB%20%E3%82%B9%E3%83%9F%E3%82%B9%20%E9%8A%80%E5%BA%A7
+- MORI BAR（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=MORI%20BAR%20%E9%8A%80%E5%BA%A7
+- スキヤバシサンボア（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%82%AD%E3%83%A4%E3%83%90%E3%82%B7%E3%82%B5%E3%83%B3%E3%83%9C%E3%82%A2%20%E9%8A%80%E5%BA%A7
+- 歯車（最寄り駅：牛込神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%AD%AF%E8%BB%8A%20%E7%89%9B%E8%BE%BC%E7%A5%9E%E6%A5%BD%E5%9D%82
+- Bar Tiare（最寄り駅：赤坂見附）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Bar%20Tiare%20%E8%B5%A4%E5%9D%82%E8%A6%8B%E9%99%84
+- バー キサラ（最寄り駅：赤坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%90%E3%83%BC%20%E3%82%AD%E3%82%B5%E3%83%A9%20%E8%B5%A4%E5%9D%82
+- Bar P.M.9（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Bar%20P.M.9%20%E6%96%B0%E6%A9%8B
+- オールドインペリアル バー（最寄り駅：日比谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%AA%E3%82%A2%E3%83%AB%20%E3%83%90%E3%83%BC%20%E6%97%A5%E6%AF%94%E8%B0%B7
+- ヴィラフォッシュ GINZA（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%B4%E3%82%A3%E3%83%A9%E3%83%95%E3%82%A9%E3%83%83%E3%82%B7%E3%83%A5%20GINZA%20%E9%8A%80%E5%BA%A7
+- THE R.C.ARMS 新橋店（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=THE%20R.C.ARMS%20%E6%96%B0%E6%A9%8B%E5%BA%97%20%E6%96%B0%E6%A9%8B
+- クラフトビアマーケット 虎ノ門店（最寄り駅：虎ノ門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88%E3%83%93%E3%82%A2%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%20%E8%99%8E%E3%83%8E%E9%96%80%E5%BA%97%20%E8%99%8E%E3%83%8E%E9%96%80
+- ACORN グランスタ八重洲店（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=ACORN%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%BF%E5%85%AB%E9%87%8D%E6%B4%B2%E5%BA%97%20%E6%9D%B1%E4%BA%AC
+- 美酒と肉と魚の酒場 ボルギーニ 新橋店（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%BE%8E%E9%85%92%E3%81%A8%E8%82%89%E3%81%A8%E9%AD%9A%E3%81%AE%E9%85%92%E5%A0%B4%20%E3%83%9C%E3%83%AB%E3%82%AE%E3%83%BC%E3%83%8B%20%E6%96%B0%E6%A9%8B%E5%BA%97%20%E6%96%B0%E6%A9%8B
+- N9Y BUTCHER'S GRILL NEWYORK 銀座店（最寄り駅：銀座一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=N9Y%20BUTCHER%27S%20GRILL%20NEWYORK%20%E9%8A%80%E5%BA%A7%E5%BA%97%20%E9%8A%80%E5%BA%A7%E4%B8%80%E4%B8%81%E7%9B%AE
+- OFF RECORD (フェアモント東京)（最寄り駅：日の出）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=OFF%20RECORD%20%28%E3%83%95%E3%82%A7%E3%82%A2%E3%83%A2%E3%83%B3%E3%83%88%E6%9D%B1%E4%BA%AC%29%20%E6%97%A5%E3%81%AE%E5%87%BA
+- エスカリエ（最寄り駅：恵比寿）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A8%E3%82%B9%E3%82%AB%E3%83%AA%E3%82%A8%20%E6%81%B5%E6%AF%94%E5%AF%BF
+- マンダリンバー（最寄り駅：三越前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%9E%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%E3%83%90%E3%83%BC%20%E4%B8%89%E8%B6%8A%E5%89%8D
+- バー&ラウンジ Whisk（最寄り駅：竹芝）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%90%E3%83%BC%26%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%20Whisk%20%E7%AB%B9%E8%8A%9D
+- ニューヨーク・バー（最寄り駅：都庁前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A8%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%90%E3%83%BC%20%E9%83%BD%E5%BA%81%E5%89%8D
+- XEX TOKYO / The BAR&Cafe（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=XEX%20TOKYO%20/%20The%20BAR%26Cafe%20%E6%9D%B1%E4%BA%AC
+- ブルガリ バー（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%96%E3%83%AB%E3%82%AC%E3%83%AA%20%E3%83%90%E3%83%BC%20%E6%9D%B1%E4%BA%AC
+- ヴェルテュ（最寄り駅：大手町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%86%E3%83%A5%20%E5%A4%A7%E6%89%8B%E7%94%BA
+- オーキッドバー（最寄り駅：虎ノ門ヒルズ）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%BC%E3%82%AD%E3%83%83%E3%83%89%E3%83%90%E3%83%BC%20%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA
+- ザ・ライブリーバー 東京麻布十番（最寄り駅：麻布十番）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B6%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%E3%83%AA%E3%83%BC%E3%83%90%E3%83%BC%20%E6%9D%B1%E4%BA%AC%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA%20%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA
+- メインバー もくれん（最寄り駅：赤羽橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC%20%E3%82%82%E3%81%8F%E3%82%8C%E3%82%93%20%E8%B5%A4%E7%BE%BD%E6%A9%8B
+- ウインザー（最寄り駅：御成門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A6%E3%82%A4%E3%83%B3%E3%82%B6%E3%83%BC%20%E5%BE%A1%E6%88%90%E9%96%80
+- XEX ATAGO GREEN HILLS / The BAR（最寄り駅：御成門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=XEX%20ATAGO%20GREEN%20HILLS%20/%20The%20BAR%20%E5%BE%A1%E6%88%90%E9%96%80
+- Bar＆Lounge MAJESTIC（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Bar%EF%BC%86Lounge%20MAJESTIC%20%E6%96%B0%E6%A9%8B
+- SUD Terrace＆Bar（最寄り駅：竹芝）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=SUD%20Terrace%EF%BC%86Bar%20%E7%AB%B9%E8%8A%9D
+- ザ・バー（最寄り駅：六本木）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B6%E3%83%BB%E3%83%90%E3%83%BC%20%E5%85%AD%E6%9C%AC%E6%9C%A8
+- バーラウンジ スターライト（最寄り駅：虎ノ門ヒルズ）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%90%E3%83%BC%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88%20%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA
+- MIXX バー＆ラウンジ（最寄り駅：六本木一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=MIXX%20%E3%83%90%E3%83%BC%EF%BC%86%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%20%E5%85%AD%E6%9C%AC%E6%9C%A8%E4%B8%80%E4%B8%81%E7%9B%AE
+- SkyBar&Dining Stellar Garden（最寄り駅：赤羽橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=SkyBar%26Dining%20Stellar%20Garden%20%E8%B5%A4%E7%BE%BD%E6%A9%8B
+- NoMad Lounge（最寄り駅：永田町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=NoMad%20Lounge%20%E6%B0%B8%E7%94%B0%E7%94%BA
+- PUBLIC BAR（最寄り駅：虎ノ門ヒルズ）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=PUBLIC%20BAR%20%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA
+- マデュロ（最寄り駅：六本木）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%9E%E3%83%87%E3%83%A5%E3%83%AD%20%E5%85%AD%E6%9C%AC%E6%9C%A8
+- ARK HILLS SOUTH TOWER ROOFTOP LOUNGE 六本木BBQビアガーデン（最寄り駅：六本木一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=ARK%20HILLS%20SOUTH%20TOWER%20ROOFTOP%20LOUNGE%20%E5%85%AD%E6%9C%AC%E6%9C%A8BBQ%E3%83%93%E3%82%A2%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%20%E5%85%AD%E6%9C%AC%E6%9C%A8%E4%B8%80%E4%B8%81%E7%9B%AE

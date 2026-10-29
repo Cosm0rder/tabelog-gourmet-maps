@@ -1,0 +1,467 @@
+{
+ "already_count": 89,
+ "delta": [
+  {
+   "name_raw": "すし処 めくみ",
+   "primary": "すし処 めくみ",
+   "alt": "",
+   "score": "96.0",
+   "city": "野々市",
+   "variants": [
+    "すし処めくみ"
+   ],
+   "class": "新規",
+   "saved_candidate": "",
+   "pool_hits": [
+    "アワード2026:すし処 めくみ",
+    "アワード過去年GOLD・部門賞:すし処 めくみ",
+    "百名店旧年版:すし処 めくみ",
+    "ゴ・エ・ミヨ2026:すし処 めくみ"
+   ],
+   "pool_near": [
+    "DR/OAD:鮨処 めくみ(編集距離<=2); めくみ(包含)"
+   ]
+  },
+  {
+   "name_raw": "Sugalabo",
+   "primary": "Sugalabo",
+   "alt": "",
+   "score": "95.0",
+   "city": "東京（港区）",
+   "variants": [
+    "sugalabo"
+   ],
+   "class": "既存",
+   "saved_candidate": "SUGALABO",
+   "pool_hits": [
+    "アワード2026:SUGALABO",
+    "アワード過去年GOLD・部門賞:SUGALABO",
+    "DR/OAD:SUGALABO"
+   ],
+   "pool_near": []
+  },
+  {
+   "name_raw": "菊乃井 本店",
+   "primary": "菊乃井 本店",
+   "alt": "",
+   "score": "95.0",
+   "city": "京都",
+   "variants": [
+    "菊乃井本店"
+   ],
+   "class": "既存",
+   "saved_candidate": "菊乃井 本店",
+   "pool_hits": [
+    "アワード2026:菊乃井 本店",
+    "ミシュラン京阪2026:菊乃井 本店",
+    "ゴ・エ・ミヨ2026:菊乃井 本店"
+   ],
+   "pool_near": [
+    "百名店旧年版:味乃家 本店(編集距離<=2)",
+    "DR/OAD:菊乃井(包含)"
+   ]
+  },
+  {
+   "name_raw": "鮨 あらい",
+   "primary": "鮨 あらい",
+   "alt": "",
+   "score": "95.0",
+   "city": "東京（中央区）",
+   "variants": [
+    "鮨あらい"
+   ],
+   "class": "既存",
+   "saved_candidate": "鮨 あらい",
+   "pool_hits": [
+    "アワード2026:鮨 あらい",
+    "アワード過去年GOLD・部門賞:鮨 あらい",
+    "ゴ・エ・ミヨ2026:鮨 あらい",
+    "DR/OAD:鮨 あらい"
+   ],
+   "pool_near": [
+    "百名店旧年版:鮨 あら田(編集距離<=2); 鮨 さかい(編集距離<=2)"
+   ]
+  },
+  {
+   "name_raw": "プレゼンテ スギ",
+   "primary": "プレゼンテ スギ",
+   "alt": "",
+   "score": "94.0",
+   "city": "佐倉",
+   "variants": [
+    "プレゼンテスギ"
+   ],
+   "class": "新規",
+   "saved_candidate": "",
+   "pool_hits": [
+    "アワード2026:プレゼンテ スギ",
+    "アワード過去年GOLD・部門賞:プレゼンテ スギ",
+    "百名店旧年版:プレゼンテ スギ",
+    "ゴ・エ・ミヨ2026:プレゼンテ スギ"
+   ],
+   "pool_near": []
+  },
+  {
+   "name_raw": "銀座 小十",
+   "primary": "銀座 小十",
+   "alt": "",
+   "score": "94.0",
+   "city": "東京（中央区）",
+   "variants": [
+    "銀座小十"
+   ],
+   "class": "既存",
+   "saved_candidate": "銀座 小十",
+   "pool_hits": [
+    "ミシュラン東京2026:銀座 小十"
+   ],
+   "pool_near": [
+    "アワード2026:銀座 大石(編集距離<=2); 銀座 上瀧(編集距離<=2)",
+    "アワード過去年GOLD・部門賞:銀座 大石(編集距離<=2)",
+    "アワード過去年SILVER/BRONZE:銀座 奥田(編集距離<=2); 銀座 美会(編集距離<=2)",
+    "ミシュラン過去年:銀座 奥田(編集距離<=2)",
+    "百名店2026:銀座 王十里(編集距離<=2)",
+    "百名店旧年版:銀座 八五(編集距離<=2)"
+   ]
+  },
+  {
+   "name_raw": "銀座 しのはら",
+   "primary": "銀座 しのはら",
+   "alt": "",
+   "score": "93.5",
+   "city": "東京（中央区）",
+   "variants": [
+    "銀座しのはら"
+   ],
+   "class": "既存",
+   "saved_candidate": "銀座 しのはら",
+   "pool_hits": [
+    "アワード2026:銀座 しのはら",
+    "アワード過去年GOLD・部門賞:銀座 しのはら",
+    "ミシュラン東京2026:銀座 しのはら",
+    "ゴ・エ・ミヨ2026:銀座 しのはら",
+    "DR/OAD:銀座 しのはら"
+   ],
+   "pool_near": []
+  },
+  {
+   "name_raw": "飯田",
+   "primary": "飯田",
+   "alt": "",
+   "score": "93.5",
+   "city": "京都",
+   "variants": [
+    "飯田"
+   ],
+   "class": "既存",
+   "saved_candidate": "飯田",
+   "pool_hits": [
+    "アワード2026:飯田",
+    "アワード過去年GOLD・部門賞:飯田",
+    "ゴ・エ・ミヨ2026:飯田",
+    "DR/OAD:飯田"
+   ],
+   "pool_near": []
+  },
+  {
+   "name_raw": "温石",
+   "primary": "温石",
+   "alt": "",
+   "score": "93.0",
+   "city": "焼津",
+   "variants": [
+    "温石"
+   ],
+   "class": "新規",
+   "saved_candidate": "",
+   "pool_hits": [
+    "アワード2026:温石",
+    "アワード過去年GOLD・部門賞:温石",
+    "百名店旧年版:温石"
+   ],
+   "pool_near": []
+  },
+  {
+   "name_raw": "Cignale Enoteca（チニャーレ エノテカ）",
+   "primary": "Cignale Enoteca",
+   "alt": "チニャーレ エノテカ",
+   "score": "92.0",
+   "city": "東京（目黒区）",
+   "variants": [
+    "cignaleenoteca",
+    "cignaleenotecaチニャーレエノテカ",
+    "チニャーレエノテカ"
+   ],
+   "class": "新規",
+   "saved_candidate": "",
+   "pool_hits": [
+    "百名店旧年版:チニャーレエノテカ"
+   ],
+   "pool_near": []
+  },
+  {
+   "name_raw": "天ぷら 松",
+   "primary": "天ぷら 松",
+   "alt": "",
+   "score": "92.0",
+   "city": "京都",
+   "variants": [
+    "天ぷら松"
+   ],
+   "class": "要確認",
+   "saved_candidate": "天ぷら 逢坂(編集距離<=2); 天ぷら浅沼(編集距離<=2)",
+   "pool_hits": [
+    "百名店旧年版:天ぷら 松",
+    "DR/OAD:天ぷら 松"
+   ],
+   "pool_near": [
+    "アワード2026:天ぷら浅沼(編集距離<=2); 天ぷら 京星(編集距離<=2)",
+    "ミシュラン東京2026:天ぷら 元吉(編集距離<=2); 天ぷら 銀屋(編集距離<=2)",
+    "ミシュラン京阪2026:天ぷら 花筐(編集距離<=2)",
+    "ミシュラン過去年:天ぷら 朔月(編集距離<=2)",
+    "ゴ・エ・ミヨ2026:天ぷら 元吉(編集距離<=2)"
+   ]
+  },
+  {
+   "name_raw": "露庵 菊乃井 木屋町店",
+   "primary": "露庵 菊乃井 木屋町店",
+   "alt": "",
+   "score": "90.0",
+   "city": "京都",
+   "variants": [
+    "露庵菊乃井木屋町店"
+   ],
+   "class": "新規",
+   "saved_candidate": "",
+   "pool_hits": [],
+   "pool_near": [
+    "DR/OAD:菊乃井(包含)"
+   ]
+  },
+  {
+   "name_raw": "比良山荘",
+   "primary": "比良山荘",
+   "alt": "",
+   "score": "87.0",
+   "city": "大津",
+   "variants": [
+    "比良山荘"
+   ],
+   "class": "既存",
+   "saved_candidate": "比良山荘",
+   "pool_hits": [
+    "アワード2026:比良山荘",
+    "アワード過去年GOLD・部門賞:比良山荘",
+    "ゴ・エ・ミヨ2026:比良山荘",
+    "DR/OAD:比良山荘"
+   ],
+   "pool_near": []
+  },
+  {
+   "name_raw": "祇園 丸山",
+   "primary": "祇園 丸山",
+   "alt": "",
+   "score": "87.0",
+   "city": "京都",
+   "variants": [
+    "祇園丸山"
+   ],
+   "class": "要確認",
+   "saved_candidate": "祇園 にし(編集距離<=2)",
+   "pool_hits": [
+    "ミシュラン京阪2026:祇園 丸山",
+    "DR/OAD:祇園 丸山"
+   ],
+   "pool_near": [
+    "アワード2026:祇園 大渡(編集距離<=2); 祇園 にし(編集距離<=2)",
+    "アワード過去年SILVER/BRONZE:祇園 呂色(編集距離<=2)",
+    "百名店2026:祇園 鹿六(編集距離<=2)",
+    "百名店旧年版:祇園 一道(編集距離<=2); 祇園 大渡(編集距離<=2)",
+    "ゴ・エ・ミヨ2026:祇園 きだ(編集距離<=2); 衹園丸山(編集距離<=2)"
+   ]
+  },
+  {
+   "name_raw": "鮨 十兵衛",
+   "primary": "鮨 十兵衛",
+   "alt": "",
+   "score": "86.0",
+   "city": "福井",
+   "variants": [
+    "鮨十兵衛"
+   ],
+   "class": "新規",
+   "saved_candidate": "",
+   "pool_hits": [
+    "アワード2026:鮨 十兵衛",
+    "百名店旧年版:鮨 十兵衛",
+    "ゴ・エ・ミヨ2026:鮨 十兵衛",
+    "DR/OAD:鮨 十兵衛"
+   ],
+   "pool_near": []
+  },
+  {
+   "name_raw": "美山荘",
+   "primary": "美山荘",
+   "alt": "",
+   "score": "85.5",
+   "city": "京都",
+   "variants": [
+    "美山荘"
+   ],
+   "class": "新規",
+   "saved_candidate": "",
+   "pool_hits": [
+    "アワード2026:美山荘",
+    "ミシュラン京阪2026:美山荘",
+    "百名店旧年版:美山荘",
+    "ゴ・エ・ミヨ2026:美山荘",
+    "DR/OAD:美山荘"
+   ],
+   "pool_near": []
+  },
+  {
+   "name_raw": "青草窠",
+   "primary": "青草窠",
+   "alt": "",
+   "score": "85.5",
+   "city": "東京（港区）",
+   "variants": [
+    "青草窠"
+   ],
+   "class": "新規",
+   "saved_candidate": "",
+   "pool_hits": [
+    "ミシュラン東京2026:青草窠"
+   ],
+   "pool_near": []
+  },
+  {
+   "name_raw": "てんぷら 近藤",
+   "primary": "てんぷら 近藤",
+   "alt": "",
+   "score": "85.0",
+   "city": "東京（中央区）",
+   "variants": [
+    "てんぷら近藤"
+   ],
+   "class": "既存",
+   "saved_candidate": "てんぷら 近藤",
+   "pool_hits": [
+    "アワード2026:てんぷら 近藤",
+    "ミシュラン東京2026:てんぷら 近藤",
+    "ゴ・エ・ミヨ2026:てんぷら近藤"
+   ],
+   "pool_near": [
+    "アワード過去年GOLD・部門賞:てんぷら 成生(編集距離<=2)",
+    "百名店旧年版:てんぷら黒川(編集距離<=2); てんぷら前平(編集距離<=2)",
+    "DR/OAD:天ぷら 近藤(編集距離<=2)"
+   ]
+  },
+  {
+   "name_raw": "北新地 弧柳",
+   "primary": "北新地 弧柳",
+   "alt": "",
+   "score": "84.5",
+   "city": "大阪",
+   "variants": [
+    "北新地弧柳"
+   ],
+   "class": "要確認",
+   "saved_candidate": "北新地 鮨 葵(編集距離<=2)",
+   "pool_hits": [
+    "アワード過去年SILVER/BRONZE:北新地 弧柳"
+   ],
+   "pool_near": [
+    "百名店旧年版:北新地 天富(編集距離<=2); 北新地 ふか(編集距離<=2)"
+   ]
+  },
+  {
+   "name_raw": "蒼 西麻布",
+   "primary": "蒼 西麻布",
+   "alt": "",
+   "score": "84.5",
+   "city": "東京（港区）",
+   "variants": [
+    "蒼西麻布"
+   ],
+   "class": "新規",
+   "saved_candidate": "",
+   "pool_hits": [
+    "アワード過去年GOLD・部門賞:蒼 西麻布"
+   ],
+   "pool_near": [
+    "ミシュラン東京2026:西麻布 拓(編集距離<=2)"
+   ]
+  },
+  {
+   "name_raw": "Nihombashi Sonoji（日本橋 園路？要確認）",
+   "primary": "Nihombashi Sonoji",
+   "alt": "日本橋 園路",
+   "score": "83.5",
+   "city": "東京（中央区）",
+   "variants": [
+    "nihombashisonoji",
+    "nihombashisonoji日本橋園路?要確認",
+    "日本橋園路"
+   ],
+   "class": "要確認",
+   "saved_candidate": "日本橋 長門(編集距離<=2)",
+   "pool_hits": [],
+   "pool_near": [
+    "アワード2026:要確認(包含)",
+    "アワード過去年GOLD・部門賞:要確認(包含)",
+    "ミシュラン過去年:要確認(包含)"
+   ]
+  },
+  {
+   "name_raw": "フジヤ1935",
+   "primary": "フジヤ1935",
+   "alt": "",
+   "score": "83.5",
+   "city": "大阪",
+   "variants": [
+    "フジヤ1935"
+   ],
+   "class": "新規",
+   "saved_candidate": "",
+   "pool_hits": [
+    "DR/OAD:フジヤ 1935"
+   ],
+   "pool_near": []
+  },
+  {
+   "name_raw": "道人",
+   "primary": "道人",
+   "alt": "",
+   "score": "83.5",
+   "city": "京都",
+   "variants": [
+    "道人"
+   ],
+   "class": "既存",
+   "saved_candidate": "道人",
+   "pool_hits": [
+    "アワード2026:道人",
+    "アワード過去年GOLD・部門賞:道人",
+    "DR/OAD:道人"
+   ],
+   "pool_near": []
+  },
+  {
+   "name_raw": "Asahina Gastronome",
+   "primary": "Asahina Gastronome",
+   "alt": "",
+   "score": "80.0",
+   "city": "東京（中央区）",
+   "variants": [
+    "asahinagastronome"
+   ],
+   "class": "既存",
+   "saved_candidate": "ASAHINA Gastronome",
+   "pool_hits": [
+    "アワード2026:ASAHINA Gastronome"
+   ],
+   "pool_near": []
+  }
+ ]
+}

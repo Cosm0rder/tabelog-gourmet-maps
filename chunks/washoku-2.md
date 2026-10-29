@@ -1,0 +1,105 @@
+# 追加先リスト：食べログ｜和食
+# チャンク 2/6（50件）｜カテゴリ全254件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- はらまさ（最寄り駅：四谷三丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%AF%E3%82%89%E3%81%BE%E3%81%95%20%E5%9B%9B%E8%B0%B7%E4%B8%89%E4%B8%81%E7%9B%AE
+- 鰻 むさし乃（最寄り駅：浦和）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%B0%BB%20%E3%82%80%E3%81%95%E3%81%97%E4%B9%83%20%E6%B5%A6%E5%92%8C
+- 満寿家（最寄り駅：浦和）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%BA%80%E5%AF%BF%E5%AE%B6%20%E6%B5%A6%E5%92%8C
+- 食事処 たらふく（最寄り駅：与野本町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%A3%9F%E4%BA%8B%E5%87%A6%20%E3%81%9F%E3%82%89%E3%81%B5%E3%81%8F%20%E4%B8%8E%E9%87%8E%E6%9C%AC%E7%94%BA
+- おのうどん（最寄り駅：北与野）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E3%81%AE%E3%81%86%E3%81%A9%E3%82%93%20%E5%8C%97%E4%B8%8E%E9%87%8E
+- 銀座 小十（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7%20%E5%B0%8F%E5%8D%81%20%E9%8A%80%E5%BA%A7
+- 茂竹（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%8C%82%E7%AB%B9%20%E9%8A%80%E5%BA%A7
+- 人形町今半 銀座店（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%BA%BA%E5%BD%A2%E7%94%BA%E4%BB%8A%E5%8D%8A%20%E9%8A%80%E5%BA%A7%E5%BA%97%20%E9%8A%80%E5%BA%A7
+- 銀座 鼓門（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7%20%E9%BC%93%E9%96%80%20%E9%8A%80%E5%BA%A7
+- とんかつ檍 銀座8丁目店（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%E6%AA%8D%20%E9%8A%80%E5%BA%A78%E4%B8%81%E7%9B%AE%E5%BA%97%20%E6%96%B0%E6%A9%8B
+- 銀座 稲葉（最寄り駅：東銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7%20%E7%A8%B2%E8%91%89%20%E6%9D%B1%E9%8A%80%E5%BA%A7
+- 天冨良 いわ井（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E5%86%A8%E8%89%AF%20%E3%81%84%E3%82%8F%E4%BA%95%20%E9%8A%80%E5%BA%A7
+- てんぷら銀座天亭（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A6%E3%82%93%E3%81%B7%E3%82%89%E9%8A%80%E5%BA%A7%E5%A4%A9%E4%BA%AD%20%E6%96%B0%E6%A9%8B
+- 紀茂登（最寄り駅：神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%B4%80%E8%8C%82%E7%99%BB%20%E7%A5%9E%E6%A5%BD%E5%9D%82
+- とんかつ憲進（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%E6%86%B2%E9%80%B2%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- 多仁本（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%A4%9A%E4%BB%81%E6%9C%AC%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- 豊後もん 江とう（最寄り駅：牛込神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%B1%8A%E5%BE%8C%E3%82%82%E3%82%93%20%E6%B1%9F%E3%81%A8%E3%81%86%20%E7%89%9B%E8%BE%BC%E7%A5%9E%E6%A5%BD%E5%9D%82
+- 神楽坂 石かわ（最寄り駅：牛込神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%A5%BD%E5%9D%82%20%E7%9F%B3%E3%81%8B%E3%82%8F%20%E7%89%9B%E8%BE%BC%E7%A5%9E%E6%A5%BD%E5%9D%82
+- 石臼挽き手打 蕎楽亭（最寄り駅：牛込神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E8%87%BC%E6%8C%BD%E3%81%8D%E6%89%8B%E6%89%93%20%E8%95%8E%E6%A5%BD%E4%BA%AD%20%E7%89%9B%E8%BE%BC%E7%A5%9E%E6%A5%BD%E5%9D%82
+- 愚直に（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%84%9A%E7%9B%B4%E3%81%AB%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- あげづき（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%92%E3%81%A5%E3%81%8D%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- 虎白（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%99%8E%E7%99%BD%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- 一宇（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E5%AE%87%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- ますだや（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%BE%E3%81%99%E3%81%A0%E3%82%84%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- 鉄板焼き いわ倉（最寄り駅：牛込神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%89%84%E6%9D%BF%E7%84%BC%E3%81%8D%20%E3%81%84%E3%82%8F%E5%80%89%20%E7%89%9B%E8%BE%BC%E7%A5%9E%E6%A5%BD%E5%9D%82
+- てんぷら 拓（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A6%E3%82%93%E3%81%B7%E3%82%89%20%E6%8B%93%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- 葉隠（最寄り駅：赤坂見附）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%91%89%E9%9A%A0%20%E8%B5%A4%E5%9D%82%E8%A6%8B%E9%99%84
+- 赤坂とゝや魚新（最寄り駅：赤坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E5%9D%82%E3%81%A8%E3%82%9D%E3%82%84%E9%AD%9A%E6%96%B0%20%E8%B5%A4%E5%9D%82
+- ざくろ TBS店（最寄り駅：赤坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%96%E3%81%8F%E3%82%8D%20TBS%E5%BA%97%20%E8%B5%A4%E5%9D%82
+- 蕎麦小路 さわらび（最寄り駅：半蔵門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%95%8E%E9%BA%A6%E5%B0%8F%E8%B7%AF%20%E3%81%95%E3%82%8F%E3%82%89%E3%81%B3%20%E5%8D%8A%E8%94%B5%E9%96%80
+- 人形町 今半 東京ガーデンテラス紀尾井町店（最寄り駅：永田町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%BA%BA%E5%BD%A2%E7%94%BA%20%E4%BB%8A%E5%8D%8A%20%E6%9D%B1%E4%BA%AC%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%83%86%E3%83%A9%E3%82%B9%E7%B4%80%E5%B0%BE%E4%BA%95%E7%94%BA%E5%BA%97%20%E6%B0%B8%E7%94%B0%E7%94%BA
+- 山の茶屋（最寄り駅：溜池山王）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%B1%B1%E3%81%AE%E8%8C%B6%E5%B1%8B%20%E6%BA%9C%E6%B1%A0%E5%B1%B1%E7%8E%8B
+- 赤坂武蔵（最寄り駅：赤坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E5%9D%82%E6%AD%A6%E8%94%B5%20%E8%B5%A4%E5%9D%82
+- とんかつ まさむね（最寄り駅：溜池山王）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%20%E3%81%BE%E3%81%95%E3%82%80%E3%81%AD%20%E6%BA%9C%E6%B1%A0%E5%B1%B1%E7%8E%8B
+- 赤坂 渡なべ（最寄り駅：赤坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E5%9D%82%20%E6%B8%A1%E3%81%AA%E3%81%B9%20%E8%B5%A4%E5%9D%82
+- 炭焼 うな富士 有楽町店（最寄り駅：内幸町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%82%AD%E7%84%BC%20%E3%81%86%E3%81%AA%E5%AF%8C%E5%A3%AB%20%E6%9C%89%E6%A5%BD%E7%94%BA%E5%BA%97%20%E5%86%85%E5%B9%B8%E7%94%BA
+- 天茶屋 七蔵（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E8%8C%B6%E5%B1%8B%20%E4%B8%83%E8%94%B5%20%E6%96%B0%E6%A9%8B
+- 天ぷら 逢坂（最寄り駅：虎ノ門ヒルズ）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E3%81%B7%E3%82%89%20%E9%80%A2%E5%9D%82%20%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA
+- ひろ作（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%B2%E3%82%8D%E4%BD%9C%20%E6%96%B0%E6%A9%8B
+- 黒豚とんかつ ほり壱（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%BB%92%E8%B1%9A%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%20%E3%81%BB%E3%82%8A%E5%A3%B1%20%E6%96%B0%E6%A9%8B
+- おにやんま 新橋店（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E3%81%AB%E3%82%84%E3%82%93%E3%81%BE%20%E6%96%B0%E6%A9%8B%E5%BA%97%20%E6%96%B0%E6%A9%8B
+- 新ばし 笹田（最寄り駅：虎ノ門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%96%B0%E3%81%B0%E3%81%97%20%E7%AC%B9%E7%94%B0%20%E8%99%8E%E3%83%8E%E9%96%80
+- 蕎麦切り 酒 大愚（最寄り駅：虎ノ門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%95%8E%E9%BA%A6%E5%88%87%E3%82%8A%20%E9%85%92%20%E5%A4%A7%E6%84%9A%20%E8%99%8E%E3%83%8E%E9%96%80
+- 日本橋いづもや（最寄り駅：新日本橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E6%A9%8B%E3%81%84%E3%81%A5%E3%82%82%E3%82%84%20%E6%96%B0%E6%97%A5%E6%9C%AC%E6%A9%8B
+- 鳥つね自然洞（最寄り駅：末広町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E3%81%A4%E3%81%AD%E8%87%AA%E7%84%B6%E6%B4%9E%20%E6%9C%AB%E5%BA%83%E7%94%BA
+- いし橋（最寄り駅：末広町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%81%97%E6%A9%8B%20%E6%9C%AB%E5%BA%83%E7%94%BA
+- 明神下 神田川 本店（最寄り駅：末広町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%98%8E%E7%A5%9E%E4%B8%8B%20%E7%A5%9E%E7%94%B0%E5%B7%9D%20%E6%9C%AC%E5%BA%97%20%E6%9C%AB%E5%BA%83%E7%94%BA
+- てんぷら 山の上 三越日本橋店内（最寄り駅：三越前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A6%E3%82%93%E3%81%B7%E3%82%89%20%E5%B1%B1%E3%81%AE%E4%B8%8A%20%E4%B8%89%E8%B6%8A%E6%97%A5%E6%9C%AC%E6%A9%8B%E5%BA%97%E5%86%85%20%E4%B8%89%E8%B6%8A%E5%89%8D
+- とんかつ やまいち（最寄り駅：淡路町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%20%E3%82%84%E3%81%BE%E3%81%84%E3%81%A1%20%E6%B7%A1%E8%B7%AF%E7%94%BA
+- 室町砂場 日本橋本店（最寄り駅：新日本橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%AE%A4%E7%94%BA%E7%A0%82%E5%A0%B4%20%E6%97%A5%E6%9C%AC%E6%A9%8B%E6%9C%AC%E5%BA%97%20%E6%96%B0%E6%97%A5%E6%9C%AC%E6%A9%8B

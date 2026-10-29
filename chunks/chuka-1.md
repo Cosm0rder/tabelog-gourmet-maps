@@ -1,0 +1,105 @@
+# 追加先リスト：食べログ｜中華・台湾
+# チャンク 1/2（50件）｜カテゴリ全79件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- 興隆（最寄り駅：小川町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%88%88%E9%9A%86%20%E5%B0%8F%E5%B7%9D%E7%94%BA
+- 銀座アスター お茶の水賓館（最寄り駅：御茶ノ水）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%81%8A%E8%8C%B6%E3%81%AE%E6%B0%B4%E8%B3%93%E9%A4%A8%20%E5%BE%A1%E8%8C%B6%E3%83%8E%E6%B0%B4
+- 神天樓 MINATO KOBE（最寄り駅：ハーバーランド）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E5%A4%A9%E6%A8%93%20MINATO%20KOBE%20%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89
+- 中華料理 徳武（最寄り駅：錦糸町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E8%8F%AF%E6%96%99%E7%90%86%20%E5%BE%B3%E6%AD%A6%20%E9%8C%A6%E7%B3%B8%E7%94%BA
+- 緑町 生駒（最寄り駅：菊川）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%B7%91%E7%94%BA%20%E7%94%9F%E9%A7%92%20%E8%8F%8A%E5%B7%9D
+- 亀戸ぎょうざ 錦糸町店（最寄り駅：錦糸町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%BA%80%E6%88%B8%E3%81%8E%E3%82%87%E3%81%86%E3%81%96%20%E9%8C%A6%E7%B3%B8%E7%94%BA%E5%BA%97%20%E9%8C%A6%E7%B3%B8%E7%94%BA
+- 中国料理 「王朝」 ヒルトン東京ベイ（最寄り駅：ベイサイド・ステーション）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%9B%BD%E6%96%99%E7%90%86%20%E3%80%8C%E7%8E%8B%E6%9C%9D%E3%80%8D%20%E3%83%92%E3%83%AB%E3%83%88%E3%83%B3%E6%9D%B1%E4%BA%AC%E3%83%99%E3%82%A4%20%E3%83%99%E3%82%A4%E3%82%B5%E3%82%A4%E3%83%89%E3%83%BB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3
+- シルクロードガーデン（最寄り駅：東京ディズニーシー・ステーション）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%89%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%20%E6%9D%B1%E4%BA%AC%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3
+- 永楽（最寄り駅：京成小岩）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%B0%B8%E6%A5%BD%20%E4%BA%AC%E6%88%90%E5%B0%8F%E5%B2%A9
+- おけ以（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E3%81%91%E4%BB%A5%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- 錦福 香港美食（最寄り駅：九段下）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%8C%A6%E7%A6%8F%20%E9%A6%99%E6%B8%AF%E7%BE%8E%E9%A3%9F%20%E4%B9%9D%E6%AE%B5%E4%B8%8B
+- REIKASAI GINZA（最寄り駅：銀座一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=REIKASAI%20GINZA%20%E9%8A%80%E5%BA%A7%E4%B8%80%E4%B8%81%E7%9B%AE
+- ヤウメイ（最寄り駅：二重橋前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A4%E3%82%A6%E3%83%A1%E3%82%A4%20%E4%BA%8C%E9%87%8D%E6%A9%8B%E5%89%8D
+- ヘイフンテラス（最寄り駅：日比谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%98%E3%82%A4%E3%83%95%E3%83%B3%E3%83%86%E3%83%A9%E3%82%B9%20%E6%97%A5%E6%AF%94%E8%B0%B7
+- 中国菜 老四川 飄香 銀座三越店（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%9B%BD%E8%8F%9C%20%E8%80%81%E5%9B%9B%E5%B7%9D%20%E9%A3%84%E9%A6%99%20%E9%8A%80%E5%BA%A7%E4%B8%89%E8%B6%8A%E5%BA%97%20%E9%8A%80%E5%BA%A7
+- 家寶 跳龍門（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%AE%B6%E5%AF%B6%20%E8%B7%B3%E9%BE%8D%E9%96%80%20%E9%8A%80%E5%BA%A7
+- 中国料理 桃花林（最寄り駅：虎ノ門ヒルズ）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%9B%BD%E6%96%99%E7%90%86%20%E6%A1%83%E8%8A%B1%E6%9E%97%20%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA
+- 中国飯店 三田店（最寄り駅：三田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%9B%BD%E9%A3%AF%E5%BA%97%20%E4%B8%89%E7%94%B0%E5%BA%97%20%E4%B8%89%E7%94%B0
+- 台湾小吃店 慶龍（最寄り駅：大神宮下）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E6%B9%BE%E5%B0%8F%E5%90%83%E5%BA%97%20%E6%85%B6%E9%BE%8D%20%E5%A4%A7%E7%A5%9E%E5%AE%AE%E4%B8%8B
+- 中国四川酒家 蔓山（最寄り駅：幕張本郷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%9B%BD%E5%9B%9B%E5%B7%9D%E9%85%92%E5%AE%B6%20%E8%94%93%E5%B1%B1%20%E5%B9%95%E5%BC%B5%E6%9C%AC%E9%83%B7
+- chinese restaurant HAKUBI（最寄り駅：浦和）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=chinese%20restaurant%20HAKUBI%20%E6%B5%A6%E5%92%8C
+- 赤坂璃宮 銀座店（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E5%9D%82%E7%92%83%E5%AE%AE%20%E9%8A%80%E5%BA%A7%E5%BA%97%20%E9%8A%80%E5%BA%A7
+- 中華 銀座亭（最寄り駅：東銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E8%8F%AF%20%E9%8A%80%E5%BA%A7%E4%BA%AD%20%E6%9D%B1%E9%8A%80%E5%BA%A7
+- 銀座嘉禅（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7%E5%98%89%E7%A6%85%20%E9%8A%80%E5%BA%A7
+- M Mugen（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=M%20Mugen%20%E9%8A%80%E5%BA%A7
+- レンゲ（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AC%E3%83%B3%E3%82%B2%20%E9%8A%80%E5%BA%A7
+- エンジン（最寄り駅：牛込神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%20%E7%89%9B%E8%BE%BC%E7%A5%9E%E6%A5%BD%E5%9D%82
+- ジュウバー（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B8%E3%83%A5%E3%82%A6%E3%83%90%E3%83%BC%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- 中国菜 智林（最寄り駅：神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%9B%BD%E8%8F%9C%20%E6%99%BA%E6%9E%97%20%E7%A5%9E%E6%A5%BD%E5%9D%82
+- 中国飯店 市ヶ谷店（最寄り駅：市ケ谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%9B%BD%E9%A3%AF%E5%BA%97%20%E5%B8%82%E3%83%B6%E8%B0%B7%E5%BA%97%20%E5%B8%82%E3%82%B1%E8%B0%B7
+- 赤坂璃宮 赤坂本店（最寄り駅：赤坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E5%9D%82%E7%92%83%E5%AE%AE%20%E8%B5%A4%E5%9D%82%E6%9C%AC%E5%BA%97%20%E8%B5%A4%E5%9D%82
+- メゾン・ド・ユーロン（最寄り駅：赤坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A1%E3%82%BE%E3%83%B3%E3%83%BB%E3%83%89%E3%83%BB%E3%83%A6%E3%83%BC%E3%83%AD%E3%83%B3%20%E8%B5%A4%E5%9D%82
+- 赤坂珉珉（最寄り駅：乃木坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E5%9D%82%E7%8F%89%E7%8F%89%20%E4%B9%83%E6%9C%A8%E5%9D%82
+- ワキヤ 一笑美茶樓（最寄り駅：赤坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AF%E3%82%AD%E3%83%A4%20%E4%B8%80%E7%AC%91%E7%BE%8E%E8%8C%B6%E6%A8%93%20%E8%B5%A4%E5%9D%82
+- 赤坂 四川飯店（最寄り駅：永田町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E5%9D%82%20%E5%9B%9B%E5%B7%9D%E9%A3%AF%E5%BA%97%20%E6%B0%B8%E7%94%B0%E7%94%BA
+- 中国料理 礼華 四君子草（最寄り駅：日比谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%9B%BD%E6%96%99%E7%90%86%20%E7%A4%BC%E8%8F%AF%20%E5%9B%9B%E5%90%9B%E5%AD%90%E8%8D%89%20%E6%97%A5%E6%AF%94%E8%B0%B7
+- みこころ 無添加チャイナ935（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%BF%E3%81%93%E3%81%93%E3%82%8D%20%E7%84%A1%E6%B7%BB%E5%8A%A0%E3%83%81%E3%83%A3%E3%82%A4%E3%83%8A935%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- 蟹王府（最寄り駅：三越前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%9F%B9%E7%8E%8B%E5%BA%9C%20%E4%B8%89%E8%B6%8A%E5%89%8D
+- フルタ（最寄り駅：新富町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%83%AB%E3%82%BF%20%E6%96%B0%E5%AF%8C%E7%94%BA
+- 銀座 上瀧（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7%20%E4%B8%8A%E7%80%A7%20%E9%8A%80%E5%BA%A7
+- 虎峰（最寄り駅：六本木）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%99%8E%E5%B3%B0%20%E5%85%AD%E6%9C%AC%E6%9C%A8
+- 隼（最寄り駅：六本木）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%9A%BC%20%E5%85%AD%E6%9C%AC%E6%9C%A8
+- 4000 Chinese Restaurant（最寄り駅：広尾）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=4000%20Chinese%20Restaurant%20%E5%BA%83%E5%B0%BE
+- Ji-Cube（最寄り駅：六本木）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Ji-Cube%20%E5%85%AD%E6%9C%AC%E6%9C%A8
+- 對馬（最寄り駅：六本木）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%B0%8D%E9%A6%AC%20%E5%85%AD%E6%9C%AC%E6%9C%A8
+- 茶禅華（最寄り駅：広尾）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E7%A6%85%E8%8F%AF%20%E5%BA%83%E5%B0%BE
+- 中国飯店 富麗華（最寄り駅：麻布十番）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%9B%BD%E9%A3%AF%E5%BA%97%20%E5%AF%8C%E9%BA%97%E8%8F%AF%20%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA
+- 広東料理 センス（最寄り駅：三越前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%BA%83%E6%9D%B1%E6%96%99%E7%90%86%20%E3%82%BB%E3%83%B3%E3%82%B9%20%E4%B8%89%E8%B6%8A%E5%89%8D
+- 港式料理 鴻禧（最寄り駅：虎ノ門ヒルズ）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%B8%AF%E5%BC%8F%E6%96%99%E7%90%86%20%E9%B4%BB%E7%A6%A7%20%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA
+- 神田 雲林（最寄り駅：淡路町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E7%94%B0%20%E9%9B%B2%E6%9E%97%20%E6%B7%A1%E8%B7%AF%E7%94%BA

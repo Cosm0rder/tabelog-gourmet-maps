@@ -1,0 +1,69 @@
+# 追加先リスト：食べログ｜バー・酒場
+# チャンク 2/2（32件）｜カテゴリ全82件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- bar Jug（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=bar%20Jug%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- 神楽坂 椿々（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E6%A5%BD%E5%9D%82%20%E6%A4%BF%E3%80%85%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- スカイギャラリーラウンジ レヴィータ（最寄り駅：永田町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%AE%E3%83%A3%E3%83%A9%E3%83%AA%E3%83%BC%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%20%E3%83%AC%E3%83%B4%E3%82%A3%E3%83%BC%E3%82%BF%20%E6%B0%B8%E7%94%B0%E7%94%BA
+- キャンベルタウン・ロッホ（最寄り駅：日比谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%99%E3%83%AB%E3%82%BF%E3%82%A6%E3%83%B3%E3%83%BB%E3%83%AD%E3%83%83%E3%83%9B%20%E6%97%A5%E6%AF%94%E8%B0%B7
+- ワイン屋バール 西新宿店（最寄り駅：新宿西口）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AF%E3%82%A4%E3%83%B3%E5%B1%8B%E3%83%90%E3%83%BC%E3%83%AB%20%E8%A5%BF%E6%96%B0%E5%AE%BF%E5%BA%97%20%E6%96%B0%E5%AE%BF%E8%A5%BF%E5%8F%A3
+- イーグル（最寄り駅：新宿西口）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%20%E6%96%B0%E5%AE%BF%E8%A5%BF%E5%8F%A3
+- The Old Blind CAT（最寄り駅：新宿）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=The%20Old%20Blind%20CAT%20%E6%96%B0%E5%AE%BF
+- ワインの酒場。ディプント 桜橋店（最寄り駅：西梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AF%E3%82%A4%E3%83%B3%E3%81%AE%E9%85%92%E5%A0%B4%E3%80%82%E3%83%87%E3%82%A3%E3%83%97%E3%83%B3%E3%83%88%20%E6%A1%9C%E6%A9%8B%E5%BA%97%20%E8%A5%BF%E6%A2%85%E7%94%B0
+- マンダリンオリエンタル 東京（最寄り駅：三越前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%9E%E3%83%B3%E3%83%80%E3%83%AA%E3%83%B3%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%AB%20%E6%9D%B1%E4%BA%AC%20%E4%B8%89%E8%B6%8A%E5%89%8D
+- ルーフトップ バー（最寄り駅：虎ノ門ヒルズ）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AB%E3%83%BC%E3%83%95%E3%83%88%E3%83%83%E3%83%97%20%E3%83%90%E3%83%BC%20%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA
+- フォーシーズンズホテル丸の内 東京（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B3%E3%82%BA%E3%83%9B%E3%83%86%E3%83%AB%E4%B8%B8%E3%81%AE%E5%86%85%20%E6%9D%B1%E4%BA%AC%20%E6%9D%B1%E4%BA%AC
+- ザ・ペニンシュラ東京(インルームダイニング)（最寄り駅：日比谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B6%E3%83%BB%E3%83%9A%E3%83%8B%E3%83%B3%E3%82%B7%E3%83%A5%E3%83%A9%E6%9D%B1%E4%BA%AC%28%E3%82%A4%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%E3%83%80%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%29%20%E6%97%A5%E6%AF%94%E8%B0%B7
+- ハイボールバー梅田1923（最寄り駅：大阪梅田（阪急））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%8F%E3%82%A4%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%E6%A2%85%E7%94%B01923%20%E5%A4%A7%E9%98%AA%E6%A2%85%E7%94%B0%EF%BC%88%E9%98%AA%E6%80%A5%EF%BC%89
+- アイリッシュカフェ＆レストラン カプリシカ（最寄り駅：西宮北口）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%82%AB%E3%83%95%E3%82%A7%EF%BC%86%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%20%E3%82%AB%E3%83%97%E3%83%AA%E3%82%B7%E3%82%AB%20%E8%A5%BF%E5%AE%AE%E5%8C%97%E5%8F%A3
+- 肉が旨いカフェ NICK STOCK 本町通店（最寄り駅：堺筋本町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%82%89%E3%81%8C%E6%97%A8%E3%81%84%E3%82%AB%E3%83%95%E3%82%A7%20NICK%20STOCK%20%E6%9C%AC%E7%94%BA%E9%80%9A%E5%BA%97%20%E5%A0%BA%E7%AD%8B%E6%9C%AC%E7%94%BA
+- CRAFT BEER HOUSE molto!! 梅田店（最寄り駅：梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=CRAFT%20BEER%20HOUSE%20molto%21%21%20%E6%A2%85%E7%94%B0%E5%BA%97%20%E6%A2%85%E7%94%B0
+- UMIYA CAFE WestPoint（最寄り駅：大阪難波）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=UMIYA%20CAFE%20WestPoint%20%E5%A4%A7%E9%98%AA%E9%9B%A3%E6%B3%A2
+- ハイボールバー京都烏丸1923（最寄り駅：烏丸）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%8F%E3%82%A4%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%E4%BA%AC%E9%83%BD%E7%83%8F%E4%B8%B81923%20%E7%83%8F%E4%B8%B8
+- 琥珀（最寄り駅：祇園四条）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%90%A5%E7%8F%80%20%E7%A5%87%E5%9C%92%E5%9B%9B%E6%9D%A1
+- minibar 京都駅前カクテル＆ウイスキーバー（最寄り駅：京都）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=minibar%20%E4%BA%AC%E9%83%BD%E9%A7%85%E5%89%8D%E3%82%AB%E3%82%AF%E3%83%86%E3%83%AB%EF%BC%86%E3%82%A6%E3%82%A4%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%90%E3%83%BC%20%E4%BA%AC%E9%83%BD
+- インザムーン（最寄り駅：祇園四条）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A4%E3%83%B3%E3%82%B6%E3%83%A0%E3%83%BC%E3%83%B3%20%E7%A5%87%E5%9C%92%E5%9B%9B%E6%9D%A1
+- 麓座（最寄り駅：蹴上）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%BA%93%E5%BA%A7%20%E8%B9%B4%E4%B8%8A
+- SENT JAMES CLUB 本店（最寄り駅：祇園四条）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=SENT%20JAMES%20CLUB%20%E6%9C%AC%E5%BA%97%20%E7%A5%87%E5%9C%92%E5%9B%9B%E6%9D%A1
+- ニューサントリー5（最寄り駅：東梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC5%20%E6%9D%B1%E6%A2%85%E7%94%B0
+- 樽（最寄り駅：大江橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%A8%BD%20%E5%A4%A7%E6%B1%9F%E6%A9%8B
+- K36（最寄り駅：祇園四条）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=K36%20%E7%A5%87%E5%9C%92%E5%9B%9B%E6%9D%A1
+- バー プロースト（最寄り駅：祇園四条）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%90%E3%83%BC%20%E3%83%97%E3%83%AD%E3%83%BC%E3%82%B9%E3%83%88%20%E7%A5%87%E5%9C%92%E5%9B%9B%E6%9D%A1
+- SUNTORY OLD BAR 四ツ橋（最寄り駅：四ツ橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=SUNTORY%20OLD%20BAR%20%E5%9B%9B%E3%83%84%E6%A9%8B%20%E5%9B%9B%E3%83%84%E6%A9%8B
+- サントリーオールドバー曾根崎（最寄り駅：東梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%AB%E3%83%89%E3%83%90%E3%83%BC%E6%9B%BE%E6%A0%B9%E5%B4%8E%20%E6%9D%B1%E6%A2%85%E7%94%B0
+- スカイラウンジ スターダスト（最寄り駅：中津（阪急））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B8%20%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%80%E3%82%B9%E3%83%88%20%E4%B8%AD%E6%B4%A5%EF%BC%88%E9%98%AA%E6%80%A5%EF%BC%89
+- サントリーバー＆ダイニング 北新地 水響亭（最寄り駅：北新地）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%83%90%E3%83%BC%EF%BC%86%E3%83%80%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%20%E5%8C%97%E6%96%B0%E5%9C%B0%20%E6%B0%B4%E9%9F%BF%E4%BA%AD%20%E5%8C%97%E6%96%B0%E5%9C%B0
+- フェスティバール＆ビアホール（最寄り駅：渡辺橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%BC%E3%83%AB%EF%BC%86%E3%83%93%E3%82%A2%E3%83%9B%E3%83%BC%E3%83%AB%20%E6%B8%A1%E8%BE%BA%E6%A9%8B

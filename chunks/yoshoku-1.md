@@ -1,0 +1,105 @@
+# 追加先リスト：食べログ｜洋食・欧州料理
+# チャンク 1/5（50件）｜カテゴリ全214件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- 神田たまごけん 秋葉原店（最寄り駅：末広町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E7%94%B0%E3%81%9F%E3%81%BE%E3%81%94%E3%81%91%E3%82%93%20%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97%20%E6%9C%AB%E5%BA%83%E7%94%BA
+- 神田たまごけん 神保町店（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E7%94%B0%E3%81%9F%E3%81%BE%E3%81%94%E3%81%91%E3%82%93%20%E7%A5%9E%E4%BF%9D%E7%94%BA%E5%BA%97%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- 池袋ワイン倶楽部（最寄り駅：池袋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%B1%A0%E8%A2%8B%E3%83%AF%E3%82%A4%E3%83%B3%E5%80%B6%E6%A5%BD%E9%83%A8%20%E6%B1%A0%E8%A2%8B
+- ラ・ブーシェリー・エ・ヴァン 肉屋のワイン食堂 浜松町店（最寄り駅：大門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%83%BB%E3%83%96%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%B3%20%E8%82%89%E5%B1%8B%E3%81%AE%E3%83%AF%E3%82%A4%E3%83%B3%E9%A3%9F%E5%A0%82%20%E6%B5%9C%E6%9D%BE%E7%94%BA%E5%BA%97%20%E5%A4%A7%E9%96%80
+- 有楽町ワイン倶楽部（最寄り駅：日比谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E6%A5%BD%E7%94%BA%E3%83%AF%E3%82%A4%E3%83%B3%E5%80%B6%E6%A5%BD%E9%83%A8%20%E6%97%A5%E6%AF%94%E8%B0%B7
+- ハイボールバー 新橋1923（最寄り駅：内幸町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%8F%E3%82%A4%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%20%E6%96%B0%E6%A9%8B1923%20%E5%86%85%E5%B9%B8%E7%94%BA
+- 北国とミルク 浦和パルコ店（最寄り駅：浦和）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E5%9B%BD%E3%81%A8%E3%83%9F%E3%83%AB%E3%82%AF%20%E6%B5%A6%E5%92%8C%E3%83%91%E3%83%AB%E3%82%B3%E5%BA%97%20%E6%B5%A6%E5%92%8C
+- ウルフギャング・パック エクスプレス 大手町ビル店（最寄り駅：大手町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A6%E3%83%AB%E3%83%95%E3%82%AE%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%91%E3%83%83%E3%82%AF%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9%20%E5%A4%A7%E6%89%8B%E7%94%BA%E3%83%93%E3%83%AB%E5%BA%97%20%E5%A4%A7%E6%89%8B%E7%94%BA
+- 室町ワイン倶楽部（最寄り駅：新日本橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%AE%A4%E7%94%BA%E3%83%AF%E3%82%A4%E3%83%B3%E5%80%B6%E6%A5%BD%E9%83%A8%20%E6%96%B0%E6%97%A5%E6%9C%AC%E6%A9%8B
+- FULLMOoN 御茶ノ水店（最寄り駅：御茶ノ水）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=FULLMOoN%20%E5%BE%A1%E8%8C%B6%E3%83%8E%E6%B0%B4%E5%BA%97%20%E5%BE%A1%E8%8C%B6%E3%83%8E%E6%B0%B4
+- Anchor Tokyo (ザ・ゲートホテル東京 by HULIC)（最寄り駅：有楽町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Anchor%20Tokyo%20%28%E3%82%B6%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%88%E3%83%9B%E3%83%86%E3%83%AB%E6%9D%B1%E4%BA%AC%20by%20HULIC%29%20%E6%9C%89%E6%A5%BD%E7%94%BA
+- Good View Dining（最寄り駅：新御茶ノ水）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Good%20View%20Dining%20%E6%96%B0%E5%BE%A1%E8%8C%B6%E3%83%8E%E6%B0%B4
+- リストランテ バル ポルテーニョ（最寄り駅：錦糸町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AA%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%83%86%20%E3%83%90%E3%83%AB%20%E3%83%9D%E3%83%AB%E3%83%86%E3%83%BC%E3%83%8B%E3%83%A7%20%E9%8C%A6%E7%B3%B8%E7%94%BA
+- トラットリア イル レガーロ（最寄り駅：松戸）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%88%E3%83%A9%E3%83%83%E3%83%88%E3%83%AA%E3%82%A2%20%E3%82%A4%E3%83%AB%20%E3%83%AC%E3%82%AC%E3%83%BC%E3%83%AD%20%E6%9D%BE%E6%88%B8
+- じゃがいも（最寄り駅：本八幡）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%98%E3%82%83%E3%81%8C%E3%81%84%E3%82%82%20%E6%9C%AC%E5%85%AB%E5%B9%A1
+- ベッラ・ナポリ（最寄り駅：清澄白河）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%99%E3%83%83%E3%83%A9%E3%83%BB%E3%83%8A%E3%83%9D%E3%83%AA%20%E6%B8%85%E6%BE%84%E7%99%BD%E6%B2%B3
+- グリル グランド（最寄り駅：浅草（つくばＥＸＰ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%AA%E3%83%AB%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%20%E6%B5%85%E8%8D%89%EF%BC%88%E3%81%A4%E3%81%8F%E3%81%B0%EF%BC%A5%EF%BC%B8%EF%BC%B0%EF%BC%89
+- 洋食・ワイン フリッツ（最寄り駅：春日）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%B4%8B%E9%A3%9F%E3%83%BB%E3%83%AF%E3%82%A4%E3%83%B3%20%E3%83%95%E3%83%AA%E3%83%83%E3%83%84%20%E6%98%A5%E6%97%A5
+- Jfree（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Jfree%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- ウラノ（最寄り駅：市ケ谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A6%E3%83%A9%E3%83%8E%20%E5%B8%82%E3%82%B1%E8%B0%B7
+- トラットリア グランボッカ（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%88%E3%83%A9%E3%83%83%E3%83%88%E3%83%AA%E3%82%A2%20%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%9C%E3%83%83%E3%82%AB%20%E9%A3%AF%E7%94%B0%E6%A9%8B
+- ピャチェーレ（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%94%E3%83%A3%E3%83%81%E3%82%A7%E3%83%BC%E3%83%AC%20%E6%9D%B1%E4%BA%AC
+- レストラン・サカキ（最寄り駅：宝町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%83%BB%E3%82%B5%E3%82%AB%E3%82%AD%20%E5%AE%9D%E7%94%BA
+- ドミニク・ブシェ トーキョー（最寄り駅：銀座一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AF%E3%83%BB%E3%83%96%E3%82%B7%E3%82%A7%20%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%20%E9%8A%80%E5%BA%A7%E4%B8%80%E4%B8%81%E7%9B%AE
+- MASIA（最寄り駅：銀座一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=MASIA%20%E9%8A%80%E5%BA%A7%E4%B8%80%E4%B8%81%E7%9B%AE
+- サーラ アマービレ（最寄り駅：銀座一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%BC%E3%83%A9%20%E3%82%A2%E3%83%9E%E3%83%BC%E3%83%93%E3%83%AC%20%E9%8A%80%E5%BA%A7%E4%B8%80%E4%B8%81%E7%9B%AE
+- アルマーニ リストランテ（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AB%E3%83%9E%E3%83%BC%E3%83%8B%20%E3%83%AA%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%E3%83%86%20%E9%8A%80%E5%BA%A7
+- TexturA（最寄り駅：日比谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=TexturA%20%E6%97%A5%E6%AF%94%E8%B0%B7
+- 銀座スイス 本店（最寄り駅：銀座一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7%E3%82%B9%E3%82%A4%E3%82%B9%20%E6%9C%AC%E5%BA%97%20%E9%8A%80%E5%BA%A7%E4%B8%80%E4%B8%81%E7%9B%AE
+- ベージュ アラン・デュカス 東京（最寄り駅：銀座一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%99%E3%83%BC%E3%82%B8%E3%83%A5%20%E3%82%A2%E3%83%A9%E3%83%B3%E3%83%BB%E3%83%87%E3%83%A5%E3%82%AB%E3%82%B9%20%E6%9D%B1%E4%BA%AC%20%E9%8A%80%E5%BA%A7%E4%B8%80%E4%B8%81%E7%9B%AE
+- みかわや（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%BF%E3%81%8B%E3%82%8F%E3%82%84%20%E9%8A%80%E5%BA%A7
+- スペインレストラン 銀座エスペロ（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E3%83%AC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%B3%20%E9%8A%80%E5%BA%A7%E3%82%A8%E3%82%B9%E3%83%9A%E3%83%AD%20%E9%8A%80%E5%BA%A7
+- apothéose（最寄り駅：虎ノ門ヒルズ）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=apoth%C3%A9ose%20%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA
+- COMEDOR MONRICO（最寄り駅：三田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=COMEDOR%20MONRICO%20%E4%B8%89%E7%94%B0
+- Crony（最寄り駅：赤羽橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Crony%20%E8%B5%A4%E7%BE%BD%E6%A9%8B
+- ナポリスタカ 神谷町店（最寄り駅：神谷町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%8A%E3%83%9D%E3%83%AA%E3%82%B9%E3%82%BF%E3%82%AB%20%E7%A5%9E%E8%B0%B7%E7%94%BA%E5%BA%97%20%E7%A5%9E%E8%B0%B7%E7%94%BA
+- Pizza 4P's（最寄り駅：神谷町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Pizza%204P%27s%20%E7%A5%9E%E8%B0%B7%E7%94%BA
+- 煉瓦亭（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%85%89%E7%93%A6%E4%BA%AD%20%E9%8A%80%E5%BA%A7
+- La Bonta（最寄り駅：京成船橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=La%20Bonta%20%E4%BA%AC%E6%88%90%E8%88%B9%E6%A9%8B
+- サンク・オ・ピエ（最寄り駅：幕張本郷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B5%E3%83%B3%E3%82%AF%E3%83%BB%E3%82%AA%E3%83%BB%E3%83%94%E3%82%A8%20%E5%B9%95%E5%BC%B5%E6%9C%AC%E9%83%B7
+- Vv.lab（最寄り駅：幕張）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Vv.lab%20%E5%B9%95%E5%BC%B5
+- フィオッキ（最寄り駅：祖師ケ谷大蔵）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%A3%E3%82%AA%E3%83%83%E3%82%AD%20%E7%A5%96%E5%B8%AB%E3%82%B1%E8%B0%B7%E5%A4%A7%E8%94%B5
+- caillou（最寄り駅：西小山）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=caillou%20%E8%A5%BF%E5%B0%8F%E5%B1%B1
+- ラチュレ（最寄り駅：表参道）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%83%81%E3%83%A5%E3%83%AC%20%E8%A1%A8%E5%8F%82%E9%81%93
+- recte（最寄り駅：代官山）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=recte%20%E4%BB%A3%E5%AE%98%E5%B1%B1
+- 南蛮 銀圓亭（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%8D%97%E8%9B%AE%20%E9%8A%80%E5%9C%93%E4%BA%AD%20%E9%8A%80%E5%BA%A7
+- グッチオステリアダマッシモボットゥーラ トウキョウ（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%83%E3%83%81%E3%82%AA%E3%82%B9%E3%83%86%E3%83%AA%E3%82%A2%E3%83%80%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A2%E3%83%9C%E3%83%83%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A9%20%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%20%E9%8A%80%E5%BA%A7
+- 資生堂パーラー 銀座本店（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%B3%87%E7%94%9F%E5%A0%82%E3%83%91%E3%83%BC%E3%83%A9%E3%83%BC%20%E9%8A%80%E5%BA%A7%E6%9C%AC%E5%BA%97%20%E6%96%B0%E6%A9%8B
+- FARO（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=FARO%20%E6%96%B0%E6%A9%8B
+- エスタシオン（最寄り駅：飯田橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%A8%E3%82%B9%E3%82%BF%E3%82%B7%E3%82%AA%E3%83%B3%20%E9%A3%AF%E7%94%B0%E6%A9%8B

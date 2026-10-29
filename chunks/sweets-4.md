@@ -1,0 +1,105 @@
+# 追加先リスト：食べログ｜スイーツ・カフェ・パン
+# チャンク 4/5（50件）｜カテゴリ全238件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- 菊丸（最寄り駅：田原町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%8F%8A%E4%B8%B8%20%E7%94%B0%E5%8E%9F%E7%94%BA
+- だるまや餅菓子店（最寄り駅：十条）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A0%E3%82%8B%E3%81%BE%E3%82%84%E9%A4%85%E8%8F%93%E5%AD%90%E5%BA%97%20%E5%8D%81%E6%9D%A1
+- 森乃園（最寄り駅：人形町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%A3%AE%E4%B9%83%E5%9C%92%20%E4%BA%BA%E5%BD%A2%E7%94%BA
+- 追分だんご本舗 新宿本店（最寄り駅：新宿三丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%BF%BD%E5%88%86%E3%81%A0%E3%82%93%E3%81%94%E6%9C%AC%E8%88%97%20%E6%96%B0%E5%AE%BF%E6%9C%AC%E5%BA%97%20%E6%96%B0%E5%AE%BF%E4%B8%89%E4%B8%81%E7%9B%AE
+- 茶寮都路里 大丸東京店（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E5%AF%AE%E9%83%BD%E8%B7%AF%E9%87%8C%20%E5%A4%A7%E4%B8%B8%E6%9D%B1%E4%BA%AC%E5%BA%97%20%E6%9D%B1%E4%BA%AC
+- たちばな（最寄り駅：新橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%9F%E3%81%A1%E3%81%B0%E3%81%AA%20%E6%96%B0%E6%A9%8B
+- たいやき ひいらぎ（最寄り駅：恵比寿）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%9F%E3%81%84%E3%82%84%E3%81%8D%20%E3%81%B2%E3%81%84%E3%82%89%E3%81%8E%20%E6%81%B5%E6%AF%94%E5%AF%BF
+- 茶庭 然花抄院 渋谷ヒカリエ ShinQs店（最寄り駅：渋谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%8C%B6%E5%BA%AD%20%E7%84%B6%E8%8A%B1%E6%8A%84%E9%99%A2%20%E6%B8%8B%E8%B0%B7%E3%83%92%E3%82%AB%E3%83%AA%E3%82%A8%20ShinQs%E5%BA%97%20%E6%B8%8B%E8%B0%B7
+- 甘味おかめ 交通会館店（最寄り駅：有楽町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%94%98%E5%91%B3%E3%81%8A%E3%81%8B%E3%82%81%20%E4%BA%A4%E9%80%9A%E4%BC%9A%E9%A4%A8%E5%BA%97%20%E6%9C%89%E6%A5%BD%E7%94%BA
+- 甘いっ子（最寄り駅：西荻窪）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%94%98%E3%81%84%E3%81%A3%E5%AD%90%20%E8%A5%BF%E8%8D%BB%E7%AA%AA
+- 喜田屋（最寄り駅：西荻窪）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%96%9C%E7%94%B0%E5%B1%8B%20%E8%A5%BF%E8%8D%BB%E7%AA%AA
+- かりんとう 小桜（最寄り駅：浅草（つくばＥＸＰ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%8B%E3%82%8A%E3%82%93%E3%81%A8%E3%81%86%20%E5%B0%8F%E6%A1%9C%20%E6%B5%85%E8%8D%89%EF%BC%88%E3%81%A4%E3%81%8F%E3%81%B0%EF%BC%A5%EF%BC%B8%EF%BC%B0%EF%BC%89
+- しろいくろ（最寄り駅：麻布十番）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%97%E3%82%8D%E3%81%84%E3%81%8F%E3%82%8D%20%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA
+- たいやき わかば（最寄り駅：四ツ谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%9F%E3%81%84%E3%82%84%E3%81%8D%20%E3%82%8F%E3%81%8B%E3%81%B0%20%E5%9B%9B%E3%83%84%E8%B0%B7
+- 天まめ（最寄り駅：築地）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E3%81%BE%E3%82%81%20%E7%AF%89%E5%9C%B0
+- 高木屋老舗（最寄り駅：柴又）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E6%9C%A8%E5%B1%8B%E8%80%81%E8%88%97%20%E6%9F%B4%E5%8F%88
+- 清寿軒（最寄り駅：小伝馬町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%B8%85%E5%AF%BF%E8%BB%92%20%E5%B0%8F%E4%BC%9D%E9%A6%AC%E7%94%BA
+- 空也（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%A9%BA%E4%B9%9F%20%E9%8A%80%E5%BA%A7
+- 柳屋（最寄り駅：人形町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%9F%B3%E5%B1%8B%20%E4%BA%BA%E5%BD%A2%E7%94%BA
+- 梅むら（最寄り駅：浅草（つくばＥＸＰ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%A2%85%E3%82%80%E3%82%89%20%E6%B5%85%E8%8D%89%EF%BC%88%E3%81%A4%E3%81%8F%E3%81%B0%EF%BC%A5%EF%BC%B8%EF%BC%B0%EF%BC%89
+- 中里（最寄り駅：駒込）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E9%87%8C%20%E9%A7%92%E8%BE%BC
+- 小ざさ（最寄り駅：吉祥寺）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E3%81%96%E3%81%95%20%E5%90%89%E7%A5%A5%E5%AF%BA
+- すずめや（最寄り駅：池袋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%9A%E3%82%81%E3%82%84%20%E6%B1%A0%E8%A2%8B
+- 和菓子処 大角玉屋 銀座店（最寄り駅：有楽町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E8%8F%93%E5%AD%90%E5%87%A6%20%E5%A4%A7%E8%A7%92%E7%8E%89%E5%B1%8B%20%E9%8A%80%E5%BA%A7%E5%BA%97%20%E6%9C%89%E6%A5%BD%E7%94%BA
+- 坂本屋（最寄り駅：四ツ谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%9D%82%E6%9C%AC%E5%B1%8B%20%E5%9B%9B%E3%83%84%E8%B0%B7
+- 天音（最寄り駅：吉祥寺）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E9%9F%B3%20%E5%90%89%E7%A5%A5%E5%AF%BA
+- うさぎや（最寄り駅：阿佐ケ谷）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%86%E3%81%95%E3%81%8E%E3%82%84%20%E9%98%BF%E4%BD%90%E3%82%B1%E8%B0%B7
+- 越後鶴屋（最寄り駅：西荻窪）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%B6%8A%E5%BE%8C%E9%B6%B4%E5%B1%8B%20%E8%A5%BF%E8%8D%BB%E7%AA%AA
+- 虎ノ門 岡埜榮泉（最寄り駅：虎ノ門ヒルズ）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%99%8E%E3%83%8E%E9%96%80%20%E5%B2%A1%E5%9F%9C%E6%A6%AE%E6%B3%89%20%E8%99%8E%E3%83%8E%E9%96%80%E3%83%92%E3%83%AB%E3%82%BA
+- 天野屋（最寄り駅：御茶ノ水）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%A4%A9%E9%87%8E%E5%B1%8B%20%E5%BE%A1%E8%8C%B6%E3%83%8E%E6%B0%B4
+- 高橋の酒まんじゅう（最寄り駅：荻窪）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E6%A9%8B%E3%81%AE%E9%85%92%E3%81%BE%E3%82%93%E3%81%98%E3%82%85%E3%81%86%20%E8%8D%BB%E7%AA%AA
+- 元祖塩大福 みずの（最寄り駅：巣鴨）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%85%83%E7%A5%96%E5%A1%A9%E5%A4%A7%E7%A6%8F%20%E3%81%BF%E3%81%9A%E3%81%AE%20%E5%B7%A3%E9%B4%A8
+- 高尾山スミカ（最寄り駅：高尾山口）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E5%B0%BE%E5%B1%B1%E3%82%B9%E3%83%9F%E3%82%AB%20%E9%AB%98%E5%B0%BE%E5%B1%B1%E5%8F%A3
+- 福尾商店（最寄り駅：淡路町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B0%BE%E5%95%86%E5%BA%97%20%E6%B7%A1%E8%B7%AF%E7%94%BA
+- うさぎや 本店（最寄り駅：日本橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%86%E3%81%95%E3%81%8E%E3%82%84%20%E6%9C%AC%E5%BA%97%20%E6%97%A5%E6%9C%AC%E6%A9%8B
+- 黒松本舗 草月（最寄り駅：東十条）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%BB%92%E6%9D%BE%E6%9C%AC%E8%88%97%20%E8%8D%89%E6%9C%88%20%E6%9D%B1%E5%8D%81%E6%9D%A1
+- 雅庵（最寄り駅：中目黒）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%9B%85%E5%BA%B5%20%E4%B8%AD%E7%9B%AE%E9%BB%92
+- 松島屋（最寄り駅：泉岳寺）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E5%B3%B6%E5%B1%8B%20%E6%B3%89%E5%B2%B3%E5%AF%BA
+- 長命寺 桜もち（最寄り駅：曳舟）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%95%B7%E5%91%BD%E5%AF%BA%20%E6%A1%9C%E3%82%82%E3%81%A1%20%E6%9B%B3%E8%88%9F
+- 志”満ん草餅（最寄り駅：曳舟）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%BF%97%E2%80%9D%E6%BA%80%E3%82%93%E8%8D%89%E9%A4%85%20%E6%9B%B3%E8%88%9F
+- 麻布 昇月堂（最寄り駅：広尾）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%BA%BB%E5%B8%83%20%E6%98%87%E6%9C%88%E5%A0%82%20%E5%BA%83%E5%B0%BE
+- 芋甚（最寄り駅：根津）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%8A%8B%E7%94%9A%20%E6%A0%B9%E6%B4%A5
+- 吉野家（最寄り駅：柴又）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%90%89%E9%87%8E%E5%AE%B6%20%E6%9F%B4%E5%8F%88
+- 日本橋 長門（最寄り駅：日本橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E6%A9%8B%20%E9%95%B7%E9%96%80%20%E6%97%A5%E6%9C%AC%E6%A9%8B
+- つる瀬 湯島本店（最寄り駅：湯島）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A4%E3%82%8B%E7%80%AC%20%E6%B9%AF%E5%B3%B6%E6%9C%AC%E5%BA%97%20%E6%B9%AF%E5%B3%B6
+- ちもと（最寄り駅：都立大学）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A1%E3%82%82%E3%81%A8%20%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6
+- 桃太郎（最寄り駅：浅草（つくばＥＸＰ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%A1%83%E5%A4%AA%E9%83%8E%20%E6%B5%85%E8%8D%89%EF%BC%88%E3%81%A4%E3%81%8F%E3%81%B0%EF%BC%A5%EF%BC%B8%EF%BC%B0%EF%BC%89
+- 梅花亭 神楽坂本店（最寄り駅：神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%A2%85%E8%8A%B1%E4%BA%AD%20%E7%A5%9E%E6%A5%BD%E5%9D%82%E6%9C%AC%E5%BA%97%20%E7%A5%9E%E6%A5%BD%E5%9D%82
+- 五十鈴（最寄り駅：牛込神楽坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%BA%94%E5%8D%81%E9%88%B4%20%E7%89%9B%E8%BE%BC%E7%A5%9E%E6%A5%BD%E5%9D%82
+- 初音（最寄り駅：人形町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%88%9D%E9%9F%B3%20%E4%BA%BA%E5%BD%A2%E7%94%BA

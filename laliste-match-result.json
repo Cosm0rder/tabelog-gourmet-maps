@@ -1,0 +1,1220 @@
+[
+ {
+  "name_jp": "ラシーム",
+  "name_en": "La Cime",
+  "city": "大阪",
+  "sources": [
+   "Asia50B2026:#13",
+   "World50B2026:#52 (51-100)",
+   "World50B2025:#44",
+   "LaListe2026:91.0"
+  ],
+  "class": "既存",
+  "candidate": "La Cime",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "セザン",
+  "name_en": "Sézanne",
+  "city": "東京",
+  "sources": [
+   "Asia50B2026:#16",
+   "World50B2025:#7",
+   "LaListe2026:93.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "ミシュラン東京2026新規"
+  ]
+ },
+ {
+  "name_jp": "茶禅華",
+  "name_en": "Sazenka",
+  "city": "東京",
+  "sources": [
+   "Asia50B2026:#21",
+   "World50B2026:#56 (51-100)",
+   "World50B2025:#71 (51-100)",
+   "LaListe2026:99.0"
+  ],
+  "class": "既存",
+  "candidate": "茶禅華",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "マス",
+  "name_en": "Maz",
+  "city": "東京",
+  "sources": [
+   "Asia50B2026:#28",
+   "LaListe2026:88.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "ミシュラン東京2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "フロリレージュ",
+  "name_en": "Florilège",
+  "city": "東京",
+  "sources": [
+   "Asia50B2026:#31",
+   "World50B2026:#61 (51-100)",
+   "World50B2025:#36"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "ミシュラン東京2026新規"
+  ]
+ },
+ {
+  "name_jp": "明寂",
+  "name_en": "Myoujyaku",
+  "city": "東京",
+  "sources": [
+   "Asia50B2026:#33"
+  ],
+  "class": "既存",
+  "candidate": "明寂",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "クローニー",
+  "name_en": "Crony",
+  "city": "東京",
+  "sources": [
+   "Asia50B2026:#34"
+  ],
+  "class": "既存",
+  "candidate": "Crony",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "ナリサワ",
+  "name_en": "Narisawa",
+  "city": "東京",
+  "sources": [
+   "Asia50B2026:#37",
+   "World50B2026:#59 (51-100)",
+   "World50B2025:#21",
+   "LaListe2026:92.0"
+  ],
+  "class": "既存",
+  "candidate": "NARISAWA",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "傳",
+  "name_en": "Den",
+  "city": "東京",
+  "sources": [
+   "Asia50B2026:#51",
+   "World50B2026:#91 (51-100)",
+   "World50B2025:#53 (51-100)"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "Goh",
+  "name_en": "Goh",
+  "city": "福岡",
+  "sources": [
+   "Asia50B2026:#60"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "鮨しゅんじ",
+  "name_en": "Sushi Shunji",
+  "city": "東京",
+  "sources": [
+   "Asia50B2026:#63"
+  ],
+  "class": "既存",
+  "candidate": "鮨しゅんじ",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "鮨さいとう",
+  "name_en": "Sushi Saito",
+  "city": "東京",
+  "sources": [
+   "Asia50B2026:#72"
+  ],
+  "class": "既存",
+  "candidate": "鮨 さいとう",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "チェンチ",
+  "name_en": "Cenci",
+  "city": "京都",
+  "sources": [
+   "Asia50B2026:#76"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "ヴィラ・アイーダ",
+  "name_en": "Villa Aida",
+  "city": "和歌山",
+  "sources": [
+   "Asia50B2026:#81"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "片折",
+  "name_en": "Kataori",
+  "city": "石川",
+  "sources": [
+   "Asia50B2026:#82",
+   "LaListe2026:96.0"
+  ],
+  "class": "既存",
+  "candidate": "片折",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "レスピラシオン",
+  "name_en": "Respiración",
+  "city": "石川",
+  "sources": [
+   "Asia50B2026:#92"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店2026新規"
+  ]
+ },
+ {
+  "name_jp": "出羽屋",
+  "name_en": "Dewaya",
+  "city": "山形",
+  "sources": [
+   "Asia50B2026:#93"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規"
+  ]
+ },
+ {
+  "name_jp": "レヴォ",
+  "name_en": "L'évo",
+  "city": "富山",
+  "sources": [
+   "Asia50B2026:#97",
+   "LaListe2026:97.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "鮨 さかい",
+  "name_en": "Sakai",
+  "city": "福岡",
+  "sources": [
+   "LaListe2026:97.5"
+  ],
+  "class": "要確認",
+  "candidate": "鮨 あらい(編集距離<=2); 鮨 さえ喜(編集距離<=2)",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "近松",
+  "name_en": "Chikamatsu",
+  "city": "福岡",
+  "sources": [
+   "LaListe2026:89.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "天寿し 京町店",
+  "name_en": "Tenzushi Kyomachi",
+  "city": "福岡",
+  "sources": [
+   "LaListe2026:88.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "鮨 行天",
+  "name_en": "Sushi Gyoten",
+  "city": "福岡",
+  "sources": [
+   "LaListe2026:78.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "京都 吉兆 嵐山本店",
+  "name_en": "Kitcho Arashiyama",
+  "city": "京都",
+  "sources": [
+   "LaListe2026:98.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "成生",
+  "name_en": "Naruse",
+  "city": "静岡",
+  "sources": [
+   "LaListe2026:97.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "柳家",
+  "name_en": "Yanagiya",
+  "city": "岐阜",
+  "sources": [
+   "LaListe2026:97.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規"
+  ]
+ },
+ {
+  "name_jp": "緒方",
+  "name_en": "Ogata",
+  "city": "京都",
+  "sources": [
+   "LaListe2026:96.5"
+  ],
+  "class": "既存",
+  "candidate": "緒方",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "レストラン ナズ",
+  "name_en": "Naz",
+  "city": "長野",
+  "sources": [
+   "LaListe2026:95.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規"
+  ]
+ },
+ {
+  "name_jp": "仁修樓",
+  "name_en": "Ninshurou",
+  "city": "京都",
+  "sources": [
+   "LaListe2026:95.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店2026新規"
+  ]
+ },
+ {
+  "name_jp": "祇園 さゝ木",
+  "name_en": "Gion Sasaki",
+  "city": "京都",
+  "sources": [
+   "LaListe2026:94.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "鮨 三心",
+  "name_en": "Sushi Sanshin",
+  "city": "大阪",
+  "sources": [
+   "LaListe2026:94.5"
+  ],
+  "class": "既存",
+  "candidate": "鮨 三心",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "ハジメ",
+  "name_en": "Hajime",
+  "city": "大阪",
+  "sources": [
+   "LaListe2026:94.0"
+  ],
+  "class": "既存",
+  "candidate": "ハジメ",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "瓢亭 本店",
+  "name_en": "Hyo-tei",
+  "city": "京都",
+  "sources": [
+   "LaListe2026:93.5"
+  ],
+  "class": "要確認",
+  "candidate": "狼煙 本店(編集距離<=2); 鳥半 本店(編集距離<=2); 益市 本店(編集距離<=2)",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "柏屋 大阪千里山",
+  "name_en": "Kashiwaya",
+  "city": "大阪",
+  "sources": [
+   "LaListe2026:92.5"
+  ],
+  "class": "既存",
+  "candidate": "柏屋 大阪千里山",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "本湖月",
+  "name_en": "Honkogetsu",
+  "city": "大阪",
+  "sources": [
+   "LaListe2026:92.5"
+  ],
+  "class": "既存",
+  "candidate": "本湖月",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "未在",
+  "name_en": "Mizai",
+  "city": "京都",
+  "sources": [
+   "LaListe2026:92.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "なかむら",
+  "name_en": "Nakamura",
+  "city": "京都",
+  "sources": [
+   "LaListe2026:91.0"
+  ],
+  "class": "要確認",
+  "candidate": "焼鳥なかむら(包含); かわむら(編集距離<=2)",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "太庵",
+  "name_en": "Taian",
+  "city": "大阪",
+  "sources": [
+   "LaListe2026:91.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "料理屋 植むら",
+  "name_en": "Uemura",
+  "city": "兵庫",
+  "sources": [
+   "LaListe2026:90.0"
+  ],
+  "class": "既存",
+  "candidate": "料理屋 植むら",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "レミニセンス",
+  "name_en": "Reminiscence",
+  "city": "愛知",
+  "sources": [
+   "LaListe2026:88.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "草喰 なかひがし",
+  "name_en": "Sojiki Nakahigashi",
+  "city": "京都",
+  "sources": [
+   "LaListe2026:87.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "鮨 原正",
+  "name_en": "Sushi Harasho",
+  "city": "大阪",
+  "sources": [
+   "LaListe2026:86.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "北野坂 木下",
+  "name_en": "Kitanozaka Kinoshita",
+  "city": "兵庫",
+  "sources": [
+   "LaListe2026:86.5"
+  ],
+  "class": "既存",
+  "candidate": "北野坂 木下",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "徳山鮓",
+  "name_en": "Tokuyamazushi",
+  "city": "滋賀",
+  "sources": [
+   "LaListe2026:86.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規"
+  ]
+ },
+ {
+  "name_jp": "御料理 はやし",
+  "name_en": "Oryouri Hayashi",
+  "city": "京都",
+  "sources": [
+   "LaListe2026:85.5"
+  ],
+  "class": "既存",
+  "candidate": "御料理 はやし",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "白",
+  "name_en": "Tsukumo",
+  "city": "奈良",
+  "sources": [
+   "LaListe2026:85.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "ぬま田",
+  "name_en": "Numata",
+  "city": "大阪",
+  "sources": [
+   "LaListe2026:84.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "勢麟",
+  "name_en": "Seirin",
+  "city": "静岡",
+  "sources": [
+   "LaListe2026:84.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "柚木元",
+  "name_en": "Yukimoto",
+  "city": "長野",
+  "sources": [
+   "LaListe2026:84.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "フジヤイチキュウサンゴ",
+  "name_en": "Fujiya 1935",
+  "city": "大阪",
+  "sources": [
+   "LaListe2026:83.5"
+  ],
+  "class": "既存",
+  "candidate": "Fujiya 1935",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "アコルドゥ",
+  "name_en": "Akordu",
+  "city": "奈良",
+  "sources": [
+   "LaListe2026:83.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "ベルロオジエ",
+  "name_en": "Velrosier",
+  "city": "京都",
+  "sources": [
+   "LaListe2026:79.5"
+  ],
+  "class": "要確認",
+  "candidate": "ロオジエ(包含)",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "炭火割烹 いふき",
+  "name_en": "Ifuki",
+  "city": "京都",
+  "sources": [
+   "LaListe2026:78.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "お料理 宮本",
+  "name_en": "Miyamoto",
+  "city": "大阪",
+  "sources": [
+   "LaListe2026:77.5"
+  ],
+  "class": "既存",
+  "candidate": "お料理 宮本",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "ラ・ベ",
+  "name_en": "La Baie",
+  "city": "大阪",
+  "sources": [
+   "LaListe2026:75.5"
+  ],
+  "class": "既存",
+  "candidate": "ラ・ベ",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "松川",
+  "name_en": "Matsukawa",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:99.5"
+  ],
+  "class": "既存",
+  "candidate": "松川",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "ロオジエ",
+  "name_en": "L'Osier",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:98.5"
+  ],
+  "class": "既存",
+  "candidate": "ロオジエ",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "新ばし星野",
+  "name_en": "Hoshino",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:98.5"
+  ],
+  "class": "既存",
+  "candidate": "新ばし 星野",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "日本橋蛎殻町 すぎた",
+  "name_en": "Sugita",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:98.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "まき村",
+  "name_en": "Makimura",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:97.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "青柳",
+  "name_en": "Aoyagi",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:97.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "かんだ",
+  "name_en": "Kanda",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:97.0"
+  ],
+  "class": "既存",
+  "candidate": "かんだ",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "たきや",
+  "name_en": "Takiya",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:97.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "カンテサンス",
+  "name_en": "Quintessence",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:96.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "ミシュラン東京2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "日本料理 龍吟",
+  "name_en": "Ryugin",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:95.0"
+  ],
+  "class": "要確認",
+  "candidate": "日本料理 山崎(編集距離<=2); 日本料理 太月(編集距離<=2); 日本料理 久丹(編集距離<=2)",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "ジョエル・ロブション",
+  "name_en": "Joël Robuchon",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:95.0"
+  ],
+  "class": "要確認",
+  "candidate": "ル カフェドゥ ジョエル・ロブション 日本橋高島屋店(包含); ラ ブティック ドゥ ジョエル・ロブション 丸の内ブリックスクエア店(包含)",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "日本料理 晴山",
+  "name_en": "Seizan",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:94.5"
+  ],
+  "class": "既存",
+  "candidate": "日本料理 晴山",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "レフェルヴェソンス",
+  "name_en": "L'Effervescence",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:93.5"
+  ],
+  "class": "既存",
+  "candidate": "レフェルヴェソンス",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "エスキス",
+  "name_en": "Esquisse",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:93.5"
+  ],
+  "class": "既存",
+  "candidate": "エスキス",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "エスト",
+  "name_en": "Est",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:93.5"
+  ],
+  "class": "要確認",
+  "candidate": "カルネジーオ ウエスト(包含); うなぎ四代目菊川 ヒルトンプラザウエスト大阪店(包含); ダイナミックキッチン＆バー 燦 ヒルトンプラザウエスト店(包含)",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "神楽坂 石かわ",
+  "name_en": "Kagurazaka Ishikawa",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:92.5"
+  ],
+  "class": "既存",
+  "candidate": "神楽坂 石かわ",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "東麻布 天本",
+  "name_en": "Amamoto",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:92.5"
+  ],
+  "class": "既存",
+  "candidate": "東麻布 天本",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "麻布 かどわき",
+  "name_en": "Azabu Kadowaki",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:92.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "ミシュラン東京2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "鳥しき",
+  "name_en": "Torishiki",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:92.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "三谷",
+  "name_en": "Mitani",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:92.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "アカ",
+  "name_en": "Acá 1°",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:92.0"
+  ],
+  "class": "既存",
+  "candidate": "アカ",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "銀座 久兵衛",
+  "name_en": "Ginza Kyubey",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:91.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "くろぎ",
+  "name_en": "Kurogi",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:90.0"
+  ],
+  "class": "既存",
+  "candidate": "くろぎ",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "青空",
+  "name_en": "Harutaka",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:89.5"
+  ],
+  "class": "既存",
+  "candidate": "青空",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "鮨 よしたけ",
+  "name_en": "Sushi Yoshitake",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:89.5"
+  ],
+  "class": "既存",
+  "candidate": "鮨 よしたけ",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "鮨 なんば 日比谷",
+  "name_en": "Sushi Namba",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:87.0"
+  ],
+  "class": "既存",
+  "candidate": "鮨 なんば 日比谷",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "虎白",
+  "name_en": "Kohaku",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:86.5"
+  ],
+  "class": "既存",
+  "candidate": "虎白",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "エテ",
+  "name_en": "été",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:85.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "久丹",
+  "name_en": "Kutan",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:85.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "ミシュラン東京2026新規"
+  ]
+ },
+ {
+  "name_jp": "赤坂 菊乃井",
+  "name_en": "Akasaka Kikunoi",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:84.0"
+  ],
+  "class": "既存",
+  "candidate": "赤坂 菊乃井",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "ベージュ アラン・デュカス 東京",
+  "name_en": "Beige Alain Ducasse",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:83.5"
+  ],
+  "class": "既存",
+  "candidate": "ベージュ アラン・デュカス 東京",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "ラトリエ ドゥ ジョエル・ロブション",
+  "name_en": "L'Atelier de Joël Robuchon",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:83.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "ミシュラン東京2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "レストラン リューズ",
+  "name_en": "Ryuzu",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:82.5"
+  ],
+  "class": "既存",
+  "candidate": "レストラン リューズ",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "エディション・コウジ シモムラ",
+  "name_en": "Edition Koji Shimomura",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:82.5"
+  ],
+  "class": "既存",
+  "candidate": "エディション・コウジ シモムラ",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "シェ・イノ",
+  "name_en": "Chez Inno",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:82.0"
+  ],
+  "class": "既存",
+  "candidate": "シェ・イノ",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "エリタージュ バイ ケイ コバヤシ",
+  "name_en": "Héritage by Kei Kobayashi",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:81.5"
+  ],
+  "class": "既存",
+  "candidate": "Héritage by Kei Kobayashi",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "レ セゾン",
+  "name_en": "Les Saisons",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:81.5"
+  ],
+  "class": "既存",
+  "candidate": "レ セゾン",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "すきやばし次郎 六本木ヒルズ店",
+  "name_en": "Sukiyabashi Jiro Roppongi",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:79.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "エステール",
+  "name_en": "Esterre",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:78.0"
+  ],
+  "class": "要確認",
+  "candidate": "フランス料理 エステール by アラン・デュカス(包含)",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "トゥールダルジャン 東京",
+  "name_en": "La Tour d'Argent Tokyo",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:78.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "百名店旧年版新規"
+  ]
+ },
+ {
+  "name_jp": "レストラン パッション",
+  "name_en": "Pachon",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:77.0"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "ケイコレクションパリ",
+  "name_en": "KEI Collection Paris",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:76.5"
+  ],
+  "class": "既存",
+  "candidate": "KEI Collection PARIS",
+  "pool_flags": []
+ },
+ {
+  "name_jp": "エスプリ セー ケイ ギンザ",
+  "name_en": "Esprit C. Kei Ginza",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:76.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "ミシュラン東京2026新規"
+  ]
+ },
+ {
+  "name_jp": "ナベノ-イズム",
+  "name_en": "Nabeno-Ism",
+  "city": "東京",
+  "sources": [
+   "LaListe2026:76.5"
+  ],
+  "class": "新規",
+  "candidate": "",
+  "pool_flags": [
+   "アワード2026新規",
+   "ミシュラン東京2026新規",
+   "百名店旧年版新規"
+  ]
+ }
+]

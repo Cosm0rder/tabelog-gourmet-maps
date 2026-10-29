@@ -1,0 +1,105 @@
+# 追加先リスト：食べログ｜寿司
+# チャンク 2/3（50件）｜カテゴリ全108件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- 鮨 銀座おのでら 登龍門（最寄り駅：東銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AE%A8%20%E9%8A%80%E5%BA%A7%E3%81%8A%E3%81%AE%E3%81%A7%E3%82%89%20%E7%99%BB%E9%BE%8D%E9%96%80%20%E6%9D%B1%E9%8A%80%E5%BA%A7
+- 神田 鮨 近松（最寄り駅：神田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%A5%9E%E7%94%B0%20%E9%AE%A8%20%E8%BF%91%E6%9D%BE%20%E7%A5%9E%E7%94%B0
+- Sushi Hōseki（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=Sushi%20H%C5%8Dseki%20%E6%9D%B1%E4%BA%AC
+- 鮨 えいろう（最寄り駅：京都）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AE%A8%20%E3%81%88%E3%81%84%E3%82%8D%E3%81%86%20%E4%BA%AC%E9%83%BD
+- おらんく家 北新地西店（最寄り駅：北新地）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E3%82%89%E3%82%93%E3%81%8F%E5%AE%B6%20%E5%8C%97%E6%96%B0%E5%9C%B0%E8%A5%BF%E5%BA%97%20%E5%8C%97%E6%96%B0%E5%9C%B0
+- 寿し あや瀬（最寄り駅：大阪）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%AF%BF%E3%81%97%20%E3%81%82%E3%82%84%E7%80%AC%20%E5%A4%A7%E9%98%AA
+- 赤酢 謹賀 3ビル（最寄り駅：東梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E9%85%A2%20%E8%AC%B9%E8%B3%80%203%E3%83%93%E3%83%AB%20%E6%9D%B1%E6%A2%85%E7%94%B0
+- 函太郎 大阪店（最寄り駅：大阪）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%87%BD%E5%A4%AA%E9%83%8E%20%E5%A4%A7%E9%98%AA%E5%BA%97%20%E5%A4%A7%E9%98%AA
+- 北新地 さえき（最寄り駅：大江橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%96%B0%E5%9C%B0%20%E3%81%95%E3%81%88%E3%81%8D%20%E5%A4%A7%E6%B1%9F%E6%A9%8B
+- さわ田（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%95%E3%82%8F%E7%94%B0%20%E9%8A%80%E5%BA%A7
+- 鮨 さいとう（最寄り駅：六本木一丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AE%A8%20%E3%81%95%E3%81%84%E3%81%A8%E3%81%86%20%E5%85%AD%E6%9C%AC%E6%9C%A8%E4%B8%80%E4%B8%81%E7%9B%AE
+- 東麻布 天本（最寄り駅：赤羽橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%9D%B1%E9%BA%BB%E5%B8%83%20%E5%A4%A9%E6%9C%AC%20%E8%B5%A4%E7%BE%BD%E6%A9%8B
+- 北新地 鮨 栞庵 やましろ（最寄り駅：北新地）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%96%B0%E5%9C%B0%20%E9%AE%A8%20%E6%A0%9E%E5%BA%B5%20%E3%82%84%E3%81%BE%E3%81%97%E3%82%8D%20%E5%8C%97%E6%96%B0%E5%9C%B0
+- 北新地 鮨 葵（最寄り駅：北新地）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%96%B0%E5%9C%B0%20%E9%AE%A8%20%E8%91%B5%20%E5%8C%97%E6%96%B0%E5%9C%B0
+- 北新地 すし通（最寄り駅：北新地）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%96%B0%E5%9C%B0%20%E3%81%99%E3%81%97%E9%80%9A%20%E5%8C%97%E6%96%B0%E5%9C%B0
+- 寿司 赤酢 土佐堀（最寄り駅：肥後橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%AF%BF%E5%8F%B8%20%E8%B5%A4%E9%85%A2%20%E5%9C%9F%E4%BD%90%E5%A0%80%20%E8%82%A5%E5%BE%8C%E6%A9%8B
+- 立ち寿司 まぐろ一徹 千日前店（最寄り駅：日本橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E3%81%A1%E5%AF%BF%E5%8F%B8%20%E3%81%BE%E3%81%90%E3%82%8D%E4%B8%80%E5%BE%B9%20%E5%8D%83%E6%97%A5%E5%89%8D%E5%BA%97%20%E6%97%A5%E6%9C%AC%E6%A9%8B
+- 寿司 はせ川 心斎橋本店（最寄り駅：心斎橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%AF%BF%E5%8F%B8%20%E3%81%AF%E3%81%9B%E5%B7%9D%20%E5%BF%83%E6%96%8E%E6%A9%8B%E6%9C%AC%E5%BA%97%20%E5%BF%83%E6%96%8E%E6%A9%8B
+- 鮨 奏（最寄り駅：心斎橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AE%A8%20%E5%A5%8F%20%E5%BF%83%E6%96%8E%E6%A9%8B
+- なんば 鮨 宮（最寄り駅：日本橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%82%93%E3%81%B0%20%E9%AE%A8%20%E5%AE%AE%20%E6%97%A5%E6%9C%AC%E6%A9%8B
+- 難波 寿司 まつもと（最寄り駅：なんば（大阪メトロ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%9B%A3%E6%B3%A2%20%E5%AF%BF%E5%8F%B8%20%E3%81%BE%E3%81%A4%E3%82%82%E3%81%A8%20%E3%81%AA%E3%82%93%E3%81%B0%EF%BC%88%E5%A4%A7%E9%98%AA%E3%83%A1%E3%83%88%E3%83%AD%EF%BC%89
+- 尽誠（最寄り駅：心斎橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%B0%BD%E8%AA%A0%20%E5%BF%83%E6%96%8E%E6%A9%8B
+- 鮨 おおが（最寄り駅：宿院）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AE%A8%20%E3%81%8A%E3%81%8A%E3%81%8C%20%E5%AE%BF%E9%99%A2
+- 寿し おおはた（最寄り駅：大江橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%AF%BF%E3%81%97%20%E3%81%8A%E3%81%8A%E3%81%AF%E3%81%9F%20%E5%A4%A7%E6%B1%9F%E6%A9%8B
+- 鮓 きずな（最寄り駅：京橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AE%93%20%E3%81%8D%E3%81%9A%E3%81%AA%20%E4%BA%AC%E6%A9%8B
+- 鮨 三心（最寄り駅：谷町六丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AE%A8%20%E4%B8%89%E5%BF%83%20%E8%B0%B7%E7%94%BA%E5%85%AD%E4%B8%81%E7%9B%AE
+- 弥助（最寄り駅：宿院）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%BC%A5%E5%8A%A9%20%E5%AE%BF%E9%99%A2
+- すし うえだ（最寄り駅：元町（ＪＲ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%97%20%E3%81%86%E3%81%88%E3%81%A0%20%E5%85%83%E7%94%BA%EF%BC%88%EF%BC%AA%EF%BC%B2%EF%BC%89
+- 鮨いわもと（最寄り駅：北新地）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AE%A8%E3%81%84%E3%82%8F%E3%82%82%E3%81%A8%20%E5%8C%97%E6%96%B0%E5%9C%B0
+- 大阪天満宮 鮨とよなが（最寄り駅：大阪天満宮）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E9%98%AA%E5%A4%A9%E6%BA%80%E5%AE%AE%20%E9%AE%A8%E3%81%A8%E3%82%88%E3%81%AA%E3%81%8C%20%E5%A4%A7%E9%98%AA%E5%A4%A9%E6%BA%80%E5%AE%AE
+- 鮨 イシジマ 新富店（最寄り駅：新富町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AE%A8%20%E3%82%A4%E3%82%B7%E3%82%B8%E3%83%9E%20%E6%96%B0%E5%AF%8C%E5%BA%97%20%E6%96%B0%E5%AF%8C%E7%94%BA
+- 鮨 石島（最寄り駅：新富町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AE%A8%20%E7%9F%B3%E5%B3%B6%20%E6%96%B0%E5%AF%8C%E7%94%BA
+- 廻転鮨 銀座おのでら 本店（最寄り駅：表参道）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%BB%BB%E8%BB%A2%E9%AE%A8%20%E9%8A%80%E5%BA%A7%E3%81%8A%E3%81%AE%E3%81%A7%E3%82%89%20%E6%9C%AC%E5%BA%97%20%E8%A1%A8%E5%8F%82%E9%81%93
+- すし処 内海 本店（最寄り駅：西宮（ＪＲ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%97%E5%87%A6%20%E5%86%85%E6%B5%B7%20%E6%9C%AC%E5%BA%97%20%E8%A5%BF%E5%AE%AE%EF%BC%88%EF%BC%AA%EF%BC%B2%EF%BC%89
+- 寿司割烹 松葉（最寄り駅：西宮北口）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%AF%BF%E5%8F%B8%E5%89%B2%E7%83%B9%20%E6%9D%BE%E8%91%89%20%E8%A5%BF%E5%AE%AE%E5%8C%97%E5%8F%A3
+- 鮨割烹 汐（最寄り駅：西宮北口）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AE%A8%E5%89%B2%E7%83%B9%20%E6%B1%90%20%E8%A5%BF%E5%AE%AE%E5%8C%97%E5%8F%A3
+- まき田鮨（最寄り駅：甲子園口）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%BE%E3%81%8D%E7%94%B0%E9%AE%A8%20%E7%94%B2%E5%AD%90%E5%9C%92%E5%8F%A3
+- 寿し いち徳（最寄り駅：甲子園口）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%AF%BF%E3%81%97%20%E3%81%84%E3%81%A1%E5%BE%B3%20%E7%94%B2%E5%AD%90%E5%9C%92%E5%8F%A3
+- すし処 智（最寄り駅：日本橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%97%E5%87%A6%20%E6%99%BA%20%E6%97%A5%E6%9C%AC%E6%A9%8B
+- 大和寿司（最寄り駅：市場前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E5%92%8C%E5%AF%BF%E5%8F%B8%20%E5%B8%82%E5%A0%B4%E5%89%8D
+- 寿志 城助（最寄り駅：三ノ宮（ＪＲ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%AF%BF%E5%BF%97%20%E5%9F%8E%E5%8A%A9%20%E4%B8%89%E3%83%8E%E5%AE%AE%EF%BC%88%EF%BC%AA%EF%BC%B2%EF%BC%89
+- きう（最寄り駅：烏丸）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%8D%E3%81%86%20%E7%83%8F%E4%B8%B8
+- 祇園 鮨 忠保（最寄り駅：祇園四条）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%A5%87%E5%9C%92%20%E9%AE%A8%20%E5%BF%A0%E4%BF%9D%20%E7%A5%87%E5%9C%92%E5%9B%9B%E6%9D%A1
+- 鮨まつもと（最寄り駅：祇園四条）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AE%A8%E3%81%BE%E3%81%A4%E3%82%82%E3%81%A8%20%E7%A5%87%E5%9C%92%E5%9B%9B%E6%9D%A1
+- 鮨 村上二郎（最寄り駅：北新地）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AE%A8%20%E6%9D%91%E4%B8%8A%E4%BA%8C%E9%83%8E%20%E5%8C%97%E6%96%B0%E5%9C%B0
+- 寿司処 かい原（最寄り駅：天満）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%AF%BF%E5%8F%B8%E5%87%A6%20%E3%81%8B%E3%81%84%E5%8E%9F%20%E5%A4%A9%E6%BA%80
+- えんどう寿司 京橋店（最寄り駅：京橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%88%E3%82%93%E3%81%A9%E3%81%86%E5%AF%BF%E5%8F%B8%20%E4%BA%AC%E6%A9%8B%E5%BA%97%20%E4%BA%AC%E6%A9%8B
+- 志津鮨（最寄り駅：尼崎（阪神））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%BF%97%E6%B4%A5%E9%AE%A8%20%E5%B0%BC%E5%B4%8E%EF%BC%88%E9%98%AA%E7%A5%9E%EF%BC%89
+- すしいち 大阪駅前第4ビル店（最寄り駅：東梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%99%E3%81%97%E3%81%84%E3%81%A1%20%E5%A4%A7%E9%98%AA%E9%A7%85%E5%89%8D%E7%AC%AC4%E3%83%93%E3%83%AB%E5%BA%97%20%E6%9D%B1%E6%A2%85%E7%94%B0
+- 丸まん寿司 東通り店（最寄り駅：中崎町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%B8%E3%81%BE%E3%82%93%E5%AF%BF%E5%8F%B8%20%E6%9D%B1%E9%80%9A%E3%82%8A%E5%BA%97%20%E4%B8%AD%E5%B4%8E%E7%94%BA

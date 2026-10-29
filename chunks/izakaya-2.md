@@ -1,0 +1,67 @@
+# 追加先リスト：食べログ｜居酒屋
+# チャンク 2/2（31件）｜カテゴリ全81件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- 村屋（最寄り駅：出町柳）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%9D%91%E5%B1%8B%20%E5%87%BA%E7%94%BA%E6%9F%B3
+- 酒肆 門（最寄り駅：大江橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%85%92%E8%82%86%20%E9%96%80%20%E5%A4%A7%E6%B1%9F%E6%A9%8B
+- 花様 京橋京阪モール（最寄り駅：京橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E6%A7%98%20%E4%BA%AC%E6%A9%8B%E4%BA%AC%E9%98%AA%E3%83%A2%E3%83%BC%E3%83%AB%20%E4%BA%AC%E6%A9%8B
+- 鮨・串揚げ 春夏秋冬（最寄り駅：大江橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AE%A8%E3%83%BB%E4%B8%B2%E6%8F%9A%E3%81%92%20%E6%98%A5%E5%A4%8F%E7%A7%8B%E5%86%AC%20%E5%A4%A7%E6%B1%9F%E6%A9%8B
+- チェリーナ邸 石窯イタリア酒場料理 北浜淀屋橋店（最寄り駅：北浜）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%8A%E9%82%B8%20%E7%9F%B3%E7%AA%AF%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E9%85%92%E5%A0%B4%E6%96%99%E7%90%86%20%E5%8C%97%E6%B5%9C%E6%B7%80%E5%B1%8B%E6%A9%8B%E5%BA%97%20%E5%8C%97%E6%B5%9C
+- ワインと串揚げ Picoretta（最寄り駅：肥後橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%AF%E3%82%A4%E3%83%B3%E3%81%A8%E4%B8%B2%E6%8F%9A%E3%81%92%20Picoretta%20%E8%82%A5%E5%BE%8C%E6%A9%8B
+- 旬ぎく（最寄り駅：肥後橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%97%AC%E3%81%8E%E3%81%8F%20%E8%82%A5%E5%BE%8C%E6%A9%8B
+- 海鮮居酒屋 天秤棒 千日前本店（最寄り駅：近鉄日本橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E9%AE%AE%E5%B1%85%E9%85%92%E5%B1%8B%20%E5%A4%A9%E7%A7%A4%E6%A3%92%20%E5%8D%83%E6%97%A5%E5%89%8D%E6%9C%AC%E5%BA%97%20%E8%BF%91%E9%89%84%E6%97%A5%E6%9C%AC%E6%A9%8B
+- 六覺燈（最寄り駅：近鉄日本橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%85%AD%E8%A6%BA%E7%87%88%20%E8%BF%91%E9%89%84%E6%97%A5%E6%9C%AC%E6%A9%8B
+- 食堂 松おか（最寄り駅：心斎橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%A3%9F%E5%A0%82%20%E6%9D%BE%E3%81%8A%E3%81%8B%20%E5%BF%83%E6%96%8E%E6%A9%8B
+- 旬の揚 てんま（最寄り駅：長堀橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%97%AC%E3%81%AE%E6%8F%9A%20%E3%81%A6%E3%82%93%E3%81%BE%20%E9%95%B7%E5%A0%80%E6%A9%8B
+- 串揚げキッチン だん 心斎橋店（最寄り駅：長堀橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%B2%E6%8F%9A%E3%81%92%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%20%E3%81%A0%E3%82%93%20%E5%BF%83%E6%96%8E%E6%A9%8B%E5%BA%97%20%E9%95%B7%E5%A0%80%E6%A9%8B
+- 串かつ あーぼん（最寄り駅：打出）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%B2%E3%81%8B%E3%81%A4%20%E3%81%82%E3%83%BC%E3%81%BC%E3%82%93%20%E6%89%93%E5%87%BA
+- あさひ 尼崎本店（最寄り駅：尼崎（阪神））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%81%95%E3%81%B2%20%E5%B0%BC%E5%B4%8E%E6%9C%AC%E5%BA%97%20%E5%B0%BC%E5%B4%8E%EF%BC%88%E9%98%AA%E7%A5%9E%EF%BC%89
+- 串かつ料理 活 阪急グランドビル店（最寄り駅：梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%B2%E3%81%8B%E3%81%A4%E6%96%99%E7%90%86%20%E6%B4%BB%20%E9%98%AA%E6%80%A5%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%93%E3%83%AB%E5%BA%97%20%E6%A2%85%E7%94%B0
+- ビストロ割烹 YAOYA（最寄り駅：出町柳）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%93%E3%82%B9%E3%83%88%E3%83%AD%E5%89%B2%E7%83%B9%20YAOYA%20%E5%87%BA%E7%94%BA%E6%9F%B3
+- 味酒 かむなび（最寄り駅：谷町六丁目）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%91%B3%E9%85%92%20%E3%81%8B%E3%82%80%E3%81%AA%E3%81%B3%20%E8%B0%B7%E7%94%BA%E5%85%AD%E4%B8%81%E7%9B%AE
+- 烏賊食堂（最寄り駅：大国町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%83%8F%E8%B3%8A%E9%A3%9F%E5%A0%82%20%E5%A4%A7%E5%9B%BD%E7%94%BA
+- びんびや（最寄り駅：大江橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%B3%E3%82%93%E3%81%B3%E3%82%84%20%E5%A4%A7%E6%B1%9F%E6%A9%8B
+- 和洋酒菜 ひで（最寄り駅：心斎橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E6%B4%8B%E9%85%92%E8%8F%9C%20%E3%81%B2%E3%81%A7%20%E5%BF%83%E6%96%8E%E6%A9%8B
+- 日本酒餐昧うつつよ（最寄り駅：堺筋本町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E9%85%92%E9%A4%90%E6%98%A7%E3%81%86%E3%81%A4%E3%81%A4%E3%82%88%20%E5%A0%BA%E7%AD%8B%E6%9C%AC%E7%94%BA
+- 竹うち（最寄り駅：扇町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%AB%B9%E3%81%86%E3%81%A1%20%E6%89%87%E7%94%BA
+- KICHIRI 梅田（最寄り駅：東梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=KICHIRI%20%E6%A2%85%E7%94%B0%20%E6%9D%B1%E6%A2%85%E7%94%B0
+- ハイボールバー 京都1923 河原町店（最寄り駅：祇園四条）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%8F%E3%82%A4%E3%83%9C%E3%83%BC%E3%83%AB%E3%83%90%E3%83%BC%20%E4%BA%AC%E9%83%BD1923%20%E6%B2%B3%E5%8E%9F%E7%94%BA%E5%BA%97%20%E7%A5%87%E5%9C%92%E5%9B%9B%E6%9D%A1
+- 夜景×個室 肉割烹 牛若丸 梅田店（最寄り駅：東梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%A4%9C%E6%99%AF%C3%97%E5%80%8B%E5%AE%A4%20%E8%82%89%E5%89%B2%E7%83%B9%20%E7%89%9B%E8%8B%A5%E4%B8%B8%20%E6%A2%85%E7%94%B0%E5%BA%97%20%E6%9D%B1%E6%A2%85%E7%94%B0
+- ダイナミックキッチン＆バー 燦 ヒルトンプラザウエスト店（最寄り駅：西梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%EF%BC%86%E3%83%90%E3%83%BC%20%E7%87%A6%20%E3%83%92%E3%83%AB%E3%83%88%E3%83%B3%E3%83%97%E3%83%A9%E3%82%B6%E3%82%A6%E3%82%A8%E3%82%B9%E3%83%88%E5%BA%97%20%E8%A5%BF%E6%A2%85%E7%94%B0
+- ダイナミックキッチン＆バー 燦 大阪店（最寄り駅：東梅田）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%EF%BC%86%E3%83%90%E3%83%BC%20%E7%87%A6%20%E5%A4%A7%E9%98%AA%E5%BA%97%20%E6%9D%B1%E6%A2%85%E7%94%B0
+- ダイナミックキッチン＆バー 燦 OBPツインタワー店（最寄り駅：大阪ビジネスパーク）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%80%E3%82%A4%E3%83%8A%E3%83%9F%E3%83%83%E3%82%AF%E3%82%AD%E3%83%83%E3%83%81%E3%83%B3%EF%BC%86%E3%83%90%E3%83%BC%20%E7%87%A6%20OBP%E3%83%84%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%AF%E3%83%BC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF
+- izakaya kamonn（最寄り駅：中崎町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=izakaya%20kamonn%20%E4%B8%AD%E5%B4%8E%E7%94%BA
+- なな治（最寄り駅：三条）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%81%AA%E6%B2%BB%20%E4%B8%89%E6%9D%A1
+- 海鮮（最寄り駅：京都河原町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E9%AE%AE%20%E4%BA%AC%E9%83%BD%E6%B2%B3%E5%8E%9F%E7%94%BA

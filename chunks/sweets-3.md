@@ -1,0 +1,105 @@
+# 追加先リスト：食べログ｜スイーツ・カフェ・パン
+# チャンク 3/5（50件）｜カテゴリ全238件
+
+各店をGoogleマップで検索し（検索URL併記）、場所ページの「保存」から上記リストに追加してください。同名店が複数ある場合は最寄り駅が一致する店舗を選んでください。
+
+- カフェ・トロワバグ（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%83%88%E3%83%AD%E3%83%AF%E3%83%90%E3%82%B0%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- 高山珈琲（最寄り駅：淡路町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%AB%98%E5%B1%B1%E7%8F%88%E7%90%B2%20%E6%B7%A1%E8%B7%AF%E7%94%BA
+- スタイルズケイクス＆カンパニー（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AB%E3%82%BA%E3%82%B1%E3%82%A4%E3%82%AF%E3%82%B9%EF%BC%86%E3%82%AB%E3%83%B3%E3%83%91%E3%83%8B%E3%83%BC%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- 甘味おかめ 有楽町店（最寄り駅：有楽町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%94%98%E5%91%B3%E3%81%8A%E3%81%8B%E3%82%81%20%E6%9C%89%E6%A5%BD%E7%94%BA%E5%BA%97%20%E6%9C%89%E6%A5%BD%E7%94%BA
+- 廚 くろぎ（最寄り駅：上野広小路）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%BB%9A%20%E3%81%8F%E3%82%8D%E3%81%8E%20%E4%B8%8A%E9%87%8E%E5%BA%83%E5%B0%8F%E8%B7%AF
+- 亀澤堂（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%BA%80%E6%BE%A4%E5%A0%82%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- かりんとう ゆしま花月（最寄り駅：上野広小路）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%8B%E3%82%8A%E3%82%93%E3%81%A8%E3%81%86%20%E3%82%86%E3%81%97%E3%81%BE%E8%8A%B1%E6%9C%88%20%E4%B8%8A%E9%87%8E%E5%BA%83%E5%B0%8F%E8%B7%AF
+- 今川焼 かしわや（最寄り駅：三軒茶屋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%BB%8A%E5%B7%9D%E7%84%BC%20%E3%81%8B%E3%81%97%E3%82%8F%E3%82%84%20%E4%B8%89%E8%BB%92%E8%8C%B6%E5%B1%8B
+- ナニワヤ・カフェ（最寄り駅：麻布十番）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%83%8A%E3%83%8B%E3%83%AF%E3%83%A4%E3%83%BB%E3%82%AB%E3%83%95%E3%82%A7%20%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA
+- 石田屋（最寄り駅：上板橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E7%94%B0%E5%B1%8B%20%E4%B8%8A%E6%9D%BF%E6%A9%8B
+- 千葉屋（最寄り駅：浅草（つくばＥＸＰ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%8D%83%E8%91%89%E5%B1%8B%20%E6%B5%85%E8%8D%89%EF%BC%88%E3%81%A4%E3%81%8F%E3%81%B0%EF%BC%A5%EF%BC%B8%EF%BC%B0%EF%BC%89
+- 言問団子（最寄り駅：曳舟）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%A8%80%E5%95%8F%E5%9B%A3%E5%AD%90%20%E6%9B%B3%E8%88%9F
+- 喫茶去（最寄り駅：京成上野）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%96%AB%E8%8C%B6%E5%8E%BB%20%E4%BA%AC%E6%88%90%E4%B8%8A%E9%87%8E
+- 赤坂青野 本店（最寄り駅：赤坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%B5%A4%E5%9D%82%E9%9D%92%E9%87%8E%20%E6%9C%AC%E5%BA%97%20%E8%B5%A4%E5%9D%82
+- 瑞穂（最寄り駅：明治神宮前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%91%9E%E7%A9%82%20%E6%98%8E%E6%B2%BB%E7%A5%9E%E5%AE%AE%E5%89%8D
+- 浪花家総本店（最寄り駅：麻布十番）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%B5%AA%E8%8A%B1%E5%AE%B6%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA
+- かどや（最寄り駅：北千住）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%8B%E3%81%A9%E3%82%84%20%E5%8C%97%E5%8D%83%E4%BD%8F
+- 目白 志むら（最寄り駅：目白）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%9B%AE%E7%99%BD%20%E5%BF%97%E3%82%80%E3%82%89%20%E7%9B%AE%E7%99%BD
+- 浪花家 江戸川橋（最寄り駅：江戸川橋）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%B5%AA%E8%8A%B1%E5%AE%B6%20%E6%B1%9F%E6%88%B8%E5%B7%9D%E6%A9%8B%20%E6%B1%9F%E6%88%B8%E5%B7%9D%E6%A9%8B
+- い志い（最寄り駅：柴又）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%84%E5%BF%97%E3%81%84%20%E6%9F%B4%E5%8F%88
+- 銀座甘楽 銀座本店（最寄り駅：銀座）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%8A%80%E5%BA%A7%E7%94%98%E6%A5%BD%20%E9%8A%80%E5%BA%A7%E6%9C%AC%E5%BA%97%20%E9%8A%80%E5%BA%A7
+- 浅草浪花家（最寄り駅：浅草（つくばＥＸＰ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E8%8D%89%E6%B5%AA%E8%8A%B1%E5%AE%B6%20%E6%B5%85%E8%8D%89%EF%BC%88%E3%81%A4%E3%81%8F%E3%81%B0%EF%BC%A5%EF%BC%B8%EF%BC%B0%EF%BC%89
+- いり江（最寄り駅：門前仲町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%82%8A%E6%B1%9F%20%E9%96%80%E5%89%8D%E4%BB%B2%E7%94%BA
+- いちょうの木（最寄り駅：新馬場）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%81%A1%E3%82%87%E3%81%86%E3%81%AE%E6%9C%A8%20%E6%96%B0%E9%A6%AC%E5%A0%B4
+- 虎ノ門 岡埜榮泉 新宿タカシマヤ店（最寄り駅：新宿）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%99%8E%E3%83%8E%E9%96%80%20%E5%B2%A1%E5%9F%9C%E6%A6%AE%E6%B3%89%20%E6%96%B0%E5%AE%BF%E3%82%BF%E3%82%AB%E3%82%B7%E3%83%9E%E3%83%A4%E5%BA%97%20%E6%96%B0%E5%AE%BF
+- 浅田家（最寄り駅：溜池山王）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%B5%85%E7%94%B0%E5%AE%B6%20%E6%BA%9C%E6%B1%A0%E5%B1%B1%E7%8E%8B
+- 羽二重団子 本店（最寄り駅：日暮里）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%BE%BD%E4%BA%8C%E9%87%8D%E5%9B%A3%E5%AD%90%20%E6%9C%AC%E5%BA%97%20%E6%97%A5%E6%9A%AE%E9%87%8C
+- 根津のたいやき（最寄り駅：根津）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%A0%B9%E6%B4%A5%E3%81%AE%E3%81%9F%E3%81%84%E3%82%84%E3%81%8D%20%E6%A0%B9%E6%B4%A5
+- 一元屋（最寄り駅：半蔵門）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%B8%80%E5%85%83%E5%B1%8B%20%E5%8D%8A%E8%94%B5%E9%96%80
+- 甘味処 みつばち 本店（最寄り駅：湯島）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%94%98%E5%91%B3%E5%87%A6%20%E3%81%BF%E3%81%A4%E3%81%B0%E3%81%A1%20%E6%9C%AC%E5%BA%97%20%E6%B9%AF%E5%B3%B6
+- 京菓子 岬屋（最寄り駅：駒場東大前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%BA%AC%E8%8F%93%E5%AD%90%20%E5%B2%AC%E5%B1%8B%20%E9%A7%92%E5%A0%B4%E6%9D%B1%E5%A4%A7%E5%89%8D
+- たい焼 写楽（最寄り駅：浅草（つくばＥＸＰ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%9F%E3%81%84%E7%84%BC%20%E5%86%99%E6%A5%BD%20%E6%B5%85%E8%8D%89%EF%BC%88%E3%81%A4%E3%81%8F%E3%81%B0%EF%BC%A5%EF%BC%B8%EF%BC%B0%EF%BC%89
+- 菊見せんべい総本店（最寄り駅：千駄木）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%8F%8A%E8%A6%8B%E3%81%9B%E3%82%93%E3%81%B9%E3%81%84%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E5%8D%83%E9%A7%84%E6%9C%A8
+- 翠江堂 本店（最寄り駅：八丁堀）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%BF%A0%E6%B1%9F%E5%A0%82%20%E6%9C%AC%E5%BA%97%20%E5%85%AB%E4%B8%81%E5%A0%80
+- HIGASHIYA man（最寄り駅：表参道）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=HIGASHIYA%20man%20%E8%A1%A8%E5%8F%82%E9%81%93
+- 塩野（最寄り駅：赤坂）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%A1%A9%E9%87%8E%20%E8%B5%A4%E5%9D%82
+- うさぎや（最寄り駅：湯島）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%86%E3%81%95%E3%81%8E%E3%82%84%20%E6%B9%AF%E5%B3%B6
+- 玉英堂彦九郎（最寄り駅：人形町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%8E%89%E8%8B%B1%E5%A0%82%E5%BD%A6%E4%B9%9D%E9%83%8E%20%E4%BA%BA%E5%BD%A2%E7%94%BA
+- 日本橋 錦豊琳 かりんとう専門店（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%9C%AC%E6%A9%8B%20%E9%8C%A6%E8%B1%8A%E7%90%B3%20%E3%81%8B%E3%82%8A%E3%82%93%E3%81%A8%E3%81%86%E5%B0%82%E9%96%80%E5%BA%97%20%E6%9D%B1%E4%BA%AC
+- 越後屋若狭（最寄り駅：浜町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%B6%8A%E5%BE%8C%E5%B1%8B%E8%8B%A5%E7%8B%AD%20%E6%B5%9C%E7%94%BA
+- あんや（最寄り駅：成城学園前）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%82%E3%82%93%E3%82%84%20%E6%88%90%E5%9F%8E%E5%AD%A6%E5%9C%92%E5%89%8D
+- 徳太樓（最寄り駅：浅草（つくばＥＸＰ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%BE%B3%E5%A4%AA%E6%A8%93%20%E6%B5%85%E8%8D%89%EF%BC%88%E3%81%A4%E3%81%8F%E3%81%B0%EF%BC%A5%EF%BC%B8%EF%BC%B0%EF%BC%89
+- 宝来屋本店（最寄り駅：九段下）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%AE%9D%E6%9D%A5%E5%B1%8B%E6%9C%AC%E5%BA%97%20%E4%B9%9D%E6%AE%B5%E4%B8%8B
+- つ久し（最寄り駅：都立大学）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E3%81%A4%E4%B9%85%E3%81%97%20%E9%83%BD%E7%AB%8B%E5%A4%A7%E5%AD%A6
+- 菓匠 菊家（最寄り駅：表参道）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E8%8F%93%E5%8C%A0%20%E8%8F%8A%E5%AE%B6%20%E8%A1%A8%E5%8F%82%E9%81%93
+- 亀十（最寄り駅：浅草（東武・都営・メトロ））
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E4%BA%80%E5%8D%81%20%E6%B5%85%E8%8D%89%EF%BC%88%E6%9D%B1%E6%AD%A6%E3%83%BB%E9%83%BD%E5%96%B6%E3%83%BB%E3%83%A1%E3%83%88%E3%83%AD%EF%BC%89
+- 北斎茶房（最寄り駅：錦糸町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%8C%97%E6%96%8E%E8%8C%B6%E6%88%BF%20%E9%8C%A6%E7%B3%B8%E7%94%BA
+- 御菓子処 さゝま（最寄り駅：神保町）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E5%BE%A1%E8%8F%93%E5%AD%90%E5%87%A6%20%E3%81%95%E3%82%9D%E3%81%BE%20%E7%A5%9E%E4%BF%9D%E7%94%BA
+- 目黒ひいらぎ 碑文谷公園通り店（最寄り駅：学芸大学）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E7%9B%AE%E9%BB%92%E3%81%B2%E3%81%84%E3%82%89%E3%81%8E%20%E7%A2%91%E6%96%87%E8%B0%B7%E5%85%AC%E5%9C%92%E9%80%9A%E3%82%8A%E5%BA%97%20%E5%AD%A6%E8%8A%B8%E5%A4%A7%E5%AD%A6
+- 鳴門金時本舗 栗尾商店 芋乃実（最寄り駅：東京）
+  - 検索URL: https://www.google.com/maps/search/?api=1&query=%E9%B3%B4%E9%96%80%E9%87%91%E6%99%82%E6%9C%AC%E8%88%97%20%E6%A0%97%E5%B0%BE%E5%95%86%E5%BA%97%20%E8%8A%8B%E4%B9%83%E5%AE%9F%20%E6%9D%B1%E4%BA%AC
